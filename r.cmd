@@ -135,7 +135,7 @@ busybox sed -i "/IP-CIDR/d" xn.txt
 busybox sed -i -E "s/$/,no-resolve/g" fpip.txt
 type fpip.txt>>xn.txt
 set LC_ALL='C'
-busybox sort -t, -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 fpip.txt -o bn.txt xn.txt
+busybox sort -t, -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 fpip.txt -o bn.txt
 set LC_ALL=
 
 ::remove too short

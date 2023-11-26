@@ -24,7 +24,7 @@ if %isproxy%==1 set https_proxy=%httproxy%
 
 ::get binaries
 curl %curlFix%%curlproxy% --url https://raw.githubusercontent.com/DoingDog/DoingDog/main/busybox.exe -o busybox.exe
-curl %curlFix%%curlproxy% --url https://raw.githubusercontent.com/SouthAlley/q/main/al/rczip.zip -o rczip.zip
+curl %curlFix%%curlproxy% --url https://raw.githubusercontent.com/DoingDog/DoingDog/main/rczip.zip -o rczip.zip
 busybox unzip -o rczip.zip
 
 if not exist .\busybox.exe (
@@ -95,14 +95,11 @@ set LC_ALL='C'
 busybox sort -u -i -o fing.txt fas.txt
 set LC_ALL=
 
+
 ::first deduplicate same lines
 echo ###Start deduplicate same lines
 set LC_ALL='C'
 busybox sort -u -i -o fing.txt fas.txt
-
-:: 将 KEYWORD 放在 SUFFIX 后面
-awk -F, 'BEGIN{OFS=FS} {if($0 ~ /KEYWORD/) {print $0; flag=1} else {if (flag) print $0, "SUFFIX"; else print $0}}' fing.txt > modified_fing.txt
-
 set LC_ALL=
 
 

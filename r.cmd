@@ -25,7 +25,7 @@ if %isproxy%==1 set https_proxy=%httproxy%
 
 ::get binaries
 curl %curlFix%%curlproxy% --url https://raw.githubusercontent.com/DoingDog/DoingDog/main/busybox.exe -o busybox.exe
-curl %curlFix%%curlproxy% --url https://raw.githubusercontent.com/DoingDog/DoingDog/main/rczip.zip -o rczip.zip
+curl %curlFix%%curlproxy% --url https://raw.githubusercontent.com/SouthAlley/q/main/al/cidr.zip -o rczip.zip
 busybox unzip -o rczip.zip
 
 if not exist .\busybox.exe (

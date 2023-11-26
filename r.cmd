@@ -120,6 +120,27 @@ busybox sort -u -i -o bdfin.txt fin.txt
 set LC_ALL=
 python keyworddd.py
 
+:: 提取各种规则并分别排序
+grep "DOMAIN," fin.txt > domain_rules.txt
+grep "DOMAIN-SUFFIX," fin.txt > domain_suffix_rules.txt
+grep "DOMAIN-KEYWORD," fin.txt > domain_keyword_rules.txt
+grep "IP-CIDR," fin.txt > ip_cidr_rules.txt
+grep "IP-CIDR6," fin.txt > ip_cidr6_rules.txt
+grep "USER-AGENT," fin.txt > user_agent_rules.txt
+grep "PROCESS-NAME," fin.txt > process_name_rules.txt
+
+:: 分别对各类规则排序
+sort /k2,2 domain_rules.txt > sorted_domain_rules.txt
+sort /k2,2 domain_suffix_rules.txt > sorted_domain_suffix_rules.txt
+sort /k2,2 domain_keyword_rules.txt > sorted_domain_keyword_rules.txt
+sort /k2,2 ip_cidr_rules.txt > sorted_ip_cidr_rules.txt
+sort /k2,2 ip_cidr6_rules.txt > sorted_ip_cidr6_rules.txt
+sort /k2,2 user_agent_rules.txt > sorted_user_agent_rules.txt
+sort /k2,2 process_name_rules.txt > sorted_process_name_rules.txt
+
+:: 合并排序后的规则
+type sorted_domain_rules.txt sorted_domain_suffix_rules.txt sorted_domain_keyword_rules.txt sorted_ip_cidr_rules.txt sorted_ip_cidr6_rules.txt sorted_user_agent_rules.txt sorted_process_name_rules.txt > xn.txt
+
 ::aggregate CIDRs and add no-resolve
 echo ###Processing IPCIDRs
 busybox sed -n "/IP-CIDR,/p" xn.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR,/g" >>fpip.txt
@@ -139,6 +160,8 @@ if not exist del.ini goto :noexistdel
 python del-file.py
 )
 :noexistdel
+
+
 
 ::count
 echo ###Counting

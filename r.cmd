@@ -118,7 +118,7 @@ type fin-rev-processed-unique-unrev.txt>>fin.txt
 set LC_ALL='C'
 busybox sort -u -i -o bdfin.txt fin.txt
 set LC_ALL=
-
+python keyworddd.py
 
 ::aggregate CIDRs and add no-resolve
 echo ###Processing IPCIDRs
@@ -146,10 +146,9 @@ for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
 echo # Main total line %bnrnum%>bnr.txt
 echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt
-echo # ---------------------------------------------------------------------->>bnr.txt
+echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>bnr.txt
 type bn.txt>>bnr.txt
 copy /y bnr.txt ..\fin.txt
-
 
 
 ::clean

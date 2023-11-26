@@ -99,36 +99,17 @@ set LC_ALL=
 :: no special char
 python nospecial.py
 
-::deduplicate same DOMAIN-SUFFIX using uniq
-echo ###Start deduplicate same DOMAIN and DOMAIN-SUFFIX rule lines
-busybox sed -i -E "/^$/d" fin.txt
-busybox sed -i -E "/^ +$/d" fin.txt
-busybox sed -n "/DOMAIN,/p" fin.txt>>fin-do.txt
-busybox sed -n "/DOMAIN-SUFFIX,/p" fin.txt>>fin-do.txt
-busybox sed -i "/DOMAIN,/d" fin.txt
-busybox sed -i "/DOMAIN-SUFFIX,/d" fin.txt
-python reverse.py
-set LC_ALL='C'
-busybox sort -u -i -o fin-rev-s.txt fin-rev.txt
-set LC_ALL=
-python process-rev.py
-python process-same-suffix-nosuff.py
-python unreverse.py
-type fin-rev-processed-unique-unrev.txt>>fin.txt
-set LC_ALL='C'
-busybox sort -u -i -o bdfin.txt fin.txt
-set LC_ALL=
-python keyworddd.py
+
 
 ::aggregate CIDRs and add no-resolve
 echo ###Processing IPCIDRs
-busybox sed -n "/IP-CIDR,/p" xn.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR,/g" >>fpip.txt
-busybox sed -n "/IP-CIDR6/p" xn.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR6,/g" >>fpip.txt
-busybox sed -i "/IP-CIDR/d" xn.txt
+busybox sed -n "/IP-CIDR,/p" fing.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR,/g" >>fpip.txt
+busybox sed -n "/IP-CIDR6/p" fing.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR6,/g" >>fpip.txt
+busybox sed -i "/IP-CIDR/d" fing.txt
 busybox sed -i -E "s/$/,no-resolve/g" fpip.txt
-type fpip.txt>>xn.txt
+type fpip.txt>>fing.txt
 set LC_ALL='C'
-busybox sort -u -i -o bn.txt xn.txt
+busybox sort -u -i -o bn.txt fing.txt
 set LC_ALL=
 
 ::remove too short

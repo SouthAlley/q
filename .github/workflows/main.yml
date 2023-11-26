@@ -20,8 +20,8 @@ jobs:
           .\r.cmd a1
           .\r.cmd cdn
           .\r.cmd big-data
-          .\r.cmd dirt
-      - name: commit
+          .\r.cmd Surge
+      - name: 提交
         continue-on-error: false
         timeout-minutes: 10
         run: |

@@ -1,5 +1,5 @@
 # Adblock total line 147
-# Last updated Sun 11/26/2023 12:16:39.97
+# Last updated Sun 11/26/2023 12:25:44.07
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||aaid.uyunad.com^
 ||acdn.adnxs.com^

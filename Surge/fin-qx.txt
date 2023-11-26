@@ -1,5 +1,5 @@
-# Quantumult total line 155
-# Last updated Sun 11/26/2023 12:16:39.88
+# Quantumult total line 163
+# Last updated Sun 11/26/2023 12:25:43.99
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,aaid.uyunad.com,LIST
 HOST,acdn.adnxs.com,LIST
@@ -149,10 +149,18 @@ HOST-SUFFIX,shuzilm.cn,LIST
 HOST-SUFFIX,u3.ucweb.com,LIST
 HOST-SUFFIX,ut.taobao.com,LIST
 IP-CIDR,101.124.19.122/32,LIST,no-resolve
+IP-CIDR,101.124.19.122/32,LIST,no-resolve
+IP-CIDR,103.41.167.237/32,LIST,no-resolve
 IP-CIDR,103.41.167.237/32,LIST,no-resolve
 IP-CIDR,118.89.204.198/32,LIST,no-resolve
+IP-CIDR,118.89.204.198/32,LIST,no-resolve
+IP-CIDR,180.76.76.200/32,LIST,no-resolve
 IP-CIDR,180.76.76.200/32,LIST,no-resolve
 IP-CIDR,203.107.1.0/24,LIST,no-resolve
+IP-CIDR,203.107.1.0/24,LIST,no-resolve
+IP-CIDR,47.110.187.87/32,LIST,no-resolve
 IP-CIDR,47.110.187.87/32,LIST,no-resolve
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,LIST,no-resolve
+IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,LIST,no-resolve
+IP6-CIDR,2402:db40:5100:1011::5/128,LIST,no-resolve
 IP6-CIDR,2402:db40:5100:1011::5/128,LIST,no-resolve

@@ -70,7 +70,6 @@ busybox sed -i -E "s/^host/domain/g" 2.txt
 busybox sed -i -E "s/^HOST/DOMAIN/g" 2.txt
 busybox sed -i -E "s/^ip6-cidr/ip-cidr6/g" 2.txt
 busybox sed -i -E "s/^IP6-CIDR/IP-CIDR6/g" 2.txt
-busybox sed -i -E "s/^domain-keyword/DOMAIN-KEYWORD/g" 2.txt
 busybox sed -i -E "s/^domain-suffix/DOMAIN-SUFFIX/g" 2.txt
 busybox sed -i -E "s/^domain/DOMAIN/g" 2.txt
 busybox sed -i -E "s/^user-agent/USER-AGENT/g" 2.txt
@@ -79,6 +78,7 @@ busybox sed -i -E "/^D[^K]+,.*\.[0-9]+$/d" 2.txt
 busybox sed -i -E "/^D.*,.*[A-Z]/d" 2.txt
 busybox sed -i -E "s/^DOMAIN,\*\./DOMAIN-SUFFIX,/g" 2.txt
 busybox sed -i -E "s/^DOMAIN-SUFFIX,\*\./DOMAIN-SUFFIX,/g" 2.txt
+busybox sed -i -E "s/^domain-keyword/DOMAIN-KEYWORD/g" 2.txt
 busybox sed -i -E "/^D.*,.*\*/d" 2.txt
 busybox sed -i -E "/^DOMAIN-WILDCARD/d" 2.txt
 echo.>>.\2.txt

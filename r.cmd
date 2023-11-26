@@ -120,23 +120,6 @@ busybox sort -u -i -o bdfin.txt fin.txt
 set LC_ALL=
 python keyworddd.py
 
-:: 提取各种规则并分别排序
-grep "DOMAIN," fin.txt > domain_rules.txt
-grep "DOMAIN-SUFFIX," fin.txt > domain_suffix_rules.txt
-grep "DOMAIN-KEYWORD," fin.txt > domain_keyword_rules.txt
-grep "IP-CIDR," fin.txt > ip_cidr_rules.txt
-grep "IP-CIDR6," fin.txt > ip_cidr6_rules.txt
-grep "USER-AGENT," fin.txt > user_agent_rules.txt
-grep "PROCESS-NAME," fin.txt > process_name_rules.txt
-
-:: 分别对各类规则排序
-sort /k2,2 domain_rules.txt > sorted_domain_rules.txt
-sort /k2,2 domain_suffix_rules.txt > sorted_domain_suffix_rules.txt
-sort /k2,2 domain_keyword_rules.txt > sorted_domain_keyword_rules.txt
-sort /k2,2 ip_cidr_rules.txt > sorted_ip_cidr_rules.txt
-sort /k2,2 ip_cidr6_rules.txt > sorted_ip_cidr6_rules.txt
-sort /k2,2 user_agent_rules.txt > sorted_user_agent_rules.txt
-sort /k2,2 process_name_rules.txt > sorted_process_name_rules.txt
 
 :: 合并排序后的规则
 type sorted_domain_rules.txt sorted_domain_suffix_rules.txt sorted_domain_keyword_rules.txt sorted_ip_cidr_rules.txt sorted_ip_cidr6_rules.txt sorted_user_agent_rules.txt sorted_process_name_rules.txt > xn.txt
@@ -161,6 +144,45 @@ python del-file.py
 )
 :noexistdel
 
+
+::找到DOMAIN-SUFFIX行
+set "lastDomainSuffixLine="
+for /f "delims=" %%i in (bn.txt) do (
+  set "line=%%i"
+  if "!line:~0,13!"=="DOMAIN-SUFFIX," set "lastDomainSuffixLine=!line!"
+)
+
+:: 添加DOMAIN-KEYWORD的内容到最后一个DOMAIN-SUFFIX之后
+set "processedKeywordLines="
+if defined lastDomainSuffixLine (
+  set "processingKeywords=false"
+  for /f "delims=" %%i in (bn.txt) do (
+    set "line=%%i"
+    if "!line:~0,15!"=="DOMAIN-KEYWORD," (
+      set "processingKeywords=true"
+      set "processedKeywordLines=!processedKeywordLines!!line:~16!!line:~0,15!"
+    ) else if "!processingKeywords!"=="true" (
+      echo !line!>> bn_with_keywords.txt
+    ) else (
+      echo !line!>> bn_with_keywords.txt
+    )
+  )
+)
+
+:: 如果不存在DOMAIN-SUFFIX行，则将DOMAIN-KEYWORD的内容添加到文件末尾
+if not defined lastDomainSuffixLine (
+  for /f "delims=" %%i in (bn.txt) do (
+    set "line=%%i"
+    if "!line:~0,15!"=="DOMAIN-KEYWORD," (
+      echo !line!>> bn_with_keywords.txt
+    ) else (
+      echo !line!>> bn_with_keywords.txt
+    )
+  )
+)
+
+:: 移动生成的文件回到原始文件
+move /y bn_with_keywords.txt bn.txt
 
 
 ::count

@@ -96,8 +96,7 @@ set LC_ALL='C'
 busybox sort -u -i -o fing.txt fas.txt
 set LC_ALL=
 
-:: no special char
-python nospecial.py
+
 
 
 

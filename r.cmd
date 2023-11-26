@@ -148,59 +148,11 @@ for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
 echo # Main total line %bnrnum%>bnr.txt
 echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt
-echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>bnr.txt
+echo # ---------------------------------------------------------------------->>bnr.txt
 type bn.txt>>bnr.txt
 copy /y bnr.txt ..\fin.txt
 
-::generate Quantumult type rules
-echo ###Start generate Quantumult type rules
-copy /y bn.txt cn.txt
-busybox sed -i -E "s/$/,LIST/g" cn.txt
-busybox sed -i -E "s/,no-resolve,LIST/,LIST,no-resolve/g" cn.txt
-busybox sed -i -E "s/^DOMAIN/HOST/g" cn.txt
-busybox sed -i -E "s/^IP-CIDR6/IP6-CIDR/g" cn.txt
-busybox sed -i "/PROCESS-NAME/d" cn.txt
-busybox sed -i "/DST-PORT/d" cn.txt
-busybox sed -i "/SRC-PORT/d" cn.txt
-busybox sed -i "/SRC-IP-CIDR/d" cn.txt
-::Quantumult type rules
-for /f "tokens=2 delims=:" %%a in ('find /c /v "" cn.txt')do set/a cnrnum=%%a
-echo # Quantumult total line %cnrnum%>cnr.txt
-echo # Last updated %date% %time%>>cnr.txt
-type cnr.txt
-echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>cnr.txt
-type cn.txt>>cnr.txt
-copy /y cnr.txt ..\fin-qx.txt
 
-::generate Clash yaml type rules
-echo ###Start generate Clash yaml type rules
-copy /y bn.txt dn.txt
-busybox sed -i -E "s/^/  - /g" dn.txt
-::Clash yaml type rules
-for /f "tokens=2 delims=:" %%a in ('find /c /v "" dn.txt')do set/a dnrnum=%%a
-echo # Clash total line %dnrnum%>dnr.txt
-echo # Last updated %date% %time%>>dnr.txt
-type dnr.txt
-echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>dnr.txt
-echo payload:>>dnr.txt
-type dn.txt>>dnr.txt
-copy /y dnr.txt ..\fin.yaml
-
-::generate Adblock type rules
-echo ###Start generate Adblock type rules
-copy /y bn.txt fn.txt
-busybox sed -i -E "/^[^D]/d" fn.txt
-busybox sed -i -E "/^D[^O]/d" fn.txt
-busybox sed -i -r "s/^DOMAIN-KEYWORD,(.*)/\/\1\//g" fn.txt
-busybox sed -i -E "s/^.*,/\|\|/g" fn.txt
-busybox sed -i -r "s/^(\|.+)$/\1\^/g" fn.txt
-for /f "tokens=2 delims=:" %%a in ('find /c /v "" fn.txt')do set/a fnrnum=%%a
-echo # Adblock total line %fnrnum%>fnr.txt
-echo # Last updated %date% %time%>>fnr.txt
-type fnr.txt
-echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>fnr.txt
-type fn.txt>>fnr.txt
-copy /y fnr.txt ..\fin-adb.txt
 
 ::clean
 if %bnrnum% gtr 20 echo ### -*- -*- -*- -*- -*- -*- %MAINFOLD% File completely processed -*- -*- -*- -*- -*- -*-

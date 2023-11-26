@@ -16,7 +16,7 @@ jobs:
       - name: run main
         continue-on-error: false
         timeout-minutes: 20
-        run: script\script.cmd
+        run: .\script.cmd
         
       - name: 提交
         continue-on-error: false

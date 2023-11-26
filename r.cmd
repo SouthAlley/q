@@ -10,7 +10,6 @@ chcp 65001
 del /f /q *.txt>nul 2>nul
 del /f /q *.exe>nul 2>nul
 del /f /q *.yaml>nul 2>nul
-
 ::bypass detection
 set wgetFix=-nv --no-config -t 3 --no-netrc -T 30 --connect-timeout=10 --read-timeout=10 -w 1 -4 --no-iri --no-cache -U "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1 SearchCraft/3.9.0 (Baidu; P2 16.0)" --no-cookies --https-only --no-hsts --local-encoding=UTF-8 --remote-encoding=UTF-8 --restrict-file-names=nocontrol
 set curlFix=-L -q --connect-timeout 10 -k -4 -m 30 -e "https://google.com/" -s -S -A "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1 SearchCraft/3.9.0 (Baidu; P2 16.0)"
@@ -41,6 +40,9 @@ del /f /q *.zip>nul 2>nul
 goto :eof
 )
 
+::clear old
+del /f /q ..\*.txt>nul 2>nul
+del /f /q ..\*.yaml>nul 2>nul
 
 ::down and process All rule links, remove unsupported rules
 echo ###Start processing ordinary rules
@@ -120,10 +122,6 @@ busybox sort -u -i -o bdfin.txt fin.txt
 set LC_ALL=
 python keyworddd.py
 
-
-:: 合并排序后的规则
-type sorted_domain_rules.txt sorted_domain_suffix_rules.txt sorted_domain_keyword_rules.txt sorted_ip_cidr_rules.txt sorted_ip_cidr6_rules.txt sorted_user_agent_rules.txt sorted_process_name_rules.txt > xn.txt
-
 ::aggregate CIDRs and add no-resolve
 echo ###Processing IPCIDRs
 busybox sed -n "/IP-CIDR,/p" xn.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR,/g" >>fpip.txt
@@ -132,49 +130,17 @@ busybox sed -i "/IP-CIDR/d" xn.txt
 busybox sed -i -E "s/$/,no-resolve/g" fpip.txt
 type fpip.txt>>xn.txt
 set LC_ALL='C'
-busybox sort -u -o bn.txt xn.txt
+busybox sort -u -i -o bn.txt xn.txt
 set LC_ALL=
 
+::remove too short
+echo ###Start removing
+busybox sed -i -E "/^(|.|..|...|....|.....)$/d" bn.txt
 
-::找到DOMAIN-SUFFIX行
-set "lastDomainSuffixLine="
-for /f "delims=" %%i in (bn.txt) do (
-  set "line=%%i"
-  if "!line:~0,13!"=="DOMAIN-SUFFIX," set "lastDomainSuffixLine=!line!"
+if not exist del.ini goto :noexistdel
+python del-file.py
 )
-
-:: 添加DOMAIN-KEYWORD的内容到最后一个DOMAIN-SUFFIX之后
-set "processedKeywordLines="
-if defined lastDomainSuffixLine (
-  set "processingKeywords=false"
-  for /f "delims=" %%i in (bn.txt) do (
-    set "line=%%i"
-    if "!line:~0,15!"=="DOMAIN-KEYWORD," (
-      set "processingKeywords=true"
-      set "processedKeywordLines=!processedKeywordLines!!line:~16!!line:~0,15!"
-    ) else if "!processingKeywords!"=="true" (
-      echo !line!>> bn_with_keywords.txt
-    ) else (
-      echo !line!>> bn_with_keywords.txt
-    )
-  )
-)
-
-:: 如果不存在DOMAIN-SUFFIX行，则将DOMAIN-KEYWORD的内容添加到文件末尾
-if not defined lastDomainSuffixLine (
-  for /f "delims=" %%i in (bn.txt) do (
-    set "line=%%i"
-    if "!line:~0,15!"=="DOMAIN-KEYWORD," (
-      echo !line!>> bn_with_keywords.txt
-    ) else (
-      echo !line!>> bn_with_keywords.txt
-    )
-  )
-)
-
-:: 移动生成的文件回到原始文件
-move /y bn_with_keywords.txt bn.txt
-
+:noexistdel
 
 ::count
 echo ###Counting
@@ -186,6 +152,55 @@ echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>
 type bn.txt>>bnr.txt
 copy /y bnr.txt ..\fin.txt
 
+::generate Quantumult type rules
+echo ###Start generate Quantumult type rules
+copy /y bn.txt cn.txt
+busybox sed -i -E "s/$/,LIST/g" cn.txt
+busybox sed -i -E "s/,no-resolve,LIST/,LIST,no-resolve/g" cn.txt
+busybox sed -i -E "s/^DOMAIN/HOST/g" cn.txt
+busybox sed -i -E "s/^IP-CIDR6/IP6-CIDR/g" cn.txt
+busybox sed -i "/PROCESS-NAME/d" cn.txt
+busybox sed -i "/DST-PORT/d" cn.txt
+busybox sed -i "/SRC-PORT/d" cn.txt
+busybox sed -i "/SRC-IP-CIDR/d" cn.txt
+::Quantumult type rules
+for /f "tokens=2 delims=:" %%a in ('find /c /v "" cn.txt')do set/a cnrnum=%%a
+echo # Quantumult total line %cnrnum%>cnr.txt
+echo # Last updated %date% %time%>>cnr.txt
+type cnr.txt
+echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>cnr.txt
+type cn.txt>>cnr.txt
+copy /y cnr.txt ..\fin-qx.txt
+
+::generate Clash yaml type rules
+echo ###Start generate Clash yaml type rules
+copy /y bn.txt dn.txt
+busybox sed -i -E "s/^/  - /g" dn.txt
+::Clash yaml type rules
+for /f "tokens=2 delims=:" %%a in ('find /c /v "" dn.txt')do set/a dnrnum=%%a
+echo # Clash total line %dnrnum%>dnr.txt
+echo # Last updated %date% %time%>>dnr.txt
+type dnr.txt
+echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>dnr.txt
+echo payload:>>dnr.txt
+type dn.txt>>dnr.txt
+copy /y dnr.txt ..\fin.yaml
+
+::generate Adblock type rules
+echo ###Start generate Adblock type rules
+copy /y bn.txt fn.txt
+busybox sed -i -E "/^[^D]/d" fn.txt
+busybox sed -i -E "/^D[^O]/d" fn.txt
+busybox sed -i -r "s/^DOMAIN-KEYWORD,(.*)/\/\1\//g" fn.txt
+busybox sed -i -E "s/^.*,/\|\|/g" fn.txt
+busybox sed -i -r "s/^(\|.+)$/\1\^/g" fn.txt
+for /f "tokens=2 delims=:" %%a in ('find /c /v "" fn.txt')do set/a fnrnum=%%a
+echo # Adblock total line %fnrnum%>fnr.txt
+echo # Last updated %date% %time%>>fnr.txt
+type fnr.txt
+echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>fnr.txt
+type fn.txt>>fnr.txt
+copy /y fnr.txt ..\fin-adb.txt
 
 ::clean
 if %bnrnum% gtr 20 echo ### -*- -*- -*- -*- -*- -*- %MAINFOLD% File completely processed -*- -*- -*- -*- -*- -*-

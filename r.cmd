@@ -44,7 +44,7 @@ goto :eof
 
 ::down and process All rule links, remove unsupported rules
 echo ###Start processing ordinary rules
-for /f "eol=# tokens=1,2 delims= " %%i in (rule_*.ini) do (
+for /f "eol=# tokens=1,2 delims= " %%i in (rule.ini) do (
 if not exist "%%i" wget %wgetFix% -O 2.txt "%%i"
 if exist "%%i" copy /y "%%i" .\2.txt && echo Local "%%i"
 busybox sed -i -E "/^$/d" 2.txt

@@ -1,5 +1,5 @@
-# Quantumult total line 155
-# Last updated Sun 11/26/2023 12:07:22.39
+# Quantumult total line 130
+# Last updated Sun 11/26/2023 12:13:31.67
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 HOST,aaid.uyunad.com,LIST
 HOST,acdn.adnxs.com,LIST
@@ -118,41 +118,16 @@ HOST,yk-ssp.ad.youku.com,LIST
 HOST,ykad-data.youku.com,LIST
 HOST,youku-acs.m.taobao.com,LIST
 HOST,zxid-m.mobileservice.cn,LIST
-HOST-KEYWORD,-ad-sign.byteimg.com,SUFFIX,LIST
-HOST-KEYWORD,-tos.pstatp.com,SUFFIX,LIST
-HOST-KEYWORD,ads.g.doubleclick,SUFFIX,LIST
-HOST-KEYWORD,adv.ccb.com,SUFFIX,LIST
-HOST-KEYWORD,asiad.byteactivity,SUFFIX,LIST
-HOST-KEYWORD,pangolin-sdk-toutiao,SUFFIX,LIST
-HOST-KEYWORD,pangolin.snssdk.com,SUFFIX,LIST
-HOST-KEYWORD,pglstatp-toutiao,SUFFIX,LIST
-HOST-KEYWORD,safebrowsing.,SUFFIX,LIST
-HOST-KEYWORD,trace.qq.com,SUFFIX,LIST
-HOST-KEYWORD,trace.video.qq.com,SUFFIX,LIST
-HOST-KEYWORD,video-cn.snssdk.com,SUFFIX,LIST
-HOST-SUFFIX,163jiasu.com,LIST
-HOST-SUFFIX,adservice.google.com,LIST
-HOST-SUFFIX,advp.apple.com,LIST
-HOST-SUFFIX,biz.weibo.com,LIST
-HOST-SUFFIX,da.mgtv.com,LIST
-HOST-SUFFIX,doubleclick-cn.net,LIST
-HOST-SUFFIX,doubleclick.net,LIST
-HOST-SUFFIX,ehaier.com,LIST
-HOST-SUFFIX,gdt.qq.com,LIST
-HOST-SUFFIX,iad-apple.com,LIST
-HOST-SUFFIX,iadsdk.apple.com,LIST
-HOST-SUFFIX,l.qq.com,LIST
-HOST-SUFFIX,m1.ad.10010.com,LIST
-HOST-SUFFIX,miaozhen.com,LIST
-HOST-SUFFIX,pos.baidu.com,LIST
-HOST-SUFFIX,shuzilm.cn,LIST
-HOST-SUFFIX,u3.ucweb.com,LIST
-HOST-SUFFIX,ut.taobao.com,LIST
-IP-CIDR,101.124.19.122/32,LIST,no-resolve
-IP-CIDR,103.41.167.237/32,LIST,no-resolve
-IP-CIDR,118.89.204.198/32,LIST,no-resolve
-IP-CIDR,180.76.76.200/32,LIST,no-resolve
-IP-CIDR,203.107.1.0/24,LIST,no-resolve
-IP-CIDR,47.110.187.87/32,LIST,no-resolve
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,LIST,no-resolve
-IP6-CIDR,2402:db40:5100:1011::5/128,LIST,no-resolve
+HOST-KEYWORD,-ad-sign.byteimg.com,LIST
+HOST-KEYWORD,-tos.pstatp.com,LIST
+HOST-KEYWORD,ads.g.doubleclick,LIST
+HOST-KEYWORD,adv.ccb.com,LIST
+HOST-KEYWORD,asiad.byteactivity,LIST
+HOST-KEYWORD,pangolin-sdk-toutiao,LIST
+HOST-KEYWORD,pangolin.snssdk.com,LIST
+HOST-KEYWORD,pglstatp-toutiao,LIST
+HOST-KEYWORD,safebrowsing.,LIST
+HOST-KEYWORD,trace.qq.com,LIST
+HOST-KEYWORD,trace.video.qq.com,LIST
+HOST-KEYWORD,video-cn.snssdk.com,LIST
+HOST-SUFFIX,doubleclick-cn.net,SUFFIX,LIST

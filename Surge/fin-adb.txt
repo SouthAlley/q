@@ -1,5 +1,5 @@
-# Adblock total line 147
-# Last updated Sun 11/26/2023 12:07:22.49
+# Adblock total line 130
+# Last updated Sun 11/26/2023 12:13:31.75
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 ||aaid.uyunad.com^
 ||acdn.adnxs.com^
@@ -118,33 +118,16 @@
 ||ykad-data.youku.com^
 ||youku-acs.m.taobao.com^
 ||zxid-m.mobileservice.cn^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||SUFFIX/^
-||163jiasu.com^
-||adservice.google.com^
-||advp.apple.com^
-||biz.weibo.com^
-||da.mgtv.com^
-||doubleclick-cn.net^
-||doubleclick.net^
-||ehaier.com^
-||gdt.qq.com^
-||iad-apple.com^
-||iadsdk.apple.com^
-||l.qq.com^
-||m1.ad.10010.com^
-||miaozhen.com^
-||pos.baidu.com^
-||shuzilm.cn^
-||u3.ucweb.com^
-||ut.taobao.com^
+/-ad-sign.byteimg.com/
+/-tos.pstatp.com/
+/ads.g.doubleclick/
+/adv.ccb.com/
+/asiad.byteactivity/
+/pangolin-sdk-toutiao/
+/pangolin.snssdk.com/
+/pglstatp-toutiao/
+/safebrowsing./
+/trace.qq.com/
+/trace.video.qq.com/
+/video-cn.snssdk.com/
+||SUFFIX^

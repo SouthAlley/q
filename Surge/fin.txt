@@ -1,6 +1,4 @@
-# Main total line 3970
-# Last updated Sun 11/26/2023  8:57:15.87
-# -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
+
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com

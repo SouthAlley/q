@@ -150,25 +150,7 @@ echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>
 type bn.txt>>bnr.txt
 copy /y bnr.txt ..\fin.txt
 
-::generate Quantumult type rules
-echo ###Start generate Quantumult type rules
-copy /y bn.txt cn.txt
-busybox sed -i -E "s/$/,LIST/g" cn.txt
-busybox sed -i -E "s/,no-resolve,LIST/,LIST,no-resolve/g" cn.txt
-busybox sed -i -E "s/^DOMAIN/HOST/g" cn.txt
-busybox sed -i -E "s/^IP-CIDR6/IP6-CIDR/g" cn.txt
-busybox sed -i "/PROCESS-NAME/d" cn.txt
-busybox sed -i "/DST-PORT/d" cn.txt
-busybox sed -i "/SRC-PORT/d" cn.txt
-busybox sed -i "/SRC-IP-CIDR/d" cn.txt
-::Quantumult type rules
-for /f "tokens=2 delims=:" %%a in ('find /c /v "" cn.txt')do set/a cnrnum=%%a
-echo # Quantumult total line %cnrnum%>cnr.txt
-echo # Last updated %date% %time%>>cnr.txt
-type cnr.txt
-echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>cnr.txt
-type cn.txt>>cnr.txt
-copy /y cnr.txt ..\fin-qx.txt
+
 
 ::clean
 if %bnrnum% gtr 20 echo ### -*- -*- -*- -*- -*- -*- %MAINFOLD% File completely processed -*- -*- -*- -*- -*- -*-

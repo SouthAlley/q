@@ -12,15 +12,12 @@ jobs:
         timeout-minutes: 10
         with:
           ref: main
+          
       - name: run main
         continue-on-error: false
         timeout-minutes: 20
-        run: |
-          .\r.cmd a2
-          .\r.cmd a1
-          .\r.cmd cdn
-          .\r.cmd Surge/ad
-          .\r.cmd Surge
+        run: script\script.cmd
+        
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

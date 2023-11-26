@@ -101,7 +101,7 @@ set LC_ALL='C'
 busybox sort -u -i -o fing.txt fas.txt
 
 :: 将 KEYWORD 放在 SUFFIX 后面
-awk -F, 'BEGIN{OFS=FS} {if($0 ~ /KEYWORD/) print $0, "SUFFIX"; else print $0}' fing.txt > modified_fing.txt
+awk -F, 'BEGIN{OFS=FS} {if($0 ~ /KEYWORD/) {print $0; flag=1} else {if (flag) print $0, "SUFFIX"; else print $0}}' fing.txt > modified_fing.txt
 
 set LC_ALL=
 

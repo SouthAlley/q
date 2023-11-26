@@ -7,6 +7,9 @@ if not exist %~dp0\%MAINFOLD% goto :eof
 cd /d %~dp0\%MAINFOLD%\attach
 echo ### -*- -*- -*- -*- -*- -*- Start processing in %MAINFOLD% -*- -*- -*- -*- -*- -*-
 chcp 65001
+del /f /q *.txt>nul 2>nul
+del /f /q *.exe>nul 2>nul
+del /f /q *.yaml>nul 2>nul
 
 ::bypass detection
 set wgetFix=-nv --no-config -t 3 --no-netrc -T 30 --connect-timeout=10 --read-timeout=10 -w 1 -4 --no-iri --no-cache -U "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1 SearchCraft/3.9.0 (Baidu; P2 16.0)" --no-cookies --https-only --no-hsts --local-encoding=UTF-8 --remote-encoding=UTF-8 --restrict-file-names=nocontrol

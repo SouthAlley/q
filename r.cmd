@@ -135,15 +135,6 @@ set LC_ALL='C'
 busybox sort -u -o bn.txt xn.txt
 set LC_ALL=
 
-::remove too short
-echo ###Start removing
-busybox sed -i -E "/^(|.|..|...|....|.....)$/d" bn.txt
-
-if not exist del.ini goto :noexistdel
-python del-file.py
-)
-:noexistdel
-
 
 ::找到DOMAIN-SUFFIX行
 set "lastDomainSuffixLine="

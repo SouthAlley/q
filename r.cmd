@@ -115,9 +115,7 @@ python process-same-suffix-nosuff.py
 python unreverse.py
 type fin-rev-processed-unique-unrev.txt>>fin.txt
 set LC_ALL='C'
-busybox sort -u -i -o bdfin.txt fin.txt
-set LC_ALL=
-python keyworddd.py
+
 
 ::aggregate CIDRs and add no-resolve
 echo ###Processing IPCIDRs

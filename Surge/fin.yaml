@@ -1,5 +1,5 @@
-# Clash total line 130
-# Last updated Sun 11/26/2023 12:13:31.71
+# Clash total line 155
+# Last updated Sun 11/26/2023 12:16:39.91
 # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*-
 payload:
   - DOMAIN,aaid.uyunad.com
@@ -131,4 +131,29 @@ payload:
   - DOMAIN-KEYWORD,trace.qq.com
   - DOMAIN-KEYWORD,trace.video.qq.com
   - DOMAIN-KEYWORD,video-cn.snssdk.com
-  - DOMAIN-SUFFIX,doubleclick-cn.net,SUFFIX
+  - DOMAIN-SUFFIX,163jiasu.com
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,advp.apple.com
+  - DOMAIN-SUFFIX,biz.weibo.com
+  - DOMAIN-SUFFIX,da.mgtv.com
+  - DOMAIN-SUFFIX,doubleclick-cn.net
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,ehaier.com
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,iad-apple.com
+  - DOMAIN-SUFFIX,iadsdk.apple.com
+  - DOMAIN-SUFFIX,l.qq.com
+  - DOMAIN-SUFFIX,m1.ad.10010.com
+  - DOMAIN-SUFFIX,miaozhen.com
+  - DOMAIN-SUFFIX,pos.baidu.com
+  - DOMAIN-SUFFIX,shuzilm.cn
+  - DOMAIN-SUFFIX,u3.ucweb.com
+  - DOMAIN-SUFFIX,ut.taobao.com
+  - IP-CIDR,101.124.19.122/32,no-resolve
+  - IP-CIDR,103.41.167.237/32,no-resolve
+  - IP-CIDR,118.89.204.198/32,no-resolve
+  - IP-CIDR,180.76.76.200/32,no-resolve
+  - IP-CIDR,203.107.1.0/24,no-resolve
+  - IP-CIDR,47.110.187.87/32,no-resolve
+  - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+  - IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve

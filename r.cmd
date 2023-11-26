@@ -101,29 +101,11 @@ python nospecial.py
 
 
 
-::aggregate CIDRs and add no-resolve
-echo ###Processing IPCIDRs
-busybox sed -n "/IP-CIDR,/p" fing.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR,/g" >>fpip.txt
-busybox sed -n "/IP-CIDR6/p" fing.txt | busybox sed -E "s/^.*,//g" | cidr -s | busybox sed -E "s/^/IP-CIDR6,/g" >>fpip.txt
-busybox sed -i "/IP-CIDR/d" fing.txt
-busybox sed -i -E "s/$/,no-resolve/g" fpip.txt
-type fpip.txt>>fing.txt
-set LC_ALL='C'
-busybox sort -u -i -o bn.txt fing.txt
-set LC_ALL=
 
-::remove too short
-echo ###Start removing
-busybox sed -i -E "/^(|.|..|...|....|.....)$/d" bn.txt
-
-if not exist del.ini goto :noexistdel
-python del-file.py
-)
-:noexistdel
 
 ::count
 echo ###Counting
-for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
+for /f "tokens=2 delims=:" %%a in ('find /c /v "" fing.txt')do set/a bnrnum=%%a
 echo # Main total line %bnrnum%>bnr.txt
 echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt

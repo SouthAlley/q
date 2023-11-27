@@ -19,6 +19,7 @@ jobs:
         run: |
           .\r.cmd rule/ad
           .\r.cmd rule/fenliu
+          .\r.cmd rule/tk
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

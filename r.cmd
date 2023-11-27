@@ -4,7 +4,6 @@ if not defined MAINFOLD goto :eof
 if not exist %~dp0\%MAINFOLD% goto :eof
 
 ::initialize
-set RULE_LIST_DIR=%~dp0
 cd /d %~dp0\%MAINFOLD%\attach
 echo ### -*- -*- -*- -*- -*- -*- Start processing in %MAINFOLD% -*- -*- -*- -*- -*- -*-
 chcp 65001
@@ -40,10 +39,6 @@ del /f /q *.py>nul 2>nul
 del /f /q *.zip>nul 2>nul
 goto :eof
 )
-
-::clear old
-del /f /q ..\*.txt>nul 2>nul
-del /f /q ..\*.yaml>nul 2>nul
 
 ::down and process All rule links, remove unsupported rules
 echo ###Start processing ordinary rules
@@ -152,7 +147,6 @@ type bnr.txt
 echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>bnr.txt
 type bn.txt>>bnr.txt
 copy /y bnr.txt ..\fin.txt
-
 
 
 ::clean

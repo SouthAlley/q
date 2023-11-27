@@ -64,7 +64,7 @@ jobs:
 
     - name: Copy custom rules to Surge
       run: |
-        cp delrules.ini q-repo/rule/ad/attach/del.ini
+        cp q-repo/local/delrules.ini q-repo/rule/ad/attach/del.ini
 
 
           

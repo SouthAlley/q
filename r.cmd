@@ -146,7 +146,12 @@ echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt
 echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>bnr.txt
 type bn.txt>>bnr.txt
-copy /y bnr.txt ..\fin.txt
+
+:: 获取 rule-list.ini 所在的目录
+set RULE_DIR=%~dp0%MAINFOLD%
+
+:: 将 fin.txt 复制到 RULE_DIR 目录
+copy /y bnr.txt "%RULE_DIR%\fin.txt"
 
 
 ::clean

@@ -1,5 +1,5 @@
-# Main total line 8167
-# Last updated Mon 11/27/2023 14:46:05.89
+# Main total line 8166
+# Last updated Mon 11/27/2023 15:10:21.57
 # ------------------------------------------
 ;HOST,mall.bilibili.com
 ;HOST,passport.bilibili.com
@@ -6457,7 +6457,6 @@ DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,sell1.etlong.com
 DOMAIN-SUFFIX,sensorsdata.ruguoapp.com
 DOMAIN-SUFFIX,sentiance.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serial.alcohol-soft.com
 DOMAIN-SUFFIX,serrano.hardwareheaven.com
 DOMAIN-SUFFIX,servedby.keygamesnetwork.com

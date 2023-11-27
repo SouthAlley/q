@@ -25,6 +25,7 @@ jobs:
           .\r.cmd rule/ad
           .\r.cmd rule/global
           .\r.cmd rule/apple
+          .\r.cmd rule/microsoft
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

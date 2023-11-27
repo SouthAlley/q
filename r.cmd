@@ -147,7 +147,7 @@ echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt
 echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>bnr.txt
 type bn.txt>>bnr.txt
-copy /y bnr.txt ..\fin.txt
+copy /y bnr.txt" "%~dp0\%MAINFOLD%\bnr.txt"
 
 
 ::clean

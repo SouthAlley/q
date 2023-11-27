@@ -18,6 +18,7 @@ jobs:
       with:
         repository: SouthAlley/q
         path: q-repo
+
    
     - name: Download file to Surge
       run: |
@@ -59,6 +60,12 @@ jobs:
             echo "$file not found."
           fi
         done
+
+
+    - name: Copy custom rules to Surge
+      run: |
+        cp delrules.ini q-repo/rule/ad/attach/del.ini
+
 
           
     - name: Add and Commits

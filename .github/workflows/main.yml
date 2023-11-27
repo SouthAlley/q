@@ -24,6 +24,7 @@ jobs:
         run: |
           .\r.cmd rule/ad
           .\r.cmd rule/global
+          .\r.cmd rule/apple
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

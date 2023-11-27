@@ -138,6 +138,7 @@ python del-file.py
 )
 :noexistdel
 
+
 ::count
 echo ###Counting
 for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
@@ -146,13 +147,7 @@ echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt
 echo # -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*- -*->>bnr.txt
 type bn.txt>>bnr.txt
-
-:: 获取 rule-list.ini 所在的目录
-set RULE_DIR=%~dp0%MAINFOLD%
-
-:: 将 fin.txt 复制到 RULE_DIR 目录
-copy /y bnr.txt "%RULE_DIR%\fin.txt"
-
+copy /y bnr.txt ..\fin.txt
 
 ::clean
 if %bnrnum% gtr 20 echo ### -*- -*- -*- -*- -*- -*- %MAINFOLD% File completely processed -*- -*- -*- -*- -*- -*-

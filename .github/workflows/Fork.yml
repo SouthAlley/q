@@ -49,7 +49,7 @@ jobs:
             # 修改;为#
             sed -i 's/;/# /g' "$file"
             # 删除注释
-            sed -i 's/#.*//' "$file"
+            sed -i 's/#//g' "$file"
             # 删除空行
             sed -i '/^[[:space:]]*$/d' "$file"
           else

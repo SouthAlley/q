@@ -1,4 +1,4 @@
-name: Fork Filter lists
+name: xiugai Filter
 
 on:
   workflow_dispatch:

@@ -21,7 +21,12 @@ jobs:
 
     - name: Copy custom rules to Surge
       run: |
-        cp q-repo/local/delrules.ini q-repo/rule/ad/attach/del.ini
+       # 如果目标文件存在，将自定义规则附加到目标文件
+       if [ -f "q-repo/rule/ad/attach/del.ini" ]; then
+         cat q-repo/local/delrules.ini >> q-repo/rule/ad/attach/del.ini
+       else
+         cp q-repo/local/delrules.ini q-repo/rule/ad/attach/del.ini
+       fi
 
    
     - name: Download file to Surge

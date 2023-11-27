@@ -1,14 +1,16 @@
-# Main total line 66
-# Last updated Mon 11/27/2023 13:11:00.49
+# Main total line 83
+# Last updated Mon 11/27/2023 13:12:40.48
 # ------------------------------------------
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
 DOMAIN-KEYWORD,buy.itunes.apple.com
-DOMAIN-KEYWORD,icloud.com.akadns.net
+DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,smp-device
+DOMAIN-KEYWORD,testflight
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-livephotoskit.com
@@ -16,7 +18,10 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cdn20.com
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com.mwcloudcdn.com
+DOMAIN-SUFFIX,apple.com.mwcname.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,applemusic.com
@@ -28,10 +33,8 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,dispatcher.is.autonavi.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.com.edgekey.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
@@ -45,21 +48,35 @@ IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR6,2403:300::/32,no-resolve
+IP-CIDR6,2620:149::/32,no-resolve
+IP-CIDR6,2a01:b740::/32,no-resolve
+IP-CIDR6,2a01:b747::/32,no-resolve
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+USER-AGENT,%E6%9F%A5%E6%89%BE*
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
 USER-AGENT,*FindMyiPhone?
 USER-AGENT,*Music?
 USER-AGENT,*WeatherFoundation*
 USER-AGENT,*com.apple.Maps?
 USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,*com.apple.mobileme.fmip1*
+USER-AGENT,AppStore*
 USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*
 USER-AGENT,FMDClient*
 USER-AGENT,FMFD*
+USER-AGENT,FindMy*
 USER-AGENT,FindMyFriends*
 USER-AGENT,FindMyiPhone*
 USER-AGENT,Maps*
+USER-AGENT,Music*
+USER-AGENT,TestFlight*
 USER-AGENT,Wallet*
 USER-AGENT,com.apple.Maps
+USER-AGENT,com.apple.Maps*
 USER-AGENT,com.apple.appstored*
+USER-AGENT,com.apple.geod*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*

@@ -1,0 +1,133 @@
+name: Fork Filter lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: SouthAlley/q
+        path: q-repo
+   
+    - name: Download file to Surge
+      run: |
+        mkdir -p q-repo/local
+        # 规则
+        curl -L -o q-repo/local/Microsoft.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list"
+
+
+    - name: Edit Surge/local
+      run: |
+        cd q-repo/local
+        for file in *.list; do
+          if [ -f "$file" ]; then
+            # 修改, 为,
+            sed -i 's/, /,/g' "$file"
+            # 修改为大写
+            sed -i 's/suffix/SUFFIX/g' "$file"
+            sed -i 's/keyword/KEYWORD/g' "$file"
+            sed -i 's/reject/REJECT/g' "$file"
+            sed -i 's/ip-cidr/IP-CIDR/g' "$file"
+            sed -i 's/user-agent/USER-AGENT/g' "$file"
+            # 删除不必要的部分
+            sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
+            # 修改HOST为DOMAIN
+            sed -i 's/host,/DOMAIN,/g; s/HOST,/DOMAIN,/g' "$file"
+            sed -i 's/host-/DOMAIN-/g; s/HOST-/DOMAIN-/g' "$file"
+            # 修改IP6-CIDR为IP-CIDR6
+            sed -i 's/IP6-CIDR,/IP-CIDR6,/g' "$file"
+            # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
+            sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
+            # 修改;为#
+            sed -i 's/;/# /g' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
+    - name: Edit Surge/local to RuleSet
+      run: |
+        cd q-repo/local
+        for file in Advertising_Set.list; do
+          if [ -f "$file" ]; then
+            # 删除 DOMIAN
+            awk '{sub("DOMAIN,.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("DOMAIN-SUFFIX,.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            # 删除;
+            sed -i 's/;//g' "$file"
+            # 删除注释
+            sed -i 's/#.*//' "$file"
+            # 删除空行
+            sed -i '/^[[:space:]]*$/d' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
+    - name: Edit Surge/local to Domain
+      run: |
+        cd q-repo/local
+        for file in *_Domain.list; do
+          if [ -f "$file" ]; then
+            # DOMAIN, 移除
+            sed -i 's/DOMAIN,//g' "$file"
+            # DOMAIN-SUFFIX, 替换为 .
+            sed -i 's/DOMAIN-SUFFIX,/./g' "$file"
+            # 删除规则
+            awk '{sub("PROCESS-NAME.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("DOMAIN-KEYWORD.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("IP-CIDR,.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("IP-CIDR6,.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("IP-ASN.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("URL-REGEX.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("USER-AGENT.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("OR,.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            awk '{sub("AND,.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
+            # 删除;
+            sed -i 's/;//g' "$file"
+            # 删除注释
+            sed -i 's/#.*//' "$file"
+            # 删除空行
+            sed -i '/^[[:space:]]*$/d' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
+
+    - name: Add and Commits
+      run: |
+        cd q-repo
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add local/* 
+          git commit -m "Update"
+          git push origin HEAD
+        else
+          echo "No changes to commit."
+        fi
+    
+    - name: Cleanup Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 0
+        keep_minimum_runs: 2

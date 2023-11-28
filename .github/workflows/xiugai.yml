@@ -21,6 +21,7 @@ jobs:
         mkdir -p q-repo/local
         # 规则
         curl -L -o q-repo/local/Microsoft.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list"
+        curl -L -o q-repo/local/ChinaIP.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list"
 
 
     - name: Edit Surge/local

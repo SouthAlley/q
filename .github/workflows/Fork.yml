@@ -44,10 +44,9 @@ jobs:
             # 删除不必要的部分
             sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
             # 修改HOST为DOMAIN
-            sed -i 's/host,/DOMAIN,/g; s/HOST,/DOMAIN,/g' "$file"
-            sed -i 's/host-/DOMAIN-/g; s/HOST-/DOMAIN-/g' "$file"
+            sed -i -e 's/\b[Hh][Oo][Ss][Tt],/DOMAIN,/g' -e 's/\b[Hh][Oo][Ss][Tt]-/DOMAIN-/g' "$file"
             # 修改IP6-CIDR为IP-CIDR6
-            sed -i 's/IP6-CIDR,/IP-CIDR6,/g' "$file"
+            sed -i 's/\b[Ii][Pp]6-[Cc][Ii][Dd][Rr],/IP-CIDR6,/g' "$file"
             # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
             sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
             # 删除;

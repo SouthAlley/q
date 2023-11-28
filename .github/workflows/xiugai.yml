@@ -38,10 +38,10 @@ jobs:
             awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
             mv tmpfile "$file"
             # 修改为大写
-            sed -i -e 's/\b[Hh][Oo][Ss][Tt],/DOMAIN,/gI' "$file"
-            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Ss][Uu][Ff][Ff][Ii][Xx]/DOMAIN-SUFFIX/gI' "$file"
-            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Kk][Ee][Yy][Ww][Oo][Rr][Dd]/DOMAIN-KEYWORD/gI' "$file"
-            sed -i 's/ip-cidr/IP-CIDR/g' "$file"
+            sed -i -e 's/host,/DOMAIN,/gI' "$file"
+            sed -i -e 's/host-keyword/DOMAIN-SUFFIX/gi' "$file"
+            sed -i -e 's/host-suffix/DOMAIN-KEYWORD/gI' "$file"
+            sed -i 's/ip-cidr/IP-CIDR/gi' "$file"
             sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
             sed -i 's/user-agent/USER-AGENT/g' "$file"
             # 删除不必要的部分

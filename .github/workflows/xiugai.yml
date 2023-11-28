@@ -30,6 +30,9 @@ jobs:
           if [ -f "$file" ]; then
             # 修改, 为,
             sed -i 's/, /,/g' "$file"
+            # 删除规则
+            awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
+            mv tmpfile "$file"
             # 修改为大写
             sed -i 's/suffix/SUFFIX/g' "$file"
             sed -i 's/keyword/KEYWORD/g' "$file"
@@ -83,7 +86,7 @@ jobs:
             # DOMAIN-SUFFIX, 替换为 .
             sed -i 's/DOMAIN-SUFFIX,/./g' "$file"
             # 删除规则
-            awk '{sub("PROCESS-NAME.*$", ""); print}' "$file" > tmpfile
+            awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
             mv tmpfile "$file"
             awk '{sub("DOMAIN-KEYWORD.*$", ""); print}' "$file" > tmpfile
             mv tmpfile "$file"

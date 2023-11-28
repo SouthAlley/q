@@ -226,7 +226,7 @@ DOMAIN-SUFFIX,microsoft365.com
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 DOMAIN-KEYWORD,Onedrive
-DOMAIN-wildcard,Onedrive.*
+
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,sharepoint

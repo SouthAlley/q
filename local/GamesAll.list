@@ -3,6 +3,11 @@
 # Humble bundle
 HOST-KEYWORD,humblebundle.com
 
+Host,aasaas
+HoSt,dada
+hOST,oiasa
+HOst,sjhs
+
 # > Blizzard
 # - USER-AGENT,hearthstone*
 HOST,cdp.cloud.unity3d.com
@@ -50,4 +55,15 @@ IP6-CIDR,1.119.200.0/21
 IP6-CIDR,1.119.208.0/20
 ip6-cidr,1.119.208.0/22
 ip6-cidr,1.119.224.0/19
+
+Ip-cidr,1.2.3.3
+iP-Cidr,2.65.36.3
+IP-cidr,3.5.39.3
+ip-CIDR,5.7.9.3
+
+Ip6-cidr,1.2.3.3
+iP6-Cidr,2.65.36.3
+IP6-cidr,3.5.39.3
+ip6-CIDR,5.7.9.3
+
 

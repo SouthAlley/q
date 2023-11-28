@@ -1,44 +1,44 @@
 # 常用游戏平台整合
 
 # Humble bundle
-DOMAIN-KEYWORD,humblebundle.com
+HOST-KEYWORD,humblebundle.com
 
 # > Blizzard
 # - USER-AGENT,hearthstone*
-DOMAIN,cdp.cloud.unity3d.com
-DOMAIN-KEYWORD,battle.net
-DOMAIN-KEYWORD,battlenet.com
-DOMAIN-KEYWORD,blizzard.com
+HOST,cdp.cloud.unity3d.com
+HOST-KEYWORD,battle.net
+HOST-KEYWORD,battlenet.com
+HOST-KEYWORD,blizzard.com
 
 # Fanatical
-DOMAIN-SUFFIX,fanatical.com
+HOST-SUFFIX,fanatical.com
 
 # Steam
-DOMAIN,api.steampowered.com
-DOMAIN-KEYWORD,steamcommunity.com
-DOMAIN-KEYWORD,steampowered.com
-DOMAIN-KEYWORD,steamstatic.com
-DOMAIN-KEYWORD,steam-chat.com
-DOMAIN-KEYWORD,steamgames.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-DOMAIN-SUFFIX,steamstat.us
+HOST,api.steampowered.com
+HOST-KEYWORD,steamcommunity.com
+HOST-KEYWORD,steampowered.com
+HOST-KEYWORD,steamstatic.com
+HOST-KEYWORD,steam-chat.com
+HOST-KEYWORD,steamgames.com
+HOST-SUFFIX,steamusercontent.com
+HOST-SUFFIX,steamcontent.com
+HOST-SUFFIX,steamstatic.com
+HOST-SUFFIX,steamcdn-a.akamaihd.net
+HOST-SUFFIX,steamstat.us
 
-DOMAIN,steampowered.com
-DOMAIN-SUFFIX,steamcy.com
-DOMAIN-SUFFIX,steampoed.com
-DOMAIN-SUFFIX,steamsc.com
+host,steampowered.com
+host-suffix,steamcy.com
+host-suffix,steampoed.com
+host-suffix,steamsc.com
 
-DOMAIN-KEYWORD,epic
-DOMAIN-KEYWORD,helps.com
+host-keyword,epic
+host-keyword,helps.com
 
 
-IP-CIDR,1.119.128.0/17,no-resolve
-IP-CIDR,1.119.192.0/20,no-resolve
-IP-CIDR6,1.119.200.0/21,no-resolve
-IP-CIDR6,1.119.208.0/20,no-resolve
-IP-CIDR6,1.119.208.0/22,no-resolve
-IP-CIDR6,1.119.224.0/19,no-resolve
+ip-cidr,1.119.128.0/17
+ip-cidr,1.119.192.0/20
+IP6-CIDR,1.119.200.0/21
+IP6-CIDR,1.119.208.0/20
+ip6-cidr,1.119.208.0/22
+ip6-cidr,1.119.224.0/19
 

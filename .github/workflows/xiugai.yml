@@ -24,6 +24,7 @@ jobs:
         curl -L -o q-repo/local/ChinaIP.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list"
         curl -L -o q-repo/local/China.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list"
         curl -L -o q-repo/local/Mainland.list "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list"
+        curl -L -o q-repo/local/GamesAll.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/GamesAll.list"
 
 
     - name: Edit Surge/local
@@ -38,8 +39,8 @@ jobs:
             mv tmpfile "$file"
             # 修改为大写
             sed -i -e 's/\b[Hh][Oo][Ss][Tt],/DOMAIN,/g' "$file"
-            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Ss][Uu][Ff][Ff][Ii][Xx]/DOMAIN-SUFFIX/gI' "$file"
-            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Kk][Ee][Yy][Ww][Oo][Rr][Dd]/DOMAIN-KEYWORD/gI' "$file"
+            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Ss][Uu][Ff][Ff][Ii][Xx]/DOMAIN-SUFFIX/g' "$file"
+            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Kk][Ee][Yy][Ww][Oo][Rr][Dd]/DOMAIN-KEYWORD/g' "$file"
             sed -i 's/ip-cidr/IP-CIDR/g' "$file"
             sed -i 's/\b[Ii][Pp]6-[Cc][Ii][Dd][Rr],/IP-CIDR6,/g' "$file"
             sed -i 's/user-agent/USER-AGENT/g' "$file"

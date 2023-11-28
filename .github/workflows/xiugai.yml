@@ -38,11 +38,12 @@ jobs:
             mv tmpfile "$file"
             # 修改为大写
             sed -i -e 's/\b[Hh][Oo][Ss][Tt],/DOMAIN,/g' "$file"
-            sed -i 's/user-agent/USER-AGENT/g' "$file"
+            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Ss][Uu][Ff][Ff][Ii][Xx]/DOMAIN-SUFFIX/gI' "$file"
+            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Kk][Ee][Yy][Ww][Oo][Rr][Dd]/DOMAIN-KEYWORD/gI' "$file"
             sed -i 's/ip-cidr/IP-CIDR/g' "$file"
             sed -i 's/\b[Ii][Pp]6-[Cc][Ii][Dd][Rr],/IP-CIDR6,/g' "$file"
-            sed -i -e 's/\b[Hh][Oo][Ss][Tt]-[Ss][Uu][Ff][Ff][Ii][Xx]/DOMAIN-SUFFIX/gI' -e 's/\b[Hh][Oo][Ss][Tt]-[Kk][Ee][Yy][Ww][Oo][Rr][Dd]/DOMAIN-KEYWORD/gI' "$file"
-             # 删除不必要的部分
+            sed -i 's/user-agent/USER-AGENT/g' "$file"
+            # 删除不必要的部分
             sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
             # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
             sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"

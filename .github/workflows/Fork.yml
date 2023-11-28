@@ -62,6 +62,20 @@ jobs:
         done
 
 
+    - name: Delete matched lines from original file
+      run: |
+        original_file="q-repo/rule/ad/attach/del.ini"  # 替换为原文件的实际路径
+        del_file="q-repo/local/del.ini"
+
+        while IFS= read -r line
+        do
+          sed -i "/$line/d" "$original_file"
+        done < "$del_file"
+
+        echo "删除操作完成。"
+
+
+
     - name: Copy custom rules to Surge
       run: |
        # 如果目标文件存在，将自定义规则附加到目标文件

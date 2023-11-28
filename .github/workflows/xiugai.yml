@@ -23,6 +23,7 @@ jobs:
         curl -L -o q-repo/local/Microsoft.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list"
         curl -L -o q-repo/local/ChinaIP.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list"
         curl -L -o q-repo/local/China.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list"
+        curl -L -o q-repo/local/Mainland.list "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list"
 
 
     - name: Edit Surge/local

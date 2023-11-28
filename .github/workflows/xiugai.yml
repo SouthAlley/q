@@ -39,8 +39,8 @@ jobs:
             mv tmpfile "$file"
             # 修改为大写
             sed -i -e 's/host,/DOMAIN,/gI' "$file"
-            sed -i -e 's/host-keyword/DOMAIN-SUFFIX/gi' "$file"
-            sed -i -e 's/host-suffix/DOMAIN-KEYWORD/gI' "$file"
+            sed -i -e 's/host-suffix/DOMAIN-SUFFIX/gi' "$file"
+            sed -i -e 's/host-keyword/DOMAIN-KEYWORD/gI' "$file"
             sed -i 's/ip-cidr/IP-CIDR/gi' "$file"
             sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
             sed -i 's/user-agent/USER-AGENT/g' "$file"

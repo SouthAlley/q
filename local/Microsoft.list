@@ -1,6 +1,6 @@
 # > Microsoft
 # > Main
-USER-AGENT,microsoft*
+USER-AGENT,Microsoft*
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,windows
 DOMAIN-SUFFIX,microsoft.com
@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoft-tst.com
 
 # > Azure
-DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,Azure
 DOMAIN-KEYWORD,azure-dns
 DOMAIN-KEYWORD,azurecosmosdb
 DOMAIN-KEYWORD,azuredigitaltwins
@@ -53,7 +53,7 @@ DOMAIN-SUFFIX,bethesdagamestudios.com
 DOMAIN-SUFFIX,bethsoft.com
 
 # > Bing
-DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,Bing
 DOMAIN-KEYWORD,biying
 DOMAIN-SUFFIX,bbing.com
 DOMAIN-SUFFIX,bibg.com
@@ -121,7 +121,7 @@ DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,s-msedge.net
 
 # > Here
-DOMAIN-KEYWORD,here
+DOMAIN-KEYWORD,Here
 DOMAIN-SUFFIX,heremaps.cn
 DOMAIN-SUFFIX,ovi.com.cn
 
@@ -212,7 +212,7 @@ DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
 
 # > Office 365
-DOMAIN-KEYWORD,0ffice
+DOMAIN-KEYWORD,Office
 DOMAIN-SUFFIX,o365cn.com
 DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,o365weve-dev.com
@@ -223,9 +223,9 @@ DOMAIN-SUFFIX,officedev.cn
 DOMAIN-SUFFIX,microsoft365.com
 
 # > OneDrive & Sharepoint
-USER-AGENT,onedrive*
-USER-AGENT,Onedriveiosapp*
-DOMAIN-KEYWORD,onedrive
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
+DOMAIN-KEYWORD,Onedrive
 
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,1drv
@@ -239,7 +239,7 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-KEYWORD,onenote
 
 # > Skype
-DOMAIN-KEYWORD,skype
+DOMAIN-KEYWORD,Skype
 DOMAIN-KEYWORD,skypeassets
 DOMAIN-SUFFIX,skypeforbusiness.com
 

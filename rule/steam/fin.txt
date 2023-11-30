@@ -1,12 +1,10 @@
-# Main total line 39
-# Last updated Thu 11/30/2023 15:55:19.33
+# Main total line 38
+# Last updated Thu 11/30/2023 16:10:32.07
 # ------------------------------------------
+DOMAIN,xz.pphimalayanrt.com
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
-DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
-DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
-DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,dl.steam.ksyna.com
@@ -21,6 +19,7 @@ DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com

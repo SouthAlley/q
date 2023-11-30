@@ -30,6 +30,16 @@ jobs:
           .\r.cmd rule/steam
           .\r.cmd rule/battle
           .\r.cmd rule/epic
+          .\r.cmd rule/2k
+          .\r.cmd rule/Garena
+          .\r.cmd rule/Nintendo
+          .\r.cmd rule/Rockstar
+          .\r.cmd rule/gog
+          .\r.cmd rule/opgg
+          .\r.cmd rule/sony
+          .\r.cmd rule/ubi
+          .\r.cmd rule/xbox
+          
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

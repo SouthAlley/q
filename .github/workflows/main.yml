@@ -28,6 +28,8 @@ jobs:
           .\r.cmd rule/microsoft
           .\r.cmd rule/google
           .\r.cmd rule/steam
+          .\r.cmd rule/battle
+          .\r.cmd rule/epic
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

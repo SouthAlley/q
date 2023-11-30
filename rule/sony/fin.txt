@@ -1,0 +1,7 @@
+# Last updated Thu 11/30/2023 16:35:25.72
+# ------------------------------------------
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com

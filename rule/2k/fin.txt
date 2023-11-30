@@ -1,0 +1,6 @@
+# Last updated Thu 11/30/2023 16:35:17.29
+# ------------------------------------------
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,take2games.com

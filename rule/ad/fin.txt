@@ -1,5 +1,5 @@
-# Main total line 8200
-# Last updated Fri 12/01/2023 12:36:22.29
+# Main total line 8202
+# Last updated Fri 12/01/2023 18:24:01.95
 # ------------------------------------------
 ;HOST,mall.bilibili.com
 ;HOST,passport.bilibili.com
@@ -114,6 +114,8 @@ DOMAIN,glitter.services.disqus.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hnrtg.iujkegbpo.xyz
 DOMAIN,holmeshelptest.uc.cn
+DOMAIN,httpdns.alicdn.com
+DOMAIN,httpdns.baidubce.com
 DOMAIN,huyafile.msstatic.com
 DOMAIN,i-lq.snssdk.com
 DOMAIN,icloud-amap.com

@@ -1,17 +1,4 @@
-# Main total line 14
-# Last updated Sun 12/03/2023  5:41:17.24
+# Main total line 
+# Last updated Sun 12/03/2023  5:49:21.30
 # ------------------------------------------
 DOMAIN-KEYWORD,epicgames
-DOMAIN-SUFFIX,battlebreakers.com
-DOMAIN-SUFFIX,eac-cdn.com
-DOMAIN-SUFFIX,easy.ac
-DOMAIN-SUFFIX,easyanticheat.net
-DOMAIN-SUFFIX,fortnite.com
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,playparagon.com
-DOMAIN-SUFFIX,roborecall.com
-DOMAIN-SUFFIX,shadowcomplex.com
-DOMAIN-SUFFIX,spyjinx.com
-DOMAIN-SUFFIX,unrealengine.com
-DOMAIN-SUFFIX,unrealtournament.com

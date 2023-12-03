@@ -1,14 +1,8 @@
 # Main total line 66
-# Last updated Sun 12/03/2023 12:33:57.23
+# Last updated Sun 12/03/2023 13:52:33.68
 # ------------------------------------------
 DOMAIN,crl.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN-KEYWORD,appspot
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,recaptcha
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
@@ -65,5 +59,11 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,appspot
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,recaptcha
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve

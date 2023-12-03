@@ -1,14 +1,6 @@
 # Main total line 84
-# Last updated Sun 12/03/2023 12:33:54.05
+# Last updated Sun 12/03/2023 13:52:29.87
 # ------------------------------------------
-DOMAIN-KEYWORD,apple-support.akadns.net
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,apple.com.edgekey.net
-DOMAIN-KEYWORD,buy.itunes.apple.com
-DOMAIN-KEYWORD,icloud
-DOMAIN-KEYWORD,icoudo
-DOMAIN-KEYWORD,smp-device
-DOMAIN-KEYWORD,testflight
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple
@@ -39,6 +31,14 @@ DOMAIN-SUFFIX,itunes.com.edgekey.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-KEYWORD,apple-support.akadns.net
+DOMAIN-KEYWORD,apple.com.akadns.net
+DOMAIN-KEYWORD,apple.com.edgekey.net
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,icoudo
+DOMAIN-KEYWORD,smp-device
+DOMAIN-KEYWORD,testflight
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve

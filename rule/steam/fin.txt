@@ -1,5 +1,5 @@
 # Main total line 38
-# Last updated Sun 12/03/2023 13:52:35.59
+# Last updated Sun 12/03/2023 13:55:52.90
 # ------------------------------------------
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,csgo.wmsj.cn

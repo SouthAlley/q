@@ -126,12 +126,15 @@ busybox sed -i "/IP-CIDR/d" xn.txt
 busybox sed -i -E "s/$/,no-resolve/g" fpip.txt
 type fpip.txt>>xn.txt
 set LC_ALL='C'
+busybox sed -i -E "s/^DOMAIN-KEYWORD,/DOMAIN-TEYWORD,/g" xn.txt
 busybox sort -u -i -o bn.txt xn.txt
+busybox sed -i -E "s/^DOMAIN-TEYWORD,/DOMAIN-KEYWORD,/g" bn.txt
 set LC_ALL=
 
 ::remove too short
 echo ###Start removing
-busybox sed -i -E "/^(|.|..|...|....|.....)$/d" bn.txt
+busybox sed -i -E "/^.{,5}$/d" bn.txt
+busybox sed -i -E "/,$/d" bn.txt
 
 if not exist del.ini goto :noexistdel
 python del-file.py

@@ -1545,14 +1545,14 @@ DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,telesco.pe // Telescope
-IP-CIDR,109.239.140.0/24,no-resolve // Telegram Messenger LLP
-IP-CIDR,5.28.192.0/18,no-resolve // IPFFM - Internet Provider Frankfurt GmbH
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-IP-ASN,44907,no-resolve // Telegram Messenger Inc
-IP-ASN,62014,no-resolve // Telegram Messenger Inc
-IP-ASN,62041,no-resolve // Telegram Messenger Inc
-IP-ASN,59930,no-resolve // Telegram Messenger Inc
-IP-ASN,211157,no-resolve // Telegram Messenger Inc
+IP-ASN,44907
+IP-ASN,62014
+IP-ASN,62041
+IP-ASN,59930
+IP-ASN,211157
 
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com

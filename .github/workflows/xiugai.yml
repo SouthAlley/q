@@ -21,10 +21,37 @@ jobs:
         mkdir -p q-repo/local
         # 规则
         curl -L -o q-repo/local/Microsoft.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list"
-        curl -L -o q-repo/local/ChinaIP.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list"
-        curl -L -o q-repo/local/China.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list"
-        curl -L -o q-repo/local/Mainland.list "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list"
-        curl -L -o q-repo/local/Games.list "https://raw.githubusercontent.com/SouthAlley/q/main/local/GamesAll.list"
+        curl -L -o q-repo/local/global.ini "https://raw.githubusercontent.com/SouthAlley/q/main/rule/global/attach/del.ini"
+
+
+    - name: Edit rule/ad
+      run: |
+        cd q-repo/rule/ad/attach
+        for file in global.ini; do
+          if [ -f "$file" ]; then
+            # 修改, 为,
+            sed -i 's/, /,/g' "$file"
+            # 修改为大写
+            sed -i -e 's/host,/DOMAIN,/gi' "$file"
+            sed -i -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' "$file"
+            sed -i -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$file"
+            sed -i 's/ip-cidr,/IP-CIDR,/gi' "$file"
+            sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
+            sed -i 's/user-agent,/USER-AGENT,/g' "$file"
+            # 删除不必要的部分
+            sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
+            # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
+            sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
+            # 删除;
+            sed -i 's/;//g' "$file"
+            # 删除注释
+            sed -i 's/#.*//' "$file"
+            # 删除空行
+            sed -i '/^[[:space:]]*$/d' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
 
 
     - name: Edit Surge/local

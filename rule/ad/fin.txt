@@ -1,5 +1,5 @@
-# Main total line 8545
-# Last updated Wed 12/06/2023 12:10:59.94
+# Main total line 8554
+# Last updated Wed 12/06/2023 12:18:15.42
 # ------------------------------------------
 ;HOST,mall.bilibili.com
 ;HOST,passport.bilibili.com
@@ -39,6 +39,7 @@
 ;host-suffix,yximgs.com
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
+DOMAIN,a0.app.xiaomi.com
 DOMAIN,aboard.apilocate.amap.com
 DOMAIN,access.open.uc.cn
 DOMAIN,activity-ag.awemeughun.com
@@ -98,6 +99,7 @@ DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,api-ad.kajicam.com
 DOMAIN,api.c.uc.cn
 DOMAIN,api.iegadp.qq.com
+DOMAIN,api.installer.xiaomi.com
 DOMAIN,apis.alenable.com
 DOMAIN,apm.gotokeep.com
 DOMAIN,applog-perf.uc.cn
@@ -105,6 +107,7 @@ DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,btrace.video.qq.com
 DOMAIN,business-cdn.shouji.sogou.com
 DOMAIN,business.msstatic.com
+DOMAIN,c.clarity.ms
 DOMAIN,cartoonapi.uc.cn
 DOMAIN,cdn-new-ad.wtzw.com
 DOMAIN,cf-ads.pinger.com
@@ -121,6 +124,7 @@ DOMAIN,emoji.uc.cn
 DOMAIN,exp.360in.com
 DOMAIN,f74f7f7765f8a2f6.ngaa.net.cn
 DOMAIN,feedback.uc.cn
+DOMAIN,flash.sec.miui.com
 DOMAIN,flowplus.meituan.net
 DOMAIN,gecko-pangle-lf.snssdk.com
 DOMAIN,ggc.cmvideo.cn
@@ -156,13 +160,16 @@ DOMAIN,ma-adx.ctrip.com
 DOMAIN,mcs.snssdk.com
 DOMAIN,mercury-sdk.snssdk.com
 DOMAIN,metrics.apple.com
+DOMAIN,miav-cse.avlyun.com
 DOMAIN,miniapp.bilibili.com
+DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,msync-im1-vip6-std.easemob.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,navigis.uc.cn
 DOMAIN,newvector.map.baidu.com
 DOMAIN,nggfe.fdgem.com
+DOMAIN,o.clarity.ms
 DOMAIN,offnavi.map.baidu.com
 DOMAIN,openaicom.imgix.net
 DOMAIN,order.sm.cn
@@ -184,6 +191,7 @@ DOMAIN,rthmnj.xyz
 DOMAIN,saad.ms.zhangyue.net
 DOMAIN,safe.ucweb.com
 DOMAIN,safebrowsing.g.applimg.com
+DOMAIN,safebrowsing.googleapis-cn.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,sdk.open.talk.getui.net
@@ -213,6 +221,7 @@ DOMAIN,voice-service.uc.cn
 DOMAIN,webproxy-advp.iad-apple.com
 DOMAIN,webproxy-advp.iad-apple.com.akadns.net
 DOMAIN,wolong-dsp.sm.cn
+DOMAIN,www.clarity.ms
 DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,zgsdk.zhugeio.com

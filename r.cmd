@@ -61,7 +61,7 @@ busybox sed -i -E "s/,no-resolve$//g" 2.txt
 busybox sed -i -E "/^.*REGEX.*$/d" 2.txt
 busybox sed -i -E "/^.*AND.*$/d" 2.txt
 busybox sed -i -E "/^.*NOT.*$/d" 2.txt
-findstr .*,.*,.* 2.txt>nul && busybox sed -i -E "s/,[^,]+$//g" 2.txt && echo %%i AS WITHSUFFIX
+findstr .*,.*,.* 2.txt>nul && busybox sed -i -E "/^[^,]*,[^,]*$/ s/$/,kkk/" 2.txt && busybox sed -i -E "s/,[^,]+$//g" 2.txt && echo %%i AS WITHSUFFIX
 findstr /b /c:"||" 2.txt>nul && busybox sed -i -E "s/\|\|/DOMAIN-SUFFIX,/g" 2.txt && busybox sed -i -E "s/\^.*$//g" 2.txt && busybox sed -i -E "/\@/d" 2.txt && echo %%i AS ADBLOCK
 findstr /b /c:"." /c:"b" /c:"c" /c:"e" /c:"f" /c:"j" /c:"k" /c:"l" /c:"o" /c:"q" /c:"t" /c:"v" 2.txt>nul && busybox sed -i -E "s/^/DOMAIN,/g" 2.txt && busybox sed -i -E "s/^DOMAIN,\./DOMAIN-SUFFIX,/g" 2.txt && echo %%i AS DOMAINSET
 busybox sed -i -E "s/^host/domain/g" 2.txt

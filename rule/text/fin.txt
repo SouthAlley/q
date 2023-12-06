@@ -1,11 +1,12 @@
-# Main total line 45
-# Last updated Wed 12/06/2023  5:51:29.11
+# Main total line 48
+# Last updated Wed 12/06/2023  5:54:21.90
 # ------------------------------------------
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,apple.comscoreresearch.com
+DOMAIN,beta.apple.com
+DOMAIN,books.apple.com
 DOMAIN,books.itunes.apple.com
 DOMAIN,cdn.apple-cloudkit.com
-DOMAIN,cvws.icloud-content.com
 DOMAIN,developer.apple.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
@@ -19,13 +20,13 @@ DOMAIN,mask-api.icloud.com
 DOMAIN,mask-h2.icloud.com
 DOMAIN,mask.icloud.com
 DOMAIN,news-assets.apple.com
+DOMAIN,news-client-search.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,sandbox.itunes.apple.com
-DOMAIN,testflight.apple.com
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,apple-dns.net
@@ -38,8 +39,10 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-KEYWORD,testflight
 PROCESS-NAME,LookupViewService
 USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*

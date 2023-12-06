@@ -39,7 +39,7 @@ jobs:
           .\r.cmd rule/sony
           .\r.cmd rule/ubi
           .\r.cmd rule/xbox
-          
+          .\r.cmd rule/Telegram
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

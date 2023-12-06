@@ -1,5 +1,5 @@
-# Main total line 330
-# Last updated Wed 12/06/2023 11:06:25.80
+# Main total line 329
+# Last updated Wed 12/06/2023 11:26:11.45
 # ------------------------------------------
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
@@ -228,7 +228,6 @@ DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
 DOMAIN-SUFFIX,oaspapps.com.akadns.net
-DOMAIN-SUFFIX,onecollector.cloudapp.aria.akadns.net
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,opentranslatorstothings.org
 DOMAIN-SUFFIX,opticsforthecloud.net

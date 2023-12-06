@@ -1,5 +1,5 @@
-# Main total line 262
-# Last updated Wed 12/06/2023  9:21:26.55
+# Main total line 264
+# Last updated Wed 12/06/2023  9:31:51.30
 # ------------------------------------------
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,aicscience.com
 DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,api-extractor.com
@@ -106,6 +105,7 @@ DOMAIN-SUFFIX,kidgrid.tv
 DOMAIN-SUFFIX,kumo.com
 DOMAIN-SUFFIX,latampartneruniversity.com
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.com.akadns.net
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,livingyourambition.com
@@ -166,8 +166,10 @@ DOMAIN-SUFFIX,o365weve-dev.com
 DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
+DOMAIN-SUFFIX,oaspapps.com.akadns.net
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
+DOMAIN-SUFFIX,onecollector.cloudapp.aria.akadns.net
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,opentranslatorstothings.org
 DOMAIN-SUFFIX,opticsforthecloud.net

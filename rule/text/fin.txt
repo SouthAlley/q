@@ -1,11 +1,12 @@
-# Main total line 329
-# Last updated Wed 12/06/2023 11:26:11.45
+# Main total line 343
+# Last updated Wed 12/06/2023 11:31:52.14
 # ------------------------------------------
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
 DOMAIN-SUFFIX,a122.dscg3.akamai.net
 DOMAIN-SUFFIX,a767.dscg3.akamai.net
 DOMAIN-SUFFIX,aadrm.com
+DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,aicscience.com
@@ -23,6 +24,8 @@ DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-sphere.com
 DOMAIN-SUFFIX,azure-test.net
 DOMAIN-SUFFIX,azure.cn
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
 DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurecosmos.net
@@ -50,6 +53,8 @@ DOMAIN-SUFFIX,biing.com
 DOMAIN-SUFFIX,binads.com
 DOMAIN-SUFFIX,binb.com
 DOMAIN-SUFFIX,binf.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bing135.com
 DOMAIN-SUFFIX,bing4.com
@@ -69,7 +74,6 @@ DOMAIN-SUFFIX,bingtoolbar.com
 DOMAIN-SUFFIX,bingtranslator.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
-DOMAIN-SUFFIX,bj1.api.bing.com
 DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,bluehatil.com
 DOMAIN-SUFFIX,bluehatnights.com
@@ -107,7 +111,6 @@ DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,e-msedge.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
-DOMAIN-SUFFIX,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,explorebing.com
 DOMAIN-SUFFIX,fabric.io
@@ -182,11 +185,14 @@ DOMAIN-SUFFIX,ms365surfaceoffer.com
 DOMAIN-SUFFIX,msa.akadns6.net
 DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,mschallenge2018.com
 DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msft.net
+DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftcenterone.cn
 DOMAIN-SUFFIX,msftconnecttest.com
@@ -198,6 +204,8 @@ DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,msidentity.com
 DOMAIN-SUFFIX,msignitechina.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msnkids.com
 DOMAIN-SUFFIX,msnmaps.com
 DOMAIN-SUFFIX,msocdn.com
@@ -228,6 +236,10 @@ DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
 DOMAIN-SUFFIX,oaspapps.com.akadns.net
+DOMAIN-SUFFIX,onecollector.cloudapp.aria.akadns.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,opentranslatorstothings.org
 DOMAIN-SUFFIX,opticsforthecloud.net
@@ -248,6 +260,7 @@ DOMAIN-SUFFIX,powerbi.com
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,projectmurphy.net
 DOMAIN-SUFFIX,projectsangam.com
+DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,pwabuilder.com
 DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,reactorms.com.cn
@@ -266,6 +279,7 @@ DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,sprinklesapp.com
@@ -275,7 +289,6 @@ DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
-DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,surface.com
 DOMAIN-SUFFIX,svc.ms
@@ -310,6 +323,7 @@ DOMAIN-SUFFIX,what-fan.net
 DOMAIN-SUFFIX,winmp.cn
 DOMAIN-SUFFIX,wlxrs.com
 DOMAIN-SUFFIX,working-bing-int.com
+DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.com

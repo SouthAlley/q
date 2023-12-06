@@ -40,6 +40,7 @@ jobs:
           .\r.cmd rule/ubi
           .\r.cmd rule/xbox
           .\r.cmd rule/Telegram
+          .\r.cmd rule/text
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

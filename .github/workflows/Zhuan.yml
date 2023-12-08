@@ -16,10 +16,13 @@ jobs:
         path: q-repo
 
 
+    - name: 安装wget
+      run: sudo apt-get install wget
+
     - name: 处理规则并推送到本地仓库
       run: |
          # 下载规则文件
-         curl -L -o q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
+         wget -O q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
 
          # 进入仓库目录
          cd q-repo/O

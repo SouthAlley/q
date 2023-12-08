@@ -1,4 +1,4 @@
-# Last updated Fri 12/08/2023 12:36:27.40
+# Last updated Fri 12/08/2023 18:24:36.21
 # ------------------------------------------
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com

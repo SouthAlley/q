@@ -8,50 +8,34 @@ on:
 jobs:
   Fork-FLITER-list:
     runs-on: ubuntu-latest
-    
     steps: 
-    - name: Checkout target repository
+    - name: Checkout目标仓库
       uses: actions/checkout@v4.1.0
       with:
         repository: SouthAlley/q
         path: q-repo
-   
-    - name: Download file to Surge
-      run: |
-        mkdir -p q-repo/local
-        # 规则
-        curl -L -o q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
-        
-
-    - name: Edit Surge/local
-      run: |
-        cd q-repo/O
-        for file in proxy.list; do
-          if [ -f "$file" ]; then
-            # 修改
-            sed -i '/\./! s/^/DOMAIN,/' "$file"
-            sed -i 's/\./DOMAIN-SUFFIX,/g' "$file"
-          else
-            echo "$file not found."
-          fi
-        done
 
 
-    - name: Add and Commits
+    - name: 处理规则并推送到本地仓库
       run: |
-        cd q-repo
-        if [[ -n $(git status -s) ]]; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add O/* 
-          git commit -m "Update"
-          git push origin HEAD
-        else
-          echo "No changes to commit."
-        fi
-    
-    - name: Cleanup Workflow
-      uses: Mattraks/delete-workflow-runs@main
-      with:
-        retain_days: 0
-        keep_minimum_runs: 2
+         # 下载规则文件
+         curl -L -o q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
+
+         # 进入仓库目录
+         cd q-repo/O
+
+         # 处理规则
+         sed -i '/\./! s/^/DOMAIN,/' proxy.list
+         sed -i 's/\./DOMAIN-SUFFIX,/g' proxy.list
+
+         # 推送到本地仓库
+         git config --global user.email "you@example.com"
+         git config --global user.name "Your Name"
+         git add proxy.list
+         git commit -m "Update proxy rules"
+         git push origin master
+
+
+      
+  
+  

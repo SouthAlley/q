@@ -20,10 +20,8 @@ jobs:
       run: |
         mkdir -p q-repo/local
         # 规则
-        curl -L -o q-repo/local/Microsoft.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list"
-        curl -L -o q-repo/local/Google.list "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Google.list"
+        curl -L -o q-repo/local/proxy.list "https://ruleset.isagood.day/global_domain.conf"
         
-
 
     - name: Edit Surge/local
       run: |

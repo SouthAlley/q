@@ -22,6 +22,7 @@ jobs:
     - name: 处理规则并推送到本地仓库
       run: |
          # 下载规则文件
+         set wgetFix=-nv --no-config -t 3 --no-netrc -T 30 --connect-timeout=10 --read-timeout=10 -w 1 -4 --no-iri --no-cache -U "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1 SearchCraft/3.9.0 (Baidu; P2 16.0)" --no-cookies --https-only --no-hsts --local-encoding=UTF-8 --remote-encoding=UTF-8 --restrict-file-names=nocontrol
          wget %wgetFix% -O q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
 
          # 进入仓库目录

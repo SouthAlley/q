@@ -20,12 +20,12 @@ jobs:
       run: |
         mkdir -p q-repo/local
         # 规则
-        curl -L -o q-repo/local/proxy.list "https://ruleset.isagood.day/global_domain.conf"
+        curl -L -o q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
         
 
     - name: Edit Surge/local
       run: |
-        cd q-repo/local
+        cd q-repo/O
         for file in proxy.list; do
           if [ -f "$file" ]; then
             # 修改
@@ -43,7 +43,7 @@ jobs:
         if [[ -n $(git status -s) ]]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add local/* 
+          git add O/* 
           git commit -m "Update"
           git push origin HEAD
         else

@@ -1,5 +1,5 @@
-# Main total line 16479
-# Last updated Fri 12/08/2023  2:24:21.68
+# Main total line 16476
+# Last updated Fri 12/08/2023  3:54:43.42
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -6523,10 +6523,6 @@ DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,githack.com
-DOMAIN-SUFFIX,gitlab-static.net
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.io
-DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitstar.com
 DOMAIN-SUFFIX,gitstar.net
 DOMAIN-SUFFIX,gittigidiyor.net
@@ -16295,6 +16291,7 @@ DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,gitlab
 DOMAIN-KEYWORD,tesla
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve

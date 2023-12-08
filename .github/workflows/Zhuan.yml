@@ -22,7 +22,7 @@ jobs:
     - name: 处理规则并推送到本地仓库
       run: |
          # 下载规则文件
-         wget -O q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
+         wget %wgetFix% -O q-repo/O/proxy.list "https://ruleset.isagood.day/global_domain.conf"
 
          # 进入仓库目录
          cd q-repo/O

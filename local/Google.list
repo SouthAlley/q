@@ -1,116 +1,116 @@
-DOMAIN,# >> Google
-DOMAIN,DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,265DOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Alphabet Websites 
-DOMAIN-SUFFIX,abcDOMAIN-SUFFIX,xyz
-DOMAIN-SUFFIX,capitalgDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Android
-DOMAIN-SUFFIX,androidDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,androidifyDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Appspot
-DOMAIN,DOMAIN-KEYWORD,appspot
-DOMAIN,
-DOMAIN,# > Chrome & Chromium
-DOMAIN-SUFFIX,chromeDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,chromeexperimentsDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,chromestatusDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,chromiumDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,whatbrowserDOMAIN-SUFFIX,org
-DOMAIN,
-DOMAIN,# > Google AI
-DOMAIN-SUFFIX,autodrawDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,deepmindDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,tensorflowDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,tfhubDOMAIN-SUFFIX,dev
-DOMAIN,
-DOMAIN,# > Google APIs
-DOMAIN,translateDOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Google Blogger
-DOMAIN,DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,bloggerDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,googleblogDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Google Cloud Platform
-DOMAIN-SUFFIX,dialogflowDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,gcpDOMAIN-SUFFIX,gvt2DOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Google Developer
-DOMAIN,DOMAIN-KEYWORD,googlesource
-DOMAIN-SUFFIX,godocDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,golangDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,googlemashupsDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,gwtprojectDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,itasoftwareDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,pkgDOMAIN-SUFFIX,goDOMAIN-SUFFIX,dev
-DOMAIN-SUFFIX,shatteredDOMAIN-SUFFIX,io
-DOMAIN-SUFFIX,waveprotocolDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,webmprojectDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,webrtcDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,withgoogleDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Google Education
-DOMAIN-SUFFIX,madewithcodeDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Google Enterprise
-DOMAIN-SUFFIX,synergyseDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Gmail
-DOMAIN,DOMAIN-KEYWORD,gmail
-DOMAIN,
-DOMAIN,# > Google Recaptcha
-DOMAIN,DOMAIN-KEYWORD,recaptcha
-DOMAIN,
-DOMAIN,# > Google Static Files
-DOMAIN,DOMAIN-KEYWORD,gstatic
-DOMAIN-SUFFIX,gmodulesDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,googleusercontentDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,gvt0DOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,gvt1DOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,gvt3DOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Google VR
-DOMAIN-SUFFIX,tiltbrushDOMAIN-SUFFIX,com
-DOMAIN,
-DOMAIN,# > Material Design
-DOMAIN-SUFFIX,getmdlDOMAIN-SUFFIX,io
-DOMAIN-SUFFIX,materialDOMAIN-SUFFIX,io
-DOMAIN,
-DOMAIN,# > Other
-DOMAIN-SUFFIX,blogDOMAIN-SUFFIX,google
-DOMAIN-SUFFIX,certificate-transparencyDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,certificate-transparencyDOMAIN-SUFFIX,dev
-DOMAIN-SUFFIX,creativelab5DOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,debugDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,gvDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,polymer-projectDOMAIN-SUFFIX,org
-DOMAIN-SUFFIX,waymoDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,widevineDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,xDOMAIN-SUFFIX,company
-DOMAIN,
-DOMAIN,# > Google IP-CIDR,no-resolve
-IP-CIDR,173DOMAIN-SUFFIX,194DOMAIN-SUFFIX,0DOMAIN-SUFFIX,0/16,no-resolve
-IP-CIDR,74DOMAIN-SUFFIX,125DOMAIN-SUFFIX,0DOMAIN-SUFFIX,0/16,no-resolve
-DOMAIN,
-DOMAIN,# > Google Domestic CDNs
-DOMAIN,clientservicesDOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
-DOMAIN,fontsDOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
-DOMAIN,fontsDOMAIN-SUFFIX,gstaticDOMAIN-SUFFIX,com
-DOMAIN,ocspDOMAIN-SUFFIX,pkiDOMAIN-SUFFIX,goog
-DOMAIN,crlDOMAIN-SUFFIX,pkiDOMAIN-SUFFIX,goog
-DOMAIN,redirectorDOMAIN-SUFFIX,cDOMAIN-SUFFIX,bigcacheDOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
-DOMAIN,redirectorDOMAIN-SUFFIX,gvt1DOMAIN-SUFFIX,com
-DOMAIN,safebrowsingDOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
-DOMAIN,safebrowsing-cacheDOMAIN-SUFFIX,googleDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,dlDOMAIN-SUFFIX,googleDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,dlDOMAIN-SUFFIX,lDOMAIN-SUFFIX,googleDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,googleDOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,googletraveladservicesDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,sslDOMAIN-SUFFIX,gstaticDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,toolsDOMAIN-SUFFIX,googleDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,toolsDOMAIN-SUFFIX,lDOMAIN-SUFFIX,googleDOMAIN-SUFFIX,com
-DOMAIN-SUFFIX,updateDOMAIN-SUFFIX,googleapisDOMAIN-SUFFIX,com
+# >> Google
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,265.com
+
+# > Alphabet Websites 
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,capitalg.com
+
+# > Android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+
+# > Appspot
+DOMAIN-KEYWORD,appspot
+
+# > Chrome & Chromium
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,chromestatus.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,whatbrowser.org
+
+# > Google AI
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+
+# > Google APIs
+DOMAIN,translate.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+
+# > Google Blogger
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,googleblog.com
+
+# > Google Cloud Platform
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,gcp.gvt2.com
+
+# > Google Developer
+DOMAIN-KEYWORD,googlesource
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,googlemashups.com
+DOMAIN-SUFFIX,gwtproject.org
+DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,pkg.go.dev
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,waveprotocol.org
+DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webrtc.org
+DOMAIN-SUFFIX,withgoogle.com
+
+# > Google Education
+DOMAIN-SUFFIX,madewithcode.com
+
+# > Google Enterprise
+DOMAIN-SUFFIX,synergyse.com
+
+# > Gmail
+DOMAIN-KEYWORD,gmail
+
+# > Google Recaptcha
+DOMAIN-KEYWORD,recaptcha
+
+# > Google Static Files
+DOMAIN-KEYWORD,gstatic
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+
+# > Google VR
+DOMAIN-SUFFIX,tiltbrush.com
+
+# > Material Design
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,material.io
+
+# > Other
+DOMAIN-SUFFIX,blog.google
+DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,certificate-transparency.dev
+DOMAIN-SUFFIX,creativelab5.com
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,widevine.com
+DOMAIN-SUFFIX,x.company
+
+# > Google IP-CIDR,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
+
+# > Google Domestic CDNs
+DOMAIN,clientservices.googleapis.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,ocsp.pki.goog
+DOMAIN,crl.pki.goog
+DOMAIN,redirector.c.bigcache.googleapis.com
+DOMAIN,redirector.gvt1.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing-cache.google.com
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,dl.l.google.com
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,ssl.gstatic.com
+DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,tools.l.google.com
+DOMAIN-SUFFIX,update.googleapis.com

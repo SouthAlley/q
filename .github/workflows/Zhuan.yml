@@ -26,7 +26,7 @@ jobs:
     - name: Edit Surge/local
       run: |
         cd q-repo/local
-        for file in *.list; do
+        for file in proxy.list; do
           if [ -f "$file" ]; then
             # 修改
             sed -i '/\./! s/^/DOMAIN,/' "$file"

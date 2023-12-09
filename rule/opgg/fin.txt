@@ -1,4 +1,4 @@
-# Last updated Sat 12/09/2023  6:18:01.55
+# Last updated Sat 12/09/2023  6:23:40.53
 # ------------------------------------------
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,opgg-static.akamaized.net

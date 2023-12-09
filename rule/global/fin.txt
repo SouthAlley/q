@@ -1,5 +1,5 @@
-# Main total line 16475
-# Last updated Sat 12/09/2023  1:21:17.79
+# Main total line 16476
+# Last updated Sat 12/09/2023  6:17:39.92
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -6284,6 +6284,7 @@ DOMAIN-SUFFIX,gamesathletes.com
 DOMAIN-SUFFIX,gamesfuckgirls.com
 DOMAIN-SUFFIX,gamesofdesire.com
 DOMAIN-SUFFIX,gaming-notebooks.com
+DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,gamousa.com
 DOMAIN-SUFFIX,ganges.com
 DOMAIN-SUFFIX,ganjing.com

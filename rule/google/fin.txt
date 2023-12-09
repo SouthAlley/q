@@ -1,5 +1,5 @@
-# Main total line 489
-# Last updated Sat 12/09/2023  6:23:28.55
+# Main total line 490
+# Last updated Sat 12/09/2023  7:31:18.11
 # ------------------------------------------
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
@@ -171,6 +171,7 @@ DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
 DOMAIN-SUFFIX,googl.com
+DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gridaware.app

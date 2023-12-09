@@ -1,10 +1,11 @@
-# Main total line 16476
-# Last updated Sat 12/09/2023  6:23:20.05
+# Main total line 16498
+# Last updated Sat 12/09/2023  7:31:06.95
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,aqi.aqicn.org
 DOMAIN,asahishimbun.sc.omtrdc.net
@@ -21,6 +22,7 @@ DOMAIN,cdn.statically.io
 DOMAIN,cisco.evergage.com
 DOMAIN,cloud.oracle.com
 DOMAIN,clubhouse.pubnubapi.com
+DOMAIN,crl.versign.net
 DOMAIN,databank.worldbank.org
 DOMAIN,default.exp-tas.com
 DOMAIN,deribit.cdn.prismic.io
@@ -1387,6 +1389,7 @@ DOMAIN-SUFFIX,asianfreeforum.com
 DOMAIN-SUFFIX,asiangfvideos.com
 DOMAIN-SUFFIX,asiangirlsnextdoor.com
 DOMAIN-SUFFIX,asianphd.com
+DOMAIN-SUFFIX,asianprivatetube.com
 DOMAIN-SUFFIX,asianscreens.com
 DOMAIN-SUFFIX,asiansexdiary.com
 DOMAIN-SUFFIX,asiansmaster.com
@@ -2191,6 +2194,8 @@ DOMAIN-SUFFIX,besthentaitube.com
 DOMAIN-SUFFIX,bestiality.guru
 DOMAIN-SUFFIX,bestialitysextaboo.com
 DOMAIN-SUFFIX,bestiphonestuff.com
+DOMAIN-SUFFIX,bestkinky.com
+DOMAIN-SUFFIX,bestmallawards.com
 DOMAIN-SUFFIX,bestsexcam.com
 DOMAIN-SUFFIX,bestshoesale2014.net
 DOMAIN-SUFFIX,besttitstube.com
@@ -5340,6 +5345,9 @@ DOMAIN-SUFFIX,facebooi.com
 DOMAIN-SUFFIX,facebooik.com
 DOMAIN-SUFFIX,facebooik.org
 DOMAIN-SUFFIX,facebooj.com
+DOMAIN-SUFFIX,facebool.com
+DOMAIN-SUFFIX,facebool.info
+DOMAIN-SUFFIX,facebooll.com
 DOMAIN-SUFFIX,faceboom.com
 DOMAIN-SUFFIX,faceboon.com
 DOMAIN-SUFFIX,faceboonk.com
@@ -6062,6 +6070,7 @@ DOMAIN-SUFFIX,freehongkong.org
 DOMAIN-SUFFIX,freehqtube.com
 DOMAIN-SUFFIX,freehulu.com
 DOMAIN-SUFFIX,freeilhamtohti.org
+DOMAIN-SUFFIX,freekazakhs.org
 DOMAIN-SUFFIX,freekwonpyong.org
 DOMAIN-SUFFIX,freelifetimefuckbook.com
 DOMAIN-SUFFIX,freelotto.com
@@ -6644,6 +6653,7 @@ DOMAIN-SUFFIX,goofind.com
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
 DOMAIN-SUFFIX,googl.com
+DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
 DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,gopetition.com
@@ -8213,6 +8223,7 @@ DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,itunbes.com
 DOMAIN-SUFFIX,ituneas.com
 DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunes-radio.net
 DOMAIN-SUFFIX,itunes.co
 DOMAIN-SUFFIX,itunes.org
 DOMAIN-SUFFIX,itunes12days.com
@@ -8288,6 +8299,9 @@ DOMAIN-SUFFIX,japon-girls.com
 DOMAIN-SUFFIX,japteenx.com
 DOMAIN-SUFFIX,japxtube.com
 DOMAIN-SUFFIX,jasmin.com
+DOMAIN-SUFFIX,jayspov.net
+DOMAIN-SUFFIX,jbe-platform.com
+DOMAIN-SUFFIX,jbtalks.cc
 DOMAIN-SUFFIX,jbtalks.com
 DOMAIN-SUFFIX,jbtalks.my
 DOMAIN-SUFFIX,jcpenney.com
@@ -11547,6 +11561,7 @@ DOMAIN-SUFFIX,poringa.net
 DOMAIN-SUFFIX,porkahd.co
 DOMAIN-SUFFIX,porkbun.com
 DOMAIN-SUFFIX,porm.club
+DOMAIN-SUFFIX,port25.biz
 DOMAIN-SUFFIX,portablevpn.nl
 DOMAIN-SUFFIX,porzo.com
 DOMAIN-SUFFIX,positivessl.com
@@ -11742,6 +11757,7 @@ DOMAIN-SUFFIX,purextc.com
 DOMAIN-SUFFIX,puripuriunkomura.com
 DOMAIN-SUFFIX,purplelotus.org
 DOMAIN-SUFFIX,pursuestar.com
+DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushchinawall.com
 DOMAIN-SUFFIX,pushwoosh.com
 DOMAIN-SUFFIX,pussthecat.org
@@ -13147,6 +13163,7 @@ DOMAIN-SUFFIX,splatoon2tournament.com
 DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,spotflux.com
+DOMAIN-SUFFIX,spraynwash.com
 DOMAIN-SUFFIX,spreadprivacy.com
 DOMAIN-SUFFIX,spreadshirt.es
 DOMAIN-SUFFIX,spring-plus.net
@@ -13641,6 +13658,7 @@ DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,telebay.com
 DOMAIN-SUFFIX,telecomspace.com
 DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,telesell.com
 DOMAIN-SUFFIX,telex.cc
@@ -13925,6 +13943,9 @@ DOMAIN-SUFFIX,tiendabestbuy.com
 DOMAIN-SUFFIX,tiffany-towers.com
 DOMAIN-SUFFIX,tig-ol-bitties.live
 DOMAIN-SUFFIX,tigervpn.com
+DOMAIN-SUFFIX,timdir.com
+DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,timeinc.net
 DOMAIN-SUFFIX,timesmembership.com
 DOMAIN-SUFFIX,timesnownews.com
 DOMAIN-SUFFIX,timestalks.com
@@ -15587,6 +15608,7 @@ DOMAIN-SUFFIX,xiti.com
 DOMAIN-SUFFIX,xiuren.org
 DOMAIN-SUFFIX,xixicui.icu
 DOMAIN-SUFFIX,xizang-zhiye.org
+DOMAIN-SUFFIX,xjp.cc
 DOMAIN-SUFFIX,xjtravelguide.com
 DOMAIN-SUFFIX,xkeezmovies.com
 DOMAIN-SUFFIX,xkiwi.tk

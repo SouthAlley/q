@@ -1,5 +1,5 @@
-# Main total line 330
-# Last updated Sat 12/09/2023  6:23:26.88
+# Main total line 337
+# Last updated Sat 12/09/2023  7:31:16.03
 # ------------------------------------------
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
@@ -189,6 +189,8 @@ DOMAIN-SUFFIX,mschallenge2018.com
 DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msgamesresearch.com
+DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,msidentity.com
 DOMAIN-SUFFIX,msignitechina.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
@@ -253,6 +255,7 @@ DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN-SUFFIX,renlifang.com
 DOMAIN-SUFFIX,renovacionoffice.com
+DOMAIN-SUFFIX,s-msedge.net
 DOMAIN-SUFFIX,sankie.net
 DOMAIN-SUFFIX,sclive.net
 DOMAIN-SUFFIX,serverlesslibrary.net
@@ -294,10 +297,12 @@ DOMAIN-SUFFIX,vsallin.net
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,what-fan.net
+DOMAIN-SUFFIX,winmp.cn
 DOMAIN-SUFFIX,wlxrs.com
 DOMAIN-SUFFIX,working-bing-int.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,xamarin.com
+DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-KEYWORD,1drv
@@ -313,6 +318,8 @@ DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,internetexplorer
 DOMAIN-KEYWORD,joinms
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,msauth
+DOMAIN-KEYWORD,msft
 DOMAIN-KEYWORD,msminico
 DOMAIN-KEYWORD,msn
 DOMAIN-KEYWORD,onedrive

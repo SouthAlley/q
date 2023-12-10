@@ -1,5 +1,5 @@
 # Main total line 15
-# Last updated Sun 12/10/2023  5:35:57.97
+# Last updated Sun 12/10/2023  5:49:51.05
 # ------------------------------------------
 DOMAIN-SUFFIX,nintendo-europe.com
 DOMAIN-SUFFIX,nintendo.be

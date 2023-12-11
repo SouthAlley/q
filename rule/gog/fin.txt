@@ -1,4 +1,4 @@
-# Last updated Mon 12/11/2023 13:45:05.40
+# Last updated Mon 12/11/2023 14:00:26.34
 # ------------------------------------------
 DOMAIN,gog.salesmanago.com
 DOMAIN-SUFFIX,gog-statics.com

@@ -1,5 +1,5 @@
-# Main total line 8559
-# Last updated Wed 12/13/2023  9:25:05.99
+# Main total line 8557
+# Last updated Wed 12/13/2023  9:29:51.77
 # ------------------------------------------
 ;HOST,mall.bilibili.com
 ;HOST,passport.bilibili.com
@@ -5281,7 +5281,6 @@ DOMAIN-SUFFIX,mm.anqu.com
 DOMAIN-SUFFIX,mm9842.com
 DOMAIN-SUFFIX,mmcc.yxlady.com
 DOMAIN-SUFFIX,mmg.aty.snmsohu.aisee.tv
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mng-ads.com
 DOMAIN-SUFFIX,mnkan.com
 DOMAIN-SUFFIX,mnwan.com
@@ -8360,7 +8359,6 @@ DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com
 DOMAIN-KEYWORD,wbapp.uve.weibo.com
 DOMAIN-KEYWORD,weibomingzi.com
-DOMAIN-KEYWORD,wgo.mmstat.com
 DOMAIN-KEYWORD,widget.weibo.com
 DOMAIN-KEYWORD,wixsite.com
 DOMAIN-KEYWORD,wlmonitor

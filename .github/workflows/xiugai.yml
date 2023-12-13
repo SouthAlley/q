@@ -28,12 +28,11 @@ jobs:
         original_file="q-repo/local/all_cn.list"
         del_file="q-repo/local/Rule/all_cn.ini"
 
-        # 构建 sed 删除命令并执行
+        # Construct sed delete command and execute
         while IFS= read -r line
         do
-          sed_expr="/$line/d"
-          grep -qF "$line" "$original_file" && sed -i "$sed_expr" "$original_file"
-        done < "$del_file"
+          grep -qF "$line" "$original_file" && sed -i "/$line/d" "$original_file"
+          done < "$del_file"
 
         echo "删除操作完成。"
 

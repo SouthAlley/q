@@ -1,4 +1,4 @@
-# Last updated Wed 12/13/2023 14:37:20.03
+# Last updated Wed 12/13/2023 18:24:10.58
 # ------------------------------------------
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net

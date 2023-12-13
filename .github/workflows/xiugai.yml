@@ -23,93 +23,17 @@ jobs:
         curl -L -o q-repo/local/all_cn.list "https://ispip.clang.cn/all_cn.txt"
 
 
-    - name: Edit Surge/local
+    - name: Delete lines
       run: |
-        cd q-repo/local
-        for file in *.list; do
-          if [ -f "$file" ]; then
-            # 修改, 为,
-            sed -i 's/, /,/g' "$file"
-            # 删除规则
-            awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            # 修改为大写
-            sed -i -e 's/host,/DOMAIN,/gI' "$file"
-            sed -i -e 's/host-suffix/DOMAIN-SUFFIX/gi' "$file"
-            sed -i -e 's/host-keyword/DOMAIN-KEYWORD/gI' "$file"
-            sed -i 's/ip-cidr/IP-CIDR/gi' "$file"
-            sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
-            sed -i 's/user-agent/USER-AGENT/g' "$file"
-            # 删除不必要的部分
-            sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
-            # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
-            sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
-            # 修改;为#
-            sed -i 's/;/# /g' "$file"
-          else
-            echo "$file not found."
-          fi
-        done
+        original_file="q-repo/local/all_cn.list"
+        del_file="z-repo/Surge/cnRule/cnRule.list"
 
-    - name: Edit Surge/local to RuleSet
-      run: |
-        cd q-repo/local
-        for file in Advertising_Set.list; do
-          if [ -f "$file" ]; then
-            # 删除 DOMIAN
-            awk '{sub("DOMAIN,.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("DOMAIN-SUFFIX,.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            # 删除;
-            sed -i 's/;//g' "$file"
-            # 删除注释
-            sed -i 's/#.*//' "$file"
-            # 删除空行
-            sed -i '/^[[:space:]]*$/d' "$file"
-          else
-            echo "$file not found."
-          fi
-        done
+        while IFS= read -r line
+        do
+          sed -i "/$line/d" "$original_file"
+        done < "$del_file"
 
-    - name: Edit Surge/local to Domain
-      run: |
-        cd q-repo/local
-        for file in *_Domain.list; do
-          if [ -f "$file" ]; then
-            # DOMAIN, 移除
-            sed -i 's/DOMAIN,//g' "$file"
-            # DOMAIN-SUFFIX, 替换为 .
-            sed -i 's/DOMAIN-SUFFIX,/./g' "$file"
-            # 删除规则
-            awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("DOMAIN-KEYWORD.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("IP-CIDR,.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("IP-CIDR6,.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("IP-ASN.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("URL-REGEX.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("USER-AGENT.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("OR,.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            awk '{sub("AND,.*$", ""); print}' "$file" > tmpfile
-            mv tmpfile "$file"
-            # 删除;
-            sed -i 's/;//g' "$file"
-            # 删除注释
-            sed -i 's/#.*//' "$file"
-            # 删除空行
-            sed -i '/^[[:space:]]*$/d' "$file"
-          else
-            echo "$file not found."
-          fi
-        done
+        echo "删除操作完成。"
 
 
     - name: Add and Commits

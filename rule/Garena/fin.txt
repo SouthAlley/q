@@ -1,5 +1,5 @@
 # Main total line 15
-# Last updated Wed 12/13/2023 13:33:29.35
+# Last updated Wed 12/13/2023 14:37:17.55
 # ------------------------------------------
 DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net

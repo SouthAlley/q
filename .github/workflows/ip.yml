@@ -1,0 +1,35 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: SouthAlley/q
+        path: q-repo
+   
+    - name: Download file to Surge
+      run: |
+        mkdir -p q-repo/local/Rule
+        # 规则
+        curl -L -o q-repo/local/Rule/all_cn.ini "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/cnRule/cnRule.list"
+
+
+    - name: Add and Commits
+      run: |
+        cd q-repo
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add local/Rule/* 
+          git commit -m "Update"
+          git push origin HEAD
+        else
+          echo "No changes to commit."
+        fi

@@ -24,6 +24,32 @@ jobs:
         curl -L -o q-repo/rule/chinaip/attach/del.ini "https://raw.githubusercontent.com/SouthAlley/china/main/IPv4.China.list"
 
 
+    - name: Edit rule/ad
+      run: |
+        cd q-repo/rule/chinaip/attach
+        for file in del.ini; do
+          if [ -f "$file" ]; then
+            # 修改, 为,
+            sed -i 's/, /,/g' "$file"
+            # 修改为大写
+            sed -i -e 's/host,/DOMAIN,/gi' "$file"
+            sed -i -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' "$file"
+            sed -i -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$file"
+            sed -i 's/ip-cidr,/IP-CIDR,/gi' "$file"
+            sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
+            sed -i 's/user-agent,/USER-AGENT,/g' "$file"
+            # 删除不必要的部分
+            sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
+            sed -i 's/;//g' "$file"
+            # 删除注释
+            sed -i 's/#.*//' "$file"
+            # 删除空行
+            sed -i '/^[[:space:]]*$/d' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
 
     - name: Add and Commits
       run: |
@@ -31,7 +57,7 @@ jobs:
         if [[ -n $(git status -s) ]]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add rule/ad/attach/* 
+          git add rule/chinaip/attach/* 
           git commit -m "Update"
           git push origin HEAD
         else

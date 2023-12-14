@@ -1,5 +1,5 @@
-# Main total line 8557
-# Last updated Thu 12/14/2023 12:37:04.24
+# Main total line 8558
+# Last updated Thu 12/14/2023 18:25:17.79
 # ------------------------------------------
 ;HOST,mall.bilibili.com
 ;HOST,passport.bilibili.com
@@ -7625,6 +7625,7 @@ DOMAIN-SUFFIX,wuwho.cn
 DOMAIN-SUFFIX,wuyicom.top
 DOMAIN-SUFFIX,wuzbhjpvsf.com
 DOMAIN-SUFFIX,ww.xiaopiaoyou.com
+DOMAIN-SUFFIX,wwads.cn
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
 DOMAIN-SUFFIX,www-777563.com
 DOMAIN-SUFFIX,www.avple.video

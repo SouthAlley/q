@@ -14,12 +14,15 @@ jobs:
       with:
         repository: SouthAlley/q
         path: q-repo
+
    
     - name: Download file to Surge
       run: |
-        mkdir -p q-repo/local/Rule
-        # 规则
-        curl -L -o q-repo/local/Rule/all_cn.ini "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/cnRule/cnRule.list"
+        mkdir -p q-repo/rule/chinaip/attach
+
+        # 广告规则 
+        curl -L -o q-repo/rule/chinaip/attach/del.ini "https://raw.githubusercontent.com/SouthAlley/china/main/IPv4.China.list"
+
 
 
     - name: Add and Commits
@@ -28,7 +31,7 @@ jobs:
         if [[ -n $(git status -s) ]]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add local/Rule/* 
+          git add rule/ad/attach/* 
           git commit -m "Update"
           git push origin HEAD
         else

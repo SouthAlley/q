@@ -2,8 +2,6 @@ name: fork
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "15 20 * * *"
 
   
 jobs:
@@ -23,7 +21,7 @@ jobs:
         mkdir -p q-repo/rule/chinaip/attach
 
         # 广告规则 
-        curl -L -o q-repo/rule/chinaip/attach/del.ini "https://raw.githubusercontent.com/SouthAlley/china/main/IPv4.China.list"
+        curl -L -o q-repo/rule/china/attach/del.ini ""
 
 
     - name: Edit rule/ad

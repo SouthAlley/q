@@ -1,42 +1,6 @@
-# Main total line 8558
-# Last updated Fri 12/15/2023  1:24:34.81
+# Main total line 8522
+# Last updated Fri 12/15/2023  6:25:29.30
 # ------------------------------------------
-;HOST,mall.bilibili.com
-;HOST,passport.bilibili.com
-;host,indivi-cdn.shouji.sogou.com
-;host,js-ad.a.yximgs.com
-;host,restapi.amap.com
-;host-keyword,365yg.com
-;host-keyword,api.ribaoapi.com
-;host-keyword,apps.bytesfield.com
-;host-keyword,assets.51downapp.cn
-;host-keyword,audid-api.taobao.com
-;host-keyword,business-cdn.shouji.sogou.com
-;host-keyword,bytesmanager.com
-;host-keyword,dat8
-;host-keyword,i.snssdk.com,reject
-;host-keyword,ichannel.snssdk.com
-;host-keyword,is.snssdk.com
-;host-keyword,jads
-;host-keyword,mssdk-bu.bytedance.com
-;host-keyword,mssdk.bytedance.com
-;host-keyword,ppx.byteimg.com
-;host-keyword,pt-starimg.didistatic.com
-;host-keyword,s.weibo.com
-;host-keyword,snssdk.com
-;host-keyword,xqimg.imedao.com
-;host-suffix,ai.m.taobao.com
-;host-suffix,applovin.com
-;host-suffix,applvn.com
-;host-suffix,cloudfront.net
-;host-suffix,im.jpush.cn
-;host-suffix,im64.jpush.cn
-;host-suffix,jpush.cn
-;host-suffix,jpush.html5.qq.com
-;host-suffix,s.jpush.cn
-;host-suffix,sis.jpush.io
-;host-suffix,t.uc.cn
-;host-suffix,yximgs.com
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
 DOMAIN,a0.app.xiaomi.com

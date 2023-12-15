@@ -47,6 +47,8 @@ if not exist "%%i" wget %wgetFix% -O 2.txt "%%i"
 if exist "%%i" copy /y "%%i" .\2.txt && echo Local "%%i"
 busybox sed -i -E "/^$/d" 2.txt
 busybox sed -i -E "/\#/d" 2.txt
+busybox sed -i -E "/</d" 2.txt
+busybox sed -i -E "/^;/d" 2.txt
 busybox sed -i -E "/^\@/d" 2.txt
 busybox sed -i -E "/.	/d" 2.txt
 busybox sed -i -E "/^\!/d" 2.txt
@@ -79,6 +81,7 @@ busybox sed -i -E "s/^DOMAIN,\*\./DOMAIN-SUFFIX,/g" 2.txt
 busybox sed -i -E "s/^DOMAIN-SUFFIX,\*\./DOMAIN-SUFFIX,/g" 2.txt
 busybox sed -i -E "/^D.*,.*\*/d" 2.txt
 busybox sed -i -E "/^DOMAIN-WILDCARD/d" 2.txt
+busybox sed -i -E "/^GEOIP/d" 2.txt
 echo.>>.\2.txt
 type .\2.txt >>fas.txt
 echo Downloaded

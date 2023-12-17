@@ -1,5 +1,5 @@
-# Main total line 17
-# Last updated Sun 12/17/2023  9:46:32.57
+# Main total line 15
+# Last updated Sun 12/17/2023  9:49:38.49
 # ------------------------------------------
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -12,9 +12,7 @@ DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN-KEYWORD,tiktokcdn
+DOMAIN-KEYWORD,tiktok
 PROCESS-NAME,com.zhiliaoapp.musically
 USER-AGENT,TikTok*

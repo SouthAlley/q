@@ -41,6 +41,7 @@ jobs:
           .\r.cmd rule/xbox
           .\r.cmd rule/Telegram
           .\r.cmd rule/paypal
+          .\r.cmd rule/tiktok
           .\r.cmd rule/text
       - name: 提交
         continue-on-error: false

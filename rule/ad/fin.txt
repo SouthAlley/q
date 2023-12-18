@@ -1,5 +1,5 @@
-# Main total line 8522
-# Last updated Mon 12/18/2023 11:14:31.77
+# Main total line 8517
+# Last updated Mon 12/18/2023 12:38:07.18
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -186,8 +186,6 @@ DOMAIN,webproxy-advp.iad-apple.com
 DOMAIN,webproxy-advp.iad-apple.com.akadns.net
 DOMAIN,wolong-dsp.sm.cn
 DOMAIN,www.clarity.ms
-DOMAIN,wxsmsdy.video.qq.com
-DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-analytics.zhihu.com
 DOMAIN,zhihu-web-analytics.zhihu.com
@@ -2828,7 +2826,6 @@ DOMAIN-SUFFIX,dotomi.com
 DOMAIN-SUFFIX,dou777.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.ctfile.com
-DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.tv002.com
 DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com
 DOMAIN-SUFFIX,doubleverify.com
@@ -5047,7 +5044,6 @@ DOMAIN-SUFFIX,m.zhuyuanp.top
 DOMAIN-SUFFIX,m.zkwsdf.com
 DOMAIN-SUFFIX,m.zougg.com
 DOMAIN-SUFFIX,m.zuopp.com
-DOMAIN-SUFFIX,m1.ad.10010.com
 DOMAIN-SUFFIX,m1.baidu.com
 DOMAIN-SUFFIX,m1.daumcdn.net
 DOMAIN-SUFFIX,m2.qinsx.cn
@@ -7611,7 +7607,6 @@ DOMAIN-SUFFIX,wxb.wxbdfm.com
 DOMAIN-SUFFIX,wxmmh.net
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxtz.houmags.com
 DOMAIN-SUFFIX,wxwm1.ikuailian.com
 DOMAIN-SUFFIX,wxwm2.ikuailian.com

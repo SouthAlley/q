@@ -1,5 +1,5 @@
 # Main total line 22
-# Last updated Sun 12/17/2023 18:24:14.60
+# Last updated Mon 12/18/2023  1:25:10.24
 # ------------------------------------------
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,p-bstarstatic.akamaized.net

@@ -149,7 +149,6 @@ python del-file.py
 echo ###Counting
 for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
 echo # Main total line %bnrnum%>bnr.txt
-echo # Last updated %date% %time%>>bnr.txt
 type bnr.txt
 echo # ------------------------------------------>>bnr.txt
 type bn.txt>>bnr.txt

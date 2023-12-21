@@ -1,5 +1,4 @@
 # Main total line 85
-# Last updated Thu 12/21/2023 12:37:07.55
 # ------------------------------------------
 DOMAIN,cdn.honey.io
 DOMAIN,fraud-api.dyneti.com

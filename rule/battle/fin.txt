@@ -1,5 +1,4 @@
 # Main total line 62
-# Last updated Thu 12/21/2023 12:36:44.93
 # ------------------------------------------
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com

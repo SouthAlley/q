@@ -1,5 +1,4 @@
 # Main total line 337
-# Last updated Thu 12/21/2023 12:36:38.85
 # ------------------------------------------
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net

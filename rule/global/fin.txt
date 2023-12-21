@@ -1,5 +1,4 @@
 # Main total line 16576
-# Last updated Thu 12/21/2023 12:36:29.27
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com

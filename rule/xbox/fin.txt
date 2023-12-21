@@ -1,5 +1,4 @@
 # Main total line 38
-# Last updated Thu 12/21/2023 12:37:00.49
 # ------------------------------------------
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net

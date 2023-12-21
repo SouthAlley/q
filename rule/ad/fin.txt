@@ -1,5 +1,4 @@
-# Main total line 8517
-# Last updated Thu 12/21/2023 12:36:09.02
+# Main total line 8513
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -2006,7 +2005,6 @@ DOMAIN-SUFFIX,bydonline.com
 DOMAIN-SUFFIX,bypbwm.cn
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,byteorge.com
 DOMAIN-SUFFIX,c-adash.m.taobao.com
 DOMAIN-SUFFIX,c-nfa.jd.com
@@ -8115,7 +8113,6 @@ DOMAIN-KEYWORD,a.9game.cn
 DOMAIN-KEYWORD,a.wkanx.com
 DOMAIN-KEYWORD,a3.bytecdn.cn
 DOMAIN-KEYWORD,a3.pstatp.com
-DOMAIN-KEYWORD,ad-sign.byteimg.com
 DOMAIN-KEYWORD,ad.api.moji.com
 DOMAIN-KEYWORD,ad.ihuman.com
 DOMAIN-KEYWORD,ad.toutiao.com
@@ -8263,9 +8260,7 @@ DOMAIN-KEYWORD,onenews
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,ossgw.alicdn.com
 DOMAIN-KEYWORD,ossp.voicecloud.cn
-DOMAIN-KEYWORD,p3-pack.byteimg.com
 DOMAIN-KEYWORD,p3.pstatp.com
-DOMAIN-KEYWORD,p6-pack.byteimg.com
 DOMAIN-KEYWORD,pagespeed-mod
 DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 DOMAIN-KEYWORD,partnerad

@@ -1,4 +1,4 @@
-# Main total line 5322
+# Main total line 5323
 # ------------------------------------------
 DOMAIN,addons.mozilla.org
 DOMAIN,api.waqi.info
@@ -3929,6 +3929,7 @@ DOMAIN-SUFFIX,sku.moe
 DOMAIN-SUFFIX,skybet.com
 DOMAIN-SUFFIX,skykiwi.com
 DOMAIN-SUFFIX,skynet.be
+DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skyvegas.com
 DOMAIN-SUFFIX,skyxvpn.com
 DOMAIN-SUFFIX,slack-edge.com

@@ -1,4 +1,4 @@
-# Main total line 519
+# Main total line 491
 # ------------------------------------------
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
@@ -175,9 +175,9 @@ DOMAIN-SUFFIX,e-msedge.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,engkoo.com
-DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,explorebing.com
+DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,flipwithsurface.com
@@ -250,6 +250,7 @@ DOMAIN-SUFFIX,mcchcdn.com
 DOMAIN-SUFFIX,meetfasttrack.com
 DOMAIN-SUFFIX,meetyourdevices.com
 DOMAIN-SUFFIX,mepn.com
+DOMAIN-SUFFIX,mesh.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
 DOMAIN-SUFFIX,microbit.org
 DOMAIN-SUFFIX,minecraft.net
@@ -337,18 +338,6 @@ DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
 DOMAIN-SUFFIX,oaspapps.com.akadns.net
-DOMAIN-SUFFIX,office
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office365-net.cn
-DOMAIN-SUFFIX,office365.cn
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,office365love.com
-DOMAIN-SUFFIX,office365tw.com
-DOMAIN-SUFFIX,officedev.cn
-DOMAIN-SUFFIX,officeplus.cn
-DOMAIN-SUFFIX,officeppe.net
-DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
 DOMAIN-SUFFIX,onecollector.cloudapp.aria.akadns.net
@@ -368,10 +357,6 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,osdinfra.net
 DOMAIN-SUFFIX,outingsapp.com
-DOMAIN-SUFFIX,outlook.cn
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,outlookgroups.ms
-DOMAIN-SUFFIX,outlookmobile.com
 DOMAIN-SUFFIX,ovi.com.cn
 DOMAIN-SUFFIX,passport.net
 DOMAIN-SUFFIX,pbiwebcontent.cn
@@ -395,7 +380,6 @@ DOMAIN-SUFFIX,pwabuilder.com
 DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN-SUFFIX,renlifang.com
-DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,s-msedge.net
 DOMAIN-SUFFIX,s-msft.com
@@ -468,24 +452,6 @@ DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,what-fan.net
-DOMAIN-SUFFIX,windows
-DOMAIN-SUFFIX,windows-int.net
-DOMAIN-SUFFIX,windows-ppe.net
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.com.akadns.net
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windows.nl
-DOMAIN-SUFFIX,windows8.hk
-DOMAIN-SUFFIX,windowsazure.cn
-DOMAIN-SUFFIX,windowsazure.com
-DOMAIN-SUFFIX,windowsazurestatus.cn
-DOMAIN-SUFFIX,windowscommunity.net
-DOMAIN-SUFFIX,windowslive.cn
-DOMAIN-SUFFIX,windowsmarketplace.com
-DOMAIN-SUFFIX,windowsphone-int.com
-DOMAIN-SUFFIX,windowsphone.com
-DOMAIN-SUFFIX,windowssearch.com
-DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,winmp.cn
@@ -519,3 +485,9 @@ DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,office
+DOMAIN-KEYWORD,outlook
+DOMAIN-KEYWORD,windows
+USER-AGENT,Microsoft*
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*

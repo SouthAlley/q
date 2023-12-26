@@ -1,4 +1,4 @@
-# Main total line 16476
+# Main total line 16475
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -12997,7 +12997,6 @@ DOMAIN-SUFFIX,skydweller.cn
 DOMAIN-SUFFIX,skykiwi.com
 DOMAIN-SUFFIX,skynet.be
 DOMAIN-SUFFIX,skyoceanrescue.com
-DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skysports.com
 DOMAIN-SUFFIX,skysportsonline.com

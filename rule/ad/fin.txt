@@ -1,4 +1,4 @@
-# Main total line 8597
+# Main total line 8600
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -136,6 +136,8 @@ DOMAIN,o.clarity.ms
 DOMAIN,offnavi.map.baidu.com
 DOMAIN,openaicom.imgix.net
 DOMAIN,order.sm.cn
+DOMAIN,p1.pstatp.com
+DOMAIN,p9.pstatp.com
 DOMAIN,pin.hpplay.cn
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
@@ -8597,3 +8599,4 @@ IP-CIDR,67.229.224.28/32,no-resolve
 IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
+USER-AGENT,AVOS*

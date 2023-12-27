@@ -1,4 +1,4 @@
-# Main total line 491
+# Main total line 488
 # ------------------------------------------
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
@@ -488,6 +488,3 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,office
 DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,windows
-USER-AGENT,Microsoft*
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*

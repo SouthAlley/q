@@ -1,4 +1,4 @@
-# Main total line 84
+# Main total line 52
 # ------------------------------------------
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
@@ -52,35 +52,3 @@ IP-CIDR6,2403:300::/32,no-resolve
 IP-CIDR6,2620:149::/32,no-resolve
 IP-CIDR6,2a01:b740::/32,no-resolve
 IP-CIDR6,2a01:b747::/32,no-resolve
-USER-AGENT,%E5%9C%B0%E5%9B%BE*
-USER-AGENT,%E6%9F%A5%E6%89%BE*
-USER-AGENT,%E8%AE%BE%E7%BD%AE*
-USER-AGENT,*FindMyiPhone?
-USER-AGENT,*Music?
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,*com.apple.Maps?
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,*com.apple.mobileme.fmip1*
-USER-AGENT,AppStore*
-USER-AGENT,AppleNews*
-USER-AGENT,AppleTV*
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,FindMy*
-USER-AGENT,FindMyFriends*
-USER-AGENT,FindMyiPhone*
-USER-AGENT,Maps*
-USER-AGENT,Music*
-USER-AGENT,TestFlight*
-USER-AGENT,Wallet*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.Maps*
-USER-AGENT,com.apple.appstored*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.news*
-USER-AGENT,com.apple.trustd*
-USER-AGENT,com.apple.tv*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,passd*

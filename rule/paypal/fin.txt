@@ -1,4 +1,4 @@
-# Main total line 85
+# Main total line 84
 # ------------------------------------------
 DOMAIN,cdn.honey.io
 DOMAIN,fraud-api.dyneti.com
@@ -84,4 +84,3 @@ DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 DOMAIN-KEYWORD,paypal
-USER-AGENT,PayPal*

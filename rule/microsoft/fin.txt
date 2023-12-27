@@ -1,4 +1,4 @@
-# Main total line 337
+# Main total line 334
 # ------------------------------------------
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
@@ -334,6 +334,3 @@ DOMAIN-KEYWORD,winhec
 DOMAIN-KEYWORD,xbox
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
-USER-AGENT,Microsoft*
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*

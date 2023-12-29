@@ -19,21 +19,33 @@ jobs:
       run: |
         mkdir -p q-repo/local
         # 规则
-        curl -L -o q-repo/local/all_cn.list "https://ispip.clang.cn/all_cn.txt"
+        curl -L -o q-repo/local/proxy.list "https://raw.githubusercontent.com/SouthAlley/q/main/rule/global/fin.txt"
 
 
-    - name: Delete lines
+    - name: Edit Surge/Rule/
       run: |
-        original_file="q-repo/local/all_cn.list"
-        del_file="q-repo/local/Rule/all_cn.ini"
+        cd q-repo/local
+        for file in proxy.list; do
+          if [ -f "$file" ]; then
+            # 删除规则
+            sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|IP-CIDR\|IP-CIDR6\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$file"
+            # 删除注释
+            sed -i 's/#.*//' "$file"
+            # 删除空行
+            sed -i '/^[[:space:]]*$/d' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
 
-        # Construct sed delete command and execute
-        while IFS= read -r line
-        do
-          grep -qF "$line" "$original_file" && sed -i "/$line/d" "$original_file"
-          done < "$del_file"
 
-        echo "删除操作完成。"
+    - name: Copy custom rules
+      run: |
+       if [ -f "q-repo/local/proxy.list" ]; then
+         cat q-repo/local/local/proxy.ini >> q-repo/local/proxy.list
+       else
+         cp q-repo/local/local/proxy.ini q-repo/local/proxy.list
+       fi
 
 
     - name: Add and Commits

@@ -1,4 +1,4 @@
-name: Fork Filter lists
+name: fork ad
 
 on:
   workflow_dispatch:

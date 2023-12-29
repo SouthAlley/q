@@ -1,4 +1,4 @@
-# Main total line 11952
+# Main total line 11949
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -803,7 +803,6 @@ DOMAIN-SUFFIX,aarki.com
 DOMAIN-SUFFIX,aarki.net
 DOMAIN-SUFFIX,aax-eu-dub.amazon.com
 DOMAIN-SUFFIX,aaxads.com
-DOMAIN-SUFFIX,aaxdetect.com
 DOMAIN-SUFFIX,ab.hysdknb.com
 DOMAIN-SUFFIX,ab.meishiba.com.cn
 DOMAIN-SUFFIX,ab.sc115.com
@@ -1737,8 +1736,8 @@ DOMAIN-SUFFIX,ads.pni.com
 DOMAIN-SUFFIX,ads.pof.com
 DOMAIN-SUFFIX,ads.powweb.com
 DOMAIN-SUFFIX,ads.ppvmedien.de
-DOMAIN-SUFFIX,ads.praguetv.cz
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
+DOMAIN-SUFFIX,ads.primissima.it
 DOMAIN-SUFFIX,ads.printscr.com
 DOMAIN-SUFFIX,ads.prisacom.com
 DOMAIN-SUFFIX,ads.program3.com
@@ -1876,6 +1875,7 @@ DOMAIN-SUFFIX,adscale.de
 DOMAIN-SUFFIX,adscaspion.appspot.com
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adscholar.com
+DOMAIN-SUFFIX,adscience.nl
 DOMAIN-SUFFIX,adsclick.qq.com
 DOMAIN-SUFFIX,adsclick.yx.js.cn
 DOMAIN-SUFFIX,adsco.re
@@ -2290,6 +2290,7 @@ DOMAIN-SUFFIX,aliyuncss.com
 DOMAIN-SUFFIX,aliyunxin.com
 DOMAIN-SUFFIX,all.orfr.adgtw.orangeads.fr
 DOMAIN-SUFFIX,all.rising.com.cn
+DOMAIN-SUFFIX,all4spy.com
 DOMAIN-SUFFIX,allosponsor.com
 DOMAIN-SUFFIX,alluringbucket.com
 DOMAIN-SUFFIX,allxin.com
@@ -3868,7 +3869,6 @@ DOMAIN-SUFFIX,cszlks.com
 DOMAIN-SUFFIX,ct.210189.com
 DOMAIN-SUFFIX,ct.niu.xunlei.com
 DOMAIN-SUFFIX,ct.xiaojukeji.com
-DOMAIN-SUFFIX,ctnetwork.hu
 DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,ctsywy.com
 DOMAIN-SUFFIX,cudaojia.com
@@ -5369,7 +5369,6 @@ DOMAIN-SUFFIX,gscxs.cn
 DOMAIN-SUFFIX,gsjln04hd.com
 DOMAIN-SUFFIX,gso0.com
 DOMAIN-SUFFIX,gstat.bitauto.com
-DOMAIN-SUFFIX,gstaticx.com
 DOMAIN-SUFFIX,gt.yy.com
 DOMAIN-SUFFIX,gt4ec.net
 DOMAIN-SUFFIX,gtags.net
@@ -5386,7 +5385,6 @@ DOMAIN-SUFFIX,guardedschool.com
 DOMAIN-SUFFIX,guduopu.com
 DOMAIN-SUFFIX,guess.h.qhimg.com
 DOMAIN-SUFFIX,guestworld.tripod.lycos.com
-DOMAIN-SUFFIX,guffawdecipher.com
 DOMAIN-SUFFIX,gug.ku6cdn.com
 DOMAIN-SUFFIX,gugulonger.cn
 DOMAIN-SUFFIX,guidashu.com
@@ -7687,7 +7685,9 @@ DOMAIN-SUFFIX,news.mpush.qq.com
 DOMAIN-SUFFIX,news.s9377.com
 DOMAIN-SUFFIX,news.ssp.qq.com
 DOMAIN-SUFFIX,news.xueyanshan.com
+DOMAIN-SUFFIX,newsadsppush.com
 DOMAIN-SUFFIX,newscgp.com
+DOMAIN-SUFFIX,newsletter-link.com
 DOMAIN-SUFFIX,newspage.xilu.com
 DOMAIN-SUFFIX,newspush.sinajs.cn
 DOMAIN-SUFFIX,newstarads.com
@@ -9810,7 +9810,6 @@ DOMAIN-SUFFIX,talkingdata.com
 DOMAIN-SUFFIX,talkingdata.net
 DOMAIN-SUFFIX,tamedia.com.tw
 DOMAIN-SUFFIX,tamgrt.com
-DOMAIN-SUFFIX,tangerinenet.biz
 DOMAIN-SUFFIX,tangibleteam.com
 DOMAIN-SUFFIX,tangoutianxia.com
 DOMAIN-SUFFIX,tangyamount.com
@@ -9902,7 +9901,6 @@ DOMAIN-SUFFIX,test.surepush.cn
 DOMAIN-SUFFIX,tetrack.qq.com
 DOMAIN-SUFFIX,text-link-ads.com
 DOMAIN-SUFFIX,textad.sexsearch.com
-DOMAIN-SUFFIX,textads.biz
 DOMAIN-SUFFIX,textlink.simba.taobao.com
 DOMAIN-SUFFIX,textlinks.com
 DOMAIN-SUFFIX,tf.caohua.com
@@ -10082,7 +10080,6 @@ DOMAIN-SUFFIX,tracking.28-91473-wbm.co.uk
 DOMAIN-SUFFIX,tracking.39-bb4a9-osm.co.uk
 DOMAIN-SUFFIX,tracking.42-01pr5-osm-secure.co.uk
 DOMAIN-SUFFIX,tracking.5-47737-bi.co.uk
-DOMAIN-SUFFIX,tracking.emilyclarkconsulting.com
 DOMAIN-SUFFIX,tracking.epicgames.com
 DOMAIN-SUFFIX,tracking.exipure.com
 DOMAIN-SUFFIX,tracking.hyros.com

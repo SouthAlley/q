@@ -42,9 +42,9 @@ jobs:
     - name: Copy custom rules
       run: |
        if [ -f "q-repo/local/proxy.list" ]; then
-         cat q-repo/local/local/proxy.ini >> q-repo/local/proxy.list
+         cat q-repo/local/proxy.ini >> q-repo/local/proxy.list
        else
-         cp q-repo/local/local/proxy.ini q-repo/local/proxy.list
+         cp q-repo/local/proxy.ini q-repo/local/proxy.list
        fi
 
 

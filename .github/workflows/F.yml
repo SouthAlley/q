@@ -1,4 +1,4 @@
-name: Fork Filter
+name: Fork global
 
 on:
   workflow_dispatch:

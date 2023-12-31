@@ -1,4 +1,4 @@
-# Main total line 11948
+# Main total line 11949
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -3122,6 +3122,7 @@ DOMAIN-SUFFIX,by.tel.cdndm.com
 DOMAIN-SUFFIX,by8974.com
 DOMAIN-SUFFIX,bydonline.com
 DOMAIN-SUFFIX,bypbwm.cn
+DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteorge.com
 DOMAIN-SUFFIX,c-adash.m.taobao.com

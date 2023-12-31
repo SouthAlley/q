@@ -1,4 +1,4 @@
-# Main total line 16502
+# Main total line 16505
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -2894,6 +2894,7 @@ DOMAIN-SUFFIX,cairn.info
 DOMAIN-SUFFIX,calameo.com
 DOMAIN-SUFFIX,calebelston.com
 DOMAIN-SUFFIX,calendarserver.org
+DOMAIN-SUFFIX,calendarz.com
 DOMAIN-SUFFIX,calgarychinese.com
 DOMAIN-SUFFIX,calgarychinese.net
 DOMAIN-SUFFIX,calgon.cn
@@ -6352,6 +6353,7 @@ DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,gemfury.com
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,gendai.net
+DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genitourinaryexam.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,genkai-hounyo.com
@@ -15259,6 +15261,7 @@ DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,wballiance.com
 DOMAIN-SUFFIX,wbdnbo.net
 DOMAIN-SUFFIX,wbvm4s.com
+DOMAIN-SUFFIX,wd.bible
 DOMAIN-SUFFIX,wd.com
 DOMAIN-SUFFIX,wdc.com
 DOMAIN-SUFFIX,wdf5.com

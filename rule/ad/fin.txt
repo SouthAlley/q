@@ -1,4 +1,4 @@
-# Main total line 11949
+# Main total line 11948
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -7929,7 +7929,6 @@ DOMAIN-SUFFIX,oredero.com
 DOMAIN-SUFFIX,orionember.com
 DOMAIN-SUFFIX,orz.hupu.com
 DOMAIN-SUFFIX,osfota.cdn.aliyun.com
-DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,oss-asq-static.11222.cn
 DOMAIN-SUFFIX,ota.cartrawler.com
 DOMAIN-SUFFIX,otf.msn.com

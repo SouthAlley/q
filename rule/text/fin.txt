@@ -1,4 +1,4 @@
-# Main total line 16600
+# Main total line 16601
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -33,7 +33,6 @@ DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
 DOMAIN,ip.cn
-DOMAIN,ip.istatmenus.app
 DOMAIN,lazer.ppy.sh
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
@@ -2270,6 +2269,7 @@ DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,bitballoon.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitbay.net
+DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitchesgirls.com
 DOMAIN-SUFFIX,bitchute.com
@@ -8210,6 +8210,7 @@ DOMAIN-SUFFIX,issquareup.com
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,istars.co.nz
 DOMAIN-SUFFIX,istarshine.com
+DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,istef.info
 DOMAIN-SUFFIX,istiqlalhewer.com
 DOMAIN-SUFFIX,istockphoto.com

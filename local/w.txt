@@ -1,0 +1,22 @@
+# Telegram 电报
+## referer: https://core.telegram.org/mtproto/transports#uri-format
+## Telegram DC1
+DOMAIN,pluto.web.telegram.org,🇺🇸美国 // HTTP endpoints
+DOMAIN,pluto-1.web.telegram.org,🇺🇸美国 // HTTP endpoints
+IP-ASN,59930,🇺🇸美国,no-resolve // Data Center
+## Telegram DC2
+DOMAIN,venus.web.telegram.org,🇪🇺欧洲 // HTTP endpoints
+DOMAIN,venus-1.web.telegram.org,🇪🇺欧洲 // HTTP endpoints
+IP-ASN,44907,🇪🇺欧洲,no-resolve // Data Center
+## Telegram DC3
+DOMAIN,aurora.web.telegram.org,🇺🇸美国 // HTTP endpoints
+DOMAIN,aurora-1.web.telegram.org,🇺🇸美国 // HTTP endpoints
+IP-ASN,211157,🇺🇸美国,no-resolve // Data Center
+## Telegram DC4
+DOMAIN,vesta.web.telegram.org,🇪🇺欧洲 // HTTP endpoints
+DOMAIN,vesta-1.web.telegram.org,🇪🇺欧洲 // HTTP endpoints
+IP-ASN,62041,🇪🇺欧洲,no-resolve // Data Center
+## Telegram DC5
+DOMAIN,flora.web.telegram.org,🇸🇬新加坡 // HTTP endpoints
+DOMAIN,flora-1.web.telegram.org,🇸🇬新加坡 // HTTP endpoints
+IP-ASN,62014,🇸🇬新加坡,no-resolve // Data Center

@@ -1,4 +1,4 @@
-# Main total line 8518
+# Main total line 8515
 # ------------------------------------------
 DOMAIN,1oavsblobprodcus350.blob.core.windows.net
 DOMAIN,2052.flash2-http.qq.com
@@ -1513,7 +1513,6 @@ DOMAIN-SUFFIX,adcloud.net
 DOMAIN-SUFFIX,adcocktail.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adcome.cn
-DOMAIN-SUFFIX,adcomplete.com
 DOMAIN-SUFFIX,adcomplete.ru
 DOMAIN-SUFFIX,adconion.com
 DOMAIN-SUFFIX,adcontent.gamespy.com
@@ -2713,7 +2712,6 @@ DOMAIN-SUFFIX,awaitcola.com
 DOMAIN-SUFFIX,awakebird.com
 DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,awempire.com
-DOMAIN-SUFFIX,awesomeagreement.com
 DOMAIN-SUFFIX,awin1.com
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,awzbijw.com
@@ -3358,7 +3356,6 @@ DOMAIN-SUFFIX,consciouscheese.com
 DOMAIN-SUFFIX,consensad.com
 DOMAIN-SUFFIX,consensu.org
 DOMAIN-SUFFIX,contadores.miarroba.com
-DOMAIN-SUFFIX,contaxe.de
 DOMAIN-SUFFIX,content-square.net
 DOMAIN-SUFFIX,content.acc-hd.de
 DOMAIN-SUFFIX,content.ad
@@ -5804,7 +5801,6 @@ DOMAIN-SUFFIX,newnet.qsrch.com
 DOMAIN-SUFFIX,newnudecash.com
 DOMAIN-SUFFIX,news-l.play.ott.video.qq.com
 DOMAIN-SUFFIX,news-log.lsttnews.com
-DOMAIN-SUFFIX,newsadsppush.com
 DOMAIN-SUFFIX,newscgp.com
 DOMAIN-SUFFIX,newsletter-link.com
 DOMAIN-SUFFIX,newspush.sinajs.cn
@@ -5971,6 +5967,7 @@ DOMAIN-SUFFIX,optnx.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,orbit.jd.com
 DOMAIN-SUFFIX,orbsrv.com
+DOMAIN-SUFFIX,orientedargument.com
 DOMAIN-SUFFIX,orionember.com
 DOMAIN-SUFFIX,ot.io.mi.com
 DOMAIN-SUFFIX,ota.baidu.com

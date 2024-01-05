@@ -1,0 +1,12 @@
+# NAME: AppStore
+# HOST: 10
+DOMAIN,identity.ess.apple.com
+DOMAIN,p12-buy.itunes.apple.com
+DOMAIN,p14-buy.itunes.apple.com
+DOMAIN,p18-buy.itunes.apple.com
+DOMAIN,stats.gc.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,api.smoot.apple.com
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com

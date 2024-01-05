@@ -1,4 +1,4 @@
-# Main total line 11954
+# Main total line 11960
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -964,6 +964,7 @@ DOMAIN-SUFFIX,ad.duoduo.link
 DOMAIN-SUFFIX,ad.duomi.com
 DOMAIN-SUFFIX,ad.dzwindows.com
 DOMAIN-SUFFIX,ad.dzwww.com
+DOMAIN-SUFFIX,ad.e.waimai.sankuai.com
 DOMAIN-SUFFIX,ad.egou.com
 DOMAIN-SUFFIX,ad.endpo.in
 DOMAIN-SUFFIX,ad.epochtimes.com
@@ -3925,6 +3926,7 @@ DOMAIN-SUFFIX,d.danangmo.cn
 DOMAIN-SUFFIX,d.elong.cn
 DOMAIN-SUFFIX,d.gossipcenter.com
 DOMAIN-SUFFIX,d.kugou.com
+DOMAIN-SUFFIX,d.meituan.net
 DOMAIN-SUFFIX,d.mingyihui.net
 DOMAIN-SUFFIX,d.rexuebi.com
 DOMAIN-SUFFIX,d.ruiwen.com
@@ -4340,6 +4342,7 @@ DOMAIN-SUFFIX,drd.hauchi.com.tw
 DOMAIN-SUFFIX,drdj.m.gxwztv.com
 DOMAIN-SUFFIX,drdwy.com
 DOMAIN-SUFFIX,dreamfull.cn
+DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,dressimage.img-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,drlsf.com
 DOMAIN-SUFFIX,drm.cmgame.com
@@ -7116,6 +7119,7 @@ DOMAIN-SUFFIX,madmini.com
 DOMAIN-SUFFIX,mads.amazon.com
 DOMAIN-SUFFIX,mads.aol.com
 DOMAIN-SUFFIX,mads.dailymail.co.uk
+DOMAIN-SUFFIX,mads.meituan.com
 DOMAIN-SUFFIX,mads.suning.com
 DOMAIN-SUFFIX,madserving.com
 DOMAIN-SUFFIX,madvertise.de
@@ -7268,7 +7272,7 @@ DOMAIN-SUFFIX,megastats.com
 DOMAIN-SUFFIX,megawerbung.de
 DOMAIN-SUFFIX,meimeidaren.com
 DOMAIN-SUFFIX,meiti1.net
-DOMAIN-SUFFIX,meituan.xn--io0a7i
+DOMAIN-SUFFIX,meituan.xn
 DOMAIN-SUFFIX,meituan.yoga
 DOMAIN-SUFFIX,meituangov.cn
 DOMAIN-SUFFIX,meitubeauty.meitudata.com
@@ -11667,7 +11671,9 @@ DOMAIN-KEYWORD,v1.log.moji.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
 DOMAIN-KEYWORD,vidoza
+DOMAIN-KEYWORD,volccdn.com
 DOMAIN-KEYWORD,volceapplog.com
+DOMAIN-KEYWORD,volces.com
 DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com

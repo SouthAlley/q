@@ -1,4 +1,4 @@
-# Main total line 16575
+# Main total line 16576
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -16565,6 +16565,7 @@ DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,tesla
+DOMAIN-KEYWORD,tiktok
 IP-CIDR,104.244.40.0/21,no-resolve
 IP-CIDR,108.168.0.0/16,no-resolve
 IP-CIDR,13.251.24.0/24,no-resolve

@@ -1,9 +1,9 @@
-name: xiugai Filter
+name: global
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 */6 * * *'
+    - cron: '25 */6 * * *'
 
   
 jobs:
@@ -21,13 +21,13 @@ jobs:
       run: |
         mkdir -p q-repo/local
         # 规则
-        curl -L -o q-repo/local/proxy.list "https://raw.githubusercontent.com/SouthAlley/q/main/rule/global/fin.txt"
+        curl -L -o q-repo/local/global.list "https://raw.githubusercontent.com/SouthAlley/q/main/rule/global/fin.txt"
 
 
     - name: Edit Surge/Rule/
       run: |
         cd q-repo/local
-        for file in proxy.list; do
+        for file in global.list; do
           if [ -f "$file" ]; then
             # 删除规则
             sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|IP-CIDR\|IP-CIDR6\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$file"
@@ -44,9 +44,9 @@ jobs:
     - name: Copy custom rules
       run: |
        if [ -f "q-repo/local/proxy.list" ]; then
-         cat q-repo/local/proxy.ini >> q-repo/local/proxy.list
+         cat q-repo/local/global.ini >> q-repo/local/global.list
        else
-         cp q-repo/local/proxy.ini q-repo/local/proxy.list
+         cp q-repo/local/global.ini q-repo/local/global.list
        fi
 
 

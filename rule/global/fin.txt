@@ -1,4 +1,4 @@
-# Main total line 16575
+# Main total line 16557
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -57,6 +57,8 @@ DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,widgets.stripst.com
 DOMAIN,wrds-www.wharton.upenn.edu
+DOMAIN,www.beian.gov.cn
+DOMAIN,www.guga.co
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -7002,7 +7004,6 @@ DOMAIN-SUFFIX,hentaibar.com
 DOMAIN-SUFFIX,hentaiblue.com
 DOMAIN-SUFFIX,hentaibros.com
 DOMAIN-SUFFIX,hentaicity.com
-DOMAIN-SUFFIX,hentaicloud.com
 DOMAIN-SUFFIX,hentaiclub.net
 DOMAIN-SUFFIX,hentaicomics.life
 DOMAIN-SUFFIX,hentaicore.net
@@ -7687,23 +7688,6 @@ DOMAIN-SUFFIX,icerocket.com
 DOMAIN-SUFFIX,ichigocandy.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
-DOMAIN-SUFFIX,icloud-isupport.com
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloud.org
-DOMAIN-SUFFIX,icloudads.net
-DOMAIN-SUFFIX,icloudbox.net
-DOMAIN-SUFFIX,icloudbrowser.net
-DOMAIN-SUFFIX,icloude.com
-DOMAIN-SUFFIX,icloudhome.com
-DOMAIN-SUFFIX,icloudmail.net
-DOMAIN-SUFFIX,icloudmusic.net
-DOMAIN-SUFFIX,icloudnet.net
-DOMAIN-SUFFIX,icloudo.com
-DOMAIN-SUFFIX,icloudo.net
-DOMAIN-SUFFIX,icloudos.net
-DOMAIN-SUFFIX,icloudpay.net
-DOMAIN-SUFFIX,icloudsecure.net
-DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,icntv.xyz
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,iconfactory.net
@@ -8080,7 +8064,6 @@ DOMAIN-SUFFIX,io.io
 DOMAIN-SUFFIX,ioe.com
 DOMAIN-SUFFIX,ioffergift.com
 DOMAIN-SUFFIX,ioinformatics.org
-DOMAIN-SUFFIX,ios-icloud.com
 DOMAIN-SUFFIX,iosinthecar.com
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
@@ -10217,7 +10200,6 @@ DOMAIN-SUFFIX,myhentaigallery.com
 DOMAIN-SUFFIX,myhomemadesex.com
 DOMAIN-SUFFIX,myhpsupport.com
 DOMAIN-SUFFIX,myhulu.com
-DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,myiphide.com
 DOMAIN-SUFFIX,myipod.net
 DOMAIN-SUFFIX,myjkwd.com
@@ -15670,7 +15652,6 @@ DOMAIN-SUFFIX,wwwebay.net
 DOMAIN-SUFFIX,wwwfacebok.com
 DOMAIN-SUFFIX,wwwhost.biz
 DOMAIN-SUFFIX,wwwhuluplus.com
-DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN-SUFFIX,wwwipodlounge.com
 DOMAIN-SUFFIX,wwwitunes.com
 DOMAIN-SUFFIX,wwwmacbookair.com
@@ -16564,6 +16545,7 @@ DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,tesla
 IP-CIDR,104.244.40.0/21,no-resolve
 IP-CIDR,108.168.0.0/16,no-resolve

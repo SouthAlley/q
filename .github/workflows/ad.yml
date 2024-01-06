@@ -1,4 +1,4 @@
-name: fork ad
+name: ad
 
 on:
   workflow_dispatch:

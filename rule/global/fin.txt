@@ -1,4 +1,4 @@
-# Main total line 16579
+# Main total line 16578
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -555,7 +555,6 @@ DOMAIN-SUFFIX,acgdg.com
 DOMAIN-SUFFIX,acgdv.com
 DOMAIN-SUFFIX,acgfabu.com
 DOMAIN-SUFFIX,acgfbw.com
-DOMAIN-SUFFIX,acgjump.com
 DOMAIN-SUFFIX,acgkj.com
 DOMAIN-SUFFIX,acgnmanhua.com
 DOMAIN-SUFFIX,acgnx.se

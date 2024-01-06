@@ -1,4 +1,4 @@
-name: Fork global
+name: Fork proxy
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-# Main total line 5970
+# Main total line 5969
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -2076,7 +2076,6 @@ DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,gs-discuss.com
 DOMAIN-SUFFIX,gsearch.media
 DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gtricks.com
 DOMAIN-SUFFIX,gts-vpn.com
 DOMAIN-SUFFIX,gtv.org

@@ -27,23 +27,10 @@ jobs:
           .\r.cmd rule/apple
           .\r.cmd rule/microsoft
           .\r.cmd rule/google
-          .\r.cmd rule/steam
-          .\r.cmd rule/battle
-          .\r.cmd rule/epic
-          .\r.cmd rule/2k
-          .\r.cmd rule/Garena
-          .\r.cmd rule/Nintendo
-          .\r.cmd rule/Rockstar
-          .\r.cmd rule/gog
-          .\r.cmd rule/opgg
-          .\r.cmd rule/sony
-          .\r.cmd rule/ubi
-          .\r.cmd rule/xbox
-          .\r.cmd rule/Telegram
           .\r.cmd rule/paypal
-          .\r.cmd rule/tiktok
           .\r.cmd rule/proxy
           .\r.cmd rule/china
+          .\r.cmd rule/game
           .\r.cmd rule/text
       - name: 提交
         continue-on-error: false

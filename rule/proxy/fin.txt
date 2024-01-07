@@ -1,4 +1,4 @@
-# Main total line 5969
+# Main total line 5973
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -2879,6 +2879,9 @@ DOMAIN-SUFFIX,law.com
 DOMAIN-SUFFIX,lbank.info
 DOMAIN-SUFFIX,le-vpn.com
 DOMAIN-SUFFIX,leafyvpn.net
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,leagueoflegends.net
+DOMAIN-SUFFIX,leagueoflegends.org
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,lecloud.net
 DOMAIN-SUFFIX,ledger.com
@@ -3007,6 +3010,7 @@ DOMAIN-SUFFIX,logitechg.com.cn
 DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,logitechio.com.cn
 DOMAIN-SUFFIX,logmein.com
+DOMAIN-SUFFIX,lolespor.com
 DOMAIN-SUFFIX,londonreal.tv
 DOMAIN-SUFFIX,longmusic.com
 DOMAIN-SUFFIX,longtailvideo.com

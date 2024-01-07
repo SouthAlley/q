@@ -990,6 +990,7 @@ DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
 DOMAIN-SUFFIX,cmule.org
 DOMAIN-SUFFIX,cmx.im
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,cn.com
 DOMAIN-SUFFIX,cnabc.com
@@ -5907,7 +5908,6 @@ DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-KEYWORD,.blogspot.
-DOMAIN-KEYWORD,.cn
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,adobe

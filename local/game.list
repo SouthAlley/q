@@ -34,3 +34,20 @@ DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
+# > Origin/EA
+DOMAIN,originasserts.akamaized.net
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,rtm.tnt-ea.com
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,lordofultima.com
+DOMAIN-SUFFIX,easports.com
+DOMAIN-SUFFIX,eaplay.com
+DOMAIN-SUFFIX,origin.tv
+DOMAIN-SUFFIX,ea.com
+# Apex
+DOMAIN-SUFFIX,apexlegends.com
+DOMAIN-SUFFIX,projectapex.com

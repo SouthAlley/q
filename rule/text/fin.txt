@@ -1,13 +1,16 @@
-# Main total line 33
+# Main total line 36
 # ------------------------------------------
-DOMAIN,blizzard.nefficient.co.kr
-DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,blzddistkr1-a.akamaihd.net
-DOMAIN,bnetproduct-a.akamaihd.net
-DOMAIN,cdn.blz-contentstack.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,eaasserts-a.akamaihd.net
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,originasserts.akamaized.net
+DOMAIN,rtm.tnt-ea.com
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,lordofultima.com
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
 IP-CIDR,103.4.114.233/32,no-resolve
 IP-CIDR,103.4.115.248/32,no-resolve
 IP-CIDR,137.221.105.168/32,no-resolve

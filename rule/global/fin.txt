@@ -1,4 +1,4 @@
-# Main total line 16311
+# Main total line 16313
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -14969,6 +14969,7 @@ DOMAIN-SUFFIX,vs.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vsezoo.com
 DOMAIN-SUFFIX,vsphere.com
@@ -16298,6 +16299,7 @@ DOMAIN-KEYWORD,.cn
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,cn-hk-eq-
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,tesla

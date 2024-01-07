@@ -1,4 +1,4 @@
-# Main total line 5940
+# Main total line 5946
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5328,6 +5328,7 @@ DOMAIN-SUFFIX,vip-enterprise.com
 DOMAIN-SUFFIX,virginia.edu
 DOMAIN-SUFFIX,visibletweets.com
 DOMAIN-SUFFIX,visiontimes.com
+DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vital247.org
 DOMAIN-SUFFIX,vivahentai4u.net
 DOMAIN-SUFFIX,vivaldi.com
@@ -5414,6 +5415,10 @@ DOMAIN-SUFFIX,vrmtr.com
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vs.com
 DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
+DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vtunnel.com
 DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vultr.com
@@ -5906,6 +5911,7 @@ DOMAIN-KEYWORD,.cn
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,cn-hk-eq-
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo

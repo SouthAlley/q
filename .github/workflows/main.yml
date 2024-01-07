@@ -23,6 +23,7 @@ jobs:
         timeout-minutes: 20
         run: |
           .\r.cmd rule/ad
+          .\r.cmd rule/ad1
           .\r.cmd rule/global
           .\r.cmd rule/apple
           .\r.cmd rule/microsoft

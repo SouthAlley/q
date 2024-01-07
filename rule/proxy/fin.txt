@@ -1,4 +1,4 @@
-# Main total line 5946
+# Main total line 5935
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -2865,9 +2865,6 @@ DOMAIN-SUFFIX,law.com
 DOMAIN-SUFFIX,lbank.info
 DOMAIN-SUFFIX,le-vpn.com
 DOMAIN-SUFFIX,leafyvpn.net
-DOMAIN-SUFFIX,leagueoflegends.com
-DOMAIN-SUFFIX,leagueoflegends.net
-DOMAIN-SUFFIX,leagueoflegends.org
 DOMAIN-SUFFIX,leancloud.com
 DOMAIN-SUFFIX,lecloud.net
 DOMAIN-SUFFIX,ledger.com
@@ -2991,7 +2988,6 @@ DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,logmein.com
-DOMAIN-SUFFIX,lolespor.com
 DOMAIN-SUFFIX,londonreal.tv
 DOMAIN-SUFFIX,longmusic.com
 DOMAIN-SUFFIX,longtailvideo.com
@@ -3287,7 +3283,6 @@ DOMAIN-SUFFIX,mrface.com
 DOMAIN-SUFFIX,mrslove.com
 DOMAIN-SUFFIX,mrtweet.com
 DOMAIN-SUFFIX,msa-it.org
-DOMAIN-SUFFIX,msftauthimages.ne
 DOMAIN-SUFFIX,msguancha.com
 DOMAIN-SUFFIX,msha.gov
 DOMAIN-SUFFIX,mswe1.org
@@ -5329,7 +5324,6 @@ DOMAIN-SUFFIX,vip-enterprise.com
 DOMAIN-SUFFIX,virginia.edu
 DOMAIN-SUFFIX,visibletweets.com
 DOMAIN-SUFFIX,visiontimes.com
-DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vital247.org
 DOMAIN-SUFFIX,vivahentai4u.net
 DOMAIN-SUFFIX,vivaldi.com
@@ -5416,10 +5410,6 @@ DOMAIN-SUFFIX,vrmtr.com
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vs.com
 DOMAIN-SUFFIX,vsco.co
-DOMAIN-SUFFIX,vscode-cdn.net
-DOMAIN-SUFFIX,vscode-unpkg.net
-DOMAIN-SUFFIX,vscode-webview.net
-DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vtunnel.com
 DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vultr.com
@@ -5911,7 +5901,6 @@ DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,adobe
-DOMAIN-KEYWORD,cn-hk-eq-
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo

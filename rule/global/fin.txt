@@ -1,4 +1,4 @@
-# Main total line 16313
+# Main total line 16303
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -34,6 +34,7 @@ DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
 DOMAIN,lazer.ppy.sh
+DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN,m1.ppy.sh
@@ -3488,6 +3489,7 @@ DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
 DOMAIN-SUFFIX,cmule.org
 DOMAIN-SUFFIX,cmx.im
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,cn.com
 DOMAIN-SUFFIX,cnabc.com
@@ -8695,10 +8697,7 @@ DOMAIN-SUFFIX,lcsmerch.com
 DOMAIN-SUFFIX,ld.hao123img.com
 DOMAIN-SUFFIX,le-vpn.com
 DOMAIN-SUFFIX,leafyvpn.net
-DOMAIN-SUFFIX,leagueoflegends.com
 DOMAIN-SUFFIX,leagueoflegends.info
-DOMAIN-SUFFIX,leagueoflegends.net
-DOMAIN-SUFFIX,leagueoflegends.org
 DOMAIN-SUFFIX,leagueoflegendsscripts.com
 DOMAIN-SUFFIX,leaguesharp.info
 DOMAIN-SUFFIX,leaguoflegends.com
@@ -8945,7 +8944,6 @@ DOMAIN-SUFFIX,loholidayhk.com
 DOMAIN-SUFFIX,lokinet.org
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
-DOMAIN-SUFFIX,lolespor.com
 DOMAIN-SUFFIX,lolesports.com
 DOMAIN-SUFFIX,lolfanart.net
 DOMAIN-SUFFIX,lolhentai.net
@@ -9889,7 +9887,6 @@ DOMAIN-SUFFIX,ms4dre.com
 DOMAIN-SUFFIX,msa-it.org
 DOMAIN-SUFFIX,msflj.vip
 DOMAIN-SUFFIX,msft.info
-DOMAIN-SUFFIX,msftauthimages.ne
 DOMAIN-SUFFIX,msguancha.com
 DOMAIN-SUFFIX,msha.gov
 DOMAIN-SUFFIX,msn.net
@@ -14777,7 +14774,6 @@ DOMAIN-SUFFIX,visiontimes.com
 DOMAIN-SUFFIX,visiontimes.net
 DOMAIN-SUFFIX,visiontimesjp.com
 DOMAIN-SUFFIX,visualstudio.co
-DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vital247.org
 DOMAIN-SUFFIX,vitukali.com
 DOMAIN-SUFFIX,vivahentai4u.net
@@ -14967,10 +14963,6 @@ DOMAIN-SUFFIX,vrsumo.com
 DOMAIN-SUFFIX,vrv.co
 DOMAIN-SUFFIX,vs.com
 DOMAIN-SUFFIX,vsco.co
-DOMAIN-SUFFIX,vscode-cdn.net
-DOMAIN-SUFFIX,vscode-unpkg.net
-DOMAIN-SUFFIX,vscode-webview.net
-DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vsezoo.com
 DOMAIN-SUFFIX,vsphere.com
 DOMAIN-SUFFIX,vsphere.net
@@ -16295,11 +16287,9 @@ DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
 DOMAIN-KEYWORD,.blogspot.
-DOMAIN-KEYWORD,.cn
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,apple
-DOMAIN-KEYWORD,cn-hk-eq-
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,tesla

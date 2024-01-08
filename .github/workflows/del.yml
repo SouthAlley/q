@@ -62,10 +62,15 @@ jobs:
       - name: Copy custom rules to Surge
         run: |
           if [ -f "q-repo/rule/${{ matrix.rule_type }}/attach/del.ini" ]; then
-            cat q-repo/local/add${{ matrix.rule_type }}.ini >> q-repo/rule/${{ matrix.rule_type }}/attach/del.ini
+            if [ -f "q-repo/local/add${{ matrix.rule_type }}.ini" ]; then
+              cat q-repo/local/add${{ matrix.rule_type }}.ini >> q-repo/rule/${{ matrix.rule_type }}/attach/del.ini
+            else
+              echo "q-repo/local/add${{ matrix.rule_type }}.ini not found. Skipping copying custom rules."
+            fi
           else
-            cp q-repo/local/add${{ matrix.rule_type }}.ini q-repo/rule/${{ matrix.rule_type }}/attach/del.ini
-          fi
+             echo "q-repo/rule/${{ matrix.rule_type }}/attach/del.ini not found. Skipping copying custom rules."
+            fi
+
 
       - name: Add and Commits
         run: |

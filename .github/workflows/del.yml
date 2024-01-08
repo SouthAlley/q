@@ -88,8 +88,8 @@ jobs:
              do
               # 转义 line 变量中的特殊字符
               escaped_line=$(printf '%s\n' "$line" | sed -e 's/[]\/$*.^[]/\\&/g')
-              # 使用 sed 删除原始文件中匹配的行
-              sed -i "/$line/d" "$original_file"
+              # 使用 awk 进行匹配并输出不匹配的行
+              awk '!index($0, "'"${escaped_line}"'")' "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
             done < "$del_file"
 
              # 输出删除操作完成的消息

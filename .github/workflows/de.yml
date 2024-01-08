@@ -27,11 +27,16 @@ jobs:
     - name: Download rules to Surge
       run: |
         mkdir -p q-repo/rule/${{ matrix.repo_path }}/attach
-        if [ "${{ matrix.repo_path }}" != "ad" ]; then
-          curl -L -o q-repo/rule/${{ matrix.repo_path }}/attach/del.ini "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
-        else
-          curl -L -o q-repo/rule/${{ matrix.repo_path }}/attach/del.ini "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
-        fi
+        rule_url=""
+
+        case "${{ matrix.repo_path }}" in
+          "ad") rule_url="https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list" ;;
+          *) rule_url="https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list" ;;
+        esac
+
+        curl -L -o q-repo/rule/${{ matrix.repo_path }}/attach/del.ini "$rule_url"
+        
+
 
     - name: Edit rules
       run: |

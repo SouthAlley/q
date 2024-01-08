@@ -28,9 +28,9 @@ jobs:
             sed -i 's/#.*//' "${file}.list"
             sed -i '/^[[:space:]]*$/d' "${file}.list"
             if [ -f "q-repo/local/ini/${file}.ini" ]; then
-              cat q-repo/local/ini/"${file}.ini" >> "${file}.list"
+               cat q-repo/local/ini/"${file}.ini" >> "q-repo/local/${file}.list"
             else
-              cp "q-repo/local/ini/${file}.ini" "${file}.list"
+               cp "q-repo/local/ini/${file}.ini" "q-repo/local/${file}.list"
             fi
           else
             echo "${file}.list not found."

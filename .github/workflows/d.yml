@@ -29,17 +29,16 @@ jobs:
 
     - name: Edit rules
       run: |
-        cd "q-repo/rule/${rule_type}/attach"
-        pwd  # 打印当前目录以进行调试
-        ls -la  # 列出当前目录中的文件以进行调试
-        for file in del.ini; do
-          if [ -f "$file" ]; then
-            # 脚本的其余部分
-          else
-            echo "$file 未找到。"
-          fi
-        done
-        cd ../../
+          for rule_type in global ad; do
+            cd q-repo/rule/$rule_type/attach
+            for file in del.ini; do
+              if [ -f "$file" ]; then
+                sed -i 's/, /,/g; s/host,/DOMAIN,/gi; s/host-suffix,/DOMAIN-SUFFIX,/gi; s/host-keyword,/DOMAIN-KEYWORD,/gi; s/ip-cidr,/IP-CIDR,/gi; s/ip6-cidr,/IP-CIDR6,/gi; s/user-agent,/USER-AGENT,/g; s/\([^,]*,[^,]*\),.*/\1/g; /IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}; s/;//g; s/#.*//; /^[[:space:]]*$/d' "$file"
+              else
+                echo "$file not found."
+              fi
+            done
+          done
 
     - name: Delete matched lines from original file
       run: |

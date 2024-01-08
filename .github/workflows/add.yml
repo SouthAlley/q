@@ -27,7 +27,7 @@ jobs:
             sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|IP-CIDR\|IP-CIDR6\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "${file}.list"
             sed -i 's/#.*//' "${file}.list"
             sed -i '/^[[:space:]]*$/d' "${file}.list"
-            if [ -f "${file}.ini" ]; then
+            if [ -f "ini/${file}.ini" ]; then
               cat "ini/${file}.ini" >> "${file}.list"
             else
               cp "ini/${file}.ini" "${file}.list"

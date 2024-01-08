@@ -31,7 +31,7 @@ jobs:
       run: |
         cd q-repo
         for rule_type in ad global; do
-          cd "rule/${rule_type}/attach"
+          cd "q-repo/rule/${rule_type}/attach"
           for file in del.ini; do
             if [ -f "$file" ]; then
             # 修改, 为,

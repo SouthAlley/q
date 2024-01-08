@@ -1,4 +1,4 @@
-name: combined-workflow
+name: add
 
 on:
   workflow_dispatch:

@@ -117,7 +117,7 @@ jobs:
           if [[ -n $(git status -s) ]]; then
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
-            git add local/*
+            git add "rule/$rule_type/attach/*"
             git commit -m "Update rules"
             git push origin HEAD
           else

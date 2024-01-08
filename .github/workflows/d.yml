@@ -29,9 +29,9 @@ jobs:
 
     - name: Edit rules
       run: |
-          cd "q-repo/rule/${rule_type}/attach"
-          for file in del.ini; do
-            if [ -f "$file" ]; then
+        cd "q-repo/rule/${rule_type}/attach"
+        for file in del.ini; do
+          if [ -f "$file" ]; then
             # 修改, 为,
             sed -i 's/, /,/g' "$file"
             # 修改为大写

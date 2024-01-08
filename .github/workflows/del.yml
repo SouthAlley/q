@@ -21,11 +21,13 @@ jobs:
           
       - name: 下载文件到 Surge
         run: |
-           # 定义文件、路径和 URL 列表
-           declare -A file_path_url
-           file_path_url["MyBlockAds.list"]="ad/attach/del.ini https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
-           file_path_url["StreamingRule.list"]="global/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
-           file_path_url["AnotherRule.list"]="proxy/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+           # 定义关联数组，键为文件名，值为路径和 URL 的组合
+           declare -A file_path_url=(
+              ["MyBlockAds.list"]="ad/attach/del.ini https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
+              ["StreamingRule.list"]="global/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+              ["AnotherRule.list"]="proxy/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+              
+                )
 
            # 循环处理每个文件
            for file in "${!file_path_url[@]}"; do

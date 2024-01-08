@@ -1,4 +1,4 @@
-# Main total line 8515
+# Main total line 8513
 # ------------------------------------------
 DOMAIN,1oavsblobprodcus350.blob.core.windows.net
 DOMAIN,2052.flash2-http.qq.com
@@ -775,7 +775,6 @@ DOMAIN,p4psearch.china.alibaba.com
 DOMAIN,p9.pstatp.com
 DOMAIN,paas-push-api-log.immomo.com
 DOMAIN,pacaio.match.qq.com
-DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin.snssdk.com.w.cdngslb.com
 DOMAIN,paopao.iqiyi.com
 DOMAIN,paopaotuan.org
@@ -2575,7 +2574,6 @@ DOMAIN-SUFFIX,api.youtu.qq.com
 DOMAIN-SUFFIX,api3.adspruce.com
 DOMAIN-SUFFIX,api4report.adsplay.xyz
 DOMAIN-SUFFIX,apidns.kwd.inkuai.com
-DOMAIN-SUFFIX,apm-log-upload.mihoyo.com
 DOMAIN-SUFFIX,apm.douyucdn.cn
 DOMAIN-SUFFIX,apmconfig.douyucdn.cn
 DOMAIN-SUFFIX,apoll.m.taobao.com

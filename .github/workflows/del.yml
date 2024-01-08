@@ -21,20 +21,22 @@ jobs:
           
       - name: 下载文件到 Surge
         run: |
-            # 定义文件的 URL 列表
-            files=("https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list" 
-                   "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
-                   "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list")
+           # 定义文件、路径和 URL 列表
+           declare -A file_path_url
+           file_path_url["MyBlockAds.list"]="ad/attach/del.ini https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
+           file_path_url["StreamingRule.list"]="global/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+           file_path_url["AnotherRule.list"]="proxy/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
 
-            # 定义文件的目标相对路径列表
-            destinations=("ad/attach/del.ini" "global/attach/del.ini" "proxy/attach/del.ini")
-
-            # 循环处理每个文件
-            for ((i=0; i<${#files[@]}; i++)); do
-              # 创建目标文件所在的目录（如果不存在）
-              mkdir -p "q-repo/rule/${destinations[$i]%/*}"
-              # 使用 curl 下载文件到目标路径
-              curl -L -o "q-repo/rule/${destinations[$i]}" "${files[$i]}"
+           # 循环处理每个文件
+           for file in "${!file_path_url[@]}"; do
+               # 分割路径和 URL
+               IFS=' ' read -r path url <<< "${file_path_url[$file]}"
+    
+               # 创建目标文件所在的目录（如果不存在）
+               mkdir -p "q-repo/rule/${path%/*}"
+    
+               # 使用 curl 下载文件到目标路径
+               curl -L -o "q-repo/rule/$path" "$url"
             done
 
       - name: 编辑规则文件 rule/ad

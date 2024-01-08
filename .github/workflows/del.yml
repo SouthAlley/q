@@ -37,7 +37,6 @@ jobs:
               curl -L -o "q-repo/rule/${destinations[$i]}" "${files[$i]}"
             done
 
-
       - name: 编辑规则文件 rule/ad
         run: |
            # 定义文件列表
@@ -117,14 +116,9 @@ jobs:
           if [[ -n $(git status -s) ]]; then
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
-            git add "rule/$rule_type/attach/*"
+            git add "rule/ad/attach/*" "rule/global/attach/*" "rule/proxy/attach/*"
             git commit -m "Update rules"
             git push origin HEAD
           else
             echo "No changes to commit."
           fi
-
-
-           
-
-

@@ -28,9 +28,9 @@ jobs:
             sed -i 's/#.*//' "${file}.list"
             sed -i '/^[[:space:]]*$/d' "${file}.list"
             if [ -f "${file}.ini" ]; then
-              cat "${file}.ini" >> "${file}.list"
+              cat "ini/${file}.ini" >> "${file}.list"
             else
-              cp "${file}.ini" "${file}.list"
+              cp "ini/${file}.ini" "${file}.list"
             fi
           else
             echo "${file}.list not found."

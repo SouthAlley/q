@@ -33,8 +33,8 @@ jobs:
 
             sed -i 's/, /,/g; s/host,/DOMAIN,/gi; s/host-suffix,/DOMAIN-SUFFIX,/gi; s/host-keyword,/DOMAIN-KEYWORD,/gi; s/ip-cidr,/IP-CIDR,/gi; s/ip6-cidr,/IP-CIDR6,/gi; s/user-agent,/USER-AGENT,/g; s/\([^,]*,[^,]*\),.*/\1/g; /IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}; s/;//g; s/#.*//; /^[[:space:]]*$/d' "q-repo/rule/$rule_type/attach/del.ini"
 
-            original_file="q-repo/rule/$rule_type/attach/del.ini"
-            del_file="q-repo/local/del/del${rule_type}.ini"
+            original_file="rule/$rule_type/attach/del.ini"
+            del_file="local/del/del${rule_type}.ini"
 
             if [ -f "$del_file" ]; then
               while IFS= read -r line; do
@@ -45,14 +45,14 @@ jobs:
               echo "$del_file not found. Skipping deletion."
             fi
 
-            if [ -f "q-repo/rule/$rule_type/attach/del.ini" ]; then
-              if [ -f "q-repo/local/add/add${rule_type}.ini" ]; then
-                cat "q-repo/local/add/add${rule_type}.ini" >> "q-repo/rule/$rule_type/attach/del.ini"
+            if [ -f "rule/$rule_type/attach/del.ini" ]; then
+              if [ -f "local/add/add${rule_type}.ini" ]; then
+                cat "local/add/add${rule_type}.ini" >> "rule/$rule_type/attach/del.ini"
               else
-                echo "q-repo/local/add/add${rule_type}.ini not found. Skipping copying custom rules."
+                echo "local/add/add${rule_type}.ini not found. Skipping copying custom rules."
               fi
             else
-              echo "q-repo/rule/$rule_type/attach/del.ini not found. Skipping copying custom rules."
+              echo "rule/$rule_type/attach/del.ini not found. Skipping copying custom rules."
             fi
 
             # Add and Commits

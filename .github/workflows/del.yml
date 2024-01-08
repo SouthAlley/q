@@ -26,7 +26,11 @@ jobs:
       - name: Download file to Surge
         run: |
           mkdir -p q-repo/rule/${{ matrix.rule_type }}/attach
-          curl -L -o q-repo/rule/${{ matrix.rule_type }}/attach/del.ini "https://raw.githubusercontent.com/${{ matrix.rule_type == 'ad' ? 'RuCu6/QuanX' : 'SouthAlley/z' }}/main/Rules/${{ matrix.rule_type == 'ad' ? 'MyBlockAds' : 'StreamingRule/StreamingRule' }}.list"
+          if [ "${{ matrix.rule_type }}" == "ad" ]; then
+            curl -L -o q-repo/rule/ad/attach/del.ini "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
+          else
+            curl -L -o q-repo/rule/global/attach/del.ini "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+          fi
 
       - name: Edit rule/${{ matrix.rule_type }}
         run: |

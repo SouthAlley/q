@@ -104,16 +104,19 @@ jobs:
           rule_types=("ad" "proxy" "global")
 
           for rule_type in "${rule_types[@]}"; do
-            # 如果目标文件存在，将自定义规则附加到目标文件
-            if [ -f "q-repo/rule/${rule_type}/attach/del.ini" ]; then
-              cat "q-repo/local/add/add${rule_type}.ini" >> "q-repo/rule/${rule_type}/attach/del.ini"
-            else
-              # 如果目标文件不存在，直接复制自定义规则文件
-              cp "q-repo/local/add/add${rule_type}.ini" "q-repo/rule/${rule_type}/attach/del.ini"
-            fi
+            # 定义目标文件路径
+            target_file="q-repo/rule/${rule_type}/attach/del.ini"
 
-            # 输出添加操作完成的消息
-            echo "添加${rule_type}操作完成。"
+            # 判断自定义规则文件是否存在
+            if [ -f "q-repo/local/add/add${rule_type}.ini" ]; then
+              # 如果目标文件存在，将自定义规则附加到目标文件
+              cat "q-repo/local/add/add${rule_type}.ini" >> "$target_file"
+              # 输出添加操作完成的消息
+              echo "添加${rule_type}操作完成。"
+           else
+             # 如果自定义规则文件不存在，输出相应的消息
+             echo "q-repo/local/add/add${rule_type}.ini 不存在。跳过添加${rule_type}操作。"
+           fi
           done
 
       - name: Add and Commit changes

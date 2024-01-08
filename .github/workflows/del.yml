@@ -25,7 +25,7 @@ jobs:
             mkdir -p "q-repo/rule/$rule_type/attach"
             
             # Download rule file
-            rule_url="https://raw.githubusercontent.com/${rule_type^}Cu6/QuanX/main/Rules/MyBlockAds.list"
+            rule_url="https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
             if [ "$rule_type" == "global" ]; then
               rule_url="https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
             fi

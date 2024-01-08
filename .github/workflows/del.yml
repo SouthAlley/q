@@ -86,6 +86,8 @@ jobs:
             # 遍历删除规则文件的每一行
              while IFS= read -r line
              do
+              # 转义 line 变量中的特殊字符
+              escaped_line=$(printf '%s\n' "$line" | sed -e 's/[]\/$*.^[]/\\&/g')
               # 使用 sed 删除原始文件中匹配的行
               sed -i "/$line/d" "$original_file"
             done < "$del_file"

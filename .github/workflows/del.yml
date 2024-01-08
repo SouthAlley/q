@@ -73,24 +73,30 @@ jobs:
 
       - name: 删除匹配行从原始文件
         run: |
-         # 定义规则类型（ad、proxy、global）
-         rule_types=("ad" "proxy" "global")
+          # 定义规则类型（ad、proxy、global）
+          rule_types=("ad" "proxy" "global")
 
-         for rule_type in "${rule_types[@]}"; do
-           # 定义原始文件和删除规则文件的路径
-           original_file="q-repo/rule/${rule_type}/attach/del.ini"
-           del_file="q-repo/local/del/del${rule_type}.ini"
+          for rule_type in "${rule_types[@]}"; do
+             # 定义原始文件和删除规则文件的路径
+             original_file="q-repo/rule/${rule_type}/attach/del.ini"
+             del_file="q-repo/local/del/del${rule_type}.ini"
 
-           # 遍历删除规则文件的每一行
-           while IFS= read -r line
-           do
-             # 使用 sed 删除原始文件中匹配的行
-             sed -i "/$line/d" "$original_file"
-          done < "$del_file"
+            # 判断删除规则文件是否存在
+            if [ -f "$del_file" ]; then
+            # 遍历删除规则文件的每一行
+             while IFS= read -r line
+             do
+              # 使用 sed 删除原始文件中匹配的行
+              sed -i "/$line/d" "$original_file"
+            done < "$del_file"
 
-          # 输出删除操作完成的消息
-          echo "删除${rule_type}操作完成。"
-         done
+             # 输出删除操作完成的消息
+             echo "删除${rule_type}操作完成。"
+           else
+             # 如果删除规则文件不存在，输出相应的消息
+             echo "$del_file 不存在。跳过删除${rule_type}操作。"
+            fi
+          done
 
       - name: 复制自定义规则到 Surge
         run: |

@@ -1,0 +1,130 @@
+name: Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Fork-Filter-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4.1.0
+        with:
+          repository: SouthAlley/q
+          path: q-repo
+          
+      - name: 下载文件到 Surge
+        run: |
+            # 定义文件的 URL 列表
+            files=("https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list" 
+                   "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+                   "https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list")
+
+            # 定义文件的目标相对路径列表
+            destinations=("ad/attach/del.ini" "global/attach/del.ini" "proxy/attach/del.ini")
+
+            # 循环处理每个文件
+            for ((i=0; i<${#files[@]}; i++)); do
+              # 创建目标文件所在的目录（如果不存在）
+              mkdir -p "q-repo/rule/${destinations[$i]%/*}"
+              # 使用 curl 下载文件到目标路径
+              curl -L -o "q-repo/rule/${destinations[$i]}" "${files[$i]}"
+            done
+
+
+      - name: 编辑规则文件 rule/ad
+        run: |
+           # 定义文件列表
+           files=("q-repo/rule/ad/attach/del.ini" 
+                  "q-repo/rule/global/attach/del.ini" 
+                  "q-repo/rule/proxy/attach/del.ini")
+
+           # 循环处理每个文件
+           for file in "${files[@]}"; do
+             if [ -f "$file" ]; then
+               # 修改逗号为单独的逗号
+               sed -i 's/, /,/g' "$file"
+               # 替换 host 为 DOMAIN，忽略大小写
+               sed -i -e 's/host,/DOMAIN,/gi' "$file"
+               sed -i -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' "$file"
+               sed -i -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$file"
+               sed -i 's/ip-cidr,/IP-CIDR,/gi' "$file"
+               sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
+               sed -i 's/user-agent,/USER-AGENT,/g' "$file"
+               # 删除不必要的部分
+               sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
+               # 如果包含 IP-CIDR 且不包含 no-resolve 则添加 no-resolve
+               sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
+               # 删除分号
+               sed -i 's/;//g' "$file"
+               # 删除注释
+               sed -i 's/#.*//' "$file"
+               # 删除空行
+               sed -i '/^[[:space:]]*$/d' "$file"
+            else
+              echo "$file 未找到。"
+            fi
+           done
+
+      - name: 删除匹配行从原始文件
+        run: |
+         # 定义规则类型（ad、proxy、global）
+         rule_types=("ad" "proxy" "global")
+
+         for rule_type in "${rule_types[@]}"; do
+           # 定义原始文件和删除规则文件的路径
+           original_file="q-repo/rule/${rule_type}/attach/del.ini"
+           del_file="q-repo/local/del/del${rule_type}.ini"
+
+           # 遍历删除规则文件的每一行
+           while IFS= read -r line
+           do
+             # 使用 sed 删除原始文件中匹配的行
+             sed -i "/$line/d" "$original_file"
+          done < "$del_file"
+
+          # 输出删除操作完成的消息
+          echo "删除${rule_type}操作完成。"
+         done
+
+      - name: 复制自定义规则到 Surge
+        run: |
+          # 定义规则类型（ad、proxy、global）
+          rule_types=("ad" "proxy" "global")
+
+          for rule_type in "${rule_types[@]}"; do
+            # 如果目标文件存在，将自定义规则附加到目标文件
+            if [ -f "q-repo/rule/${rule_type}/attach/del.ini" ]; then
+              cat "q-repo/local/add/add${rule_type}.ini" >> "q-repo/rule/${rule_type}/attach/del.ini"
+            else
+              # 如果目标文件不存在，直接复制自定义规则文件
+              cp "q-repo/local/add/add${rule_type}.ini" "q-repo/rule/${rule_type}/attach/del.ini"
+            fi
+
+            # 输出添加操作完成的消息
+            echo "添加${rule_type}操作完成。"
+          done
+
+      - name: Add and Commit changes
+        run: |
+          cd q-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add local/*
+            git commit -m "Update rules"
+            git push origin HEAD
+          else
+            echo "No changes to commit."
+          fi
+
+
+           
+
+

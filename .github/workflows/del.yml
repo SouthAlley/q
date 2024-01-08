@@ -6,7 +6,7 @@ on:
       target:
         description: 'Target rule set (global/proxy/ad)'
         required: true
-        default: 'global'
+
 
   schedule:
     - cron: "0 */6 * * *"

@@ -29,7 +29,7 @@ jobs:
               rule_url="https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
             fi
 
-            curl -L -o rule/$rule_type/attach/del.ini" "$rule_url"
+            curl -L -o "rule/$rule_type/attach/del.ini" "$rule_url"
 
             sed -i 's/, /,/g; s/host,/DOMAIN,/gi; s/host-suffix,/DOMAIN-SUFFIX,/gi; s/host-keyword,/DOMAIN-KEYWORD,/gi; s/ip-cidr,/IP-CIDR,/gi; s/ip6-cidr,/IP-CIDR6,/gi; s/user-agent,/USER-AGENT,/g; s/\([^,]*,[^,]*\),.*/\1/g; /IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}; s/;//g; s/#.*//; /^[[:space:]]*$/d' "q-repo/rule/$rule_type/attach/del.ini"
 

@@ -1,4 +1,4 @@
-name: Workflow
+name: del
 
 on:
   workflow_dispatch:

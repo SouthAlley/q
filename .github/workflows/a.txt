@@ -1,0 +1,21 @@
+- name: 下载文件到 Surge
+  run: |
+    # 定义文件名、对应的路径和 URL
+    declare -A file_info_mapping
+    file_info_mapping["MyBlockAds.list"]="ad/attach/del.ini:https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
+    file_info_mapping["StreamingRule.list"]="global/attach/del.ini:https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+    file_info_mapping["AnotherFile.list"]="proxy/attach/del.ini:https://example.com/another-file.list"
+
+    # 循环处理每个文件
+    for file_info in "${!file_info_mapping[@]}"; do
+      # 将文件信息拆分为文件名、路径和 URL
+      IFS=':' read -ra file_info_arr <<< "$file_info"
+      file=${file_info_arr[0]}
+      path=${file_info_arr[1]}
+      url=${file_info_mapping[$file_info]}
+
+      # 创建目标文件所在的目录（如果不存在）
+      mkdir -p "q-repo/rule/${path%/*}"
+      # 使用 curl 下载文件到目标路径
+      curl -L -o "q-repo/rule/$path" "$url"
+    done

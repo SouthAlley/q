@@ -5,7 +5,6 @@ on:
     inputs:
       target:
         description: 'Target rule set (global/proxy/ad)'
-        required: true
 
 
   schedule:

@@ -47,12 +47,17 @@ jobs:
         run: |
           original_file="q-repo/rule/${{ matrix.rule_type }}/attach/del.ini"
           del_file="q-repo/local/del${{ matrix.rule_type }}.ini"
-          while IFS= read -r line
-          do
-            sed -i "/$line/d" "$original_file"
-          done < "$del_file"
 
-          echo "删除操作完成."
+          if [ -f "$del_file" ]; then
+            while IFS= read -r line
+            do
+             sed -i "/$line/d" "$original_file"
+            done < "$del_file"
+
+            echo "删除操作完成."
+          else
+            echo "$del_file not found. Skipping deletion."
+          fi
 
       - name: Copy custom rules to Surge
         run: |

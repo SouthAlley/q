@@ -1,4 +1,4 @@
-# Main total line 12008
+# Main total line 12002
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -55,7 +55,6 @@ DOMAIN,adwbs.ximalaya.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.sogaha.cn
 DOMAIN,adxlog.vivo.com.cn
-DOMAIN,afdconf.baidu.com
 DOMAIN,aid.m.taobao.com
 DOMAIN,amdc.m.youku.com
 DOMAIN,analytics.slashdotmedia.com
@@ -126,14 +125,12 @@ DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
 DOMAIN,layer.bz.mgtv.com
-DOMAIN,lc.map.baidu.com
 DOMAIN,lf9-cdn-tos.bytegecko.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,livewebbs2.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,log.star.ele.me
-DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,ma-adx.ctrip.com
 DOMAIN,mcs.snssdk.com
@@ -8333,7 +8330,6 @@ DOMAIN-SUFFIX,popupnation.com
 DOMAIN-SUFFIX,popuptraffic.com
 DOMAIN-SUFFIX,porngraph.com
 DOMAIN-SUFFIX,porntrack.com
-DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,possessivebucket.com
 DOMAIN-SUFFIX,possibleboats.com
 DOMAIN-SUFFIX,post.spmailtechno.com
@@ -10306,7 +10302,6 @@ DOMAIN-SUFFIX,u.ucfly.com
 DOMAIN-SUFFIX,u.yizuya.com
 DOMAIN-SUFFIX,u1.img.mobile.sina.cn
 DOMAIN-SUFFIX,u1.shuaiku.com
-DOMAIN-SUFFIX,u3.ucweb.com
 DOMAIN-SUFFIX,u349036.ff112222.com
 DOMAIN-SUFFIX,u51.me
 DOMAIN-SUFFIX,ua.badongo.com
@@ -11851,7 +11846,6 @@ IP-CIDR,180.76.162.60/32,no-resolve
 IP-CIDR,180.76.171.28/32,no-resolve
 IP-CIDR,180.76.172.149/32,no-resolve
 IP-CIDR,180.76.181.213/32,no-resolve
-IP-CIDR,180.76.76.200/32,no-resolve
 IP-CIDR,180.96.2.114/32,no-resolve
 IP-CIDR,182.92.81.104/32,no-resolve
 IP-CIDR,183.131.79.130/32,no-resolve

@@ -1,4 +1,4 @@
-# Main total line 12020
+# Main total line 12008
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -51,7 +51,6 @@ DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.ettoday.net
 DOMAIN,advert.mafengwo.cn
-DOMAIN,advertising.apple.com
 DOMAIN,adwbs.ximalaya.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.sogaha.cn
@@ -65,15 +64,12 @@ DOMAIN,api-ad.kajicam.com
 DOMAIN,api.c.uc.cn
 DOMAIN,api.iegadp.qq.com
 DOMAIN,api.installer.xiaomi.com
-DOMAIN,api.iqiyi.com
 DOMAIN,apis.alenable.com
 DOMAIN,apiv4-iyes.youku.com
 DOMAIN,apm.gotokeep.com
 DOMAIN,appcloud.zhihu.com
 DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,apple.comscoreresearch.com
 DOMAIN,applog-perf.uc.cn
-DOMAIN,banners.itunes.apple.com
 DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,btrace.video.qq.com
 DOMAIN,business-cdn.shouji.sogou.com
@@ -118,11 +114,7 @@ DOMAIN,httpdns.baidubce.com
 DOMAIN,huyafile.msstatic.com
 DOMAIN,i-lq.snssdk.com
 DOMAIN,i.snssdk.com
-DOMAIN,iad.apple.com
-DOMAIN,iadcontent.apple.com
 DOMAIN,iadmat.nosdn.127.net
-DOMAIN,iadmoo.apple.com
-DOMAIN,iadworkbench.apple.com
 DOMAIN,icloud-amap.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,iqiyim.adtrack.enlightent.cn
@@ -133,7 +125,6 @@ DOMAIN,kad.gotokeep.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
-DOMAIN,launch.apple.com
 DOMAIN,layer.bz.mgtv.com
 DOMAIN,lc.map.baidu.com
 DOMAIN,lf9-cdn-tos.bytegecko.com
@@ -170,7 +161,6 @@ DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,ps.map.baidu.com
 DOMAIN,px.ucweb.com
-DOMAIN,qwapi.apple.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,r.51wnl-cq.com
 DOMAIN,rc-topic-api.bz.mgtv.com
@@ -2172,7 +2162,6 @@ DOMAIN-SUFFIX,adviva.net
 DOMAIN-SUFFIX,advmob.cn
 DOMAIN-SUFFIX,advnt.com
 DOMAIN-SUFFIX,advombat.ru
-DOMAIN-SUFFIX,advp.apple.com
 DOMAIN-SUFFIX,adwasu.wasu.tv
 DOMAIN-SUFFIX,adweb.test.ximalaya.com
 DOMAIN-SUFFIX,adweb.ximalaya.com
@@ -5773,7 +5762,6 @@ DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,iadnet.com
 DOMAIN-SUFFIX,iads.xinmin.cn
-DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iasds01.com
 DOMAIN-SUFFIX,ib.adnxs.co
 DOMAIN-SUFFIX,ibafnw.cn

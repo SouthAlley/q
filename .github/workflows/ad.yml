@@ -41,15 +41,15 @@ jobs:
 
       - name: 删除匹配行从原始文件
         run: |
-          original_file="q-repo/local/Ad.list"
-          del_file="q-repo/local/ad.ini"
+          original_file='q-repo/local/Ad.list'
+          del_file='q-repo/local/ad.ini'
 
-           while IFS= read -r line
-           do
+          while IFS= read -r line
+          do
             sed -i "/$line/d" "$original_file"
-           done < "$del_file"
+          done < "$del_file"
 
-           echo "删除操作完成。"
+          echo "删除操作完成。"
 
 
 

@@ -1,4 +1,4 @@
-# Main total line 12028
+# Main total line 12031
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -223,7 +223,6 @@ DOMAIN,webproxy-advp.iad-apple.com.akadns.net
 DOMAIN,wolong-dsp.sm.cn
 DOMAIN,www.clarity.ms
 DOMAIN,wxsmsdy.video.qq.com
-DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-analytics.zhihu.com
@@ -2698,6 +2697,7 @@ DOMAIN-SUFFIX,b.9dreams.net
 DOMAIN-SUFFIX,b.aowugame.com
 DOMAIN-SUFFIX,b.babylon.com
 DOMAIN-SUFFIX,b.baiy.net
+DOMAIN-SUFFIX,b.bdstatic.com
 DOMAIN-SUFFIX,b.bst.126.net
 DOMAIN-SUFFIX,b.cyone.com.cn
 DOMAIN-SUFFIX,b.epinv.com
@@ -3148,6 +3148,7 @@ DOMAIN-SUFFIX,bu02.zybang.com
 DOMAIN-SUFFIX,bu1.duba.com
 DOMAIN-SUFFIX,bu2.duba.com
 DOMAIN-SUFFIX,bucketbean.com
+DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,bugtags.com
 DOMAIN-SUFFIX,bulldogcpi.com
 DOMAIN-SUFFIX,business.92wy.com
@@ -3428,7 +3429,6 @@ DOMAIN-SUFFIX,chance-ad.com
 DOMAIN-SUFFIX,chanet.com.cn
 DOMAIN-SUFFIX,changan.bama555.com
 DOMAIN-SUFFIX,changhehengqi.com
-DOMAIN-SUFFIX,channel.fanxing.kugou.com
 DOMAIN-SUFFIX,channeladvisor.com
 DOMAIN-SUFFIX,channelintelligence.com
 DOMAIN-SUFFIX,chaojilamei.cn
@@ -3614,6 +3614,7 @@ DOMAIN-SUFFIX,cm.ad.gifshow.com
 DOMAIN-SUFFIX,cm.adcommon.bilibili.com
 DOMAIN-SUFFIX,cm.adgrx.com
 DOMAIN-SUFFIX,cm.baidu.com
+DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,cm.ctnsnet.com
 DOMAIN-SUFFIX,cm.downloader.commercial.kuaishou.com
 DOMAIN-SUFFIX,cm.game.bilibili.com
@@ -3914,6 +3915,7 @@ DOMAIN-SUFFIX,csxjys.com
 DOMAIN-SUFFIX,cszlks.com
 DOMAIN-SUFFIX,ct.210189.com
 DOMAIN-SUFFIX,ct.niu.xunlei.com
+DOMAIN-SUFFIX,ct.xiaojukeji.com
 DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,ctsywy.com
 DOMAIN-SUFFIX,cudaojia.com
@@ -4945,6 +4947,7 @@ DOMAIN-SUFFIX,fancyapi.com
 DOMAIN-SUFFIX,fanqianbb.com
 DOMAIN-SUFFIX,fans.bestvogue.com
 DOMAIN-SUFFIX,fansi365.com
+DOMAIN-SUFFIX,fanxing.kugou.com
 DOMAIN-SUFFIX,fanza.cc
 DOMAIN-SUFFIX,farethief.com
 DOMAIN-SUFFIX,farmcrapsubsist.com
@@ -6055,7 +6058,6 @@ DOMAIN-SUFFIX,ioacfu.com
 DOMAIN-SUFFIX,ioam.de
 DOMAIN-SUFFIX,ioc.mmakd.top
 DOMAIN-SUFFIX,ios-informationplatform.wps.cn
-DOMAIN-SUFFIX,ios.bugly.qq.com
 DOMAIN-SUFFIX,ios.video.mpush.qq.com
 DOMAIN-SUFFIX,iosipa.b0.upaiyun.com
 DOMAIN-SUFFIX,ip.hivps.xyz
@@ -9435,7 +9437,6 @@ DOMAIN-SUFFIX,somecoding.com
 DOMAIN-SUFFIX,somennew.com
 DOMAIN-SUFFIX,somoaudience.com
 DOMAIN-SUFFIX,son-in-lawmorbid.com
-DOMAIN-SUFFIX,song.fanxing.kugou.com
 DOMAIN-SUFFIX,song001.com
 DOMAIN-SUFFIX,sonobi.com
 DOMAIN-SUFFIX,sonomoyo.com
@@ -10964,6 +10965,7 @@ DOMAIN-SUFFIX,wxb.wxbdfm.com
 DOMAIN-SUFFIX,wxmmh.net
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com
+DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxtz.houmags.com
 DOMAIN-SUFFIX,wxwm1.ikuailian.com
@@ -11883,6 +11885,7 @@ IP-CIDR,183.224.40.24/32,no-resolve
 IP-CIDR,183.59.53.184/29,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
 IP-CIDR,183.6.188.224/29,no-resolve
+IP-CIDR,188.89.204.198/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
 IP-CIDR,198.40.52.11/32,no-resolve
 IP-CIDR,202.100.220.54/32,no-resolve

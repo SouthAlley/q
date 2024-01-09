@@ -1,4 +1,4 @@
-# Main total line 11991
+# Main total line 11988
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -86,7 +86,6 @@ DOMAIN,delivery-node-aziz.voe-network.net
 DOMAIN,dflow.bz.mgtv.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dispatcher.360in.com
-DOMAIN,dns.jd.com
 DOMAIN,dsp.fcbox.com
 DOMAIN,emoji.uc.cn
 DOMAIN,encounter.bz.mgtv.com
@@ -11717,7 +11716,6 @@ DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-KEYWORD,zymo.mps.weibo.com
 IP-CIDR,1.3.0.10/32,no-resolve
 IP-CIDR,10.72.25.0/24,no-resolve
-IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR,101.201.29.182/32,no-resolve
 IP-CIDR,101.226.10.8/32,no-resolve
 IP-CIDR,101.227.200.11/32,no-resolve
@@ -11990,4 +11988,3 @@ IP-CIDR,69.28.57.245/32,no-resolve
 IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
-IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve

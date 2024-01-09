@@ -1,4 +1,4 @@
-# Main total line 12031
+# Main total line 12020
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -217,12 +217,10 @@ DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,videoads-cloud.rovio.com
 DOMAIN,vip.bz.mgtv.com
 DOMAIN,voice-service.uc.cn
-DOMAIN,vv.video.qq.com
 DOMAIN,webproxy-advp.iad-apple.com
 DOMAIN,webproxy-advp.iad-apple.com.akadns.net
 DOMAIN,wolong-dsp.sm.cn
 DOMAIN,www.clarity.ms
-DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-analytics.zhihu.com
@@ -3170,7 +3168,6 @@ DOMAIN-SUFFIX,bydonline.com
 DOMAIN-SUFFIX,bypbwm.cn
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,byteorge.com
 DOMAIN-SUFFIX,c-adash.m.taobao.com
 DOMAIN-SUFFIX,c-nfa.jd.com
@@ -4332,7 +4329,6 @@ DOMAIN-SUFFIX,dou777.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.ctfile.com
 DOMAIN-SUFFIX,doubleclick.de
-DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleclick.tv002.com
 DOMAIN-SUFFIX,doublepimp.com
 DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com
@@ -7142,7 +7138,6 @@ DOMAIN-SUFFIX,m.zhuyuanp.top
 DOMAIN-SUFFIX,m.zkwsdf.com
 DOMAIN-SUFFIX,m.zougg.com
 DOMAIN-SUFFIX,m.zuopp.com
-DOMAIN-SUFFIX,m1.ad.10010.com
 DOMAIN-SUFFIX,m1.baidu.com
 DOMAIN-SUFFIX,m1.daumcdn.net
 DOMAIN-SUFFIX,m2.ai
@@ -7454,7 +7449,6 @@ DOMAIN-SUFFIX,mm9842.com
 DOMAIN-SUFFIX,mmcc.yxlady.com
 DOMAIN-SUFFIX,mmg.aty.snmsohu.aisee.tv
 DOMAIN-SUFFIX,mmismm.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mmtro.com
 DOMAIN-SUFFIX,mng-ads.com
 DOMAIN-SUFFIX,mnkan.com
@@ -9190,7 +9184,6 @@ DOMAIN-SUFFIX,semasio.net
 DOMAIN-SUFFIX,sendmepixel.com
 DOMAIN-SUFFIX,sensorsdata.ruguoapp.com
 DOMAIN-SUFFIX,sentiance.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,separatesilver.com
 DOMAIN-SUFFIX,seraphichorizon.com
 DOMAIN-SUFFIX,serendipityecho.com
@@ -10965,8 +10958,6 @@ DOMAIN-SUFFIX,wxb.wxbdfm.com
 DOMAIN-SUFFIX,wxmmh.net
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com
-DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
-DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,wxtz.houmags.com
 DOMAIN-SUFFIX,wxwm1.ikuailian.com
 DOMAIN-SUFFIX,wxwm2.ikuailian.com
@@ -11743,7 +11734,6 @@ DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com
 DOMAIN-KEYWORD,wbapp.uve.weibo.com
 DOMAIN-KEYWORD,weibomingzi.com
-DOMAIN-KEYWORD,wgo.mmstat.com
 DOMAIN-KEYWORD,widget.weibo.com
 DOMAIN-KEYWORD,wixsite.com
 DOMAIN-KEYWORD,wlmonitor
@@ -12030,4 +12020,3 @@ IP-CIDR,74.117.182.77/32,no-resolve
 IP-CIDR,78.140.131.214/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-USER-AGENT,AVOS*

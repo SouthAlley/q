@@ -1,4 +1,4 @@
-# Main total line 11977
+# Main total line 11975
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -998,7 +998,6 @@ DOMAIN-SUFFIX,ad.gmw.cn
 DOMAIN-SUFFIX,ad.go.com
 DOMAIN-SUFFIX,ad.grafika.cz
 DOMAIN-SUFFIX,ad.greedland.net
-DOMAIN-SUFFIX,ad.gt
 DOMAIN-SUFFIX,ad.gtbrowser.com
 DOMAIN-SUFFIX,ad.hbv.de
 DOMAIN-SUFFIX,ad.hefei.cc
@@ -9254,7 +9253,6 @@ DOMAIN-SUFFIX,shucaihangjia.com
 DOMAIN-SUFFIX,shuiguo.com
 DOMAIN-SUFFIX,shuqw.com
 DOMAIN-SUFFIX,shushijiameng123.com
-DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,shxinjie.cn
 DOMAIN-SUFFIX,shxtrk.com
 DOMAIN-SUFFIX,shzyjbr.wtdtjs.rocks

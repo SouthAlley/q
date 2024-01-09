@@ -46,6 +46,7 @@ jobs:
 
           while IFS= read -r line
           do
+            echo "Deleting: $line"
             sed -i '/'"$line"'/d' "$original_file"
           done < "$del_file"
 

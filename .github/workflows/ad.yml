@@ -44,24 +44,13 @@ jobs:
           original_file="q-repo/local/Ad.list"
           del_file="q-repo/local/ad.ini"
 
-            # 判断删除规则文件是否存在
-            if [ -f "$del_file" ]; then
-            # 遍历删除规则文件的每一行
-             while IFS= read -r line
-             do
-              # 转义 line 变量中的特殊字符
-              escaped_line=$(printf '%s\n' "$line" | sed -e 's/[]\/$*.^[]/\\&/g')
-              # 使用 awk 进行匹配并输出不匹配的行
-              awk '!index($0, "'"${escaped_line}"'")' "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
-            done < "$del_file"
+           while IFS= read -r line
+           do
+            sed -i "/$line/d" "$original_file"
+           done < "$del_file"
 
-             # 输出删除操作完成的消息
-             echo "删除操作完成。"
-           else
-             # 如果删除规则文件不存在，输出相应的消息
-             echo "$del_file 不存在。跳过删除操作。"
-            fi
-          done
+           echo "删除操作完成。"
+
 
 
       - name: Add and Commit changes

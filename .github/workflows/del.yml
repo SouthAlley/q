@@ -1,4 +1,4 @@
-name: del
+name: delproxy
 
 on:
   workflow_dispatch:

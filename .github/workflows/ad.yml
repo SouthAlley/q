@@ -46,8 +46,7 @@ jobs:
 
           while IFS= read -r line
           do
-            sanitized_line=$(printf "%s" "$line" | sed 's/[\/&]/\\&/g')  # Escape / and &
-            sed -i "/$sanitized_line/d" "$original_file"
+            sed -i -e "\%$line%d" "$original_file"
           done < "$del_file"
 
           echo "删除操作完成。"

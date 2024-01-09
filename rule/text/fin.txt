@@ -1,4 +1,4 @@
-# Main total line 11998
+# Main total line 11991
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -11494,8 +11494,6 @@ DOMAIN-SUFFIX,zzrcz.com
 DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
-DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,a.9game.cn
@@ -11546,7 +11544,6 @@ DOMAIN-KEYWORD,applogapi.autohome.com
 DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,asewlfjqwlflkew
-DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-KEYWORD,av1.xdrig.com
 DOMAIN-KEYWORD,bds.snssdk.com
 DOMAIN-KEYWORD,bdsp.x.jd.com
@@ -11655,13 +11652,10 @@ DOMAIN-KEYWORD,p3-pack.byteimg.com
 DOMAIN-KEYWORD,p3.pstatp.com
 DOMAIN-KEYWORD,p6-pack.byteimg.com
 DOMAIN-KEYWORD,pagespeed-mod
-DOMAIN-KEYWORD,pangolin-sdk-toutiao
-DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pc.suishenyun.net
 DOMAIN-KEYWORD,pdds.ucweb.com
-DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,pingfore
 DOMAIN-KEYWORD,policy.jd.com
 DOMAIN-KEYWORD,promote.biz.weibo.cn
@@ -11703,7 +11697,6 @@ DOMAIN-KEYWORD,v0-client-lz.rili.cn
 DOMAIN-KEYWORD,v1.log.moji.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
-DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,vidoza
 DOMAIN-KEYWORD,volccdn.com
 DOMAIN-KEYWORD,volceapplog.com

@@ -39,7 +39,7 @@ jobs:
             sed -i 's/user-agent,/USER-AGENT,/g' "$file"
             # 删除不必要的部分
             sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
-            sed -i 's/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|IP-CIDR\|IP-CIDR6\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),//' "$file"
+            sed -i 's/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|DOMAIN-SUFFIX\|DOMAIN\|IP-CIDR\|IP-CIDR6\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),//' "$file"
             # 删除;
             sed -i 's/;//g' "$file"
             # 删除注释

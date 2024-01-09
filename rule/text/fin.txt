@@ -1,4 +1,4 @@
-# Main total line 11988
+# Main total line 11983
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -11,7 +11,6 @@ DOMAIN,ad-mediation.tuanguwen.com
 DOMAIN,ad-r.soulapp.cn
 DOMAIN,ad.21cn.com
 DOMAIN,ad.chelaile.net.cn
-DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.xy2013.cn
 DOMAIN,adapi.izuiyou.com
 DOMAIN,adbehavior.ximalaya.com
@@ -83,12 +82,10 @@ DOMAIN,crash2.zhihu.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,data-hoisin.coocaa.com
 DOMAIN,delivery-node-aziz.voe-network.net
-DOMAIN,dflow.bz.mgtv.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dispatcher.360in.com
 DOMAIN,dsp.fcbox.com
 DOMAIN,emoji.uc.cn
-DOMAIN,encounter.bz.mgtv.com
 DOMAIN,exp.360in.com
 DOMAIN,f74f7f7765f8a2f6.ngaa.net.cn
 DOMAIN,feedback.uc.cn
@@ -181,8 +178,6 @@ DOMAIN,tbm.snssdk.com
 DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,thirdparty.biliapi.com
-DOMAIN,tmead.y.qq.com
-DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tnc3-aliec2.snssdk.com
 DOMAIN,tnc3-alisc1.snssdk.com
 DOMAIN,toblog.ctobsnssdk.com

@@ -1,4 +1,4 @@
-# Main total line 12002
+# Main total line 11998
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -13,7 +13,6 @@ DOMAIN,ad.21cn.com
 DOMAIN,ad.chelaile.net.cn
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.xy2013.cn
-DOMAIN,ad.zijieapi.com
 DOMAIN,adapi.izuiyou.com
 DOMAIN,adbehavior.ximalaya.com
 DOMAIN,adc.hpplay.cn
@@ -112,12 +111,10 @@ DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,huyafile.msstatic.com
 DOMAIN,i-lq.snssdk.com
-DOMAIN,i.snssdk.com
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,icloud-amap.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,iqiyim.adtrack.enlightent.cn
-DOMAIN,is.snssdk.com
 DOMAIN,js-ad.a.yximgs.com
 DOMAIN,juggler.services.disqus.com
 DOMAIN,kad.gotokeep.com
@@ -7352,7 +7349,6 @@ DOMAIN-SUFFIX,mhjk.1391.com
 DOMAIN-SUFFIX,mhuodong.elong.com
 DOMAIN-SUFFIX,miam4.cn
 DOMAIN-SUFFIX,miaobeichina.com
-DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mibook-10006092.cos.myqcloud.com
 DOMAIN-SUFFIX,microad-cn.com
 DOMAIN-SUFFIX,microad.jp

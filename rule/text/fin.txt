@@ -1,4 +1,4 @@
-# Main total line 11973
+# Main total line 11972
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -106,7 +106,6 @@ DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns.baidubce.com
 DOMAIN,huyafile.msstatic.com
 DOMAIN,i-lq.snssdk.com
-DOMAIN,iadmat.nosdn.127.net
 DOMAIN,icloud-amap.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,iqiyim.adtrack.enlightent.cn

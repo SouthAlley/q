@@ -1,4 +1,4 @@
-# Main total line 11983
+# Main total line 11977
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -90,7 +90,6 @@ DOMAIN,exp.360in.com
 DOMAIN,f74f7f7765f8a2f6.ngaa.net.cn
 DOMAIN,feedback.uc.cn
 DOMAIN,flash.sec.miui.com
-DOMAIN,floor.bz.mgtv.com
 DOMAIN,flowplus.meituan.net
 DOMAIN,gecko-pangle-lf.snssdk.com
 DOMAIN,ggc.cmvideo.cn
@@ -117,7 +116,6 @@ DOMAIN,kad.gotokeep.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
-DOMAIN,layer.bz.mgtv.com
 DOMAIN,lf9-cdn-tos.bytegecko.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,livewebbs2.msstatic.com
@@ -132,7 +130,6 @@ DOMAIN,metrics.apple.com
 DOMAIN,miav-cse.avlyun.com
 DOMAIN,miniapp.bilibili.com
 DOMAIN,miui-fxcse.avlyun.com
-DOMAIN,mob.bz.mgtv.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,msync-im1-vip6-std.easemob.com
@@ -153,7 +150,6 @@ DOMAIN,ps.map.baidu.com
 DOMAIN,px.ucweb.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,r.51wnl-cq.com
-DOMAIN,rc-topic-api.bz.mgtv.com
 DOMAIN,richmanapi.jxedt.com
 DOMAIN,richmanapi.ksedt.com
 DOMAIN,richmanmain.jxedt.com
@@ -193,7 +189,6 @@ DOMAIN,vali-g1.cp31.ott.cibntv.net
 DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,videoads-cloud.rovio.com
-DOMAIN,vip.bz.mgtv.com
 DOMAIN,voice-service.uc.cn
 DOMAIN,webproxy-advp.iad-apple.com
 DOMAIN,webproxy-advp.iad-apple.com.akadns.net
@@ -3996,7 +3991,6 @@ DOMAIN-SUFFIX,d8360.com
 DOMAIN-SUFFIX,d8885.com
 DOMAIN-SUFFIX,d9.sina.com.cn
 DOMAIN-SUFFIX,da.hunantv.com
-DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,da.mmarket.com
 DOMAIN-SUFFIX,dabiaozhi.com
 DOMAIN-SUFFIX,dacash.streamplay.to

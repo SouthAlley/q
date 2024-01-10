@@ -1,1 +1,56 @@
-#
+# > 广告联盟
+HOST-SUFFIX, miaozhen.com, REJECT
+HOST-KEYWORD, -ad-sign.byteimg.com, REJECT
+HOST-KEYWORD, -tos.pstatp.com, REJECT
+HOST-KEYWORD, asiad.byteactivity, REJECT
+HOST-KEYWORD, pangolin-sdk-toutiao, REJECT
+HOST-KEYWORD, pangolin.snssdk.com, REJECT
+HOST-KEYWORD, pglstatp-toutiao, REJECT
+HOST-KEYWORD, video-cn.snssdk.com, REJECT
+HOST-KEYWORD, volcvod.com, REJECT
+HOST-KEYWORD, volceapplog.com, REJECT
+
+# > 收集用户隐私联盟
+host-keyword, volces.com, reject
+host-keyword, volccdn.com, reject
+;host-keyword, volc.com, reject
+
+# > 虎扑
+host, adx.hupu.com, reject
+host, adx-api.hupu.com, reject
+host, goblin.hupu.com, reject
+
+# > 虎牙直播 开屏广告
+host, pp-cdnfile2pcdn.msstatic.com, reject
+host, livewebbs2pcdn.msstatic.com, reject
+host, huyafile.msstatic.com, reject
+host, livewebbs2.msstatic.com, reject
+host, business.msstatic.com, reject
+
+# > 小红书
+host, ads-img-qc.xhscdn.com, reject
+host, ads-video-al.xhscdn.com, reject
+host, ads-video-qc.xhscdn.com, reject
+host, t-ads.xiaohongshu.com, reject
+
+# > 云闪付
+host, ads.95516.com, reject
+host, cm-10-138.getui.com, reject
+host, sdk.open.talk.getui.net, reject
+host, sdk-conf.getui.com, reject
+host, switch.cup.com.cn, reject
+host, tysdk.95516.com, reject
+
+# > 中国移动
+IP-CIDR, 120.240.95.37/32, reject
+
+# > 中国联通
+host-suffix, m1.ad.10010.com, reject
+
+# > 中国电信
+host, ad.21cn.com, reject
+host, ad.k.21cn.com, reject
+host, admarket.21cn.com, reject
+host, adshows.21cn.com, reject
+IP-CIDR, 122.229.8.47/32, reject
+IP-CIDR, 122.229.29.89/32, reject

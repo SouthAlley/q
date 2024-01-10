@@ -1,4 +1,4 @@
-# Main total line 1890
+# Main total line 1899
 # ------------------------------------------
 DOMAIN,a.wkanx.com
 DOMAIN,ad-analysis.pconline.com.cn
@@ -77,6 +77,7 @@ DOMAIN,adxlog.vivo.com.cn
 DOMAIN,app-ad.variflight.com
 DOMAIN,apppv.zol.com.cn
 DOMAIN,atrace.chelaile.net.cn
+DOMAIN,business.msstatic.com
 DOMAIN,c1wx.lianwangtech.com
 DOMAIN,cdn.adapi.fotoable.com
 DOMAIN,counter.ksosoft.com
@@ -100,6 +101,7 @@ DOMAIN,glitter.services.disqus.com
 DOMAIN,goblin.hupu.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hnrtg.iujkegbpo.xyz
+DOMAIN,huyafile.msstatic.com
 DOMAIN,iad.g.163.com
 DOMAIN,iad0ssl.pcauto.com.cn
 DOMAIN,iad0ssl.pconline.com.cn
@@ -118,6 +120,8 @@ DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
 DOMAIN,livep.l.t002.ottcn.com
+DOMAIN,livewebbs2.msstatic.com
+DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,log.ycapp.yiche.com
 DOMAIN,logs.chelaile.net.cn
@@ -132,6 +136,7 @@ DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pin.hpplay.cn
 DOMAIN,pl.cp31.ott.cibntv.net
+DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,pvnapp.zol.com.cn
 DOMAIN,r.51wnl-cq.com
 DOMAIN,regist.fotoable.com
@@ -144,6 +149,7 @@ DOMAIN,rthmnj.xyz
 DOMAIN,saxn.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
+DOMAIN,sdk.open.talk.getui.net
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splashqqlive.gtimg.com
 DOMAIN,t-ads.xiaohongshu.com
@@ -1282,9 +1288,6 @@ DOMAIN-SUFFIX,pagead-tpc.l.google.com
 DOMAIN-SUFFIX,pagead.google.com
 DOMAIN-SUFFIX,pagead.l.google.com
 DOMAIN-SUFFIX,pagechoice.net
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,paopao.iqiyi.com
 DOMAIN-SUFFIX,paopaod.qiyipic.com
 DOMAIN-SUFFIX,partner.toutiao.com
@@ -1300,7 +1303,6 @@ DOMAIN-SUFFIX,pcd.autohome.com.cn
 DOMAIN-SUFFIX,pcfg.wps.cn
 DOMAIN-SUFFIX,pd.sogou.com
 DOMAIN-SUFFIX,pdl.gionee.com
-DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,phloxsub73ulata.com
 DOMAIN-SUFFIX,pica-juicy.picacomic.com
 DOMAIN-SUFFIX,picture.duokan.com
@@ -1870,6 +1872,10 @@ DOMAIN-KEYWORD,stunninglover
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,toateeli
 DOMAIN-KEYWORD,trwl1
+DOMAIN-KEYWORD,volccdn.com
+DOMAIN-KEYWORD,volceapplog.com
+DOMAIN-KEYWORD,volces.com
+DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-KEYWORD,zjtoolbar
@@ -1877,6 +1883,9 @@ IP-CIDR,101.227.200.0/24,no-resolve
 IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,117.177.248.17/32,no-resolve
 IP-CIDR,117.177.248.41/32,no-resolve
+IP-CIDR,120.240.95.37/32,no-resolve
+IP-CIDR,122.229.29.89/32,no-resolve
+IP-CIDR,122.229.8.47/32,no-resolve
 IP-CIDR,124.192.153.42/32,no-resolve
 IP-CIDR,223.87.176.139/32,no-resolve
 IP-CIDR,223.87.176.176/32,no-resolve

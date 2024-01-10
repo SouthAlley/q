@@ -1,4 +1,4 @@
-# Main total line 1931
+# Main total line 1957
 # ------------------------------------------
 DOMAIN,a.wkanx.com
 DOMAIN,ad-analysis.pconline.com.cn
@@ -10,15 +10,21 @@ DOMAIN,ad.51wnl-cq.com
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.hpplay.cn
 DOMAIN,ad.k.21cn.com
+DOMAIN,ad.maoyan.com
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.yixin.im
+DOMAIN,ad.zijieapi.com
 DOMAIN,adbehavior.wsa.ximalaya.com
 DOMAIN,adbehavior.ximalaya.com
 DOMAIN,adbs.ximalaya.com
 DOMAIN,adc.hpplay.cn
 DOMAIN,adcdn.hpplay.cn
+DOMAIN,adcdn.tencentmusic.com
+DOMAIN,adcdn6.tencentmusic.com
+DOMAIN,adclick.tencentmusic.com
 DOMAIN,adeng.hpplay.cn
+DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,adfile.wifi8.com
 DOMAIN,adimg.uve.weibo.com
@@ -77,10 +83,12 @@ DOMAIN,adx.hupu.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.yiche.com
 DOMAIN,adxlog.vivo.com.cn
+DOMAIN,al-log.d.meituan.net
 DOMAIN,app-ad.variflight.com
 DOMAIN,appcloud2.in.zhihu.com
 DOMAIN,apppv.zol.com.cn
 DOMAIN,atrace.chelaile.net.cn
+DOMAIN,babel-statistics-android.d.meituan.net
 DOMAIN,business.msstatic.com
 DOMAIN,c1wx.lianwangtech.com
 DOMAIN,cdn.adapi.fotoable.com
@@ -91,6 +99,7 @@ DOMAIN,data-hoisin.coocaa.com
 DOMAIN,dispatcher.360in.com
 DOMAIN,duclick.baidu.com
 DOMAIN,emma-414870e223.huodonghezi.com
+DOMAIN,ems.youku.com
 DOMAIN,etl.xlmc.sandai.net
 DOMAIN,exp.360in.com
 DOMAIN,g1.163.com
@@ -103,9 +112,12 @@ DOMAIN,ggx.cmvideo.cn
 DOMAIN,ggx03.miguvideo.com
 DOMAIN,glitter.services.disqus.com
 DOMAIN,goblin.hupu.com
+DOMAIN,h.trace.qq.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hnrtg.iujkegbpo.xyz
+DOMAIN,hudong.alicdn.com
 DOMAIN,huyafile.msstatic.com
+DOMAIN,i.snssdk.com
 DOMAIN,iad.g.163.com
 DOMAIN,iad0ssl.pcauto.com.cn
 DOMAIN,iad0ssl.pconline.com.cn
@@ -119,6 +131,7 @@ DOMAIN,imgad0.pconline.com.cn
 DOMAIN,imgadpai.thepaper.cn
 DOMAIN,impservice.dictapp.youdao.com
 DOMAIN,impservice.youdao.com
+DOMAIN,is.snssdk.com
 DOMAIN,ivy.pchouse.com.cn
 DOMAIN,js-ad.a.yximgs.com
 DOMAIN,juggler.services.disqus.com
@@ -131,9 +144,14 @@ DOMAIN,livewebbs2.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,log.ycapp.yiche.com
+DOMAIN,logger.qmai.cn
 DOMAIN,logs.chelaile.net.cn
+DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN,mazu.m.qq.com
 DOMAIN,mdrecv.app.cntvwb.cn
+DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,mobad.ijinshan.com
+DOMAIN,monitor.music.qq.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,n.3g.163.com
 DOMAIN,nadvideo2.baidu.com
@@ -141,6 +159,9 @@ DOMAIN,nex.163.com
 DOMAIN,nggfe.fdgem.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
+DOMAIN,ossgw.alicdn.com
+DOMAIN,oth.str.mdt.qq.com
+DOMAIN,otheve.beacon.qq.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pin.hpplay.cn
@@ -153,6 +174,7 @@ DOMAIN,rich.kuwo.cn
 DOMAIN,richmanapi.jxedt.com
 DOMAIN,richmanmain.jxedt.com
 DOMAIN,richmanrules.jxedt.com
+DOMAIN,route-stats.d.meituan.net
 DOMAIN,rp.hpplay.cn
 DOMAIN,rpt.hpplay.cn
 DOMAIN,rthmnj.xyz
@@ -160,8 +182,10 @@ DOMAIN,saxn.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
 DOMAIN,sdk.open.talk.getui.net
+DOMAIN,sdk.tianmu.mobi
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splashqqlive.gtimg.com
+DOMAIN,stat.y.qq.com
 DOMAIN,sugar.zhihu.com
 DOMAIN,switch.cup.com.cn
 DOMAIN,t-ads.xiaohongshu.com
@@ -302,9 +326,7 @@ DOMAIN-SUFFIX,adadmin.house365.com
 DOMAIN-SUFFIX,adadvisor.net
 DOMAIN-SUFFIX,adap.tv
 DOMAIN-SUFFIX,adash-c.m.taobao.com
-DOMAIN-SUFFIX,adash-c.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
-DOMAIN-SUFFIX,adashxgc.ut.taobao.com
 DOMAIN-SUFFIX,adbana.com
 DOMAIN-SUFFIX,adbox.sina.com.cn
 DOMAIN-SUFFIX,adchina.com
@@ -345,6 +367,7 @@ DOMAIN-SUFFIX,admedia.com
 DOMAIN-SUFFIX,admgr.qingting.fm
 DOMAIN-SUFFIX,admin6.com
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,admobile.top
 DOMAIN-SUFFIX,admon.cn
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,adnxs.com
@@ -410,6 +433,7 @@ DOMAIN-SUFFIX,adtechjp.com
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adtrk.me
 DOMAIN-SUFFIX,adui.tg.meitu.com
+DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,adups.com
 DOMAIN-SUFFIX,aduu.cn
 DOMAIN-SUFFIX,adv.ccb.com
@@ -1002,6 +1026,7 @@ DOMAIN-SUFFIX,immob.cn
 DOMAIN-SUFFIX,imp.xgo.com.cn
 DOMAIN-SUFFIX,impactserving.com
 DOMAIN-SUFFIX,imrworldwide.com
+DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,inad.com
 DOMAIN-SUFFIX,info.wps.cn
 DOMAIN-SUFFIX,infocenter.meizu.com
@@ -1682,6 +1707,7 @@ DOMAIN-SUFFIX,urls.api.twitter.com
 DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,ushaqi.com
 DOMAIN-SUFFIX,usingde.com
+DOMAIN-SUFFIX,ut.taobao.com
 DOMAIN-SUFFIX,ut2.shuqistat.com
 DOMAIN-SUFFIX,utility.baidu.cn
 DOMAIN-SUFFIX,utility.baidu.com

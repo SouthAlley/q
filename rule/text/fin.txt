@@ -1,5 +1,6 @@
-# Main total line 2051
+# Main total line 2055
 # ------------------------------------------
+DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
 DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,ad-analysis.pconline.com.cn
@@ -224,6 +225,7 @@ DOMAIN,pin.hpplay.cn
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,pre-acs.youku.com
+DOMAIN,pv.vipads.cc
 DOMAIN,pvnapp.zol.com.cn
 DOMAIN,qwapi.apple.com
 DOMAIN,r.51wnl-cq.com
@@ -239,6 +241,7 @@ DOMAIN,rprain.bz.mgtv.com
 DOMAIN,rprain.log.mgtv.com
 DOMAIN,rpt.hpplay.cn
 DOMAIN,rthmnj.xyz
+DOMAIN,s.orbsrv.com
 DOMAIN,saxn.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
@@ -266,6 +269,7 @@ DOMAIN,vdapprecv.app.cntvwb.cn
 DOMAIN,vip.bz.mgtv.com
 DOMAIN,wa.gtimg.com
 DOMAIN,ws.ksmobile.net
+DOMAIN,www.vipads.live
 DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com

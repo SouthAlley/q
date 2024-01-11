@@ -137,3 +137,6 @@ host, geo2.adobe.com, reject
 # > keep
 host, apm.gotokeep.com, reject
 host, kad.gotokeep.com, reject
+
+# 微博开屏广告
+DOMAIN-SUFFIX, biz.weibo.com, REJECT

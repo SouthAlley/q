@@ -13,7 +13,6 @@ HOST-KEYWORD, volceapplog.com, REJECT
 # > 收集用户隐私联盟
 host-keyword, volces.com, reject
 host-keyword, volccdn.com, reject
-;host-keyword, volc.com, reject
 
 # > 虎扑
 host, adx.hupu.com, reject
@@ -34,14 +33,6 @@ host, ads-video-qc.xhscdn.com, reject
 host, t-ads.xiaohongshu.com, reject
 
 # > 云闪付
-host, ads.95516.com, reject
-host, cm-10-138.getui.com, reject
-host, sdk.open.talk.getui.net, reject
-host, sdk-conf.getui.com, reject
-host, switch.cup.com.cn, reject
-host, tysdk.95516.com, reject
-
-# 开屏广告
 DOMAIN, ads.95516.com, REJECT
 DOMAIN, switch.cup.com.cn, REJECT
 DOMAIN, tysdk.95516.com, REJECT
@@ -116,7 +107,7 @@ DOMAIN, babel-statistics-android.d.meituan.net, REJECT
 DOMAIN, maplocatesdksnapshot.d.meituan.net, REJECT
 DOMAIN, metrics-picture.d.meituan.net, REJECT
 DOMAIN, route-stats.d.meituan.net, REJECT
-
+# QQ音乐
 DOMAIN, adstats.tencentmusic.com, REJECT-DROP
 DOMAIN, ad.tencentmusic.com, REJECT-DROP
 DOMAIN, adcdn.tencentmusic.com, REJECT
@@ -136,4 +127,13 @@ DOMAIN, us.l.qq.com, REJECT
 DOMAIN, tangram.e.qq.com, REJECT
 DOMAIN-SUFFIX, imtmp.net, REJECT
 
+# > 58同城
+host, track.58.com, reject
+host, tracklog.58.com, reject
 
+# > Adobe Flash China Special Edition
+host, geo2.adobe.com, reject
+
+# > keep
+host, apm.gotokeep.com, reject
+host, kad.gotokeep.com, reject

@@ -1,4 +1,4 @@
-# Main total line 11959
+# Main total line 11960
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -9007,6 +9007,7 @@ DOMAIN-SUFFIX,same.stockstar.com
 DOMAIN-SUFFIX,same01.jrj.com.cn
 DOMAIN-SUFFIX,same02.jrj.com.cn
 DOMAIN-SUFFIX,same03.jrj.com.cn
+DOMAIN-SUFFIX,samplesamba.com
 DOMAIN-SUFFIX,sams.nikonimaging.com
 DOMAIN-SUFFIX,samsungacr.com
 DOMAIN-SUFFIX,samsungads.com

@@ -20,8 +20,7 @@ jobs:
         continue-on-error: false
         timeout-minutes: 20
         run: |
-          .\r.cmd rule/text
-          .\r.cmd rule/ad1
+          .\r.cmd rule/tex
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

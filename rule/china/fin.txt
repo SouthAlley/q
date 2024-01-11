@@ -1,4 +1,4 @@
-# Main total line 3832
+# Main total line 3831
 # ------------------------------------------
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -1337,7 +1337,6 @@ DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,finchina.com
 DOMAIN-SUFFIX,finzfin.com
 DOMAIN-SUFFIX,fir.im
-DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,fixdown.com
 DOMAIN-SUFFIX,fjhps.com
 DOMAIN-SUFFIX,fliggy.com

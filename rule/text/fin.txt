@@ -1,4 +1,4 @@
-# Main total line 1957
+# Main total line 1959
 # ------------------------------------------
 DOMAIN,a.wkanx.com
 DOMAIN,ad-analysis.pconline.com.cn
@@ -84,6 +84,7 @@ DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.yiche.com
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,al-log.d.meituan.net
+DOMAIN,apm.gotokeep.com
 DOMAIN,app-ad.variflight.com
 DOMAIN,appcloud2.in.zhihu.com
 DOMAIN,apppv.zol.com.cn
@@ -135,6 +136,7 @@ DOMAIN,is.snssdk.com
 DOMAIN,ivy.pchouse.com.cn
 DOMAIN,js-ad.a.yximgs.com
 DOMAIN,juggler.services.disqus.com
+DOMAIN,kad.gotokeep.com
 DOMAIN,kgmobilestatbak.kugou.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
@@ -181,7 +183,6 @@ DOMAIN,rthmnj.xyz
 DOMAIN,saxn.sina.com.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
-DOMAIN,sdk.open.talk.getui.net
 DOMAIN,sdk.tianmu.mobi
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splashqqlive.gtimg.com
@@ -580,6 +581,7 @@ DOMAIN-SUFFIX,biddingx.com
 DOMAIN-SUFFIX,bidtheatre.com
 DOMAIN-SUFFIX,bidvertiser.com
 DOMAIN-SUFFIX,bingads.microsoft.com
+DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN-SUFFIX,biz.weibo.com.cn
 DOMAIN-SUFFIX,biz5.kankan.com
 DOMAIN-SUFFIX,bizhixiang.cn

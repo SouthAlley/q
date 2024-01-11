@@ -1,4 +1,4 @@
-# Main total line 2048
+# Main total line 2051
 # ------------------------------------------
 DOMAIN,a.wkanx.com
 DOMAIN,acs4baichuan.m.taobao.com
@@ -266,6 +266,7 @@ DOMAIN,vdapprecv.app.cntvwb.cn
 DOMAIN,vip.bz.mgtv.com
 DOMAIN,wa.gtimg.com
 DOMAIN,ws.ksmobile.net
+DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,yandexmetrica.com
@@ -848,6 +849,7 @@ DOMAIN-SUFFIX,dol.tianya.cn
 DOMAIN-SUFFIX,dol.tianyaui.cn
 DOMAIN-SUFFIX,dotcounter.douyutv.com
 DOMAIN-SUFFIX,dotmore.com.tw
+DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doubleplay-conf-yql.media.yahoo.com
@@ -1542,6 +1544,7 @@ DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,rp.baidu.cn
 DOMAIN-SUFFIX,rp.baidu.com
 DOMAIN-SUFFIX,rplog.baidu.com
+DOMAIN-SUFFIX,rtbapi.douyucdn.cn
 DOMAIN-SUFFIX,rtbasia.com
 DOMAIN-SUFFIX,rtmonitor.kugou.com
 DOMAIN-SUFFIX,rubiconproject.com

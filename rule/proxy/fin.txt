@@ -1,4 +1,4 @@
-# Main total line 5942
+# Main total line 5936
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -7,7 +7,6 @@ DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ees.elsevier.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,surge.mitsea.com
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,030buy.com
@@ -4014,7 +4013,6 @@ DOMAIN-SUFFIX,qtweeter.com
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,quannengshen.org
 DOMAIN-SUFFIX,quantumbooter.net
-DOMAIN-SUFFIX,quantumult.app
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,questvisual.com
 DOMAIN-SUFFIX,quillbot.com
@@ -4573,9 +4571,6 @@ DOMAIN-SUFFIX,starfishfx.com
 DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,startuplivingchina.com
-DOMAIN-SUFFIX,stash-activation.com
-DOMAIN-SUFFIX,stash.wiki
-DOMAIN-SUFFIX,stash.ws
 DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,static-economist.com
 DOMAIN-SUFFIX,static-nike.com
@@ -4652,7 +4647,6 @@ DOMAIN-SUFFIX,suprememastertv.com
 DOMAIN-SUFFIX,surfeasy.com
 DOMAIN-SUFFIX,surfeasy.com.au
 DOMAIN-SUFFIX,surfshark.com
-DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,suroot.com
 DOMAIN-SUFFIX,surrenderat20.net

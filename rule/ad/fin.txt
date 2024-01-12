@@ -1,4 +1,4 @@
-# Main total line 11960
+# Main total line 11955
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -290,7 +290,6 @@ DOMAIN-SUFFIX,17un.co
 DOMAIN-SUFFIX,17un.com
 DOMAIN-SUFFIX,17zhaole.com
 DOMAIN-SUFFIX,180hits.de
-DOMAIN-SUFFIX,180searchassistant.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189key.com
 DOMAIN-SUFFIX,189zj.cn
@@ -1233,6 +1232,7 @@ DOMAIN-SUFFIX,adcloud.net
 DOMAIN-SUFFIX,adcocktail.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adcome.cn
+DOMAIN-SUFFIX,adcomplete.com
 DOMAIN-SUFFIX,adcomplete.ru
 DOMAIN-SUFFIX,adconion.com
 DOMAIN-SUFFIX,adcontent.gamespy.com
@@ -1737,7 +1737,6 @@ DOMAIN-SUFFIX,ads.pof.com
 DOMAIN-SUFFIX,ads.powweb.com
 DOMAIN-SUFFIX,ads.ppvmedien.de
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
-DOMAIN-SUFFIX,ads.primissima.it
 DOMAIN-SUFFIX,ads.printscr.com
 DOMAIN-SUFFIX,ads.prisacom.com
 DOMAIN-SUFFIX,ads.program3.com
@@ -2088,7 +2087,6 @@ DOMAIN-SUFFIX,adv.hwupgrade.it
 DOMAIN-SUFFIX,adv.jxnews.com.cn
 DOMAIN-SUFFIX,adv.livedoor.com
 DOMAIN-SUFFIX,adv.mpvc.it
-DOMAIN-SUFFIX,adv.neverbuy.com
 DOMAIN-SUFFIX,adv.nexthardware.com
 DOMAIN-SUFFIX,adv.s8bbs.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
@@ -2617,7 +2615,6 @@ DOMAIN-SUFFIX,audit.median.hu
 DOMAIN-SUFFIX,audit.webinform.hu
 DOMAIN-SUFFIX,augur.io
 DOMAIN-SUFFIX,authedmine.com
-DOMAIN-SUFFIX,auto-bannertausch.de
 DOMAIN-SUFFIX,automaticflock.com
 DOMAIN-SUFFIX,avalonalbum.com
 DOMAIN-SUFFIX,avazutracking.net
@@ -4813,7 +4810,6 @@ DOMAIN-SUFFIX,exampleshake.com
 DOMAIN-SUFFIX,exchange-it.com
 DOMAIN-SUFFIX,exchangead.com
 DOMAIN-SUFFIX,exchangeclicksonline.com
-DOMAIN-SUFFIX,exchangedetail.com
 DOMAIN-SUFFIX,exclusivebrass.com
 DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exelate.com
@@ -5437,6 +5433,7 @@ DOMAIN-SUFFIX,haitaoad.nosdn.127.net
 DOMAIN-SUFFIX,haiwai-ic.ksosoft.com
 DOMAIN-SUFFIX,haiwengji.net
 DOMAIN-SUFFIX,haiyunpush.com
+DOMAIN-SUFFIX,halcyoncanyon.com
 DOMAIN-SUFFIX,haloapps.com
 DOMAIN-SUFFIX,haltingbadge.com
 DOMAIN-SUFFIX,hammerhearing.com
@@ -7187,7 +7184,6 @@ DOMAIN-SUFFIX,mautic.com
 DOMAIN-SUFFIX,maw.wnbfw.com
 DOMAIN-SUFFIX,max.i12.de
 DOMAIN-SUFFIX,maximiser.net
-DOMAIN-SUFFIX,maximumcash.com
 DOMAIN-SUFFIX,maxonclick.com
 DOMAIN-SUFFIX,maxwebsearch.com
 DOMAIN-SUFFIX,maxwellsery.com
@@ -8836,7 +8832,6 @@ DOMAIN-SUFFIX,rnfrfxqztlno.com
 DOMAIN-SUFFIX,roar.com
 DOMAIN-SUFFIX,robotreplay.com
 DOMAIN-SUFFIX,rockabox.co
-DOMAIN-SUFFIX,roia.biz
 DOMAIN-SUFFIX,roia.com
 DOMAIN-SUFFIX,rok.com.com
 DOMAIN-SUFFIX,rollconnection.com

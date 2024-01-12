@@ -1,4 +1,4 @@
-# Main total line 5941
+# Main total line 5942
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -1966,6 +1966,7 @@ DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,girlbanker.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,gitter-static.net

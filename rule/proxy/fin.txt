@@ -1,4 +1,4 @@
-# Main total line 5940
+# Main total line 5982
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -282,6 +282,8 @@ DOMAIN-SUFFIX,amnesty.org
 DOMAIN-SUFFIX,amnestyusa.org
 DOMAIN-SUFFIX,amnyemachen.org
 DOMAIN-SUFFIX,amoiist.com
+DOMAIN-SUFFIX,amplifyapp.com
+DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amtb-taipei.org
 DOMAIN-SUFFIX,anaconda.cloud
@@ -370,6 +372,7 @@ DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,areca-backup.org
 DOMAIN-SUFFIX,arena.taipei
 DOMAIN-SUFFIX,arethusa.su
+DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,arlingtoncemetery.mil
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,army.mil
@@ -436,7 +439,17 @@ DOMAIN-SUFFIX,avmoo.net
 DOMAIN-SUFFIX,avmoo.pw
 DOMAIN-SUFFIX,avoision.com
 DOMAIN-SUFFIX,avyahoo.com
+DOMAIN-SUFFIX,aws-iot-hackathon.com
+DOMAIN-SUFFIX,awsautopilot.com
+DOMAIN-SUFFIX,awsautoscaling.com
+DOMAIN-SUFFIX,awsbraket.com
+DOMAIN-SUFFIX,awscloud.com
+DOMAIN-SUFFIX,awscommandlineinterface.com
+DOMAIN-SUFFIX,awsedstart.com
+DOMAIN-SUFFIX,awseducate.com
+DOMAIN-SUFFIX,awseducate.net
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,axureformac.com
 DOMAIN-SUFFIX,azerbaycan.tv
@@ -725,6 +738,7 @@ DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bx.in.th
 DOMAIN-SUFFIX,bx.tl
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bydiscourse.com
 DOMAIN-SUFFIX,bynet.co.il
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
@@ -971,6 +985,7 @@ DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
@@ -999,6 +1014,14 @@ DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnineu.com
 DOMAIN-SUFFIX,cnitter.com
 DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
+DOMAIN-SUFFIX,cnnmoney.com
+DOMAIN-SUFFIX,cnnmoneystream.com
+DOMAIN-SUFFIX,cnnpolitics.com
 DOMAIN-SUFFIX,cnpolitics.org
 DOMAIN-SUFFIX,cnproxy.com
 DOMAIN-SUFFIX,cnyes.com
@@ -1081,6 +1104,7 @@ DOMAIN-SUFFIX,crchina.org
 DOMAIN-SUFFIX,crd-net.org
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,creadersnet.com
+DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,creativecloud.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,cristyli.com
@@ -1136,6 +1160,7 @@ DOMAIN-SUFFIX,dafagood.com
 DOMAIN-SUFFIX,dafahao.com
 DOMAIN-SUFFIX,dafoh.org
 DOMAIN-SUFFIX,dagelijksestandaard.nl
+DOMAIN-SUFFIX,dai.ly
 DOMAIN-SUFFIX,daidostup.ru
 DOMAIN-SUFFIX,dailidaili.com
 DOMAIN-SUFFIX,dailymotion.com
@@ -1174,6 +1199,9 @@ DOMAIN-SUFFIX,dastrassi.org
 DOMAIN-SUFFIX,data-vocabulary.org
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,daumkakao.io
+DOMAIN-SUFFIX,daumpotplayer.com
 DOMAIN-SUFFIX,david-kilgour.com
 DOMAIN-SUFFIX,dawangidc.com
 DOMAIN-SUFFIX,dayabook.com
@@ -1238,6 +1266,10 @@ DOMAIN-SUFFIX,directcreative.com
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discoins.com
 DOMAIN-SUFFIX,disconnect.me
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,discourse.cloud
+DOMAIN-SUFFIX,discourse.com
+DOMAIN-SUFFIX,discourse.org
 DOMAIN-SUFFIX,discuss4u.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,disp.cc
@@ -1251,11 +1283,13 @@ DOMAIN-SUFFIX,djorz.com
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dlive.tv
 DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dm530.net
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmxleo.com
 DOMAIN-SUFFIX,dns-dns.com
 DOMAIN-SUFFIX,dns-stuff.com
 DOMAIN-SUFFIX,dns04.com
@@ -2763,6 +2797,7 @@ DOMAIN-SUFFIX,kagyumonlam.org
 DOMAIN-SUFFIX,kaiyuan.de
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,kalachakralugano.org
 DOMAIN-SUFFIX,kangye.org
 DOMAIN-SUFFIX,kankan.today
@@ -2797,6 +2832,11 @@ DOMAIN-SUFFIX,kichiku-doujinko.com
 DOMAIN-SUFFIX,kidc.net
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,killwall.com
+DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,kindleoasis.com
+DOMAIN-SUFFIX,kindleoasis.org
+DOMAIN-SUFFIX,kindleoasisnews.com
+DOMAIN-SUFFIX,kindleproject.com
 DOMAIN-SUFFIX,kindleren.com
 DOMAIN-SUFFIX,kingdomsalvation.org
 DOMAIN-SUFFIX,kinghost.com
@@ -3619,7 +3659,6 @@ DOMAIN-SUFFIX,okayfreedom.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,olabloga.pl
 DOMAIN-SUFFIX,old-cat.net
 DOMAIN-SUFFIX,olehdtv.com
@@ -3882,6 +3921,7 @@ DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,podcast.co
 DOMAIN-SUFFIX,podictionary.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pokerstars.com
 DOMAIN-SUFFIX,pokerstars.net
@@ -3905,6 +3945,7 @@ DOMAIN-SUFFIX,post852.com
 DOMAIN-SUFFIX,postadult.com
 DOMAIN-SUFFIX,postimg.org
 DOMAIN-SUFFIX,potato.im
+DOMAIN-SUFFIX,potplayer.tv
 DOMAIN-SUFFIX,potvpn.com
 DOMAIN-SUFFIX,power.com
 DOMAIN-SUFFIX,powerapple.com
@@ -4376,6 +4417,7 @@ DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singtao.com
 DOMAIN-SUFFIX,singtaousa.com
+DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,sino-monthly.com
 DOMAIN-SUFFIX,sinoants.com
 DOMAIN-SUFFIX,sinoca.com

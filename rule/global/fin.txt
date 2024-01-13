@@ -1,4 +1,4 @@
-# Main total line 16258
+# Main total line 16259
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -28,6 +28,7 @@ DOMAIN,dl.begellhouse.com
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
+DOMAIN,events.statsigapi.net
 DOMAIN,faronics.kayako.com
 DOMAIN,firstsearch.oclc.org
 DOMAIN,hpstore.corpmerchandise.com

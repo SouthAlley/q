@@ -1,10 +1,12 @@
-# Main total line 5936
+# Main total line 5942
 # ------------------------------------------
 DOMAIN,c.mi.com
+DOMAIN,cdn.auth0.com
 DOMAIN,cdn.statically.io
 DOMAIN,cdn.usefathom.com
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ees.elsevier.com
+DOMAIN,events.statsigapi.net
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,000webhost.com
@@ -3416,6 +3418,7 @@ DOMAIN-SUFFIX,netcolony.com
 DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,netfirms.com
 DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,netme.cc
 DOMAIN-SUFFIX,netsarang.com
@@ -3617,6 +3620,7 @@ DOMAIN-SUFFIX,okayfreedom.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,olabloga.pl
 DOMAIN-SUFFIX,old-cat.net
 DOMAIN-SUFFIX,olehdtv.com
@@ -4610,6 +4614,8 @@ DOMAIN-SUFFIX,streamingthe.net
 DOMAIN-SUFFIX,streema.com
 DOMAIN-SUFFIX,streetvoice.com
 DOMAIN-SUFFIX,strikingly.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,strongvpn.com
 DOMAIN-SUFFIX,strongwindpress.com
 DOMAIN-SUFFIX,studentsforafreetibet.org

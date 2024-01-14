@@ -1,4 +1,4 @@
-# Main total line 5984
+# Main total line 5983
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5968,7 +5968,6 @@ IP-CIDR,185.206.24.0/22,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,3.0.163.78/32,no-resolve
 IP-CIDR,52.52.84.170/32,no-resolve
-IP-CIDR,64.23.174.198/32,no-resolve
 IP-CIDR,66.203.126.0/23,no-resolve
 IP-CIDR,69.171.0.0/16,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve

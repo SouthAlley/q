@@ -126,7 +126,7 @@ jobs:
           if [[ -n $(git status -s) ]]; then
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
-            git add "rule/ad/attach/*" "rule/global/attach/*" "rule/proxy/attach/*"
+            git add "rule/ad/attach/*" "rule/ad1/attach/*" "rule/global/attach/*" "rule/proxy/attach/*"
             git commit -m "Update rules"
             git push origin HEAD
           else

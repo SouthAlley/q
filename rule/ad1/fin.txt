@@ -1,4 +1,4 @@
-# Main total line 7375
+# Main total line 7366
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -38,9 +38,7 @@ DOMAIN,abtest-ch.snssdk.com
 DOMAIN,abtest3-misc-lq.zijieapi.com
 DOMAIN,abtest5-misc-hl.zijieapi.com
 DOMAIN,abtest5-misc.zijieapi.com
-DOMAIN,acs.m.taobao.com
 DOMAIN,acs.youku.com
-DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,activitynew.zhuishushenqi.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cdn.qingting.fm
@@ -427,10 +425,8 @@ DOMAIN,dh.yunliunet.com
 DOMAIN,diagnosis.izuiyou.com
 DOMAIN,dispatcher.360in.com
 DOMAIN,display.wting.info
-DOMAIN,dlweb.sogoucdn.com
 DOMAIN,dm.video.weibocdn.com
 DOMAIN,dn-growing.qbox.me
-DOMAIN,dns.jd.com
 DOMAIN,doraemon.xiaojukeji.com
 DOMAIN,down.58.com
 DOMAIN,down.apps.sina.cn
@@ -593,7 +589,6 @@ DOMAIN,huyafile.msstatic.com
 DOMAIN,hw-ot-ad.a.yximgs.com
 DOMAIN,hxsame.hexun.com
 DOMAIN,i-lq.snssdk.com
-DOMAIN,i.snssdk.com
 DOMAIN,i1.douguo.net
 DOMAIN,iad.apple.com
 DOMAIN,iad0ssl.pcauto.com.cn
@@ -676,7 +671,6 @@ DOMAIN,leads.baidu.com
 DOMAIN,legoclick.58.com
 DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN,lf.snssdk.com
-DOMAIN,lf1-cdn-tos.bytegoofy.com
 DOMAIN,live.yuanbobo.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,livewebbs2.msstatic.com
@@ -740,7 +734,6 @@ DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mb.adres.wpscdn.cn
 DOMAIN,mb.hd.sohu.com.cn
-DOMAIN,mbd.baidu.com
 DOMAIN,mbdp02.bdstatic.com
 DOMAIN,mc.yandex.com
 DOMAIN,mcs.snssdk.com
@@ -980,7 +973,6 @@ DOMAIN,smartad.10010.com
 DOMAIN,smr.snssdk.com
 DOMAIN,sns-paopao.iqiyi.com
 DOMAIN,socm.dmp.360.cn
-DOMAIN,sofire.baidu.com
 DOMAIN,sp-ad-cf.audio.tidal.com
 DOMAIN,sp0.baidu.com
 DOMAIN,sp1.baidu.com
@@ -1053,7 +1045,6 @@ DOMAIN,toblog.tobsnssdk.com
 DOMAIN,tongji.leju.com
 DOMAIN,tongji.qichacha.com
 DOMAIN,tpns.qq.com
-DOMAIN,tpstelemetry.tencent.com
 DOMAIN,tpush.html5.qq.com
 DOMAIN,tr.jianshu.com
 DOMAIN,track.cnki.net

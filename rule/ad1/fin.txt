@@ -1,4 +1,4 @@
-# Main total line 5995
+# Main total line 5997
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -76,6 +76,7 @@ DOMAIN,adsp.xunlei.com
 DOMAIN,adsstatic.vivo.com.cn
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
+DOMAIN,adttrackingprd.hwwt8.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
 DOMAIN,advertise.baicizhan.com
@@ -268,6 +269,7 @@ DOMAIN,t7z.cupid.ptqy.gitv.tv
 DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tmead.y.qq.com
+DOMAIN,tmeadbak.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tpns.qq.com
 DOMAIN,track.tenjin.com

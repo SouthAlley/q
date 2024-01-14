@@ -1,4 +1,4 @@
-# Main total line 5982
+# Main total line 5983
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -2596,6 +2596,7 @@ DOMAIN-SUFFIX,inteltechnologyprovider.com
 DOMAIN-SUFFIX,intelvmwarecybersecurity.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.help
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,internetdefenseleague.org

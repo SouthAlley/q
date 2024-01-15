@@ -37,12 +37,12 @@ jobs:
                curl -L -o "q-repo/$path" "$url"
 
                # 得到 rule_type
-               IFS='/' read -r _ rule_type _ <<< "$path"
+               IFS='/' read -r _ rule_type _ <<< "${path%.list}"
 
                # 定义原始文件和删除规则文件的路径
                original_file="q-repo/$path"
-               del_file="q-repo/xg/del/del${rule_type}"
-               add_file="q-repo/xg/add/add${rule_type}"
+               del_file="q-repo/xg/del/del${rule_type}.ini"
+               add_file="q-repo/xg/add/add${rule_type}.ini"
 
                # 判断删除规则文件是否存在
                if [ -f "$del_file" ]; then

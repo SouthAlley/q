@@ -60,6 +60,23 @@ jobs:
                    else
                        echo "$original_file not found."
                    fi
+                   
+               elif [[ "$file" == *_Domain.list ]]; then
+                      # DOMAIN, 移除
+                      sed -i 's/DOMAIN,//g' "$original_file"
+                      # DOMAIN-SUFFIX, 替换为 .
+                      sed -i 's/DOMAIN-SUFFIX,/./g' "$original_file"
+                      # 删除规则
+                      sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|IP-CIDR\|IP-CIDR6\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$original_file"
+                      # 删除注释
+                      sed -i 's/#.*//' "$original_file"
+                      # 删除空行
+                      sed -i '/^[[:space:]]*$/d' "$original_file"
+                      echo "处理 $original_file 完成."
+                   else
+                       echo "$original_file not found."
+                   fi
+               
                else
                    # 处理其他规则修改
                    if [ -f "$original_file" ]; then

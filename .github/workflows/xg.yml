@@ -23,7 +23,7 @@ jobs:
            declare -A file_path_url=(
                ["dlerproxy.list"]="xg/dlerproxy.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
                ["ad.list"]="xg/ad.list https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
-               
+               ["fen.list"]="xg/fen.list https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list"
                
                )
 

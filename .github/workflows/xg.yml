@@ -62,6 +62,7 @@ jobs:
                    fi
                    
                elif [[ "$file" == *_Domain.list ]]; then
+                   if [ -f "$original_file" ]; then
                       # DOMAIN, 移除
                       sed -i 's/DOMAIN,//g' "$original_file"
                       # DOMAIN-SUFFIX, 替换为 .
@@ -72,10 +73,11 @@ jobs:
                       sed -i 's/#.*//' "$original_file"
                       # 删除空行
                       sed -i '/^[[:space:]]*$/d' "$original_file"
-                      echo "处理 $original_file 完成."
+                      echo "处理 $original_file 完成。"
                    else
                        echo "$original_file not found."
                    fi
+                       
                
                else
                    # 处理其他规则修改

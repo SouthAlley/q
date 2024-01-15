@@ -1,4 +1,4 @@
-# Main total line 5997
+# Main total line 5996
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -3673,7 +3673,6 @@ DOMAIN-SUFFIX,metrics.foxnews.com
 DOMAIN-SUFFIX,metrics.getrockerbox.com
 DOMAIN-SUFFIX,metrics.gfycat.com
 DOMAIN-SUFFIX,metrics.govexec.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.mzstatic.com
 DOMAIN-SUFFIX,metrilo.com
 DOMAIN-SUFFIX,mfadsrvr.com

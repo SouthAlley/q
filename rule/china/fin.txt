@@ -1,18 +1,16 @@
-# Main total line 3831
+# Main total line 3828
 # ------------------------------------------
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
-DOMAIN,dl.google.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
-DOMAIN,mtalk.google.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,sms.imagetasks.com
@@ -1463,7 +1461,6 @@ DOMAIN-SUFFIX,gongxiangcj.com
 DOMAIN-SUFFIX,gongyi.xin
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,goosail.com
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,goselling.com

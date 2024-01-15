@@ -42,6 +42,7 @@ jobs:
                # 定义原始文件和删除规则文件的路径
                original_file="q-repo/xg/$path"
                del_file="q-repo/xg/del/del${rule_type}.ini"
+               add_file="q-repo/xg/add/add${rule_type}.ini"
 
                # 判断删除规则文件是否存在
                if [ -f "$del_file" ]; then
@@ -54,25 +55,19 @@ jobs:
                     # 如果删除规则文件不存在，输出相应的消息
                     echo "不存在。跳过删除操作。"
                fi
+               
+               # 判断自定义规则文件是否存在
+               if [ -f "$add_file" ]; then
+                   # 如果目标文件存在，将自定义规则附加到目标文件
+                   cat "$add_file" >> "$original_file"
+                   # 输出添加操作完成的消息
+                   echo "添加操作完成。"
+               else
+                   # 如果自定义规则文件不存在，输出相应的消息
+                   echo "自定义规则文件不存在。跳过添加操作。"
+               fi
            done
 
-      - name: 复制自定义规则到 Surge
-        run: |
-          for rule_type in "${rule_types[@]}"; do
-            # 定义目标文件路径
-            target_file="q-repo/rule/${rule_type}/attach/del.ini"
-
-            # 判断自定义规则文件是否存在
-            if [ -f "q-repo/local/add/add${rule_type}.ini" ]; then
-              # 如果目标文件存在，将自定义规则附加到目标文件
-              cat "q-repo/local/add/add${rule_type}.ini" >> "$target_file"
-              # 输出添加操作完成的消息
-              echo "添加${rule_type}操作完成。"
-           else
-             # 如果自定义规则文件不存在，输出相应的消息
-             echo "q-repo/local/add/add${rule_type}.ini 不存在。跳过添加${rule_type}操作。"
-           fi
-          done
 
       - name: Add and Commit changes
         run: |

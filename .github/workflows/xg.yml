@@ -22,6 +22,7 @@ jobs:
            # 定义关联数组，键为文件名，值为路径和 URL 的组合
            declare -A file_path_url=(
                ["dlerproxy.list"]="xg/dlerproxy.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
+               ["dlerproxy_Set.list"]="xg/dlerproxy_Set.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
                ["ad.list"]="xg/ad.list https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
                
                
@@ -46,39 +47,45 @@ jobs:
                del_file="q-repo/xg/del/del${rule_type}.ini"
                add_file="q-repo/xg/add/add${rule_type}.ini"
 
-               # 循环处理每个文件
-               for file in "$original_file"; do
-                   # 修改, 为,
-                   sed -i 's/, /,/g' "$file"
-                   # 删除规则
-                   awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
-                   mv tmpfile "$file"
-                   # 修改为大写
-                   sed -i -e 's/host,/DOMAIN,/gi' "$file"
-                   sed -i -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' "$file"
-                   sed -i -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$file"
-                   sed -i 's/ip-cidr,/IP-CIDR,/gi' "$file"
-                   sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
-                   sed -i 's/user-agent,/USER-AGENT,/g' "$file"
-                   # 删除不必要的部分
-                   sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
-                   # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
-                   sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
-                   # 修改;为#
-                   sed -i 's/;/# /g' "$file"
-               done
-
+               # 处理 _Set.list 文件
                if [[ "$file" == *_Set.list ]]; then
-                    # 删除 DOMAIN 和 DOMAIN-SUFFIX 行
-                    awk '!/^(DOMAIN|DOMAIN-SUFFIX),/' "$file" > tmpfile
-                    mv tmpfile "$file"
-                    # 删除注释
-                    sed -i 's/#.*//' "$file"
-                    # 删除空行
-                    sed -i '/^[[:space:]]*$/d' "$file"
-                    echo "处理 $file 完成。"
+                   if [ -f "$original_file" ]; then
+                       # 删除 DOMAIN 和 DOMAIN-SUFFIX 行
+                       awk '!/^(DOMAIN|DOMAIN-SUFFIX),/' "$original_file" > tmpfile
+                       mv tmpfile "$original_file"
+                       # 删除注释
+                       sed -i 's/#.*//' "$original_file"
+                       # 删除空行
+                       sed -i '/^[[:space:]]*$/d' "$original_file"
+                       echo "处理 $original_file 完成。"
+                   else
+                       echo "$original_file not found."
+                   fi
                else
-                    echo "$file not found."
+                   # 处理其他规则修改
+                   if [ -f "$original_file" ]; then
+                       # 修改, 为,
+                       sed -i 's/, /,/g' "$original_file"
+                       # 删除规则
+                       awk '{sub("host-wildcard.*$", ""); print}' "$original_file" > tmpfile
+                       mv tmpfile "$original_file"
+                       # 修改为大写
+                       sed -i -e 's/host,/DOMAIN,/gi' "$original_file"
+                       sed -i -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' "$original_file"
+                       sed -i -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$original_file"
+                       sed -i 's/ip-cidr,/IP-CIDR,/gi' "$original_file"
+                       sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$original_file"
+                       sed -i 's/user-agent,/USER-AGENT,/g' "$original_file"
+                       # 删除不必要的部分
+                       sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$original_file"
+                       # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
+                       sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$original_file"
+                       # 修改;为#
+                       sed -i 's/;/# /g' "$original_file"
+                       echo "处理 $original_file 完成。"
+                   else
+                       echo "$original_file not found."
+                   fi
                fi
 
                # 判断删除规则文件是否存在

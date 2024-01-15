@@ -47,7 +47,7 @@ jobs:
                add_file="q-repo/xg/add/add${rule_type}.ini"
 
                # 循环处理每个文件
-               for file in ${rule_type}.list; do
+               for file in "$original_file"; do
                    # 修改, 为,
                    sed -i 's/, /,/g' "$file"
                    # 删除规则

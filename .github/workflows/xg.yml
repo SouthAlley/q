@@ -44,6 +44,28 @@ jobs:
                del_file="q-repo/xg/del/del${rule_type}.ini"
                add_file="q-repo/xg/add/add${rule_type}.ini"
 
+               # 循环处理每个文件
+               for file in ${rule_type}.list; do
+                   # 修改, 为,
+                   sed -i 's/, /,/g' "$file"
+                   # 删除规则
+                   awk '{sub("host-wildcard.*$", ""); print}' "$file" > tmpfile
+                   mv tmpfile "$file"
+                   # 修改为大写
+                   sed -i -e 's/host,/DOMAIN,/gi' "$file"
+                   sed -i -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' "$file"
+                   sed -i -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$file"
+                   sed -i 's/ip-cidr,/IP-CIDR,/gi' "$file"
+                   sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$file"
+                   sed -i 's/user-agent,/USER-AGENT,/g' "$file"
+                   # 删除不必要的部分
+                   sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
+                   # 如果包含IP-CIDR且不包含,no-resolve 则添加,no-resolve
+                   sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
+                   # 修改;为#
+                   sed -i 's/;/# /g' "$file"
+               done
+
                # 判断删除规则文件是否存在
                if [ -f "$del_file" ]; then
                     # 删除匹配行并备份原始文件

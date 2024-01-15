@@ -1,4 +1,4 @@
-# Main total line 5996
+# Main total line 5995
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -5567,7 +5567,6 @@ DOMAIN-SUFFIX,wiyun.com
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,wkanc.51y5.net
 DOMAIN-SUFFIX,wl.hd.sohu.com
-DOMAIN-SUFFIX,wl.spotify.com
 DOMAIN-SUFFIX,wlmarketing.com
 DOMAIN-SUFFIX,wm.baidu.cn
 DOMAIN-SUFFIX,wm.baidu.com

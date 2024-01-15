@@ -68,6 +68,19 @@ jobs:
                    sed -i 's/;/# /g' "$file"
                done
 
+               if [[ "$file" == *_Set.list ]]; then
+                    # 删除 DOMAIN 和 DOMAIN-SUFFIX 行
+                    awk '!/^(DOMAIN|DOMAIN-SUFFIX),/' "$file" > tmpfile
+                    mv tmpfile "$file"
+                    # 删除注释
+                    sed -i 's/#.*//' "$file"
+                    # 删除空行
+                    sed -i '/^[[:space:]]*$/d' "$file"
+                    echo "处理 $file 完成。"
+               else
+                    echo "$file not found."
+               fi
+
                # 判断删除规则文件是否存在
                if [ -f "$del_file" ]; then
                     # 删除匹配行并备份原始文件

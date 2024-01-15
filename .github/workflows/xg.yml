@@ -50,10 +50,10 @@ jobs:
                     grep -vFf "$del_file" "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
 
                     # 输出删除操作完成的消息
-                    echo "删除操作完成。"
+                    echo "删除${rule_type}操作完成。"
                else
                     # 如果删除规则文件不存在，输出相应的消息
-                    echo echo "删除规则文件不存在。跳过删除操作。路径: $del_file，原始文件: $original_file"
+                    echo "$del_file 不存在。跳过删除${rule_type}操作。"
                fi
                
                # 判断自定义规则文件是否存在
@@ -61,10 +61,10 @@ jobs:
                    # 如果目标文件存在，将自定义规则附加到目标文件
                    cat "$add_file" >> "$original_file"
                    # 输出添加操作完成的消息
-                   echo "添加操作完成。"
+                   echo "添加${rule_type}操作完成。"
                else
                    # 如果自定义规则文件不存在，输出相应的消息
-                   echo "自定义规则文件不存在。跳过添加操作。"
+                   echo "$add_file 不存在。跳过删除${rule_type}操作。"
                fi
            done
 

@@ -1,0 +1,88 @@
+name: xg
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+
+jobs:
+  Fork-Filter-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4.1.0
+        with:
+          repository: SouthAlley/q
+          path: q-repo
+          
+      - name: 下载文件
+        run: |
+           # 定义关联数组，键为文件名，值为路径和 URL 的组合
+           declare -A file_path_url=(
+               ["dlerproxy.list"]="xg/dlerproxy.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
+               
+               )
+
+           # 循环处理每个文件
+           for file in "${!file_path_url[@]}"; do
+               # 分割路径和 URL
+               IFS=' ' read -r path url <<< "${file_path_url[$file]}"
+    
+               # 创建目标文件所在的目录（如果不存在）
+               mkdir -p "q-repo/${path%/*}"
+    
+               # 使用 curl 下载文件到目标路径
+               curl -L -o "q-repo/$path" "$url"
+
+               # 得到 rule_type
+               IFS='/' read -r _ rule_type _ <<< "$path"
+
+               # 定义原始文件和删除规则文件的路径
+               original_file="q-repo/xg/$path"
+               del_file="q-repo/xg/del/del${rule_type}.ini"
+
+               # 判断删除规则文件是否存在
+               if [ -f "$del_file" ]; then
+                    # 删除匹配行并备份原始文件
+                    grep -vFf "$del_file" "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
+
+                    # 输出删除操作完成的消息
+                    echo "删除操作完成。"
+               else
+                    # 如果删除规则文件不存在，输出相应的消息
+                    echo "不存在。跳过删除操作。"
+               fi
+           done
+
+      - name: 复制自定义规则到 Surge
+        run: |
+          for rule_type in "${rule_types[@]}"; do
+            # 定义目标文件路径
+            target_file="q-repo/rule/${rule_type}/attach/del.ini"
+
+            # 判断自定义规则文件是否存在
+            if [ -f "q-repo/local/add/add${rule_type}.ini" ]; then
+              # 如果目标文件存在，将自定义规则附加到目标文件
+              cat "q-repo/local/add/add${rule_type}.ini" >> "$target_file"
+              # 输出添加操作完成的消息
+              echo "添加${rule_type}操作完成。"
+           else
+             # 如果自定义规则文件不存在，输出相应的消息
+             echo "q-repo/local/add/add${rule_type}.ini 不存在。跳过添加${rule_type}操作。"
+           fi
+          done
+
+      - name: Add and Commit changes
+        run: |
+          cd q-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add .
+            git commit -m "Update rules"
+            git push
+          else
+            echo "No changes to commit."
+          fi

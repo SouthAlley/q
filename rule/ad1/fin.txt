@@ -1,4 +1,4 @@
-# Main total line 5989
+# Main total line 5991
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -308,6 +308,8 @@ DOMAIN-SUFFIX,123.sogou.com
 DOMAIN-SUFFIX,123.sogoucdn.com
 DOMAIN-SUFFIX,123juzi.net
 DOMAIN-SUFFIX,138lm.com
+DOMAIN-SUFFIX,1628131f39dcef7bcgcc.2xmzazd.cn
+DOMAIN-SUFFIX,1628131f39dcef7bcgg.2qpqwkx.cn
 DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,168.it168.com
 DOMAIN-SUFFIX,17gouwuba.com

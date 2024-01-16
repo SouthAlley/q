@@ -4804,6 +4804,12 @@ DOMAIN-SUFFIX,tenco.cc
 DOMAIN-SUFFIX,tenzinpalmo.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,tesla-cdn.thron.com
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,tew.org
 DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,textnow.com
@@ -5991,7 +5997,6 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,twimg
-DOMAIN-KEYWORD,tesla
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn

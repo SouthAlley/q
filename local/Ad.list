@@ -1,7 +1,6 @@
 # > 广告联盟
 HOST-SUFFIX, miaozhen.com, REJECT
 HOST-KEYWORD, -ad-sign.byteimg.com, REJECT
-HOST-KEYWORD, -tos.pstatp.com, REJECT
 HOST-KEYWORD, asiad.byteactivity, REJECT
 HOST-KEYWORD, pangolin-sdk-toutiao, REJECT
 HOST-KEYWORD, pangolin.snssdk.com, REJECT
@@ -59,7 +58,6 @@ DOMAIN, ad.zijieapi.com, REJECT
 DOMAIN, i.snssdk.com, REJECT
 DOMAIN, is.snssdk.com, REJECT
 DOMAIN-KEYWORD, -ad-sign.byteimg.com, REJECT
-DOMAIN-KEYWORD, -tos.pstatp.com, REJECT-DROP
 DOMAIN-KEYWORD, asiad.byteactivity, REJECT
 DOMAIN-KEYWORD, pangolin.snssdk.com, REJECT
 DOMAIN-KEYWORD, pangolin-sdk-toutiao, REJECT

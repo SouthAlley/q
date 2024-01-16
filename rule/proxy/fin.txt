@@ -1,4 +1,4 @@
-# Main total line 5984
+# Main total line 5988
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -4806,6 +4806,12 @@ DOMAIN-SUFFIX,tenco.cc
 DOMAIN-SUFFIX,tenzinpalmo.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,tesla-cdn.thron.com
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,tew.org
 DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,textnow.com
@@ -5952,7 +5958,6 @@ DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,duolingo
-DOMAIN-KEYWORD,tesla
 IP-CIDR,104.244.40.0/21,no-resolve
 IP-CIDR,107.155.5.0/24,no-resolve
 IP-CIDR,108.168.0.0/16,no-resolve
@@ -5968,7 +5973,6 @@ IP-CIDR,185.206.24.0/22,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,3.0.163.78/32,no-resolve
 IP-CIDR,52.52.84.170/32,no-resolve
-IP-CIDR,64.23.128.0/17,no-resolve
 IP-CIDR,66.203.126.0/23,no-resolve
 IP-CIDR,69.171.0.0/16,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve

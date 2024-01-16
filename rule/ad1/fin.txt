@@ -1,4 +1,4 @@
-# Main total line 5998
+# Main total line 5989
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -24,11 +24,7 @@ DOMAIN,adbehavior.ximalaya.com
 DOMAIN,adbs.ximalaya.com
 DOMAIN,adc.hpplay.cn
 DOMAIN,adcdn.hpplay.cn
-DOMAIN,adcdn.tencentmusic.com
-DOMAIN,adcdn6.tencentmusic.com
-DOMAIN,adclick.tencentmusic.com
 DOMAIN,adeng.hpplay.cn
-DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,adfile.wifi8.com
 DOMAIN,adimg.uve.weibo.com
@@ -212,7 +208,6 @@ DOMAIN,miav-cse.avlyun.com
 DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mob.bz.mgtv.com
 DOMAIN,mobad.ijinshan.com
-DOMAIN,monitor.music.qq.com
 DOMAIN,monitor.ssp.admobile.top
 DOMAIN,mqtt.zhihu.com
 DOMAIN,n.3g.163.com
@@ -225,7 +220,6 @@ DOMAIN,open.kuaishouzt.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,ossgw.alicdn.com
-DOMAIN,oth.str.mdt.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN,p1.pstatp.com
 DOMAIN,p3.pstatp.com
@@ -261,7 +255,6 @@ DOMAIN,sdk.ssp.admobile.top
 DOMAIN,sdk.tianmu.mobi
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splashqqlive.gtimg.com
-DOMAIN,stat.y.qq.com
 DOMAIN,statics.woozooo.com
 DOMAIN,sugar.zhihu.com
 DOMAIN,switch.cup.com.cn
@@ -3169,7 +3162,6 @@ DOMAIN-SUFFIX,impressionmonster.com
 DOMAIN-SUFFIX,improvedigital.com
 DOMAIN-SUFFIX,impulsehands.com
 DOMAIN-SUFFIX,imrworldwide.com
-DOMAIN-SUFFIX,imtmp.net
 DOMAIN-SUFFIX,inad.com
 DOMAIN-SUFFIX,inclk.com
 DOMAIN-SUFFIX,incognitosearches.com
@@ -5767,7 +5759,6 @@ DOMAIN-SUFFIX,zzhc.vnet.cn
 DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
-DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform

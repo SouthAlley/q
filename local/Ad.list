@@ -54,7 +54,6 @@ IP-CIDR, 122.229.29.89/32, reject
 DOMAIN, ad.maoyan.com, REJECT
 
 # 字节跳动 - 广告服务商
-DOMAIN,sf3-ttcdn-tos.pstatp.com
 DOMAIN, ad.zijieapi.com, REJECT
 DOMAIN, i.snssdk.com, REJECT
 DOMAIN, is.snssdk.com, REJECT

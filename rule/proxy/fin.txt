@@ -1383,6 +1383,7 @@ DOMAIN-SUFFIX,duihuahrjournal.org
 DOMAIN-SUFFIX,dukgo.com
 DOMAIN-SUFFIX,dumb1.com
 DOMAIN-SUFFIX,dunyabulteni.net
+DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duoweitimes.com
 DOMAIN-SUFFIX,duping.net
 DOMAIN-SUFFIX,duplicati.com
@@ -5957,7 +5958,6 @@ DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dlercloud
-DOMAIN-KEYWORD,duolingo
 IP-CIDR,104.244.40.0/21,no-resolve
 IP-CIDR,107.155.5.0/24,no-resolve
 IP-CIDR,108.168.0.0/16,no-resolve

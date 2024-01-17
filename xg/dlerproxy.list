@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,blizzard.com
 
 # > Duolingo
 USER-AGENT,Duolingo*
-DOMAIN-KEYWORD,duolingo
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
 

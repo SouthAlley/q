@@ -8328,6 +8328,7 @@ DOMAIN-SUFFIX,js.org
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jsbridgestone.com
 DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,jsz91.com
@@ -16273,7 +16274,6 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,jav
-DOMAIN-KEYWORD,jsdelivr.net
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,paypal

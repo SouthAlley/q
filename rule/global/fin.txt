@@ -1,4 +1,4 @@
-# Main total line 16258
+# Main total line 16259
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -8330,6 +8330,7 @@ DOMAIN-SUFFIX,js.org
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jsbridgestone.com
 DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,jsz91.com

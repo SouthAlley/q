@@ -1,4 +1,4 @@
-# Main total line 5990
+# Main total line 5988
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -1545,7 +1545,6 @@ DOMAIN-SUFFIX,eroprofile.com
 DOMAIN-SUFFIX,eroticsaloon.net
 DOMAIN-SUFFIX,err.sh
 DOMAIN-SUFFIX,eslite.com
-DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,esmtp.biz
 DOMAIN-SUFFIX,esu.dog
@@ -2760,7 +2759,6 @@ DOMAIN-SUFFIX,jp.net
 DOMAIN-SUFFIX,jpopforum.net
 DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,js.revsci.net
-DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com

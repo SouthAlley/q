@@ -1,4 +1,4 @@
-# Main total line 5988
+# Main total line 6012
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -185,6 +185,7 @@ DOMAIN-SUFFIX,adultkeep.net
 DOMAIN-SUFFIX,advanscene.com
 DOMAIN-SUFFIX,advertfan.com
 DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,ae.hao123.com
 DOMAIN-SUFFIX,ae.org
 DOMAIN-SUFFIX,aei.org
 DOMAIN-SUFFIX,aenhancers.com
@@ -358,6 +359,7 @@ DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,aptoide.com
+DOMAIN-SUFFIX,ar.hao123.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -499,6 +501,7 @@ DOMAIN-SUFFIX,bbg.gov
 DOMAIN-SUFFIX,bbkz.com
 DOMAIN-SUFFIX,bbnradio.org
 DOMAIN-SUFFIX,bbs-tw.com
+DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bbsdigest.com
 DOMAIN-SUFFIX,bbsfeed.com
 DOMAIN-SUFFIX,bbsland.com
@@ -669,6 +672,7 @@ DOMAIN-SUFFIX,boyangu.com
 DOMAIN-SUFFIX,boyfriendtv.com
 DOMAIN-SUFFIX,boysfood.com
 DOMAIN-SUFFIX,boysmaster.com
+DOMAIN-SUFFIX,br.hao123.com
 DOMAIN-SUFFIX,br.st
 DOMAIN-SUFFIX,brainyquote.com
 DOMAIN-SUFFIX,brandonhutchinson.com
@@ -756,6 +760,7 @@ DOMAIN-SUFFIX,cafepress.com
 DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,calameo.com
 DOMAIN-SUFFIX,calebelston.com
+DOMAIN-SUFFIX,calendarz.com
 DOMAIN-SUFFIX,calgarychinese.com
 DOMAIN-SUFFIX,calgarychinese.net
 DOMAIN-SUFFIX,calibre-ebook.com
@@ -1164,6 +1169,7 @@ DOMAIN-SUFFIX,dai.ly
 DOMAIN-SUFFIX,daidostup.ru
 DOMAIN-SUFFIX,dailidaili.com
 DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dailynews.sina.com
 DOMAIN-SUFFIX,dailysabah.com
 DOMAIN-SUFFIX,daiphapinfo.net
 DOMAIN-SUFFIX,dajiyuan.com
@@ -1496,6 +1502,7 @@ DOMAIN-SUFFIX,empfil.com
 DOMAIN-SUFFIX,emule-ed2k.com
 DOMAIN-SUFFIX,emulefans.com
 DOMAIN-SUFFIX,emuparadise.me
+DOMAIN-SUFFIX,en.hao123.com
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,encrypt.me
 DOMAIN-SUFFIX,encyclopedia.com
@@ -1949,6 +1956,7 @@ DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,geocities.com
 DOMAIN-SUFFIX,geotrust.com
@@ -2245,6 +2253,7 @@ DOMAIN-SUFFIX,hizb-ut-tahrir.org
 DOMAIN-SUFFIX,hizbuttahrir.org
 DOMAIN-SUFFIX,hjclub.info
 DOMAIN-SUFFIX,hk-pub.com
+DOMAIN-SUFFIX,hk.hao123img.com
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,hk32168.com
 DOMAIN-SUFFIX,hkacg.com
@@ -2303,6 +2312,7 @@ DOMAIN-SUFFIX,hola.com
 DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,holymountaincn.com
 DOMAIN-SUFFIX,holyspiritspeaks.org
+DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,homeip.net
 DOMAIN-SUFFIX,homeperversion.com
@@ -2344,6 +2354,7 @@ DOMAIN-SUFFIX,hrcchina.org
 DOMAIN-SUFFIX,hrcir.com
 DOMAIN-SUFFIX,hrea.org
 DOMAIN-SUFFIX,hrichina.org
+DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hrw.org
 DOMAIN-SUFFIX,hrweb.org
 DOMAIN-SUFFIX,hsjp.net
@@ -2443,6 +2454,7 @@ DOMAIN-SUFFIX,iconfactory.net
 DOMAIN-SUFFIX,iconpaper.org
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,icu-project.org
+DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,idaiwan.com
 DOMAIN-SUFFIX,idemocracy.asia
 DOMAIN-SUFFIX,idiomconnection.com
@@ -2755,6 +2767,7 @@ DOMAIN-SUFFIX,journalchretien.net
 DOMAIN-SUFFIX,journalofdemocracy.org
 DOMAIN-SUFFIX,joymiihub.com
 DOMAIN-SUFFIX,joyourself.com
+DOMAIN-SUFFIX,jp.hao123.com
 DOMAIN-SUFFIX,jp.net
 DOMAIN-SUFFIX,jpopforum.net
 DOMAIN-SUFFIX,jqueryui.com
@@ -2906,6 +2919,7 @@ DOMAIN-SUFFIX,latelinenews.com
 DOMAIN-SUFFIX,latencytop.com
 DOMAIN-SUFFIX,law.com
 DOMAIN-SUFFIX,lbank.info
+DOMAIN-SUFFIX,ld.hao123img.com
 DOMAIN-SUFFIX,le-vpn.com
 DOMAIN-SUFFIX,leafyvpn.net
 DOMAIN-SUFFIX,leancloud.com
@@ -3064,6 +3078,7 @@ DOMAIN-SUFFIX,lzjscript.com
 DOMAIN-SUFFIX,lzmtnews.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,ma.hao123.com
 DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
@@ -3346,6 +3361,7 @@ DOMAIN-SUFFIX,muzi.net
 DOMAIN-SUFFIX,muzu.tv
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,mvnrepository.com
+DOMAIN-SUFFIX,mx.hao123.com
 DOMAIN-SUFFIX,mx981.com
 DOMAIN-SUFFIX,my-formosa.com
 DOMAIN-SUFFIX,my-proxy.com
@@ -3639,6 +3655,7 @@ DOMAIN-SUFFIX,oann.com
 DOMAIN-SUFFIX,oauth.net
 DOMAIN-SUFFIX,observechina.net
 DOMAIN-SUFFIX,obutu.com
+DOMAIN-SUFFIX,obyte.org
 DOMAIN-SUFFIX,ocaspro.com
 DOMAIN-SUFFIX,occupytiananmen.com
 DOMAIN-SUFFIX,ocreampies.com
@@ -4065,6 +4082,7 @@ DOMAIN-SUFFIX,questvisual.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,quitccp.net
 DOMAIN-SUFFIX,quitccp.org
+DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,quran.com
@@ -4235,6 +4253,7 @@ DOMAIN-SUFFIX,s4miniarchive.com
 DOMAIN-SUFFIX,s81c.com
 DOMAIN-SUFFIX,s8forum.com
 DOMAIN-SUFFIX,sa.com
+DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,saboom.com
 DOMAIN-SUFFIX,sacks.com
 DOMAIN-SUFFIX,sadistic-v.com
@@ -4819,6 +4838,7 @@ DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tfiflve.com
+DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thaicn.com
 DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,theage.com.au
@@ -5106,6 +5126,8 @@ DOMAIN-SUFFIX,tvplayvideos.com
 DOMAIN-SUFFIX,tvunetworks.com
 DOMAIN-SUFFIX,tw-blog.com
 DOMAIN-SUFFIX,tw-npo.org
+DOMAIN-SUFFIX,tw.hao123.com
+DOMAIN-SUFFIX,tw.iqiyi.com
 DOMAIN-SUFFIX,tw01.org
 DOMAIN-SUFFIX,twaitter.com
 DOMAIN-SUFFIX,twapperkeeper.com
@@ -5393,6 +5415,7 @@ DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vllcs.org
 DOMAIN-SUFFIX,vmixcore.com
 DOMAIN-SUFFIX,vmpsoft.com
+DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vnet.link
 DOMAIN-SUFFIX,voa.mobi
 DOMAIN-SUFFIX,voacambodia.com
@@ -5510,6 +5533,7 @@ DOMAIN-SUFFIX,watchinese.com
 DOMAIN-SUFFIX,watchmygf.net
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,wav.tv
+DOMAIN-SUFFIX,wd.bible
 DOMAIN-SUFFIX,wd.com
 DOMAIN-SUFFIX,wdc.com
 DOMAIN-SUFFIX,wdf5.com

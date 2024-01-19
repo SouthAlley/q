@@ -1,4 +1,4 @@
-# Main total line 11963
+# Main total line 11966
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -53,6 +53,7 @@ DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.sogaha.cn
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,aid.m.taobao.com
+DOMAIN,analytics-api.smzdm.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,api-ad.kajicam.com
@@ -76,6 +77,7 @@ DOMAIN,cr-status.iqiyi.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,data-hoisin.coocaa.com
 DOMAIN,delivery-node-aziz.voe-network.net
+DOMAIN,dgstatic.jd.com
 DOMAIN,dig.bdurl.net
 DOMAIN,dispatcher.360in.com
 DOMAIN,dsp.fcbox.com
@@ -123,6 +125,7 @@ DOMAIN,miav-cse.avlyun.com
 DOMAIN,miniapp.bilibili.com
 DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
+DOMAIN,msg.umengcloud.com
 DOMAIN,msync-im1-vip6-std.easemob.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,navigis.uc.cn
@@ -181,6 +184,7 @@ DOMAIN,webproxy-advp.iad-apple.com
 DOMAIN,webproxy-advp.iad-apple.com.akadns.net
 DOMAIN,wolong-dsp.sm.cn
 DOMAIN,www.clarity.ms
+DOMAIN,ynuf.aliapp.org
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zhihu-analytics.zhihu.com
 DOMAIN,zhihu-web-analytics.zhihu.com
@@ -11674,9 +11678,8 @@ DOMAIN-KEYWORD,v1.log.moji.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
 DOMAIN-KEYWORD,vidoza
-DOMAIN-KEYWORD,volccdn.com
+DOMAIN-KEYWORD,volc.com
 DOMAIN-KEYWORD,volceapplog.com
-DOMAIN-KEYWORD,volces.com
 DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com

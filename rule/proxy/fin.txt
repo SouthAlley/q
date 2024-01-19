@@ -1,4 +1,4 @@
-# Main total line 6012
+# Main total line 6011
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5981,7 +5981,6 @@ DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,dlercloud
 IP-CIDR,104.244.40.0/21,no-resolve
 IP-CIDR,107.155.5.0/24,no-resolve
 IP-CIDR,108.168.0.0/16,no-resolve

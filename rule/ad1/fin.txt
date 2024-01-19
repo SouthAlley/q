@@ -1,4 +1,4 @@
-# Main total line 5993
+# Main total line 5986
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -438,7 +438,6 @@ DOMAIN-SUFFIX,aaxads.com
 DOMAIN-SUFFIX,abacho.net
 DOMAIN-SUFFIX,abackafterthought.com
 DOMAIN-SUFFIX,abackchain.com
-DOMAIN-SUFFIX,abackframe.com
 DOMAIN-SUFFIX,abandonedaction.com
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,abc-ads.com
@@ -1297,7 +1296,6 @@ DOMAIN-SUFFIX,adsrv2.swidnica24.pl
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,adss.yahoo.com
 DOMAIN-SUFFIX,adstacks.in
-DOMAIN-SUFFIX,adstanding.com
 DOMAIN-SUFFIX,adstat.4u.pl
 DOMAIN-SUFFIX,adstest.weather.com
 DOMAIN-SUFFIX,adsunflower.com
@@ -2375,7 +2373,6 @@ DOMAIN-SUFFIX,de.pandora.xiaomi.com
 DOMAIN-SUFFIX,de.soquair.com
 DOMAIN-SUFFIX,de17a.com
 DOMAIN-SUFFIX,deadpangate.com
-DOMAIN-SUFFIX,deadpanmarble.com
 DOMAIN-SUFFIX,dealdotcom.com
 DOMAIN-SUFFIX,debonairway.com
 DOMAIN-SUFFIX,debtbusterloans.com
@@ -2568,7 +2565,6 @@ DOMAIN-SUFFIX,eiv.baidu.cn
 DOMAIN-SUFFIX,eiv.baidu.com
 DOMAIN-SUFFIX,ejyymghi.com
 DOMAIN-SUFFIX,elasticchange.com
-DOMAIN-SUFFIX,elasticducks.com
 DOMAIN-SUFFIX,elderlyscissors.com
 DOMAIN-SUFFIX,elderlytown.com
 DOMAIN-SUFFIX,elephantqueue.com
@@ -2654,6 +2650,7 @@ DOMAIN-SUFFIX,exampleshake.com
 DOMAIN-SUFFIX,exchange-it.com
 DOMAIN-SUFFIX,exchangead.com
 DOMAIN-SUFFIX,exchangeclicksonline.com
+DOMAIN-SUFFIX,exchangedetail.com
 DOMAIN-SUFFIX,exclusivebrass.com
 DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exelate.com
@@ -3880,6 +3877,7 @@ DOMAIN-SUFFIX,newnet.qsrch.com
 DOMAIN-SUFFIX,newnudecash.com
 DOMAIN-SUFFIX,news-imgpb.51y5.net
 DOMAIN-SUFFIX,news.docer.com
+DOMAIN-SUFFIX,newsadsppush.com
 DOMAIN-SUFFIX,newsletter-link.com
 DOMAIN-SUFFIX,newspush.sinajs.cn
 DOMAIN-SUFFIX,newstarads.com
@@ -4328,7 +4326,6 @@ DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,quarterbean.com
 DOMAIN-SUFFIX,quarterserver.de
 DOMAIN-SUFFIX,qucaigg.com
-DOMAIN-SUFFIX,questaffiliates.net
 DOMAIN-SUFFIX,quickkoala.io
 DOMAIN-SUFFIX,quicksandear.com
 DOMAIN-SUFFIX,quietknowledge.com
@@ -4587,7 +4584,6 @@ DOMAIN-SUFFIX,sdkinit.taobao.com
 DOMAIN-SUFFIX,sdn.kugou.com
 DOMAIN-SUFFIX,searchmarketing.com
 DOMAIN-SUFFIX,searchramp.com
-DOMAIN-SUFFIX,seashoreturn.com
 DOMAIN-SUFFIX,secre.jp
 DOMAIN-SUFFIX,secretivecub.com
 DOMAIN-SUFFIX,secretspiders.com
@@ -5686,7 +5682,6 @@ DOMAIN-SUFFIX,yjqiqi.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
 DOMAIN-SUFFIX,ykrectab.youku.com
-DOMAIN-SUFFIX,yldbt.com
 DOMAIN-SUFFIX,ylunion.com
 DOMAIN-SUFFIX,ymapp.com
 DOMAIN-SUFFIX,ymcdn.cn
@@ -5829,9 +5824,7 @@ DOMAIN-KEYWORD,trace.qq.com
 DOMAIN-KEYWORD,trace.video.qq.com
 DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,video-cn.snssdk.com
-DOMAIN-KEYWORD,volccdn.com
 DOMAIN-KEYWORD,volceapplog.com
-DOMAIN-KEYWORD,volces.com
 DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,xxshuyuan

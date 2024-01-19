@@ -1,4 +1,4 @@
-# Main total line 11966
+# Main total line 11961
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -814,7 +814,6 @@ DOMAIN-SUFFIX,ab.sc115.com
 DOMAIN-SUFFIX,abacho.net
 DOMAIN-SUFFIX,abackafterthought.com
 DOMAIN-SUFFIX,abackchain.com
-DOMAIN-SUFFIX,abackframe.com
 DOMAIN-SUFFIX,abandonedaction.com
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,abc-ads.com
@@ -2027,7 +2026,6 @@ DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,adss.dotdo.net
 DOMAIN-SUFFIX,adss.yahoo.com
 DOMAIN-SUFFIX,adstacks.in
-DOMAIN-SUFFIX,adstanding.com
 DOMAIN-SUFFIX,adstat.4u.pl
 DOMAIN-SUFFIX,adstat.cp11.ott.cibntv.net
 DOMAIN-SUFFIX,adstest.weather.com
@@ -4093,7 +4091,6 @@ DOMAIN-SUFFIX,de.dzribao.com
 DOMAIN-SUFFIX,de.pandora.xiaomi.com
 DOMAIN-SUFFIX,de17a.com
 DOMAIN-SUFFIX,deadpangate.com
-DOMAIN-SUFFIX,deadpanmarble.com
 DOMAIN-SUFFIX,dealdotcom.com
 DOMAIN-SUFFIX,deals.ledgertranscript.com
 DOMAIN-SUFFIX,debonairway.com
@@ -4705,7 +4702,6 @@ DOMAIN-SUFFIX,ejyymghi.com
 DOMAIN-SUFFIX,ekeide.com
 DOMAIN-SUFFIX,eland.doublemax.net
 DOMAIN-SUFFIX,elasticchange.com
-DOMAIN-SUFFIX,elasticducks.com
 DOMAIN-SUFFIX,elderlyscissors.com
 DOMAIN-SUFFIX,elderlytown.com
 DOMAIN-SUFFIX,elephantqueue.com
@@ -4818,6 +4814,7 @@ DOMAIN-SUFFIX,exampleshake.com
 DOMAIN-SUFFIX,exchange-it.com
 DOMAIN-SUFFIX,exchangead.com
 DOMAIN-SUFFIX,exchangeclicksonline.com
+DOMAIN-SUFFIX,exchangedetail.com
 DOMAIN-SUFFIX,exclusivebrass.com
 DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exelate.com
@@ -7694,6 +7691,7 @@ DOMAIN-SUFFIX,news.mpush.qq.com
 DOMAIN-SUFFIX,news.s9377.com
 DOMAIN-SUFFIX,news.ssp.qq.com
 DOMAIN-SUFFIX,news.xueyanshan.com
+DOMAIN-SUFFIX,newsadsppush.com
 DOMAIN-SUFFIX,newscgp.com
 DOMAIN-SUFFIX,newsletter-link.com
 DOMAIN-SUFFIX,newspage.xilu.com
@@ -8593,7 +8591,6 @@ DOMAIN-SUFFIX,quarterbean.com
 DOMAIN-SUFFIX,quarterserver.de
 DOMAIN-SUFFIX,qucaigg.com
 DOMAIN-SUFFIX,queene.cn
-DOMAIN-SUFFIX,questaffiliates.net
 DOMAIN-SUFFIX,questionmarket.com
 DOMAIN-SUFFIX,quickkoala.io
 DOMAIN-SUFFIX,quicksandear.com
@@ -9111,7 +9108,6 @@ DOMAIN-SUFFIX,searchignited.com
 DOMAIN-SUFFIX,searchmarketing.com
 DOMAIN-SUFFIX,searchramp.com
 DOMAIN-SUFFIX,searchswapper.com
-DOMAIN-SUFFIX,seashoreturn.com
 DOMAIN-SUFFIX,seavideo-ak.espn.go.com
 DOMAIN-SUFFIX,sebar.thand.info
 DOMAIN-SUFFIX,sec.resource.xiaomi.net
@@ -11221,7 +11217,6 @@ DOMAIN-SUFFIX,yktj.yzz.cn
 DOMAIN-SUFFIX,ykxwn.com
 DOMAIN-SUFFIX,yl850555.com
 DOMAIN-SUFFIX,ylads.yaolan.com
-DOMAIN-SUFFIX,yldbt.com
 DOMAIN-SUFFIX,yllix.com
 DOMAIN-SUFFIX,ylog.hiido.com
 DOMAIN-SUFFIX,ylunion.com

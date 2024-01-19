@@ -9,10 +9,6 @@ HOST-KEYWORD, video-cn.snssdk.com, REJECT
 HOST-KEYWORD, volcvod.com, REJECT
 HOST-KEYWORD, volceapplog.com, REJECT
 
-# > 收集用户隐私联盟
-host-keyword, volces.com, reject
-host-keyword, volccdn.com, reject
-
 # > 虎扑
 host, adx.hupu.com, reject
 host, adx-api.hupu.com, reject

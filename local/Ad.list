@@ -1,14 +1,3 @@
-# > 广告联盟
-HOST-SUFFIX, miaozhen.com, REJECT
-HOST-KEYWORD, -ad-sign.byteimg.com, REJECT
-HOST-KEYWORD, asiad.byteactivity, REJECT
-HOST-KEYWORD, pangolin-sdk-toutiao, REJECT
-HOST-KEYWORD, pangolin.snssdk.com, REJECT
-HOST-KEYWORD, pglstatp-toutiao, REJECT
-HOST-KEYWORD, video-cn.snssdk.com, REJECT
-HOST-KEYWORD, volcvod.com, REJECT
-HOST-KEYWORD, volceapplog.com, REJECT
-
 # > 虎扑
 host, adx.hupu.com, reject
 host, adx-api.hupu.com, reject

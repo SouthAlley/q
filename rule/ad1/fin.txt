@@ -1,4 +1,4 @@
-# Main total line 5986
+# Main total line 5984
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -5824,8 +5824,6 @@ DOMAIN-KEYWORD,trace.qq.com
 DOMAIN-KEYWORD,trace.video.qq.com
 DOMAIN-KEYWORD,trwl1
 DOMAIN-KEYWORD,video-cn.snssdk.com
-DOMAIN-KEYWORD,volceapplog.com
-DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-KEYWORD,zjtoolbar

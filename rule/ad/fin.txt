@@ -1,4 +1,4 @@
-# Main total line 11961
+# Main total line 11958
 # ------------------------------------------
 DOMAIN,39d83s.com
 DOMAIN,a-remad.qm989.com
@@ -9887,7 +9887,6 @@ DOMAIN-SUFFIX,tediousticket.com
 DOMAIN-SUFFIX,tedioustooth.com
 DOMAIN-SUFFIX,teen.77rog.com
 DOMAIN-SUFFIX,teenrevenue.com
-DOMAIN-SUFFIX,teenyvolcano.com
 DOMAIN-SUFFIX,teethfan.com
 DOMAIN-SUFFIX,telaria.com
 DOMAIN-SUFFIX,telemetrics.klaviyo.com
@@ -11673,9 +11672,7 @@ DOMAIN-KEYWORD,v1.log.moji.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
 DOMAIN-KEYWORD,vidoza
-DOMAIN-KEYWORD,volc.com
-DOMAIN-KEYWORD,volceapplog.com
-DOMAIN-KEYWORD,volcvod.com
+DOMAIN-KEYWORD,volc
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wax.weibo.com
 DOMAIN-KEYWORD,wbapp.uve.weibo.com

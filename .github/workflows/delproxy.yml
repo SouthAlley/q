@@ -38,7 +38,8 @@ jobs:
                mkdir -p "q-repo/rule/${path%/*}"
     
                # 使用 curl 下载文件到目标路径
-               curl -L -o "q-repo/rule/$path" "$url"
+               # curl -L -o "q-repo/rule/$path" "$url"
+               curl -L "$url" >> "q-repo/rule/$path"
             done
 
       - name: 编辑规则文件 rule/ad

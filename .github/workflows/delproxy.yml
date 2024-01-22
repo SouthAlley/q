@@ -23,24 +23,23 @@ jobs:
         run: |
            # 定义关联数组，键为文件名，值为路径和 URL 的组合
            declare -A file_path_url=(
-               ["MyBlockAds.list"]="ad/attach/del.ini https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
-               ["StreamingRule.list"]="global/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
-               ["AnotherRule.list"]="proxy/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
-               ["dr.list"]="ad/attach/del.ini https://raw.githubusercontent.com/vokins/ad/main/dr.list"
-               
-               )
+              ["MyBlockAds.list"]="ad/attach/del.ini https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
+              ["StreamingRule.list"]="global/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+              ["AnotherRule.list"]="proxy/attach/del.ini https://raw.githubusercontent.com/SouthAlley/z/main/Surge/StreamingRule/StreamingRule.list"
+              
+                )
 
-           # 循环处理每个文件或规则
-           for item in "${!file_path_url[@]}"; do
-               # 分割路径、文件名和 URL
-               IFS=' ' read -r path file url <<< "${file_path_url[$item]}"
+           # 循环处理每个文件
+           for file in "${!file_path_url[@]}"; do
+               # 分割路径和 URL
+               IFS=' ' read -r path url <<< "${file_path_url[$file]}"
     
                # 创建目标文件所在的目录（如果不存在）
                mkdir -p "q-repo/rule/${path%/*}"
     
-               # 使用 curl 下载文件并追加到目标文件
-               curl -L "$url" >> "q-repo/rule/$path"
-           done
+               # 使用 curl 下载文件到目标路径
+               curl -L -o "q-repo/rule/$path" "$url"
+            done
 
       - name: 编辑规则文件 rule/ad
         run: |

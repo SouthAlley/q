@@ -74,6 +74,7 @@ DOMAIN,s.jpush.cn
 DOMAIN,tsis.jpush.cn
 DOMAIN,stats.jpush.cn
 
+host-suffix, alog.umengcloud.com
 host-suffix, ulogs.umengcloud.com
 
 # > 58同城

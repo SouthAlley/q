@@ -1,4 +1,4 @@
-# Main total line 5986
+# Main total line 5988
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -1474,6 +1474,8 @@ DOMAIN-SUFFIX,allosponsor.com
 DOMAIN-SUFFIX,alluringbucket.com
 DOMAIN-SUFFIX,allyes.cn
 DOMAIN-SUFFIX,allyes.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umengcloud.com
 DOMAIN-SUFFIX,aloofmetal.com
 DOMAIN-SUFFIX,aloofvest.com
 DOMAIN-SUFFIX,alphonso.tv

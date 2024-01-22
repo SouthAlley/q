@@ -74,6 +74,8 @@ DOMAIN,s.jpush.cn
 DOMAIN,tsis.jpush.cn
 DOMAIN,stats.jpush.cn
 
+host-suffix, ulogs.umengcloud.com
+
 # > 58同城
 host, track.58.com, reject
 host, tracklog.58.com, reject

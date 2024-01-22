@@ -1,4 +1,4 @@
-# Main total line 5984
+# Main total line 5986
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -253,6 +253,7 @@ DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
 DOMAIN,sdk.ssp.admobile.top
 DOMAIN,sdk.tianmu.mobi
+DOMAIN,sis.jpush.io
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splashqqlive.gtimg.com
 DOMAIN,statics.woozooo.com
@@ -5310,6 +5311,7 @@ DOMAIN-SUFFIX,ukeiae.com
 DOMAIN-SUFFIX,ukoffzeh.com
 DOMAIN-SUFFIX,ulic.baidu.com
 DOMAIN-SUFFIX,ulog.imap.baidu.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,ultimateclixx.com
 DOMAIN-SUFFIX,ultraiso.net
 DOMAIN-SUFFIX,ultramercial.com

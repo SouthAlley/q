@@ -1,4 +1,4 @@
-# Main total line 6011
+# Main total line 6009
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -2095,7 +2095,6 @@ DOMAIN-SUFFIX,grangorz.org
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,greasespot.net
 DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
 DOMAIN-SUFFIX,greatfire.org
@@ -5655,7 +5654,6 @@ DOMAIN-SUFFIX,wnacg.com
 DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,wo.tc
 DOMAIN-SUFFIX,woeser.com
-DOMAIN-SUFFIX,woesermiddle-way.net
 DOMAIN-SUFFIX,wokar.org
 DOMAIN-SUFFIX,wolfax.com
 DOMAIN-SUFFIX,wombo.ai

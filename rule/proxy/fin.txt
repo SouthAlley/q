@@ -1,4 +1,4 @@
-# Main total line 6014
+# Main total line 6009
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -6,9 +6,6 @@ DOMAIN,cdn.usefathom.com
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ees.elsevier.com
 DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,lf19-pkgcdn.pitaya-clientai.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -5999,8 +5996,6 @@ IP-CIDR,3.0.163.78/32,no-resolve
 IP-CIDR,52.52.84.170/32,no-resolve
 IP-CIDR,66.203.126.0/23,no-resolve
 IP-CIDR,69.171.0.0/16,no-resolve
-IP-CIDR,71.18.27.224/30,no-resolve
-IP-CIDR,71.18.40.224/30,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,94.24.36.0/23,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve

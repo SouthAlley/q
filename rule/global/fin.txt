@@ -1,4 +1,4 @@
-# Main total line 16264
+# Main total line 16259
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -34,9 +34,6 @@ DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
 DOMAIN,lazer.ppy.sh
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,lf19-pkgcdn.pitaya-clientai.com
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN,m1.ppy.sh
@@ -16259,8 +16256,6 @@ IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,69.171.0.0/16,no-resolve
-IP-CIDR,71.18.27.224/30,no-resolve
-IP-CIDR,71.18.40.224/30,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve

@@ -4,9 +4,6 @@ DOMAIN,cdn.usefathom.com
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ees.elsevier.com
 DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,lf19-pkgcdn.pitaya-clientai.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org

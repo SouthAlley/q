@@ -1,4 +1,4 @@
-# Main total line 13117
+# Main total line 13119
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -52,6 +52,7 @@ DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN,ad-mediation.tuanguwen.com
 DOMAIN,ad-mob-app.le.com
 DOMAIN,ad-r.soulapp.cn
+DOMAIN,ad-reward.soulapp.cn
 DOMAIN,ad-sdk-config.youdao.com
 DOMAIN,ad.21cn.com
 DOMAIN,ad.aggrx.com
@@ -11544,6 +11545,7 @@ DOMAIN-SUFFIX,v02u9.cn
 DOMAIN-SUFFIX,v1-feed.idreamsky.com
 DOMAIN-SUFFIX,v1.0594529.com
 DOMAIN-SUFFIX,v1adserver.com
+DOMAIN-SUFFIX,v1d.szbdyd.com
 DOMAIN-SUFFIX,v2.fm.n.duokanbox.com
 DOMAIN-SUFFIX,v2.hunantv.com
 DOMAIN-SUFFIX,v3.fstats.xyz

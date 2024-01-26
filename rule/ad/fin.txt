@@ -1,4 +1,4 @@
-# Main total line 13119
+# Main total line 13123
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -925,6 +925,8 @@ DOMAIN,wapunionreportlog.dfxwdc.com
 DOMAIN,wapunionstatis.dfxwdc.com
 DOMAIN,wbox.sinaimg.cn
 DOMAIN,web-tracker.ccrgt.com
+DOMAIN,webcast3-core-c-lf.amemv.com
+DOMAIN,webcast3-normal-c-lf.amemv.com
 DOMAIN,webcast5-normal-lf.amemv.com
 DOMAIN,webproxy-advp.iad-apple.com
 DOMAIN,webproxy-advp.iad-apple.com.akadns.net
@@ -3922,6 +3924,7 @@ DOMAIN-SUFFIX,bridgetrack.com
 DOMAIN-SUFFIX,briefstem.com
 DOMAIN-SUFFIX,brightcom.com
 DOMAIN-SUFFIX,brightinfo.com
+DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,brightmountainmedia.com
 DOMAIN-SUFFIX,brizads.com
 DOMAIN-SUFFIX,bro.flyme.cn
@@ -4569,6 +4572,7 @@ DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,convrse.media
 DOMAIN-SUFFIX,coocaatv.com
 DOMAIN-SUFFIX,cooguo.com
+DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cookies.cmpnet.com
 DOMAIN-SUFFIX,coolguang.com
 DOMAIN-SUFFIX,coolnay.com
@@ -8285,7 +8289,6 @@ DOMAIN-SUFFIX,metrics.foxnews.com
 DOMAIN-SUFFIX,metrics.getrockerbox.com
 DOMAIN-SUFFIX,metrics.gfycat.com
 DOMAIN-SUFFIX,metrics.govexec.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.mzstatic.com
 DOMAIN-SUFFIX,metrilo.com
 DOMAIN-SUFFIX,mfadsrvr.com
@@ -8890,6 +8893,7 @@ DOMAIN-SUFFIX,onestat.com
 DOMAIN-SUFFIX,onestatfree.com
 DOMAIN-SUFFIX,onetad.com
 DOMAIN-SUFFIX,onetag-sys.com
+DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,onewhee.com
 DOMAIN-SUFFIX,onlifjj.net
 DOMAIN-SUFFIX,online-metrix.net
@@ -11900,7 +11904,6 @@ DOMAIN-SUFFIX,wjguc.com
 DOMAIN-SUFFIX,wka8.com
 DOMAIN-SUFFIX,wkanc.com
 DOMAIN-SUFFIX,wl.eastlady.cn
-DOMAIN-SUFFIX,wl.spotify.com
 DOMAIN-SUFFIX,wla3ii66.top
 DOMAIN-SUFFIX,wlkpa.cn
 DOMAIN-SUFFIX,wlmarketing.com
@@ -12612,12 +12615,13 @@ DOMAIN-KEYWORD,-infras.byteimg.com
 DOMAIN-KEYWORD,-infras.bytetos.com
 DOMAIN-KEYWORD,-insurance.byteimg.com
 DOMAIN-KEYWORD,-lite-a.douyinvod.com
+DOMAIN-KEYWORD,-lite-b.douyinvod.com
+DOMAIN-KEYWORD,-lite-c.douyinvod.com
 DOMAIN-KEYWORD,-lite.douyinvod.com
 DOMAIN-KEYWORD,-litea.douyinvod.com
 DOMAIN-KEYWORD,-pay.bytefae.com
 DOMAIN-KEYWORD,-rtmp.meituan.net
 DOMAIN-KEYWORD,-static.bytefae.com
-DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,a.9game.cn

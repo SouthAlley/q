@@ -1,4 +1,4 @@
-# Main total line 5990
+# Main total line 6003
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -6,6 +6,9 @@ DOMAIN,a0.app.xiaomi.com
 DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cdn.qingting.fm
+DOMAIN,ad-h5-cdn.soulapp.cn
+DOMAIN,ad-h5-station-cdn.soulapp.cn
+DOMAIN,ad-r.soulapp.cn
 DOMAIN,ad-stat.ksosoft.com
 DOMAIN,ad.21cn.com
 DOMAIN,ad.360in.com
@@ -254,6 +257,7 @@ DOMAIN,sdapprecv.app.cntvwb.cn
 DOMAIN,sdk.ssp.admobile.top
 DOMAIN,sdk.tianmu.mobi
 DOMAIN,sis.jpush.io
+DOMAIN,soul-ad.soulapp.cn
 DOMAIN,splashimgbssdl.yun.kugou.com
 DOMAIN,splashqqlive.gtimg.com
 DOMAIN,statics.woozooo.com
@@ -439,6 +443,7 @@ DOMAIN-SUFFIX,aaxads.com
 DOMAIN-SUFFIX,abacho.net
 DOMAIN-SUFFIX,abackafterthought.com
 DOMAIN-SUFFIX,abackchain.com
+DOMAIN-SUFFIX,abackframe.com
 DOMAIN-SUFFIX,abandonedaction.com
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,abc-ads.com
@@ -551,7 +556,6 @@ DOMAIN-SUFFIX,ad.myapple.pl
 DOMAIN-SUFFIX,ad.mynetreklam.com.streamprovider.net
 DOMAIN-SUFFIX,ad.nachtagenten.de
 DOMAIN-SUFFIX,ad.nettvservices.com
-DOMAIN-SUFFIX,ad.nozonedata.com
 DOMAIN-SUFFIX,ad.nttnavi.co.jp
 DOMAIN-SUFFIX,ad.nwt.cz
 DOMAIN-SUFFIX,ad.period-calendar.com
@@ -938,7 +942,6 @@ DOMAIN-SUFFIX,ads.gamespyid.com
 DOMAIN-SUFFIX,ads.gamigo.de
 DOMAIN-SUFFIX,ads.gaming-universe.de
 DOMAIN-SUFFIX,ads.gaming1.com
-DOMAIN-SUFFIX,ads.geekswithblogs.net
 DOMAIN-SUFFIX,ads.genieessp.com
 DOMAIN-SUFFIX,ads.getlucky.com
 DOMAIN-SUFFIX,ads.gld.dk
@@ -958,7 +961,6 @@ DOMAIN-SUFFIX,ads.hearstmags.com
 DOMAIN-SUFFIX,ads.heartlight.org
 DOMAIN-SUFFIX,ads.hollywood.com
 DOMAIN-SUFFIX,ads.horsehero.com
-DOMAIN-SUFFIX,ads.horyzon-media.com
 DOMAIN-SUFFIX,ads.house365.com
 DOMAIN-SUFFIX,ads.hsoub.com
 DOMAIN-SUFFIX,ads.ibest.com.br
@@ -1297,6 +1299,7 @@ DOMAIN-SUFFIX,adsrv2.swidnica24.pl
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,adss.yahoo.com
 DOMAIN-SUFFIX,adstacks.in
+DOMAIN-SUFFIX,adstanding.com
 DOMAIN-SUFFIX,adstat.4u.pl
 DOMAIN-SUFFIX,adstest.weather.com
 DOMAIN-SUFFIX,adsunflower.com
@@ -2376,6 +2379,7 @@ DOMAIN-SUFFIX,de.pandora.xiaomi.com
 DOMAIN-SUFFIX,de.soquair.com
 DOMAIN-SUFFIX,de17a.com
 DOMAIN-SUFFIX,deadpangate.com
+DOMAIN-SUFFIX,deadpanmarble.com
 DOMAIN-SUFFIX,dealdotcom.com
 DOMAIN-SUFFIX,debonairway.com
 DOMAIN-SUFFIX,debtbusterloans.com
@@ -2944,6 +2948,7 @@ DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,gscontxt.net
 DOMAIN-SUFFIX,gscxs.cn
 DOMAIN-SUFFIX,gsjln04hd.com
+DOMAIN-SUFFIX,gstaticx.com
 DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,gtlpaj.com
 DOMAIN-SUFFIX,gtmsdd.alicdn.com
@@ -4589,6 +4594,7 @@ DOMAIN-SUFFIX,sdkinit.taobao.com
 DOMAIN-SUFFIX,sdn.kugou.com
 DOMAIN-SUFFIX,searchmarketing.com
 DOMAIN-SUFFIX,searchramp.com
+DOMAIN-SUFFIX,seashoreturn.com
 DOMAIN-SUFFIX,secre.jp
 DOMAIN-SUFFIX,secretivecub.com
 DOMAIN-SUFFIX,secretspiders.com
@@ -5688,6 +5694,7 @@ DOMAIN-SUFFIX,yjqiqi.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
 DOMAIN-SUFFIX,ykrectab.youku.com
+DOMAIN-SUFFIX,yldbt.com
 DOMAIN-SUFFIX,ylunion.com
 DOMAIN-SUFFIX,ymapp.com
 DOMAIN-SUFFIX,ymcdn.cn
@@ -5764,6 +5771,7 @@ DOMAIN-SUFFIX,zzhc.vnet.cn
 DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-adsystem.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adform
@@ -5863,7 +5871,9 @@ IP-CIDR,119.4.249.166/32,no-resolve
 IP-CIDR,120.192.83.163/32,no-resolve
 IP-CIDR,120.209.138.64/32,no-resolve
 IP-CIDR,120.240.95.37/32,no-resolve
+IP-CIDR,120.27.235.201/32,no-resolve
 IP-CIDR,120.76.189.132/32,no-resolve
+IP-CIDR,121.196.197.147/32,no-resolve
 IP-CIDR,122.229.29.89/32,no-resolve
 IP-CIDR,122.229.8.47/32,no-resolve
 IP-CIDR,123.125.81.12/32,no-resolve
@@ -5972,7 +5982,10 @@ IP-CIDR,23.217.138.108/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,42.123.125.237/32,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve
+IP-CIDR,47.56.131.76/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
+IP-CIDR,47.97.215.55/32,no-resolve
+IP-CIDR,47.99.42.29/32,no-resolve
 IP-CIDR,60.19.29.21/32,no-resolve
 IP-CIDR,60.19.29.22/31,no-resolve
 IP-CIDR,60.19.29.24/30,no-resolve

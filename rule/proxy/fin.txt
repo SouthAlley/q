@@ -1,4 +1,4 @@
-# Main total line 6009
+# Main total line 6010
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -988,6 +988,7 @@ DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,cloakpoint.com
 DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net

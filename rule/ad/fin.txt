@@ -1,4 +1,4 @@
-# Main total line 13129
+# Main total line 13135
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -416,6 +416,7 @@ DOMAIN,fpb0.sohu.com
 DOMAIN,fpb1.qicaixianhua.com
 DOMAIN,fpb1.sohu.com
 DOMAIN,fpb2.qicaixianhua.com
+DOMAIN,frontier100-aweme-lf.amemv.com
 DOMAIN,g1.dfcfw.com
 DOMAIN,galaxy.bz.mgtv.com
 DOMAIN,galaxy2.bz.mgtv.com
@@ -529,6 +530,7 @@ DOMAIN,kad.gotokeep.com
 DOMAIN,kde.qq.com
 DOMAIN,klcdn.propsad.com
 DOMAIN,klink.amemv.com
+DOMAIN,klink5-lf.amemv.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
@@ -583,6 +585,7 @@ DOMAIN,luna.58.com
 DOMAIN,lupic.cdn.bcebos.com
 DOMAIN,m.ecom.mgtv.com
 DOMAIN,ma-adx.ctrip.com
+DOMAIN,ma3-normal-lf.zijieapi.com
 DOMAIN,ma5-normal-lq.zijieapi.com
 DOMAIN,mamasearchad.cloudvideocdn.taobao.com
 DOMAIN,marauder.zongheng.com
@@ -783,6 +786,7 @@ DOMAIN,sf-tb-sg.ibytedtos.com
 DOMAIN,sf0.market.xiaomi.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,sf19-fe-tos-sg.i18n-pglstatp.com
+DOMAIN,sf6-cdn-tos.douyinstatic.com
 DOMAIN,shark.dianping.com
 DOMAIN,shence-import.smzdm.com
 DOMAIN,shence.hupu.com
@@ -799,6 +803,7 @@ DOMAIN,sp-ad-cf.audio.tidal.com
 DOMAIN,sp0.baidu.com
 DOMAIN,sp1.baidu.com
 DOMAIN,spider-tracker.xiaohongshu.com
+DOMAIN,sq.bls.mdt.qq.com
 DOMAIN,ss.chelaile.net.cn
 DOMAIN,ss.gerenjianli.com
 DOMAIN,ssp-partner.alibaba.com
@@ -855,6 +860,7 @@ DOMAIN,tnc5-bjlgy.zijieapi.com
 DOMAIN,toblog.tobsnssdk.com
 DOMAIN,tongji.leju.com
 DOMAIN,tongji.qichacha.com
+DOMAIN,tp-pay.snssdk.com
 DOMAIN,tr.jianshu.com
 DOMAIN,track.cnki.net
 DOMAIN,track.hujiang.com

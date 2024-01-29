@@ -1,8 +1,9 @@
-# Main total line 6002
+# Main total line 6003
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
 DOMAIN,a0.app.xiaomi.com
+DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-h5-cdn.soulapp.cn

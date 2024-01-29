@@ -1,4 +1,4 @@
-# Main total line 7397
+# Main total line 7396
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -39,7 +39,6 @@ DOMAIN,abtest3-misc-lq.zijieapi.com
 DOMAIN,abtest5-misc-hl.zijieapi.com
 DOMAIN,abtest5-misc.zijieapi.com
 DOMAIN,acs.youku.com
-DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,activitynew.zhuishushenqi.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cdn.qingting.fm

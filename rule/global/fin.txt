@@ -1,4 +1,4 @@
-# Main total line 16265
+# Main total line 16264
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -14091,7 +14091,6 @@ DOMAIN-SUFFIX,tt-rss.org
 DOMAIN-SUFFIX,tt1069.com
 DOMAIN-SUFFIX,tteshop.com
 DOMAIN-SUFFIX,tttan.com
-DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tu8964.com
 DOMAIN-SUFFIX,tubaholic.com
 DOMAIN-SUFFIX,tube-sex-videos.com

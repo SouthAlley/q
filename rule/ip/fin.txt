@@ -1,12 +1,19 @@
-# Main total line 10
+# Main total line 17
 # ------------------------------------------
-IP-CIDR,66.22.196.0/22,no-resolve
-IP-CIDR,66.22.200.0/21,no-resolve
-IP-CIDR,66.22.208.0/20,no-resolve
-IP-CIDR,66.22.224.0/22,no-resolve
-IP-CIDR,66.22.230.0/23,no-resolve
-IP-CIDR,66.22.232.0/23,no-resolve
-IP-CIDR,66.22.234.0/24,no-resolve
-IP-CIDR,66.22.236.0/22,no-resolve
-IP-CIDR,66.22.240.0/21,no-resolve
-IP-CIDR,66.22.248.0/24,no-resolve
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+DOMAIN,lf19-pkgcdn.pitaya-clientai.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-KEYWORD,tiktok
+USER-AGENT,TikTok*

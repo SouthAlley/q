@@ -20,7 +20,7 @@ jobs:
         continue-on-error: false
         timeout-minutes: 20
         run: |
-          .\r.cmd rule/text
+          .\r.cmd rule/ip
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

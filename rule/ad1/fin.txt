@@ -1,4 +1,4 @@
-# Main total line 6003
+# Main total line 6004
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -153,6 +153,7 @@ DOMAIN,hdns.ksyun.com
 DOMAIN,hnrtg.iujkegbpo.xyz
 DOMAIN,hudong.alicdn.com
 DOMAIN,huichuan-mc.sm.cn
+DOMAIN,huodong.weibo.cn
 DOMAIN,huyafile.msstatic.com
 DOMAIN,i.snssdk.com
 DOMAIN,iad.apple.com

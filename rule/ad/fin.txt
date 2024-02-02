@@ -1,4 +1,4 @@
-# Main total line 13135
+# Main total line 13133
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -1083,6 +1083,7 @@ DOMAIN-SUFFIX,17un.co
 DOMAIN-SUFFIX,17un.com
 DOMAIN-SUFFIX,17zhaole.com
 DOMAIN-SUFFIX,180hits.de
+DOMAIN-SUFFIX,180searchassistant.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189key.com
 DOMAIN-SUFFIX,189zj.cn
@@ -3583,14 +3584,12 @@ DOMAIN-SUFFIX,banner.mindshare.de
 DOMAIN-SUFFIX,banner.nixnet.cz
 DOMAIN-SUFFIX,banner.noblepoker.com
 DOMAIN-SUFFIX,banner.northsky.com
-DOMAIN-SUFFIX,banner.penguin.cz
 DOMAIN-SUFFIX,banner.rbc.ru
 DOMAIN-SUFFIX,banner.reinstil.de
 DOMAIN-SUFFIX,banner.tanto.de
 DOMAIN-SUFFIX,banner.telefragged.com
 DOMAIN-SUFFIX,banner.titan-dsl.de
 DOMAIN-SUFFIX,banner.titancasino.com
-DOMAIN-SUFFIX,banner.webmersion.com
 DOMAIN-SUFFIX,banner1.pornhost.com
 DOMAIN-SUFFIX,banner10.zetasystem.dk
 DOMAIN-SUFFIX,bannerads.de
@@ -5059,7 +5058,6 @@ DOMAIN-SUFFIX,dip.wl963.com
 DOMAIN-SUFFIX,dip.zgydjr.com
 DOMAIN-SUFFIX,dipan.com
 DOMAIN-SUFFIX,direct-events-collector.spot.im
-DOMAIN-SUFFIX,direct-xxx-access.com
 DOMAIN-SUFFIX,directaclick.com
 DOMAIN-SUFFIX,directleads.com
 DOMAIN-SUFFIX,directorym.com
@@ -5608,6 +5606,7 @@ DOMAIN-SUFFIX,ejyymghi.com
 DOMAIN-SUFFIX,ekeide.com
 DOMAIN-SUFFIX,eland.doublemax.net
 DOMAIN-SUFFIX,elasticchange.com
+DOMAIN-SUFFIX,elasticducks.com
 DOMAIN-SUFFIX,elderlyscissors.com
 DOMAIN-SUFFIX,elderlytown.com
 DOMAIN-SUFFIX,elephantqueue.com
@@ -9920,7 +9919,6 @@ DOMAIN-SUFFIX,rtb.metrigo.com
 DOMAIN-SUFFIX,rtbadzesto.com
 DOMAIN-SUFFIX,rtbasia.com
 DOMAIN-SUFFIX,rtbflairads.com
-DOMAIN-SUFFIX,rtbidhost.com
 DOMAIN-SUFFIX,rtbplatform.net
 DOMAIN-SUFFIX,rtbpop.com
 DOMAIN-SUFFIX,rtbpopd.com
@@ -10980,6 +10978,7 @@ DOMAIN-SUFFIX,tetrack.qq.com
 DOMAIN-SUFFIX,tewtwt.top
 DOMAIN-SUFFIX,text-link-ads.com
 DOMAIN-SUFFIX,textad.sexsearch.com
+DOMAIN-SUFFIX,textads.biz
 DOMAIN-SUFFIX,textlinks.com
 DOMAIN-SUFFIX,tf.caohua.com
 DOMAIN-SUFFIX,tf.hdfdm.com
@@ -11170,7 +11169,6 @@ DOMAIN-SUFFIX,tracking.39-bb4a9-osm.co.uk
 DOMAIN-SUFFIX,tracking.42-01pr5-osm-secure.co.uk
 DOMAIN-SUFFIX,tracking.5-47737-bi.co.uk
 DOMAIN-SUFFIX,tracking.epicgames.com
-DOMAIN-SUFFIX,tracking.exipure.com
 DOMAIN-SUFFIX,tracking.hyros.com
 DOMAIN-SUFFIX,tracking.ibxlink.com
 DOMAIN-SUFFIX,tracking.intentsify.io

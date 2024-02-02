@@ -1,4 +1,4 @@
-# Main total line 16268
+# Main total line 16298
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -1473,6 +1473,25 @@ DOMAIN-SUFFIX,avriri.top
 DOMAIN-SUFFIX,avseesee.com
 DOMAIN-SUFFIX,avsforum.com
 DOMAIN-SUFFIX,avstar.me
+DOMAIN-SUFFIX,avstar01.me
+DOMAIN-SUFFIX,avstar02.me
+DOMAIN-SUFFIX,avstar03.me
+DOMAIN-SUFFIX,avstar04.com
+DOMAIN-SUFFIX,avstar04.me
+DOMAIN-SUFFIX,avstar05.me
+DOMAIN-SUFFIX,avstar06.me
+DOMAIN-SUFFIX,avstar07.com
+DOMAIN-SUFFIX,avstar07.me
+DOMAIN-SUFFIX,avstar09.com
+DOMAIN-SUFFIX,avstar09.me
+DOMAIN-SUFFIX,avstar1.com
+DOMAIN-SUFFIX,avstar2.com
+DOMAIN-SUFFIX,avstar3.com
+DOMAIN-SUFFIX,avstar4.com
+DOMAIN-SUFFIX,avstar5.com
+DOMAIN-SUFFIX,avstar6.com
+DOMAIN-SUFFIX,avstar8.com
+DOMAIN-SUFFIX,avstar9.com
 DOMAIN-SUFFIX,avwong.com
 DOMAIN-SUFFIX,avwto.com
 DOMAIN-SUFFIX,avxde.org
@@ -2142,6 +2161,9 @@ DOMAIN-SUFFIX,bigtopsites.com
 DOMAIN-SUFFIX,biguz.net
 DOMAIN-SUFFIX,biitii.com
 DOMAIN-SUFFIX,bijukujo.club
+DOMAIN-SUFFIX,bikaa.xyz
+DOMAIN-SUFFIX,bikac.xyz
+DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
@@ -3866,6 +3888,7 @@ DOMAIN-SUFFIX,damduc.org
 DOMAIN-SUFFIX,damnhotz.com
 DOMAIN-SUFFIX,damplips.com
 DOMAIN-SUFFIX,dandalinvoa.com
+DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danemarket.com
 DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,danke4china.net
@@ -9140,6 +9163,7 @@ DOMAIN-SUFFIX,mangafox.com
 DOMAIN-SUFFIX,mangafox.me
 DOMAIN-SUFFIX,mangahentai.me
 DOMAIN-SUFFIX,mangahome.com
+DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,manhub.com
@@ -10677,6 +10701,7 @@ DOMAIN-SUFFIX,nuita.net
 DOMAIN-SUFFIX,nukemanga.com
 DOMAIN-SUFFIX,nuki-dokoro.com
 DOMAIN-SUFFIX,nukistream.com
+DOMAIN-SUFFIX,nunuyy.cc
 DOMAIN-SUFFIX,nurgo-software.com
 DOMAIN-SUFFIX,nurofen.com
 DOMAIN-SUFFIX,nurofen.net
@@ -11261,7 +11286,11 @@ DOMAIN-SUFFIX,physiology.org
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,piapro.net
 DOMAIN-SUFFIX,picacg2022.com
+DOMAIN-SUFFIX,picacgp.com
+DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,picacomiccn.com
 DOMAIN-SUFFIX,picasa.com
 DOMAIN-SUFFIX,picasaweb.com
@@ -15192,6 +15221,7 @@ DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,wikaba.com
+DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wikia.nocookie.net
 DOMAIN-SUFFIX,wikia.org

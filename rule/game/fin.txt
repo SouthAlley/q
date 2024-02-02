@@ -1,6 +1,5 @@
-# Main total line 176
+# Main total line 175
 # ------------------------------------------
-DOMAIN,dlgarenanow-a.akamaihd.net
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,gog.salesmanago.com
 DOMAIN,originasserts.akamaized.net

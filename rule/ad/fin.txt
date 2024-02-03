@@ -1,4 +1,4 @@
-# Main total line 13133
+# Main total line 13146
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -861,6 +861,7 @@ DOMAIN,toblog.tobsnssdk.com
 DOMAIN,tongji.leju.com
 DOMAIN,tongji.qichacha.com
 DOMAIN,tp-pay.snssdk.com
+DOMAIN,tr.byteurl.cn
 DOMAIN,tr.jianshu.com
 DOMAIN,track.cnki.net
 DOMAIN,track.hujiang.com
@@ -12618,7 +12619,16 @@ DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
 DOMAIN-KEYWORD,-cold.douyinvod.com
+DOMAIN-KEYWORD,-cold1.douyinvod.com
+DOMAIN-KEYWORD,-cold2.douyinvod.com
+DOMAIN-KEYWORD,-cold3.douyinvod.com
+DOMAIN-KEYWORD,-cold4.douyinvod.com
+DOMAIN-KEYWORD,-colda.douyinvod.com
 DOMAIN-KEYWORD,-coldb.douyinvod.com
+DOMAIN-KEYWORD,-coldd.douyinvod.com
+DOMAIN-KEYWORD,-coldf.douyinvod.com
+DOMAIN-KEYWORD,-coldx.douyinvod.com
+DOMAIN-KEYWORD,-coldy.douyinvod.com
 DOMAIN-KEYWORD,-flv.meituan.net
 DOMAIN-KEYWORD,-hls.meituan.net
 DOMAIN-KEYWORD,-infras.byteimg.com
@@ -12629,6 +12639,7 @@ DOMAIN-KEYWORD,-lite-b.douyinvod.com
 DOMAIN-KEYWORD,-lite-c.douyinvod.com
 DOMAIN-KEYWORD,-lite.douyinvod.com
 DOMAIN-KEYWORD,-litea.douyinvod.com
+DOMAIN-KEYWORD,-liteb.douyinvod.com
 DOMAIN-KEYWORD,-pay.bytefae.com
 DOMAIN-KEYWORD,-rtmp.meituan.net
 DOMAIN-KEYWORD,-static.bytefae.com
@@ -12737,6 +12748,7 @@ DOMAIN-KEYWORD,fans.m.tmall.com
 DOMAIN-KEYWORD,fastimage.uve.weibo.com
 DOMAIN-KEYWORD,fc-video.cdn.bcebos.com
 DOMAIN-KEYWORD,fds.api.moji.com
+DOMAIN-KEYWORD,free-lbv3.idouyinvod.com
 DOMAIN-KEYWORD,game.weibo.cn
 DOMAIN-KEYWORD,game.weibo.com
 DOMAIN-KEYWORD,greenplasticdua
@@ -12836,6 +12848,7 @@ DOMAIN-KEYWORD,track.uc.cn
 DOMAIN-KEYWORD,tracker.kugou.com
 DOMAIN-KEYWORD,trackercdnbj.kugou.com
 DOMAIN-KEYWORD,trwl1
+DOMAIN-KEYWORD,tt.x.bsgslb.cn
 DOMAIN-KEYWORD,tui.weibo.com
 DOMAIN-KEYWORD,tunion-api.m.taobao.com
 DOMAIN-KEYWORD,uop.umeng.com

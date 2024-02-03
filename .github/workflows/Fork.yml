@@ -24,7 +24,7 @@ jobs:
 
     - name: Edit Domain
       run: |
-        cd q-repo/local
+        cd q-repo/local/ini
         for file in porxyip.list; do
           if [ -f "$file" ]; then
             # 删除规则

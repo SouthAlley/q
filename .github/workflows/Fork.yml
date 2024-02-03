@@ -20,12 +20,12 @@ jobs:
       run: |
         mkdir -p q-repo/local
         # 分流规则
-        curl -L -o q-repo/local/ini/porxyip.ini "https://raw.githubusercontent.com/SouthAlley/q/main/rule/proxy/fin.txt"
+        curl -L -o q-repo/local/ini/porxyip.list "https://raw.githubusercontent.com/SouthAlley/q/main/rule/proxy/fin.txt"
 
     - name: Edit Domain
       run: |
         cd q-repo/local
-        for file in porxyip.ini; do
+        for file in porxyip.list; do
           if [ -f "$file" ]; then
             # 删除规则
             sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|DOMAIN\|DOMAIN-SUFFIX\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$file"

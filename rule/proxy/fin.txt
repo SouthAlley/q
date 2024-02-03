@@ -1,4 +1,4 @@
-# Main total line 6040
+# Main total line 6042
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -1007,7 +1007,6 @@ DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
 DOMAIN-SUFFIX,cmule.org
 DOMAIN-SUFFIX,cmx.im
-DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,cn.com
 DOMAIN-SUFFIX,cnabc.com
@@ -1382,6 +1381,7 @@ DOMAIN-SUFFIX,duihuahrjournal.org
 DOMAIN-SUFFIX,dukgo.com
 DOMAIN-SUFFIX,dumb1.com
 DOMAIN-SUFFIX,dunyabulteni.net
+DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duoweitimes.com
 DOMAIN-SUFFIX,duping.net
 DOMAIN-SUFFIX,duplicati.com
@@ -2733,6 +2733,7 @@ DOMAIN-SUFFIX,jp.net
 DOMAIN-SUFFIX,jpopforum.net
 DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,js.revsci.net
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,jubushoushen.com
@@ -5307,7 +5308,6 @@ DOMAIN-SUFFIX,vercel-analytics.com
 DOMAIN-SUFFIX,vercel-dns.com
 DOMAIN-SUFFIX,vercel-insights.com
 DOMAIN-SUFFIX,vercel-status.com
-DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.blog
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel.events
@@ -5928,6 +5928,8 @@ DOMAIN-SUFFIX,zzux.com
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.
+DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,discord
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve

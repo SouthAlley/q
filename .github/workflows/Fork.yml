@@ -1,0 +1,53 @@
+name: Fork filter lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 */12 * * *"
+  
+jobs:
+  Fork:
+    runs-on: ubuntu-latest
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: SouthAlley/q
+        path: q-repo
+   
+    - name: Download file to Surge
+      run: |
+        mkdir -p q-repo/local
+        # 分流规则
+        curl -L -o q-repo/local/ini/porxyip.ini "https://raw.githubusercontent.com/SouthAlley/q/main/rule/proxy/fin.txt"
+
+    - name: Edit Domain
+      run: |
+        cd q-repo/local
+        for file in porxyip.ini; do
+          if [ -f "$file" ]; then
+            # 删除规则
+            sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|DOMAIN\|DOMAIN-SUFFIX\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$file"
+            # 删除注释
+            sed -i 's/#.*//' "$file"
+            # 删除空行
+            sed -i '/^[[:space:]]*$/d' "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+       
+    - name: Add and Commits
+      run: |
+        cd q-repo
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update"
+          git push
+        else
+          echo "No changes to commit."
+        fi
+    

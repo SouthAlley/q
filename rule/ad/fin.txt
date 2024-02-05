@@ -1,4 +1,4 @@
-# Main total line 13146
+# Main total line 13153
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -200,6 +200,7 @@ DOMAIN,api.ls.eyunmy.com
 DOMAIN,api.nx-perf.cn
 DOMAIN,api.share.baidu.com
 DOMAIN,api.so.lianmeng.360.cn
+DOMAIN,api3-normal-c-lf.amemv.com
 DOMAIN,apiems.58.com
 DOMAIN,apierwa.58.com
 DOMAIN,apis.alenable.com
@@ -540,6 +541,7 @@ DOMAIN,leads.baidu.com
 DOMAIN,legoclick.58.com
 DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN,lf.snssdk.com
+DOMAIN,lf3-static.bytednsdoc.com
 DOMAIN,lf9-cdn-tos.bytegecko.com
 DOMAIN,lite.a.market.xiaomi.com
 DOMAIN,live.yuanbobo.com
@@ -566,6 +568,7 @@ DOMAIN,log.suning.com
 DOMAIN,log.tbs.qq.com
 DOMAIN,log.zijieapi.com
 DOMAIN,log0-misc-alinc2.amemv.com
+DOMAIN,log0-misc-lf.amemv.com
 DOMAIN,log001.cmpassport.com
 DOMAIN,log1.cmpassport.com
 DOMAIN,log2.cmpassport.com
@@ -689,6 +692,7 @@ DOMAIN,pn-cover.cdn.bcebos.com
 DOMAIN,polaris.zijieapi.com
 DOMAIN,polaris3-normal-hl.zijieapi.com
 DOMAIN,polaris3-normal-lq.zijieapi.com
+DOMAIN,polaris5-normal-lf.zijieapi.com
 DOMAIN,port.sec.miui.com
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,prebid.a-mo.net
@@ -786,6 +790,7 @@ DOMAIN,sf-tb-sg.ibytedtos.com
 DOMAIN,sf0.market.xiaomi.com
 DOMAIN,sf16-static.i18n-pglstatp.com
 DOMAIN,sf19-fe-tos-sg.i18n-pglstatp.com
+DOMAIN,sf5-hl-cdn-tos.douyinstatic.com
 DOMAIN,sf6-cdn-tos.douyinstatic.com
 DOMAIN,shark.dianping.com
 DOMAIN,shence-import.smzdm.com
@@ -860,7 +865,6 @@ DOMAIN,tnc5-bjlgy.zijieapi.com
 DOMAIN,toblog.tobsnssdk.com
 DOMAIN,tongji.leju.com
 DOMAIN,tongji.qichacha.com
-DOMAIN,tp-pay.snssdk.com
 DOMAIN,tr.byteurl.cn
 DOMAIN,tr.jianshu.com
 DOMAIN,track.cnki.net
@@ -3410,6 +3414,7 @@ DOMAIN-SUFFIX,ashow.pcpop.com
 DOMAIN-SUFFIX,asimgs.pplive.cn
 DOMAIN-SUFFIX,ask.gaykes.com
 DOMAIN-SUFFIX,aso1.net
+DOMAIN-SUFFIX,assemblyexchange.com
 DOMAIN-SUFFIX,assets.210189.com
 DOMAIN-SUFFIX,assets.2343sdxs.com
 DOMAIN-SUFFIX,assets.258pcf.com
@@ -5688,6 +5693,7 @@ DOMAIN-SUFFIX,etargetnet.com
 DOMAIN-SUFFIX,eteun.cn
 DOMAIN-SUFFIX,ethod.gzgmjcx.com
 DOMAIN-SUFFIX,etl.xlmc.sec.miui.com
+DOMAIN-SUFFIX,etrack07.com
 DOMAIN-SUFFIX,etracker.com
 DOMAIN-SUFFIX,etracker.de
 DOMAIN-SUFFIX,eu-adcenter.net
@@ -11114,6 +11120,7 @@ DOMAIN-SUFFIX,touclick.com
 DOMAIN-SUFFIX,tour.brazzers.com
 DOMAIN-SUFFIX,toutiao.2haha.com
 DOMAIN-SUFFIX,toutiao.jxnews.com.cn
+DOMAIN-SUFFIX,tp-pay.snssdk.com
 DOMAIN-SUFFIX,tp.sgcn.com
 DOMAIN-SUFFIX,tpe163.com
 DOMAIN-SUFFIX,tpns.tencent.com

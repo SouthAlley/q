@@ -39,7 +39,6 @@ IP-CIDR, 122.229.29.89/32, reject
 DOMAIN, ad.maoyan.com, REJECT
 
 # 字节跳动 - 广告服务商
-#DOMAIN,sf1-pitaya-tos.pstatp.com:443
 DOMAIN, ad.zijieapi.com, REJECT
 DOMAIN, i.snssdk.com, REJECT
 DOMAIN, is.snssdk.com, REJECT
@@ -103,6 +102,8 @@ DOMAIN,wxsnsdythumb.wxs.qq.com
 # 斗鱼开屏广告
 DOMAIN-SUFFIX,rtbapi.douyucdn.cn
 
+# 抖音/字节
 DOMAIN,p1.pstatp.com
 DOMAIN,p3.pstatp.com
 DOMAIN,p9.pstatp.com
+DOMAIN,tosv.byted.org

@@ -1,4 +1,4 @@
-# Main total line 6006
+# Main total line 6008
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -3302,6 +3302,8 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jrclick.jd.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,js-apac-ss.ysm.yahoo.com
+DOMAIN-SUFFIX,js-api.otherlevels.com
+DOMAIN-SUFFIX,js-tags.otherlevels.com
 DOMAIN-SUFFIX,js.51toubu.com
 DOMAIN-SUFFIX,js.iterable.com
 DOMAIN-SUFFIX,js.wpshsdk.com

@@ -1,4 +1,4 @@
-# Main total line 13154
+# Main total line 13156
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -7206,6 +7206,8 @@ DOMAIN-SUFFIX,jrdkc.com
 DOMAIN-SUFFIX,jrhaigou.com
 DOMAIN-SUFFIX,jrpt.jrptweb.org
 DOMAIN-SUFFIX,js-1.pchome.net
+DOMAIN-SUFFIX,js-api.otherlevels.com
+DOMAIN-SUFFIX,js-tags.otherlevels.com
 DOMAIN-SUFFIX,js.05sun.com
 DOMAIN-SUFFIX,js.133u.com
 DOMAIN-SUFFIX,js.139y.com

@@ -1,4 +1,4 @@
-# Main total line 6004
+# Main total line 6006
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -169,6 +169,7 @@ DOMAIN,iadmusicmat.music.126.net
 DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN,iadworkbench.apple.com
 DOMAIN,ifengad.3g.ifeng.com
+DOMAIN,image.mybank.icbc.com.cn
 DOMAIN,images.ctfassets.net
 DOMAIN,img.auction-ads.wpscdn.cn
 DOMAIN,imgad0.pcauto.com.cn
@@ -3567,6 +3568,7 @@ DOMAIN-SUFFIX,mairuan.com.cn
 DOMAIN-SUFFIX,mairuan.net
 DOMAIN-SUFFIX,mairuanwang.com
 DOMAIN-SUFFIX,makeding.com
+DOMAIN-SUFFIX,mall.icbc.com.cn
 DOMAIN-SUFFIX,maltiverse.lt.acemlnc.com
 DOMAIN-SUFFIX,manageadv.cblogs.eu
 DOMAIN-SUFFIX,mantisadnetwork.com

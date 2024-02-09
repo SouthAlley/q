@@ -1,4 +1,4 @@
-# Main total line 6008
+# Main total line 6004
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -437,7 +437,6 @@ DOMAIN-SUFFIX,a1.itc.cn
 DOMAIN-SUFFIX,a135.wftv.com
 DOMAIN-SUFFIX,a3p4.net
 DOMAIN-SUFFIX,a5.overclockers.ua
-DOMAIN-SUFFIX,a8a8altrk.com
 DOMAIN-SUFFIX,aa-metrics.beauty.hotpepper.jp
 DOMAIN-SUFFIX,aa-metrics.recruit-card.jp
 DOMAIN-SUFFIX,aa-metrics.trip-ai.jp
@@ -1418,7 +1417,6 @@ DOMAIN-SUFFIX,affec.tv
 DOMAIN-SUFFIX,affili.net
 DOMAIN-SUFFIX,affiliate.1800flowers.com
 DOMAIN-SUFFIX,affiliate.dtiserv.com
-DOMAIN-SUFFIX,affiliate.gamestop.com
 DOMAIN-SUFFIX,affiliate.rusvpn.com
 DOMAIN-SUFFIX,affiliate.travelnow.com
 DOMAIN-SUFFIX,affiliate.treated.com
@@ -3903,7 +3901,6 @@ DOMAIN-SUFFIX,nex.corp.163.com
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nexage.com
 DOMAIN-SUFFIX,ng3.ads.warnerbros.com
-DOMAIN-SUFFIX,nhpfvdlbjg.com
 DOMAIN-SUFFIX,nicelabel.cc
 DOMAIN-SUFFIX,nichibenren.or.jp
 DOMAIN-SUFFIX,nicorette.co.kr
@@ -4038,7 +4035,6 @@ DOMAIN-SUFFIX,p.vq6nsu.cn
 DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p2.hunantv.com
 DOMAIN-SUFFIX,p242.plainwrk.name
-DOMAIN-SUFFIX,p2r14.com
 DOMAIN-SUFFIX,p3p.yahoo.com
 DOMAIN-SUFFIX,paddleangle.com
 DOMAIN-SUFFIX,padsbrown.com

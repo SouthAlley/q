@@ -1,4 +1,4 @@
-# Main total line 13156
+# Main total line 13152
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -1603,7 +1603,6 @@ DOMAIN-SUFFIX,a6s.ruyiqufu.com
 DOMAIN-SUFFIX,a6s.ve001nz.com
 DOMAIN-SUFFIX,a7shun.com
 DOMAIN-SUFFIX,a8.net
-DOMAIN-SUFFIX,a8a8altrk.com
 DOMAIN-SUFFIX,a9.com
 DOMAIN-SUFFIX,a907907.com
 DOMAIN-SUFFIX,a9377j.com
@@ -3023,7 +3022,6 @@ DOMAIN-SUFFIX,affil.mupromo.com
 DOMAIN-SUFFIX,affili.net
 DOMAIN-SUFFIX,affiliate.1800flowers.com
 DOMAIN-SUFFIX,affiliate.dtiserv.com
-DOMAIN-SUFFIX,affiliate.gamestop.com
 DOMAIN-SUFFIX,affiliate.rusvpn.com
 DOMAIN-SUFFIX,affiliate.travelnow.com
 DOMAIN-SUFFIX,affiliate.treated.com
@@ -8736,7 +8734,6 @@ DOMAIN-SUFFIX,nfh.cnshef.com
 DOMAIN-SUFFIX,nfsland.com
 DOMAIN-SUFFIX,ng3.ads.warnerbros.com
 DOMAIN-SUFFIX,ngads.go.com
-DOMAIN-SUFFIX,nhpfvdlbjg.com
 DOMAIN-SUFFIX,nicelabel.cc
 DOMAIN-SUFFIX,nichibenren.or.jp
 DOMAIN-SUFFIX,nicorette.co.kr
@@ -9043,7 +9040,6 @@ DOMAIN-SUFFIX,p2.ykauto.cn
 DOMAIN-SUFFIX,p215223.mycdn2.co
 DOMAIN-SUFFIX,p242.plainwrk.name
 DOMAIN-SUFFIX,p2pmid.baofeng.com
-DOMAIN-SUFFIX,p2r14.com
 DOMAIN-SUFFIX,p3p.sogou.com
 DOMAIN-SUFFIX,p3p.yahoo.com
 DOMAIN-SUFFIX,p3tt.com

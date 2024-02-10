@@ -1,4 +1,4 @@
-# Main total line 13152
+# Main total line 13158
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -403,6 +403,7 @@ DOMAIN,feedback-c.zijieapi.com
 DOMAIN,feedback.miui.com
 DOMAIN,feedback.uc.cn
 DOMAIN,fex.bdstatic.com
+DOMAIN,finderhy.video.qq.com
 DOMAIN,firebasedynamiclinks.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,firebaselogging-pa.googleapis.com
@@ -511,6 +512,7 @@ DOMAIN,imageplus.baidu.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,internal-amis-res.cdn.bcebos.com
 DOMAIN,ipad.pc899.cn
+DOMAIN,ipolyfill.edge-byted.com
 DOMAIN,is-lq.snssdk.com
 DOMAIN,j.9136.com
 DOMAIN,j.bs.twlxxl.cn
@@ -542,6 +544,7 @@ DOMAIN,legoclick.58.com
 DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN,lf.snssdk.com
 DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,lf6-effectcdn-tos.byteeffecttos.com
 DOMAIN,lf9-cdn-tos.bytegecko.com
 DOMAIN,lite.a.market.xiaomi.com
 DOMAIN,live.yuanbobo.com
@@ -3471,6 +3474,7 @@ DOMAIN-SUFFIX,autumnone.cn
 DOMAIN-SUFFIX,avalonalbum.com
 DOMAIN-SUFFIX,avazutracking.net
 DOMAIN-SUFFIX,avenuea.com
+DOMAIN-SUFFIX,avlm1.com
 DOMAIN-SUFFIX,avocet.io
 DOMAIN-SUFFIX,avpa.dzone.com
 DOMAIN-SUFFIX,avualrhg9p.bid
@@ -10369,6 +10373,7 @@ DOMAIN-SUFFIX,slib.tvmao.cn
 DOMAIN-SUFFIX,slicktext.com
 DOMAIN-SUFFIX,slides.discovery.tom.com
 DOMAIN-SUFFIX,slipperysack.com
+DOMAIN-SUFFIX,sloffer1.com
 DOMAIN-SUFFIX,slog.sina.cn
 DOMAIN-SUFFIX,slog.sina.com.cn
 DOMAIN-SUFFIX,slopeaota.com
@@ -11620,6 +11625,7 @@ DOMAIN-SUFFIX,verticalmass.com
 DOMAIN-SUFFIX,verticalscope.com
 DOMAIN-SUFFIX,vervemobile.com
 DOMAIN-SUFFIX,vervewireless.com
+DOMAIN-SUFFIX,vfgtg.com
 DOMAIN-SUFFIX,vg02h8z1ul.me
 DOMAIN-SUFFIX,vi-serve.com
 DOMAIN-SUFFIX,vi1.ku6img.net

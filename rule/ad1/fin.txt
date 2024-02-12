@@ -1,4 +1,4 @@
-# Main total line 6004
+# Main total line 6003
 # ------------------------------------------
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
@@ -2091,7 +2091,6 @@ DOMAIN-SUFFIX,click.news.vans.com
 DOMAIN-SUFFIX,click.nl.npr.org
 DOMAIN-SUFFIX,click.nvgaming.nvidia.com
 DOMAIN-SUFFIX,click.qianqian.com
-DOMAIN-SUFFIX,click.redditmail.com
 DOMAIN-SUFFIX,click.tianya.cn
 DOMAIN-SUFFIX,click.tianyaui.cn
 DOMAIN-SUFFIX,click.twcwigs.com

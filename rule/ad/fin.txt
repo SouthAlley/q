@@ -1,4 +1,4 @@
-# Main total line 13158
+# Main total line 13157
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -1160,7 +1160,6 @@ DOMAIN-SUFFIX,23873645.com
 DOMAIN-SUFFIX,247media.com
 DOMAIN-SUFFIX,24haitao.net
 DOMAIN-SUFFIX,24log.com
-DOMAIN-SUFFIX,24log.de
 DOMAIN-SUFFIX,24pm-affiliation.com
 DOMAIN-SUFFIX,256ppp.com
 DOMAIN-SUFFIX,25ku.com

@@ -21,6 +21,7 @@ jobs:
         timeout-minutes: 20
         run: |
           .\r.cmd rule/proxy
+          .\r.cmd rule/ad1
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

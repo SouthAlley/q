@@ -1,6 +1,7 @@
-# Main total line 6028
+# Main total line 6030
 # ------------------------------------------
 DOMAIN,4lke.online
+DOMAIN,a.labadena.com
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
 DOMAIN,a0.app.xiaomi.com
@@ -114,7 +115,6 @@ DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,business.msstatic.com
 DOMAIN,c.bing.com
-DOMAIN,c.clarity.ms
 DOMAIN,c1wx.lianwangtech.com
 DOMAIN,cad.youku.com
 DOMAIN,cdn.adapi.fotoable.com
@@ -158,7 +158,6 @@ DOMAIN,go.rmhfrtnd.com
 DOMAIN,go.spankbanglive.com
 DOMAIN,go.xhamsterlive.com
 DOMAIN,go.xliirdr.com
-DOMAIN,go.xlivesex.com
 DOMAIN,go.xxxviijmp.com
 DOMAIN,go.xxxvjmp.com
 DOMAIN,goblin.hupu.com
@@ -219,8 +218,10 @@ DOMAIN,logs.chelaile.net.cn
 DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,m.adyounger.com
+DOMAIN,mail.kguapp.com
 DOMAIN,mapi.apptimize.com
 DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN,marine.xhamster.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,md-i-s.apptimize.com
 DOMAIN,mdrecv.app.cntvwb.cn
@@ -236,7 +237,6 @@ DOMAIN,nadvideo2.baidu.com
 DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,nex.163.com
 DOMAIN,nggfe.fdgem.com
-DOMAIN,o.clarity.ms
 DOMAIN,open.kuaishouzt.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
@@ -301,19 +301,20 @@ DOMAIN,track.tiara.kakao.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,tysdk.95516.com
 DOMAIN,ups.ksmobile.net
+DOMAIN,uug27.com
 DOMAIN,vali-g1.cp31.ott.cibntv.net
 DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,vdapprecv.app.cntvwb.cn
-DOMAIN,video.mnaspm.com
 DOMAIN,vip.bz.mgtv.com
 DOMAIN,wa.gtimg.com
 DOMAIN,ws.ksmobile.net
-DOMAIN,www.clarity.ms
+DOMAIN,www.traforama.com
 DOMAIN,www.vipads.live
 DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
+DOMAIN,x.eccorp.cc
 DOMAIN,yandexmetrica.com
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
@@ -2069,6 +2070,7 @@ DOMAIN-SUFFIX,cjmkt.com
 DOMAIN-SUFFIX,cl0udh0st1ng.com
 DOMAIN-SUFFIX,claria.com
 DOMAIN-SUFFIX,clarifyverse.com
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,clck.ru
 DOMAIN-SUFFIX,cleaner.baidu.com
 DOMAIN-SUFFIX,clevernt.com
@@ -2309,7 +2311,6 @@ DOMAIN-SUFFIX,crazypopups.com
 DOMAIN-SUFFIX,cre.dp.sina.cn
 DOMAIN-SUFFIX,creative.kbnmnl.com
 DOMAIN-SUFFIX,creative.live.missav.com
-DOMAIN-SUFFIX,creative.mnaspm.com
 DOMAIN-SUFFIX,creative.myavlive.com
 DOMAIN-SUFFIX,creative.xlviirdr.com
 DOMAIN-SUFFIX,creatives.livejasmin.com
@@ -2486,6 +2487,7 @@ DOMAIN-SUFFIX,domaining.in
 DOMAIN-SUFFIX,domainsteam.de
 DOMAIN-SUFFIX,domdex.com
 DOMAIN-SUFFIX,dongmansoft.com
+DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,dotcounter.douyutv.com
 DOMAIN-SUFFIX,dotmetrics.net
 DOMAIN-SUFFIX,dotmore.com.tw
@@ -2919,7 +2921,6 @@ DOMAIN-SUFFIX,go.10086.cn
 DOMAIN-SUFFIX,go.dhs.gov
 DOMAIN-SUFFIX,go.eu.sparkpostmail1.com
 DOMAIN-SUFFIX,go.icann.org
-DOMAIN-SUFFIX,go.mnaspm.com
 DOMAIN-SUFFIX,go.myavlive.com
 DOMAIN-SUFFIX,go.scmagazine.com
 DOMAIN-SUFFIX,go.sohu.com
@@ -3750,6 +3751,7 @@ DOMAIN-SUFFIX,mltrk.io
 DOMAIN-SUFFIX,mm9842.com
 DOMAIN-SUFFIX,mmismm.com
 DOMAIN-SUFFIX,mmtro.com
+DOMAIN-SUFFIX,mnaspm.com
 DOMAIN-SUFFIX,mng-ads.com
 DOMAIN-SUFFIX,mntzrlt.net
 DOMAIN-SUFFIX,mo.kugou.com

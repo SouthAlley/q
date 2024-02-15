@@ -5430,6 +5430,7 @@ DOMAIN-SUFFIX,e.kjfhe.com
 DOMAIN-SUFFIX,e.kjhfy.com
 DOMAIN-SUFFIX,e.kl6636.net
 DOMAIN-SUFFIX,e.ksttwz.com
+DOMAIN-SUFFIX,e.kuaishou.cn
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e.kunpp.com
 DOMAIN-SUFFIX,e.kwjkd.com
@@ -8930,7 +8931,6 @@ DOMAIN-SUFFIX,op00w.baiyangzs.com
 DOMAIN-SUFFIX,opads.us
 DOMAIN-SUFFIX,open-adx.com
 DOMAIN-SUFFIX,open-uc.cn
-DOMAIN-SUFFIX,open.e.kuaishou.cn
 DOMAIN-SUFFIX,open.kuaishouzt.com
 DOMAIN-SUFFIX,open.kwaizt.com
 DOMAIN-SUFFIX,open.oneplus.net

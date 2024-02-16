@@ -1,4 +1,4 @@
-# Main total line 13157
+# Main total line 13159
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -509,6 +509,7 @@ DOMAIN,image2.dgaxxjq.cn
 DOMAIN,image2.fnxlxcw.cn
 DOMAIN,imageadv.ccb.com
 DOMAIN,imageplus.baidu.com
+DOMAIN,imasdk.googleapis.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,internal-amis-res.cdn.bcebos.com
 DOMAIN,ipad.pc899.cn
@@ -3800,6 +3801,7 @@ DOMAIN-SUFFIX,bidclix.com
 DOMAIN-SUFFIX,bidclix.net
 DOMAIN-SUFFIX,biddingos.com
 DOMAIN-SUFFIX,biddingx.com
+DOMAIN-SUFFIX,bidmyqps.xyz
 DOMAIN-SUFFIX,bidr.io
 DOMAIN-SUFFIX,bidsopt.com
 DOMAIN-SUFFIX,bidswitch.net

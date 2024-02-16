@@ -1,4 +1,4 @@
-# Main total line 6030
+# Main total line 6033
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.labadena.com
@@ -90,6 +90,8 @@ DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.yiche.com
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,afdconf.baidu.com
+DOMAIN,aff-partners-io.ck-cdn.com
+DOMAIN,aff.partners.io
 DOMAIN,al-log.d.meituan.net
 DOMAIN,amap-aos-info-nogw.amap.com
 DOMAIN,amdc.m.youku.com
@@ -245,6 +247,7 @@ DOMAIN,otheve.beacon.qq.com
 DOMAIN,p1.pstatp.com
 DOMAIN,p3.pstatp.com
 DOMAIN,p9.pstatp.com
+DOMAIN,pagead2.googlesyndication-cn.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,partwithner.com
 DOMAIN,pgdt.gtimg.cn

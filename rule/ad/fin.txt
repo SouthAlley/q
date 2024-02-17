@@ -1,4 +1,4 @@
-# Main total line 13160
+# Main total line 13140
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -200,7 +200,6 @@ DOMAIN,api.ls.eyunmy.com
 DOMAIN,api.nx-perf.cn
 DOMAIN,api.share.baidu.com
 DOMAIN,api.so.lianmeng.360.cn
-DOMAIN,api3-normal-c-lf.amemv.com
 DOMAIN,apiems.58.com
 DOMAIN,apierwa.58.com
 DOMAIN,apis.alenable.com
@@ -418,7 +417,6 @@ DOMAIN,fpb0.sohu.com
 DOMAIN,fpb1.qicaixianhua.com
 DOMAIN,fpb1.sohu.com
 DOMAIN,fpb2.qicaixianhua.com
-DOMAIN,frontier100-aweme-lf.amemv.com
 DOMAIN,g1.dfcfw.com
 DOMAIN,galaxy.bz.mgtv.com
 DOMAIN,galaxy2.bz.mgtv.com
@@ -534,7 +532,6 @@ DOMAIN,kad.gotokeep.com
 DOMAIN,kde.qq.com
 DOMAIN,klcdn.propsad.com
 DOMAIN,klink.amemv.com
-DOMAIN,klink5-lf.amemv.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,koprtgh.omhoa.com
@@ -12632,28 +12629,11 @@ DOMAIN-SUFFIX,zzrcz.com
 DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
-DOMAIN-KEYWORD,-cold.douyinvod.com
-DOMAIN-KEYWORD,-cold1.douyinvod.com
-DOMAIN-KEYWORD,-cold2.douyinvod.com
-DOMAIN-KEYWORD,-cold3.douyinvod.com
-DOMAIN-KEYWORD,-cold4.douyinvod.com
-DOMAIN-KEYWORD,-colda.douyinvod.com
-DOMAIN-KEYWORD,-coldb.douyinvod.com
-DOMAIN-KEYWORD,-coldd.douyinvod.com
-DOMAIN-KEYWORD,-coldf.douyinvod.com
-DOMAIN-KEYWORD,-coldx.douyinvod.com
-DOMAIN-KEYWORD,-coldy.douyinvod.com
 DOMAIN-KEYWORD,-flv.meituan.net
 DOMAIN-KEYWORD,-hls.meituan.net
 DOMAIN-KEYWORD,-infras.byteimg.com
 DOMAIN-KEYWORD,-infras.bytetos.com
 DOMAIN-KEYWORD,-insurance.byteimg.com
-DOMAIN-KEYWORD,-lite-a.douyinvod.com
-DOMAIN-KEYWORD,-lite-b.douyinvod.com
-DOMAIN-KEYWORD,-lite-c.douyinvod.com
-DOMAIN-KEYWORD,-lite.douyinvod.com
-DOMAIN-KEYWORD,-litea.douyinvod.com
-DOMAIN-KEYWORD,-liteb.douyinvod.com
 DOMAIN-KEYWORD,-pay.bytefae.com
 DOMAIN-KEYWORD,-rtmp.meituan.net
 DOMAIN-KEYWORD,-static.bytefae.com

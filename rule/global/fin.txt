@@ -1,4 +1,4 @@
-# Main total line 16410
+# Main total line 16413
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -55,6 +55,7 @@ DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
+DOMAIN,wetv.qq.com
 DOMAIN,widgets.stripst.com
 DOMAIN,wrds-www.wharton.upenn.edu
 DOMAIN-SUFFIX,000webhost.com
@@ -2209,6 +2210,7 @@ DOMAIN-SUFFIX,binancezh.net
 DOMAIN-SUFFIX,binancezh.pro
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,bing123.com
+DOMAIN-SUFFIX,bingparachute.com
 DOMAIN-SUFFIX,binoculus.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,binux.me
@@ -6448,6 +6450,7 @@ DOMAIN-SUFFIX,globalrescue.net
 DOMAIN-SUFFIX,globalriskregulator.com
 DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,globalsign-media.com
+DOMAIN-SUFFIX,globalsign.cloud
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalspec.com

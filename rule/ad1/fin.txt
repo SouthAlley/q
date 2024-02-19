@@ -1,4 +1,4 @@
-# Main total line 6032
+# Main total line 6033
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.labadena.com
@@ -5923,6 +5923,7 @@ IP-CIDR,175.6.223.15/32,no-resolve
 IP-CIDR,180.153.103.224/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
 IP-CIDR,180.168.41.175/32,no-resolve
+IP-CIDR,180.76.76.112/32,no-resolve
 IP-CIDR,180.76.76.200/32,no-resolve
 IP-CIDR,183.207.232.253/32,no-resolve
 IP-CIDR,183.221.242.172/32,no-resolve

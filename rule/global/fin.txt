@@ -1,4 +1,4 @@
-# Main total line 16413
+# Main total line 16414
 # ------------------------------------------
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -7490,6 +7490,7 @@ DOMAIN-SUFFIX,hulusports.com
 DOMAIN-SUFFIX,huluteam.com
 DOMAIN-SUFFIX,hulutv.com
 DOMAIN-SUFFIX,huluusa.com
+DOMAIN-SUFFIX,humanparty.me
 DOMAIN-SUFFIX,humanrightspressawards.org
 DOMAIN-SUFFIX,humoron.com
 DOMAIN-SUFFIX,hung-ya.com

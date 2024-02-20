@@ -1,4 +1,4 @@
-# Main total line 13141
+# Main total line 13140
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -2508,7 +2508,6 @@ DOMAIN-SUFFIX,ads.leovegas.com
 DOMAIN-SUFFIX,ads.lesbianpersonals.com
 DOMAIN-SUFFIX,ads.liberte.pl
 DOMAIN-SUFFIX,ads.lifethink.net
-DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads.livenation.com
 DOMAIN-SUFFIX,ads.lordlucky.com
 DOMAIN-SUFFIX,ads.ma7.tv

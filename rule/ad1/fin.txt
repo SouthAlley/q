@@ -1,4 +1,4 @@
-# Main total line 7444
+# Main total line 7443
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -4501,7 +4501,6 @@ DOMAIN-SUFFIX,jusha.com
 DOMAIN-SUFFIX,justicejudo.com
 DOMAIN-SUFFIX,justpremium.com
 DOMAIN-SUFFIX,justrelevant.com
-DOMAIN-SUFFIX,jutuike.com
 DOMAIN-SUFFIX,juzi.cn
 DOMAIN-SUFFIX,juzilm.com
 DOMAIN-SUFFIX,jwg365.cn

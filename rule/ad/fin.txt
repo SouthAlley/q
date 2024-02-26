@@ -1,5 +1,6 @@
-# Main total line 13140
+# Main total line 13141
 # ------------------------------------------
+8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
 DOMAIN,12.cookcai.com

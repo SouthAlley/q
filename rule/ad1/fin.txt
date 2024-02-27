@@ -1,4 +1,4 @@
-# Main total line 7445
+# Main total line 7444
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -1110,7 +1110,6 @@ DOMAIN,tracker.yiche.com
 DOMAIN,trackercdnbj.kugou.com
 DOMAIN,trade-acs.m.taobao.com
 DOMAIN,ttpcssp.dftoutiao.com
-DOMAIN,tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,twypgj2o.autohome.com.cn
 DOMAIN,tx-ad.a.yximgs.com

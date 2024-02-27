@@ -1070,7 +1070,6 @@ DOMAIN,tj.qiumibao.com
 DOMAIN,tj.youzanyun.com
 DOMAIN,tj1.youzan.com
 DOMAIN,tjlog.ps.appeasou.com
-DOMAIN,tl0zwx9yykg.this_ruleset_is_made_by_sukkaw.t9ivgi6mth.ruleset.skk.moe
 DOMAIN,tmead.y.qq.com
 DOMAIN,tmeadbak.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
@@ -1111,6 +1110,7 @@ DOMAIN,tracker.yiche.com
 DOMAIN,trackercdnbj.kugou.com
 DOMAIN,trade-acs.m.taobao.com
 DOMAIN,ttpcssp.dftoutiao.com
+DOMAIN,tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,twypgj2o.autohome.com.cn
 DOMAIN,tx-ad.a.yximgs.com

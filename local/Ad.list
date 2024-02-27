@@ -1,3 +1,5 @@
+DOMAIN-KEYWORD,ruleset.skk.moe
+
 # > 虎扑
 host, adx.hupu.com, reject
 host, adx-api.hupu.com, reject

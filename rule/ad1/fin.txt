@@ -1,4 +1,4 @@
-# Main total line 7442
+# Main total line 7436
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -243,7 +243,6 @@ DOMAIN,api-ad-data.kajicam.com
 DOMAIN,api-ad.kajicam.com
 DOMAIN,api-sao.baidu.com
 DOMAIN,api-youpin.meiyou.com
-DOMAIN,api.cupid.dns.iqiyi.com
 DOMAIN,api.helloclue.com
 DOMAIN,api.im.weibo.cn
 DOMAIN,api.installer.xiaomi.com
@@ -808,7 +807,6 @@ DOMAIN,mpartner.funshion.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,ms.bdstatic.com
 DOMAIN,msg-vip-ssl.xunlei.com
-DOMAIN,msgv6.qy.net
 DOMAIN,msite.baidu.com
 DOMAIN,mssdk-bu.bytedance.com
 DOMAIN,mssdk-bu.snssdk.com
@@ -1016,7 +1014,6 @@ DOMAIN,sjh.baidu.com
 DOMAIN,sm.bdimg.com
 DOMAIN,smartad.10010.com
 DOMAIN,smr.snssdk.com
-DOMAIN,sns-paopao.iqiyi.com
 DOMAIN,socm.dmp.360.cn
 DOMAIN,soul-ad.soulapp.cn
 DOMAIN,sp-ad-cf.audio.tidal.com
@@ -1055,7 +1052,6 @@ DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t-qmad.qm989.com
 DOMAIN,t1.612.com
 DOMAIN,t2.612.com
-DOMAIN,t7z.cupid.ptqy.gitv.tv
 DOMAIN,tbm.snssdk.com
 DOMAIN,tc.vpubmi.com
 DOMAIN,tcbox.baidu.com
@@ -3382,7 +3378,6 @@ DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,cudaojia.com
 DOMAIN-SUFFIX,culturedcrayon.com
 DOMAIN-SUFFIX,cumbersomecloud.com
-DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,curtaincows.com
 DOMAIN-SUFFIX,curvedsquirrel.com
 DOMAIN-SUFFIX,cushiondrum.com
@@ -4380,7 +4375,6 @@ DOMAIN-SUFFIX,intelliads.com
 DOMAIN-SUFFIX,intelligenceadx.com
 DOMAIN-SUFFIX,intely.cn
 DOMAIN-SUFFIX,intentiq.com
-DOMAIN-SUFFIX,inter.71edge.com
 DOMAIN-SUFFIX,inter1ads.com
 DOMAIN-SUFFIX,interactive.forthnet.gr
 DOMAIN-SUFFIX,intercom-clicks.com

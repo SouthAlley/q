@@ -1,4 +1,4 @@
-# Main total line 19250
+# Main total line 19249
 # ------------------------------------------
 DOMAIN,adobeereg.com
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -3698,7 +3698,6 @@ DOMAIN-SUFFIX,chargenowusa.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,charmescorts.com
 DOMAIN-SUFFIX,chatango.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
 DOMAIN-SUFFIX,chatnook.com

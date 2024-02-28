@@ -1,4 +1,4 @@
-# Main total line 7443
+# Main total line 7442
 # ------------------------------------------
 DOMAIN,11.jiangzi.com
 DOMAIN,111.darenjiazu.com
@@ -808,7 +808,6 @@ DOMAIN,mpartner.funshion.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,ms.bdstatic.com
 DOMAIN,msg-vip-ssl.xunlei.com
-DOMAIN,msg.qy.net
 DOMAIN,msgv6.qy.net
 DOMAIN,msite.baidu.com
 DOMAIN,mssdk-bu.bytedance.com

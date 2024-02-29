@@ -1,4 +1,4 @@
-# Main total line 3250
+# Main total line 3243
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -375,7 +375,6 @@ DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,x.eccorp.cc
 DOMAIN,yandexmetrica.com
 DOMAIN,ykad-data.youku.com
-DOMAIN,youku-acs.m.taobao.com
 DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
 DOMAIN,zgsdk.zhugeio.com
@@ -1547,7 +1546,6 @@ DOMAIN-SUFFIX,iadctest.qwapi.com
 DOMAIN-SUFFIX,iadmatvideo.nosdn.127.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iadworkbench.apple.com
-DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,ic.ksosoft.com
 DOMAIN-SUFFIX,ic.snssdk.com
 DOMAIN-SUFFIX,icast.cn
@@ -1716,7 +1714,6 @@ DOMAIN-SUFFIX,leadboltmobile.net
 DOMAIN-SUFFIX,leak.360.cn
 DOMAIN-SUFFIX,leju.sina.com.cn
 DOMAIN-SUFFIX,lenzmx.com
-DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
 DOMAIN-SUFFIX,liadm.com
 DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN-SUFFIX,linkeye.ximalaya.com
@@ -2045,7 +2042,6 @@ DOMAIN-SUFFIX,p.vq6nsu.cn
 DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p2.hunantv.com
 DOMAIN-SUFFIX,p242.plainwrk.name
-DOMAIN-SUFFIX,p3-tt.byteimg.com
 DOMAIN-SUFFIX,p3p.yahoo.com
 DOMAIN-SUFFIX,pagead-tpc.l.google.com
 DOMAIN-SUFFIX,pagead.google.com
@@ -2673,8 +2669,6 @@ DOMAIN-SUFFIX,ultraiso.net
 DOMAIN-SUFFIX,um.hd.sohu.com
 DOMAIN-SUFFIX,umeng.co
 DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,umengacs.m.taobao.com
-DOMAIN-SUFFIX,umengjmacs.m.taobao.com
 DOMAIN-SUFFIX,umid.orion.meizu.com
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,umtrack.com
@@ -3014,7 +3008,6 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzd6.com
 DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-adsystem.com
 DOMAIN-KEYWORD,-cdn2.adtng.com
 DOMAIN-KEYWORD,112wan

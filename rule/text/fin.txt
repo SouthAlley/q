@@ -1,10 +1,9 @@
-# Main total line 6352
+# Main total line 6344
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.labadena.com
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
-DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-h5-cdn.soulapp.cn
@@ -254,7 +253,6 @@ DOMAIN,splashqqlive.gtimg.com
 DOMAIN,sugar.zhihu.com
 DOMAIN,switch.cup.com.cn
 DOMAIN,t-ads.xiaohongshu.com
-DOMAIN,t7z.cupid.ptqy.gitv.tv
 DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tmeadbak.y.qq.com
@@ -2179,7 +2177,6 @@ DOMAIN-SUFFIX,click.news.vans.com
 DOMAIN-SUFFIX,click.nl.npr.org
 DOMAIN-SUFFIX,click.nvgaming.nvidia.com
 DOMAIN-SUFFIX,click.qianqian.com
-DOMAIN-SUFFIX,click.redditmail.com
 DOMAIN-SUFFIX,click.tianya.cn
 DOMAIN-SUFFIX,click.tianyaui.cn
 DOMAIN-SUFFIX,click.twcwigs.com
@@ -2409,7 +2406,6 @@ DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,cudaojia.com
 DOMAIN-SUFFIX,culturedcrayon.com
 DOMAIN-SUFFIX,cumbersomecloud.com
-DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,curtaincows.com
 DOMAIN-SUFFIX,curvedsquirrel.com
 DOMAIN-SUFFIX,cushiondrum.com
@@ -3860,7 +3856,6 @@ DOMAIN-SUFFIX,metrics.foxnews.com
 DOMAIN-SUFFIX,metrics.getrockerbox.com
 DOMAIN-SUFFIX,metrics.gfycat.com
 DOMAIN-SUFFIX,metrics.govexec.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.mzstatic.com
 DOMAIN-SUFFIX,metrics2.data.hicloud.com
 DOMAIN-SUFFIX,metrilo.com
@@ -3914,7 +3909,6 @@ DOMAIN-SUFFIX,mlsend.com
 DOMAIN-SUFFIX,mltrk.io
 DOMAIN-SUFFIX,mm9842.com
 DOMAIN-SUFFIX,mmismm.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mmtro.com
 DOMAIN-SUFFIX,mnaspm.com
 DOMAIN-SUFFIX,mng-ads.com
@@ -5907,7 +5901,6 @@ DOMAIN-SUFFIX,wiyun.com
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,wkanc.51y5.net
 DOMAIN-SUFFIX,wl.hd.sohu.com
-DOMAIN-SUFFIX,wl.spotify.com
 DOMAIN-SUFFIX,wlmarketing.com
 DOMAIN-SUFFIX,wm.baidu.cn
 DOMAIN-SUFFIX,wm.baidu.com
@@ -6173,7 +6166,6 @@ DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,pingfore
-DOMAIN-KEYWORD,ruleset.skk.moe
 DOMAIN-KEYWORD,safebrowsing.
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,stsdk.vivo.com.cn

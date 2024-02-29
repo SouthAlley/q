@@ -22,6 +22,7 @@ jobs:
            # 定义关联数组，键为文件名，值为路径和 URL 的组合
            declare -A file_path_url=(
                ["dlerproxy.list"]="xg/dlerproxy.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
+               ["Adblock4limbo.list"]="xg/Adblock4limbo.list https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Surge/rule/Adblock4limbo_surge.list"
                
                )
 
@@ -62,6 +63,8 @@ jobs:
                    sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$original_file"
                    # 修改;为#
                    sed -i 's/;/# /g' "$original_file"
+                   # 查找指定行并删除该行以下的所有内容
+                   sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
                    }
                    
                    # 处理 _Set.list 文件

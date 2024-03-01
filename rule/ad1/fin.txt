@@ -1,4 +1,4 @@
-# Main total line 3248
+# Main total line 3247
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -135,7 +135,6 @@ DOMAIN,appnext-a.akamaihd.net
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,apppv.zol.com.cn
 DOMAIN,atrace.chelaile.net.cn
-DOMAIN,awaken.amap.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com

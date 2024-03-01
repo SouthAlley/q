@@ -1,5 +1,8 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+# 同程旅行
+host, vstlog.17usoft.com, reject
+
 # > 虎扑
 host, adx.hupu.com, reject
 host, adx-api.hupu.com, reject

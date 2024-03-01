@@ -1,5 +1,14 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+# 美团
+host, flowplus.meituan.net, reject
+host-suffix, analytics.meituan.net, reject
+host-suffix, meituan.xn--io0a7i, reject
+host-suffix, meituan.yoga, reject
+host-suffix, meituangov.cn, reject
+host-suffix, report.meituan.com, reject
+host-suffix, wmlog.meituan.com, reject
+
 # 同程旅行
 host, vstlog.17usoft.com, reject
 

@@ -1,4 +1,4 @@
-# Main total line 3256
+# Main total line 3258
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -163,6 +163,7 @@ DOMAIN,cs.luckyorange.net
 DOMAIN,cwx.lianwangtech.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,data-hoisin.coocaa.com
+DOMAIN,ddacn6pr5v0tl.cloudfront.net
 DOMAIN,dflow.bz.mgtv.com
 DOMAIN,dispatcher.360in.com
 DOMAIN,dns.jd.com
@@ -308,6 +309,7 @@ DOMAIN,rc-topic-api.bz.mgtv.com
 DOMAIN,reactads.engine.adglare.net
 DOMAIN,realtime.luckyorange.com
 DOMAIN,regist.fotoable.com
+DOMAIN,reporting.cdndex.io
 DOMAIN,rich.kuwo.cn
 DOMAIN,richmanapi.jxedt.com
 DOMAIN,richmanapi.ksedt.com

@@ -1,5 +1,9 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+# twitch
+DOMAIN,reporting.cdndex.io
+DOMAIN,ddacn6pr5v0tl.cloudfront.net
+
 # 美团
 host, flowplus.meituan.net, reject
 host-suffix, analytics.meituan.net, reject

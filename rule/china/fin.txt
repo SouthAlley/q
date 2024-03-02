@@ -1,4 +1,4 @@
-# Main total line 272
+# Main total line 269
 # ------------------------------------------
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,00cdn.com
@@ -91,11 +91,9 @@ DOMAIN-SUFFIX,ctrip.co.id
 DOMAIN-SUFFIX,ctrip.co.kr
 DOMAIN-SUFFIX,ctrip.co.th
 DOMAIN-SUFFIX,ctrip.com
-DOMAIN-SUFFIX,ctrip.com.hk
 DOMAIN-SUFFIX,ctrip.my
 DOMAIN-SUFFIX,ctrip.sg
 DOMAIN-SUFFIX,ctripbiz.com
-DOMAIN-SUFFIX,ctripbuy.hk
 DOMAIN-SUFFIX,ctripteam.com
 DOMAIN-SUFFIX,dhrest.com
 DOMAIN-SUFFIX,dingtalk.com
@@ -224,7 +222,6 @@ DOMAIN-SUFFIX,tianyaclub.com
 DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,tieyou.com
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,toursbms.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiao13.com

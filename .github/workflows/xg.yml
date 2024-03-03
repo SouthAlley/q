@@ -23,7 +23,6 @@ jobs:
            declare -A file_path_url=(
                ["dlerproxy.list"]="xg/dlerproxy.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
                ["Adblock4limbo.list"]="xg/Adblock4limbo.list https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Surge/rule/Adblock4limbo_surge.list"
-               ["Adblock4limbo.user.js"]="xg/Adblock4limbo.user.js https://github.com/limbopro/Adblock4limbo/raw/main/Adguard/Adblock4limbo.user.js"
                
                )
 
@@ -66,7 +65,6 @@ jobs:
                    sed -i 's/;/# /g' "$original_file"
                    # 查找指定行并删除该行以下的所有内容
                    sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
-                   sed -i '/daohang_build();/i \\//' "$original_file"
                    }
                    
                    # 处理 _Set.list 文件

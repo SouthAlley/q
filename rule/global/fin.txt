@@ -1,4 +1,4 @@
-# Main total line 19254
+# Main total line 19253
 # ------------------------------------------
 DOMAIN,adobeereg.com
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -9033,7 +9033,6 @@ DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,insecam.org
 DOMAIN-SUFFIX,inshot.cc
 DOMAIN-SUFFIX,inshot.com
-DOMAIN-SUFFIX,inshotapp.com
 DOMAIN-SUFFIX,insidefilms.com
 DOMAIN-SUFFIX,insidemacintosh.com
 DOMAIN-SUFFIX,insider-intelligence.com

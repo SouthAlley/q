@@ -1,0 +1,101 @@
+# ru
+HOST, ad.10010.com, DIRECT
+HOST, alt1-mtalk.google.com, DIRECT
+HOST, alt2-mtalk.google.com, DIRECT
+HOST, alt3-mtalk.google.com, DIRECT
+HOST, alt4-mtalk.google.com, DIRECT
+HOST, alt5-mtalk.google.com, DIRECT
+HOST, alt6-mtalk.google.com, DIRECT
+HOST, alt7-mtalk.google.com, DIRECT
+HOST, alt8-mtalk.google.com, DIRECT
+HOST, analytics.95516.com, DIRECT
+HOST, analytics.strava.com, DIRECT
+HOST, app.adjust.com, DIRECT
+HOST, app.appsflyer.com, DIRECT
+HOST, bdtj.tagtic.cn, DIRECT
+HOST, clientservices.googleapis.com, DIRECT
+HOST, dl.google.com, DIRECT
+HOST, dl.l.google.com, DIRECT
+HOST, errlog.umeng.com, DIRECT
+HOST, fairplay.l.qq.com, DIRECT
+HOST, fonts.googleapis.com, DIRECT
+HOST, fonts.gstatic.com, DIRECT
+HOST, livew.l.qq.com, DIRECT
+HOST, log.mmstat.com, DIRECT
+HOST, msg.umeng.com, DIRECT
+HOST, msg.umengcloud.com, DIRECT
+HOST, mtalk.google.com, DIRECT
+HOST, origin-a.akamaihd.net, DIRECT
+HOST, picanalysis-auth.vivo.com.cn, DIRECT
+HOST, picanalysis.vivo.com.cn, DIRECT
+HOST, rewards.hypixel.net, DIRECT
+HOST, sycm.mmstat.com, DIRECT
+HOST, tracking.miui.com, DIRECT
+HOST, update.googleapis.com, DIRECT
+HOST, vd.l.qq.com, DIRECT
+HOST, vi.l.qq.com, DIRECT
+HOST, xivanalysis.com, DIRECT
+HOST-SUFFIX, baomitu.com, DIRECT
+HOST-SUFFIX, blog.google, DIRECT
+HOST-SUFFIX, bootcss.com, DIRECT
+HOST-SUFFIX, dizhensubao.getui.com, DIRECT
+HOST-SUFFIX, f.video.weibocdn.com, DIRECT
+HOST-SUFFIX, fus.cdn.krcom.cn, DIRECT
+HOST-SUFFIX, googletraveladservices.com, DIRECT
+HOST-SUFFIX, jiasule.com, DIRECT
+HOST-SUFFIX, ol.epicgames.com, DIRECT
+HOST-SUFFIX, staticfile.org, DIRECT
+HOST-SUFFIX, tracking-protection.cdn.mozilla.net, DIRECT
+HOST-SUFFIX, upaiyun.com, DIRECT
+
+# 铁路12306
+DOMAIN,ad.12306.cn
+
+# Alibaba
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
+
+# Apple
+DOMAIN,ca.iadsdk.apple.com
+
+# General
+DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,bdtj.tagtic.cn
+
+# Firebase Cloud Messaging
+DOMAIN,mtalk.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+
+# Public Direct CDN 公共直连
+DOMAIN-SUFFIX,baomitu.com
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,upaiyun.com
+
+# QQ空间
+DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+
+# Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com
+
+# Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+
+# 路由器后台
+IP-CIDR,192.168.0.1/24,no-resolve
+
+# 天翼网关
+IP-CIDR,192.168.1.1/24,no-resolve

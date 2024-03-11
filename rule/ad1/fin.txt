@@ -1,4 +1,4 @@
-# Main total line 3258
+# Main total line 3260
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1006,6 +1006,7 @@ DOMAIN-SUFFIX,bjzysd.net
 DOMAIN-SUFFIX,bkyhq.cn
 DOMAIN-SUFFIX,blismedia.com
 DOMAIN-SUFFIX,bloggerads.net
+DOMAIN-SUFFIX,bn.ufitjvn.com
 DOMAIN-SUFFIX,bobo.corp.163.com
 DOMAIN-SUFFIX,bole.shangshufang.ksosoft.com
 DOMAIN-SUFFIX,books-analytics-events.apple.com
@@ -2629,6 +2630,7 @@ DOMAIN-SUFFIX,tskdfjksldk.sdhsgcj.com
 DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,tt114.net
 DOMAIN-SUFFIX,tt3sm4.cn
+DOMAIN-SUFFIX,tu.xasnjafnvn.com
 DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,tui.weibo.com
 DOMAIN-SUFFIX,tuia.cn

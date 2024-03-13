@@ -1,5 +1,82 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+#3rdPage-页面插入-钱赚宝
+host, sdk.qzbonline.com, reject
+#3rdPage-页面插入-页面抽奖
+host-suffix, bianxianmao.com, reject
+host-suffix, cat-happy.cn, reject
+host-suffix, fawulu.com, reject
+host-suffix, ituibei.cn, reject
+host-suffix, iyoubei.cn, reject
+#3rdPage-页面插入-页面赚钱收益-http://www.nianxiang.net.cn/
+host, api.nx-perf.cn, reject
+
+#Audio-FM-喜马拉雅
+host, adbehavior.ximalaya.com, reject
+host, adse.wsa.ximalaya.com, reject
+host, adse.ximalaya.com, reject
+host, mermaid.ximalaya.com, reject
+
+#Buy-拼多多
+host, adim.pinduoduo.com, reject
+
+#Buy-美团
+host, adgame.waimai.meituan.com, reject
+host, mtvod.meituan.net, reject
+host-suffix, d.meituan.net, reject
+host, shark.dianping.com, reject
+
+#Buy-美团/放心借/先用后还
+host-suffix, expenses-fe.meituan.com, reject
+host-suffix, creditcard-fin.meituan.com, reject
+
+#Buy-饿了么/借钱
+host-suffix, loan-supermarket.faas.ele.me, reject
+
+#Buy-得物
+host, app-log.dewu.com, reject
+host, sensors.dewu.com, reject
+host, client-log.poizon.com, reject
+
+#EDU-百词斩
+host, advertise.baicizhan.com, reject
+host, advertise.baicizhan.org, reject
+
+#SNS-豆瓣
+host, at3.doubanio.com, reject
+host, at4.doubanio.com, reject
+host, erebor.douban.com, reject
+
+#SNS-小红书
+host, ads-img-al.xhscdn.com, reject
+host, crash.xiaohongshu.com, reject
+host, spider-tracker.xiaohongshu.com, reject
+
+#SNS-Twitter
+host-suffix, ads-api-sandbox.twitter.com, reject
+host-suffix, ads-twitter.com, reject
+host-suffix, ads.twitter.com, reject
+host-suffix, p.twitter.com, reject
+host-suffix, probe.twitter.com, reject
+host-suffix, scribe.twitter.com, reject
+host-suffix, syndication-o.twitter.com, reject
+host-suffix, syndication.twitter.com, reject
+
+#Trip-飞猪
+host, adashx.ut.fliggy.com, reject
+
+#Trip-滴滴
+host, adtrack.xiaojukeji.com, reject
+host, doraemon.xiaojukeji.com, reject
+host-suffix, gwp.xiaojukeji.com, reject
+
+#Trip-携程旅行
+host, s.c-ctrip.com, reject
+
+#Video-乐播投屏
+host, adeng.hpplay.cn, reject
+host, rp.hpplay.cn, reject
+
 #3rdPage-页面插入-欺诈性网站警告
 host-keyword, safebrowsing., reject
 #https://developers.google.com/safe-browsing/
@@ -54,7 +131,6 @@ host, log5-misc-lq.amemv.com, reject
 #Bytedance-抖音
 host-keyword, tt.x.bsgslb.cn, reject
 host, tr.byteurl.cn, reject
-
 
 #Bytedance-TikTok
 host, analytics.tiktok.com, reject

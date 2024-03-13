@@ -1,4 +1,4 @@
-# Main total line 3399
+# Main total line 3400
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -239,6 +239,7 @@ DOMAIN,go.xxxvjmp.com
 DOMAIN,goblin.hupu.com
 DOMAIN,gtm.mouseflow.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
+DOMAIN,hc-ssp.sm.cn
 DOMAIN,hdns.ksyun.com
 DOMAIN,hhbypdoecp.com
 DOMAIN,hnrtg.iujkegbpo.xyz

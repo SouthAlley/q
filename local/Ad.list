@@ -1,6 +1,6 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
-#3rdPage-页面插入-第三方APP调用嵌入刷视频:快手 抖音
+#第三方APP调用嵌入刷视频:快手 抖音
 host-suffix, open.e.kuaishou.cn, reject
 host-suffix, open.e.kuaishou.com, reject
 host-suffix, open.kwaizt.com, reject

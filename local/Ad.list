@@ -1,5 +1,14 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+#3rdPage-页面插入-第三方APP调用嵌入刷视频:快手 抖音
+host-suffix, open.e.kuaishou.cn, reject
+host-suffix, open.e.kuaishou.com, reject
+host-suffix, open.kwaizt.com, reject
+host-suffix, open.kuaishouzt.com, reject
+host-suffix, promotion-partner.kuaishou.com, reject
+host-suffix, mercury-sdk.snssdk.com, reject
+host-suffix, stream-sdk.feedcoopapi.com, reject
+
 #Bytedance
 host-suffix, dm.bytedance.com, reject
 host, tnc3-alisc1.bytedance.com, reject

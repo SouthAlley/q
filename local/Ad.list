@@ -1,5 +1,8 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+# keep
+host, hc-ssp.sm.cn, reject
+
 #Tencent-QQ
 host, ad.browser.qq.com, reject
 host, ad.qq.com, reject

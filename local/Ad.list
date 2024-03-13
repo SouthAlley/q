@@ -1,5 +1,108 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+#Bytedance
+host-suffix, dm.bytedance.com, reject
+host, tnc3-alisc1.bytedance.com, reject
+host, tnc3-aliec2.bytedance.com, reject
+host, tnc3-bjlgy.bytedance.com, reject
+host, pitaya.bytedance.com, reject
+host-keyword, adbrand.byteimg.com, reject
+host-keyword, ad-sign.byteimg.com, reject
+host-keyword, asiad.byteactivity, reject
+host-keyword, pangolin-sdk-toutiao, reject
+host-keyword, pangolin.snssdk.com, reject
+host-keyword, pglstatp-toutiao, reject
+host-keyword, video-cn.snssdk.com, reject
+host, p1-dpa.byteimg.com, reject
+host-keyword, analytics.bytescm.com, reject
+host-suffix, tosv.boe.byted.org, reject
+host-suffix, tosv.byted.org, reject
+
+#Bytedance-amemv
+host, log0-misc-alinc2.amemv.com, reject
+host, log3-misc-lq.amemv.com, reject
+host, log5-misc-lq.amemv.com, reject
+
+#Bytedance-抖音
+host-keyword, tt.x.bsgslb.cn, reject
+host, tr.byteurl.cn, reject
+
+
+#Bytedance-TikTok
+host, analytics.tiktok.com, reject
+host, pangolin16.sgsnssdk.com, reject
+host, tnc16-alisg.isnssdk.com, reject
+host, toblog.tobsnssdk.com, reject
+host, sf-tb-sg.ibytedtos.com, reject
+host, sf16-static.i18n-pglstatp.com, reject
+host, sf19-fe-tos-sg.i18n-pglstatp.com, reject
+
+#Bytedance-pstatp
+host-suffix, dm.pstatp.com, reject
+host-suffix, pb3.pstatp.com, reject
+host-suffix, s3a.pstatp.com, reject
+host, sf1-pitaya-tos.pstatp.com, reject
+
+#Bytedance-今日头条
+host-suffix, pangolin-dsp-toutiao.com, reject
+host-suffix, pangolin-sdk-toutiao-b.com, reject
+host-suffix, pangolin-sdk-toutiao.com, reject
+host-suffix, pangolin-sdk-toutiao1.com, reject
+host-suffix, pglstatp-toutiao.com, reject
+host-suffix, ad.toutiao.com, reject
+host-suffix, dm.toutiao.com, reject
+host-suffix, dsp.toutiao.com, reject
+host-suffix, mon.toutiao.com, reject
+host, zhanzhang.toutiao.com, reject
+host, mon.toutiaocloud.com, reject
+host, mon.toutiaocloud.net, reject
+host, log3-normal-lq.toutiaoapi.com, reject
+host, log3-normal.toutiaoapi.com, reject
+host, mon11-misc-lq.toutiaoapi.com, reject
+
+#Bytedance-番茄小说
+host-keyword, applog-hl.fqnovel.com, reject
+host-keyword, applog-lq.fqnovel.com, reject
+host-keyword, novelapp.fqnovelvod.com, reject
+
+#Bytedance-番茄畅听
+host-keyword, applog-hl.novelfm.com, reject
+
+#Bytedance-西瓜视频
+host-keyword, applog-lf.ixigua.com, reject
+host-keyword, applog-lq.ixigua.com, reject
+
+#Bytedance-ecombdapi抖音商城
+host-suffix, volceapplog.com, reject
+
+#Bytedance-抖音月付/随心借
+host-suffix, tp-pay.snssdk.com, reject
+
+#Bytedance-snssdk
+host-suffix, applog.snssdk.com, reject
+host-suffix, bds.snssdk.com, reject
+host-suffix, ctobsnssdk.com, reject
+host-suffix, extlog.snssdk.com, reject
+host-suffix, sdfp.snssdk.com, reject
+host-suffix, toblog.snssdk.com, reject
+host, analytics.snssdk.com, reject
+host, mssdk.snssdk.com, reject
+host, smr.snssdk.com, reject
+host, tbm.snssdk.com, reject
+host, abtest-ch.snssdk.com, reject
+host, gecko-hl.snssdk.com, reject
+host, gecko-pangle-hl.snssdk.com, reject
+host, gecko-pangle-lf.snssdk.com, reject
+host, gecko-pangle-lq.snssdk.com, reject
+host, log-hl.snssdk.com, reject
+host, mssdk-bu.snssdk.com, reject
+host, tnc3-alisc1.snssdk.com, reject
+host, tnc3-bjlgy.snssdk.com, reject
+host, vcl-brain.snssdk.com, reject
+host, ichannel.snssdk.com, reject
+host, effect.snssdk.com, reject
+host, is-lq.snssdk.com, reject
+
 # twitch
 DOMAIN,reporting.cdndex.io
 DOMAIN,ddacn6pr5v0tl.cloudfront.net

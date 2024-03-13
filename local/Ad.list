@@ -1,5 +1,34 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+#Tencent-QQ
+host, ad.browser.qq.com, reject
+host, ad.qq.com, reject
+host, dp3.qq.com, reject
+host, logsdk.qq.com, reject
+host, tpush.html5.qq.com, reject
+host, wxsnsdy.tc.qq.com, reject
+host, wxsnsdy.video.qq.com, reject
+
+#Tencent-QQ-Upload
+host, aeventlog.beacon.qq.com, reject
+host, android.bugly.qq.com, reject
+host, astrategy.beacon.qq.com, reject
+host, ios.bugly.qq.com, reject
+host, log.tbs.qq.com, reject
+host, oth.eve.mdt.qq.com, reject
+host, oth.str.mdt.qq.com, reject
+host, otheve.beacon.qq.com, reject
+host, othstr.beacon.qq.com, reject
+host, pingma.qq.com, reject
+host, qqdata.ab.qq.com, reject
+host, tpstelemetry.tencent.com, reject
+host-suffix, tpns.tencent.com, reject
+
+#Tencent-gdt
+host, pgdt.gtimg.cn, reject
+host, ra.gtimg.com, reject
+host, wa.gtimg.com, reject
+
 #3rdPage-页面插入-钱赚宝
 host, sdk.qzbonline.com, reject
 #3rdPage-页面插入-页面抽奖

@@ -1,5 +1,28 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+#3rdPage-页面插入-欺诈性网站警告
+host-keyword, safebrowsing., reject
+#https://developers.google.com/safe-browsing/
+host-suffix, safebrowsing.google.com, reject
+host-suffix, safebrowsing.googleapis.com, reject
+host-suffix, safebrowsing.googleapis-cn.com, reject
+#https://anquan.baidu.com/article/281
+host, lookup.api.bsb.baidu.com, reject
+#https://opensource.apple.com/source/WebKit2/WebKit2-7607.2.6.1.1/UIProcess/Cocoa/SafeBrowsingWarningCocoa.mm.auto.html
+host-suffix, urlsec.qq.com, reject
+host, safebrowsing.urlsec.qq.com, reject
+host, www.urlsec.qq.com, reject
+host, kde.qq.com, reject
+#https://ie.sogou.com
+host, get.sogou.com, reject
+host, safe.sogou.com, reject
+host, cronus.ie.sogou.com, reject
+host, vinci.ie.sogou.com, reject
+#UCWeb
+host, adtrack.ucweb.com, reject
+host, safe.ucweb.com, reject
+host-suffix, u3.ucweb.com, reject
+
 #第三方APP调用嵌入刷视频:快手 抖音
 host-suffix, promotion-partner.kuaishou.com, reject
 host-suffix, mercury-sdk.snssdk.com, reject

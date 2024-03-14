@@ -1,4 +1,4 @@
-# Main total line 19265
+# Main total line 19266
 # ------------------------------------------
 DOMAIN,adobeereg.com
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -2436,6 +2436,7 @@ DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bingparachute.com
+DOMAIN-SUFFIX,bingviz.com
 DOMAIN-SUFFIX,binoculus.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,binux.me

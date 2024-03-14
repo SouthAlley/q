@@ -1,4 +1,4 @@
-# Main total line 6058
+# Main total line 6059
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -568,6 +568,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,bingviz.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,binux.me
 DOMAIN-SUFFIX,binwang.me

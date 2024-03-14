@@ -1,4 +1,4 @@
-# Main total line 3400
+# Main total line 3402
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -756,6 +756,7 @@ DOMAIN-SUFFIX,adk2x.com
 DOMAIN-SUFFIX,adkernel.com
 DOMAIN-SUFFIX,adkmob.com
 DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adlink-api.huan.tv
 DOMAIN-SUFFIX,adlive.cn
 DOMAIN-SUFFIX,adlocus.com
 DOMAIN-SUFFIX,adlooxtracking.com
@@ -1852,6 +1853,7 @@ DOMAIN-SUFFIX,loan-supermarket.faas.ele.me
 DOMAIN-SUFFIX,localytics.com
 DOMAIN-SUFFIX,location.ximalaya.com
 DOMAIN-SUFFIX,locdrop.query.yahoo.com
+DOMAIN-SUFFIX,log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com
 DOMAIN-SUFFIX,log-api-mn.huxiu.com
 DOMAIN-SUFFIX,log-api.huxiu.com
 DOMAIN-SUFFIX,log-report.com

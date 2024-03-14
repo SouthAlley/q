@@ -68,7 +68,7 @@ jobs:
                sed -i 's/#.*//' "$file"
                # 删除空行
                sed -i '/^[[:space:]]*$/d' "$file"
-               sed -i 's/PROCESS-NAME|DOMAIN-KEYWORD|IP-CIDR|IP-CIDR6|IP-ASN|URL-REGEX|USER-AGENT|DOMAIN|DOMAIN-SUFFIX)//g' "$file"
+               sed -i 's/DOMAIN-SUFFIX//g' "$file"
             else
               echo "$file 未找到。"
             fi

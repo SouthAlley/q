@@ -62,6 +62,8 @@ jobs:
                sed -i 's/user-agent,/USER-AGENT,/g' "$file"
                # 删除不必要的部分
                sed -i 's/\([^,]*,[^,]*\),.*/\1/g' "$file"
+               # 如果包含 IP-CIDR 且不包含 no-resolve 则添加 no-resolve
+               sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$file"
                # 删除分号
                sed -i 's/;//g' "$file"
                # 删除注释
@@ -69,8 +71,6 @@ jobs:
                # 删除空行
                sed -i 's/DOMAIN-SUFFIX//g' "$file"
                sed -i 's/DOMAIN-KEYWORD//g' "$file"
-               sed -i 's/IP-CIDR6//g' "$file"
-               sed -i 's/IP-CIDR//g' "$file"
                sed -i 's/DOMAIN//g' "$file"
                sed -i '/^[[:space:]]*$/d' "$file"
             else

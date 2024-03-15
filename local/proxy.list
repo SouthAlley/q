@@ -136,7 +136,6 @@ DOMAIN-SUFFIX,9to5terminal.com
 DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,a-normal-day.com
 DOMAIN-SUFFIX,aamacau.com
-DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abchinese.com
 DOMAIN-SUFFIX,abclite.net
@@ -468,6 +467,7 @@ DOMAIN-SUFFIX,bailandaily.com
 DOMAIN-SUFFIX,baixing.me
 DOMAIN-SUFFIX,baizhi.org
 DOMAIN-SUFFIX,bakgeekhome.tk
+DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,banana-vpn.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandisoft.com
@@ -490,8 +490,6 @@ DOMAIN-SUFFIX,bastillepost.com
 DOMAIN-SUFFIX,bayvoice.net
 DOMAIN-SUFFIX,baywords.com
 DOMAIN-SUFFIX,bb-chat.tv
-DOMAIN-SUFFIX,bbc.in
-DOMAIN-SUFFIX,bbcchinese.com
 DOMAIN-SUFFIX,bbchat.tv
 DOMAIN-SUFFIX,bbg.gov
 DOMAIN-SUFFIX,bbkz.com
@@ -2948,8 +2946,6 @@ DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-beta.me
-DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linecorp.com
@@ -3405,7 +3401,6 @@ DOMAIN-SUFFIX,nasa.gov
 DOMAIN-SUFFIX,nat.moe
 DOMAIN-SUFFIX,natado.com
 DOMAIN-SUFFIX,nationalawakening.org
-DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalinterest.org
 DOMAIN-SUFFIX,nationalreview.com
 DOMAIN-SUFFIX,nationsonline.org
@@ -4293,10 +4288,12 @@ DOMAIN-SUFFIX,seevpn.com
 DOMAIN-SUFFIX,seezone.net
 DOMAIN-SUFFIX,sejie.com
 DOMAIN-SUFFIX,sellclassics.com
+DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,sendsmtp.com
 DOMAIN-SUFFIX,sendspace.com
 DOMAIN-SUFFIX,sensortower.com
 DOMAIN-SUFFIX,sensorynetworks.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry.prod.mozaws.net
 DOMAIN-SUFFIX,seraph.me
 DOMAIN-SUFFIX,servebom.com

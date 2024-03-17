@@ -1,5 +1,8 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+#Book-阅文-起点
+host, uedas.qidian.com, reject
+
 # keep
 host, hc-ssp.sm.cn, reject
 

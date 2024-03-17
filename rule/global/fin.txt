@@ -1,4 +1,4 @@
-# Main total line 19209
+# Main total line 19211
 # ------------------------------------------
 DOMAIN,adobeereg.com
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -43,6 +43,7 @@ DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
+DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
@@ -13123,6 +13124,7 @@ DOMAIN-SUFFIX,pinduck.com
 DOMAIN-SUFFIX,pinflix.com
 DOMAIN-SUFFIX,ping.fm
 DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,ping.sx
 DOMAIN-SUFFIX,pingguotv.xyz
 DOMAIN-SUFFIX,pingxiangpuer.com
 DOMAIN-SUFFIX,pinimg.com

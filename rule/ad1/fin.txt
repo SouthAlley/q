@@ -205,7 +205,6 @@ DOMAIN,feedback-c.zijieapi.com
 DOMAIN,flash.sec.miui.com
 DOMAIN,floor.bz.mgtv.com
 DOMAIN,flowplus.meituan.net
-DOMAIN,free-aos-cdn-image.amap.com
 DOMAIN,freshmarketer.com
 DOMAIN,fwtracks.freshmarketer.com
 DOMAIN,g.ousns.net
@@ -451,6 +450,7 @@ DOMAIN,tunion-api.m.taobao.com
 DOMAIN,tysdk.95516.com
 DOMAIN,udc.yahoo.com
 DOMAIN,udcm.yahoo.com
+DOMAIN,uedas.qidian.com
 DOMAIN,upload.luckyorange.net
 DOMAIN,ups.ksmobile.net
 DOMAIN,uug27.com

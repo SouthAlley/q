@@ -1,4 +1,4 @@
-# Main total line 6055
+# Main total line 6056
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -4195,6 +4195,7 @@ DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,rukor.org
 DOMAIN-SUFFIX,rule34.xxx
 DOMAIN-SUFFIX,rumble.com
+DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
 DOMAIN-SUFFIX,rust-lang.org

@@ -1,4 +1,4 @@
-# Main total line 3413
+# Main total line 3412
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1227,7 +1227,6 @@ DOMAIN-SUFFIX,cm.passport.iqiyi.com
 DOMAIN-SUFFIX,cmcore.com
 DOMAIN-SUFFIX,cms.ucweb.com
 DOMAIN-SUFFIX,cmx.autohome.com.cn
-DOMAIN-SUFFIX,cn-acs.m.cainiao.com
 DOMAIN-SUFFIX,cnxad.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cnzzlink.com

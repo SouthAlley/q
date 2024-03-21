@@ -1,4 +1,4 @@
-# Main total line 19211
+# Main total line 19210
 # ------------------------------------------
 DOMAIN,adobeereg.com
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -17831,7 +17831,6 @@ DOMAIN-SUFFIX,wixapps.net
 DOMAIN-SUFFIX,wixipedia.net
 DOMAIN-SUFFIX,wixmp.com
 DOMAIN-SUFFIX,wixsite.com
-DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,wizcrafts.net
 DOMAIN-SUFFIX,wjbk.org
 DOMAIN-SUFFIX,wjny-one.sbs

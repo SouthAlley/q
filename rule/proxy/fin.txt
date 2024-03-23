@@ -1,4 +1,4 @@
-# Main total line 6093
+# Main total line 6092
 # ------------------------------------------
 DOMAIN,"
 DOMAIN,>
@@ -26,7 +26,6 @@ DOMAIN,data-issue-and-pr-hovercards-enabled
 DOMAIN,data-lazy="false"
 DOMAIN,data-persist-list=false
 DOMAIN,data-ssr="false"
-DOMAIN,data-ssr="true"
 DOMAIN,ees.elsevier.com
 DOMAIN,hidden
 DOMAIN,http-inputs-notion.splunkcloud.com

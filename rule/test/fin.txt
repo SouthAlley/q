@@ -1,4 +1,4 @@
-# Main total line 56
+# Main total line 57
 # ------------------------------------------
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,abc.xyz
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,tensorflow.org

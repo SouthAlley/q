@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,pki.goog
 
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google

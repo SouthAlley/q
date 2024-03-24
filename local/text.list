@@ -1,3 +1,17 @@
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.com
+DOMAIN-SUFFIX,golang.net
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,tiltbrush.com
+
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,1e100.net

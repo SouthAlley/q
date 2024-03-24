@@ -3,6 +3,16 @@ DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,bingviz.com
 
+DOMAIN-SUFFIX,azureiotcentral.com
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,mstea.ms
+DOMAIN-SUFFIX,officeppe.net
+DOMAIN-SUFFIX,sfbassets.com
+DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,wunderlist.com
+
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com

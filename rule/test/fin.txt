@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,msocsp.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
-DOMAIN-SUFFIX,oaspapps.com.akadns.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com

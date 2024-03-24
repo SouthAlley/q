@@ -327,8 +327,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # OneDrive
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com

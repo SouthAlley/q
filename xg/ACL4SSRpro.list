@@ -6169,8 +6169,6 @@ DOMAIN,cloud.oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 
 # OneDrive
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com

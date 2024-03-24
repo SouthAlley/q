@@ -67,14 +67,8 @@ DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,cortana.ai
 DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,entrust.net
-DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,getmicrosoftkey.com
 DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsign.net
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
@@ -129,12 +123,8 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,usercontent.microsoft
-DOMAIN-SUFFIX,verisign.com
-DOMAIN-SUFFIX,verisign.net
 DOMAIN-SUFFIX,virtualearth.net
 DOMAIN-SUFFIX,windows-ppe.net
 DOMAIN-SUFFIX,windows.com

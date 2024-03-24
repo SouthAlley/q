@@ -2,6 +2,12 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,bingviz.com
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
 
 DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,cloudapp.net

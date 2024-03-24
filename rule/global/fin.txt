@@ -1,4 +1,4 @@
-# Main total line 19526
+# Main total line 19531
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -1337,6 +1337,7 @@ DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,appsonebay.net
+DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appstore.co.id
 DOMAIN-SUFFIX,appstore.my
 DOMAIN-SUFFIX,appstore.ph
@@ -1705,7 +1706,9 @@ DOMAIN-SUFFIX,azerimix.com
 DOMAIN-SUFFIX,aziani.com
 DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,azubu.tv
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-devices-int.net
+DOMAIN-SUFFIX,azure-devices-provisioning.net
 DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-dns.com
 DOMAIN-SUFFIX,azure-dns.info
@@ -14056,6 +14059,8 @@ DOMAIN-SUFFIX,reastatic.net
 DOMAIN-SUFFIX,reaxys.com
 DOMAIN-SUFFIX,rebatesrule.net
 DOMAIN-SUFFIX,rebrandly.com
+DOMAIN-SUFFIX,recaptcha-cn.net
+DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,recelebrity.com
 DOMAIN-SUFFIX,reckitt.net
 DOMAIN-SUFFIX,reckittbenckiser.com

@@ -1,4 +1,4 @@
-# Main total line 115
+# Main total line 104
 # ------------------------------------------
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -23,17 +23,10 @@ DOMAIN-SUFFIX,bingviz.com
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,cortana.ai
-DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,gamepass.com
-DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
@@ -85,12 +78,8 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,uservoice.com
-DOMAIN-SUFFIX,verisign.com
-DOMAIN-SUFFIX,verisign.net
 DOMAIN-SUFFIX,virtualearth.net
 DOMAIN-SUFFIX,visualstudio-staging.com
 DOMAIN-SUFFIX,visualstudio.com

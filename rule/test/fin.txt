@@ -1,4 +1,4 @@
-# Main total line 102
+# Main total line 106
 # ------------------------------------------
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-yammer.com
 DOMAIN-SUFFIX,azure-apim.net
@@ -13,8 +14,11 @@ DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurerms.com
+DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bingviz.com
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,cortana.ai
 DOMAIN-SUFFIX,digicert.com

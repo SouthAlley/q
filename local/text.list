@@ -1,3 +1,28 @@
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skype.net
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,skypeforbusiness.com
+
+# OneNote
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+
+# Sway
+DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sway-extensions.com
+DOMAIN-SUFFIX,sway.com
+
+# VisualStudio
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,visualstudio.net
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,visualstudio-staging.com
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,xbox.com

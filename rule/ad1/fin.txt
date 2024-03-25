@@ -1,4 +1,4 @@
-# Main total line 3418
+# Main total line 3417
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -444,7 +444,6 @@ DOMAIN,track.tiara.kakao.com
 DOMAIN,tracking.intl.miui.com
 DOMAIN,trk.pinterest.com
 DOMAIN,tunion-api.m.taobao.com
-DOMAIN,tysdk.95516.com
 DOMAIN,udc.yahoo.com
 DOMAIN,udcm.yahoo.com
 DOMAIN,uedas.qidian.com

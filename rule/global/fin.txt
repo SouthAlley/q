@@ -1,4 +1,4 @@
-# Main total line 19523
+# Main total line 19525
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -45,6 +45,7 @@ DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,wetv.qq.com
 DOMAIN,widgets.stripst.com
 DOMAIN,wrds-www.wharton.upenn.edu
+DOMAIN,ztedevices.com
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -4221,6 +4222,7 @@ DOMAIN-SUFFIX,cortexrpg.com
 DOMAIN-SUFFIX,corumcollege.com
 DOMAIN-SUFFIX,cos-moe.com
 DOMAIN-SUFFIX,cosca.myqcloud.com
+DOMAIN-SUFFIX,cosfans-tw.com
 DOMAIN-SUFFIX,cosger.myqcloud.com
 DOMAIN-SUFFIX,coshk.myqcloud.com
 DOMAIN-SUFFIX,cosmosdb.info

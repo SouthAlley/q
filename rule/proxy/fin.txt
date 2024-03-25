@@ -1,4 +1,4 @@
-# Main total line 6157
+# Main total line 6154
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -299,7 +299,6 @@ DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,androidplus.co
-DOMAIN-SUFFIX,androidtv.com
 DOMAIN-SUFFIX,andygod.com
 DOMAIN-SUFFIX,angela-merkel.de
 DOMAIN-SUFFIX,angelfire.com
@@ -343,7 +342,6 @@ DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tv.colnv.com
 DOMAIN-SUFFIX,apiary.io
-DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apk.support
 DOMAIN-SUFFIX,apkcombo.com
@@ -989,7 +987,6 @@ DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,clinica-tibet.ru
 DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,cloakpoint.com
-DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -4884,6 +4881,7 @@ DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tfiflve.com
+DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thaicn.com
 DOMAIN-SUFFIX,thawte.com
@@ -5107,7 +5105,6 @@ DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com

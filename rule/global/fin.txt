@@ -1,4 +1,4 @@
-# Main total line 19525
+# Main total line 19527
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -1364,6 +1364,7 @@ DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.today
@@ -3876,6 +3877,7 @@ DOMAIN-SUFFIX,chwr7s8u.com
 DOMAIN-SUFFIX,chyoa.com
 DOMAIN-SUFFIX,ci-en.net
 DOMAIN-SUFFIX,ciattackers.com
+DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,cienen.com
 DOMAIN-SUFFIX,cilk.com
 DOMAIN-SUFFIX,cilk.net

@@ -183,7 +183,6 @@ DOMAIN,cronus.ie.sogou.com
 DOMAIN,cs.luckyorange.net
 DOMAIN,cwx.lianwangtech.com
 DOMAIN,dagonghuzhu.com
-DOMAIN,data-hoisin.coocaa.com
 DOMAIN,ddacn6pr5v0tl.cloudfront.net
 DOMAIN,dflow.bz.mgtv.com
 DOMAIN,dispatcher.360in.com
@@ -1621,7 +1620,6 @@ DOMAIN-SUFFIX,hm.baidu.cn
 DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.cn
 DOMAIN-SUFFIX,hmma.baidu.com
-DOMAIN-SUFFIX,hoisin.coocaa.com
 DOMAIN-SUFFIX,hoplink.ksosoft.com
 DOMAIN-SUFFIX,hosting.miarroba.info
 DOMAIN-SUFFIX,hot-mob.com
@@ -3217,6 +3215,8 @@ DOMAIN-KEYWORD,greenplasticdua
 DOMAIN-KEYWORD,guanggao
 DOMAIN-KEYWORD,haowanyou
 DOMAIN-KEYWORD,histats
+DOMAIN-KEYWORD,hoisin.coocaa.com
+DOMAIN-KEYWORD,hoisin.coocaatv.com
 DOMAIN-KEYWORD,httpdns-
 DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push

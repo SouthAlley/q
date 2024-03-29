@@ -1,4 +1,4 @@
-# Main total line 19527
+# Main total line 19528
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -40,6 +40,7 @@ DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ood.opsource.net
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,qualcomm.sc.omtrdc.net
+DOMAIN,search.arc.net
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,wetv.qq.com

@@ -1,4 +1,4 @@
-# Main total line 6158
+# Main total line 6159
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -7,6 +7,7 @@ DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ees.elsevier.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,reddit.app.link
+DOMAIN,search.arc.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org

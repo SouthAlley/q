@@ -1,4 +1,4 @@
-# Main total line 6160
+# Main total line 6159
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5279,7 +5279,6 @@ DOMAIN-SUFFIX,ub0.cc
 DOMAIN-SUFFIX,ubddns.org
 DOMAIN-SUFFIX,uberproxy.net
 DOMAIN-SUFFIX,ubertags.com
-DOMAIN-SUFFIX,ubi.li
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,uc-japan.org

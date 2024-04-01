@@ -1,4 +1,4 @@
-# Main total line 6159
+# Main total line 6160
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -1105,6 +1105,7 @@ DOMAIN-SUFFIX,covid19-rx.org
 DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,cpj.org
+DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,crackle.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,crazys.cc

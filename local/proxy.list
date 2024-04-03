@@ -5,7 +5,6 @@ DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ees.elsevier.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,reddit.app.link
-DOMAIN,search.arc.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -361,6 +360,7 @@ DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,ar.hao123.com
+DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -2179,6 +2179,7 @@ DOMAIN-SUFFIX,hackthatphone.net
 DOMAIN-SUFFIX,hahlo.com
 DOMAIN-SUFFIX,handcraftedsoftware.org
 DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hanminzu.org
 DOMAIN-SUFFIX,hanunyi.com
 DOMAIN-SUFFIX,hao.news
@@ -2939,6 +2940,7 @@ DOMAIN-SUFFIX,lastcombat.com
 DOMAIN-SUFFIX,lastfm.es
 DOMAIN-SUFFIX,latelinenews.com
 DOMAIN-SUFFIX,latencytop.com
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,law.com
 DOMAIN-SUFFIX,lbank.info
 DOMAIN-SUFFIX,ld.hao123img.com

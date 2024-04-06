@@ -1,4 +1,4 @@
-# Main total line 19531
+# Main total line 19551
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -4051,6 +4051,7 @@ DOMAIN-SUFFIX,cmcn.org
 DOMAIN-SUFFIX,cmhalq.com
 DOMAIN-SUFFIX,cmoinc.org
 DOMAIN-SUFFIX,cmpaas.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cms.gov
 DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
@@ -13275,6 +13276,7 @@ DOMAIN-SUFFIX,perfectnaked.com
 DOMAIN-SUFFIX,perfectsexnow.com
 DOMAIN-SUFFIX,perfectshemales.com
 DOMAIN-SUFFIX,perfecttitspics.com
+DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perl.org
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,persagg.com
@@ -13673,6 +13675,7 @@ DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,prpops.com
 DOMAIN-SUFFIX,prts.plus
 DOMAIN-SUFFIX,psblog.name
+DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,pse.is
 DOMAIN-SUFFIX,pshvpn.com
 DOMAIN-SUFFIX,psiphon3.com
@@ -15792,6 +15795,7 @@ DOMAIN-SUFFIX,szcheapmonsterheadphones.com
 DOMAIN-SUFFIX,szexvideo.top
 DOMAIN-SUFFIX,szwinnertechnology.com
 DOMAIN-SUFFIX,t-g.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t35.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,t91y.com
@@ -15957,6 +15961,7 @@ DOMAIN-SUFFIX,telekom.de
 DOMAIN-SUFFIX,telesec.de
 DOMAIN-SUFFIX,telesell.com
 DOMAIN-SUFFIX,telex.cc
+DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,temetube.xyz
@@ -16669,6 +16674,7 @@ DOMAIN-SUFFIX,tweetbackup.com
 DOMAIN-SUFFIX,tweetboard.com
 DOMAIN-SUFFIX,tweetboner.biz
 DOMAIN-SUFFIX,tweetcs.com
+DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetedtimes.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,tweetmylast.fm
@@ -16723,6 +16729,7 @@ DOMAIN-SUFFIX,twitlonger.com
 DOMAIN-SUFFIX,twitmania.com
 DOMAIN-SUFFIX,twitoaster.com
 DOMAIN-SUFFIX,twitonmsn.com
+DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
 DOMAIN-SUFFIX,twitthat.com
@@ -16740,8 +16747,12 @@ DOMAIN-SUFFIX,twskype.com
 DOMAIN-SUFFIX,twstar.net
 DOMAIN-SUFFIX,twt.tl
 DOMAIN-SUFFIX,twtkr.com
+DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twtrland.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twurl.nl
+DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,twyac.org
 DOMAIN-SUFFIX,tx5254.com
 DOMAIN-SUFFIX,tx5ptbp7.com
@@ -17290,6 +17301,7 @@ DOMAIN-SUFFIX,vimeoondemand.com
 DOMAIN-SUFFIX,vimeostatus.com
 DOMAIN-SUFFIX,vimperator.org
 DOMAIN-SUFFIX,vincnd.com
+DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vinniev.com
 DOMAIN-SUFFIX,vintage-erotica-forum.com
 DOMAIN-SUFFIX,vintagehomemadesex.com
@@ -18295,6 +18307,7 @@ DOMAIN-SUFFIX,x-caprice.com
 DOMAIN-SUFFIX,x-fetish.org
 DOMAIN-SUFFIX,x-wall.org
 DOMAIN-SUFFIX,x.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,x.team
@@ -19440,6 +19453,11 @@ IP-CIDR,180.163.151.34/32,no-resolve
 IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.16.156.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
 IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
@@ -19450,6 +19468,7 @@ IP-CIDR,203.208.43.0/24,no-resolve
 IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,208.43.0.0/16,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
@@ -19480,6 +19499,7 @@ IP-CIDR,67.220.91.15/32,no-resolve
 IP-CIDR,67.220.91.18/32,no-resolve
 IP-CIDR,67.220.91.23/32,no-resolve
 IP-CIDR,69.171.0.0/16,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
 IP-CIDR,69.63.176.0/20,no-resolve
 IP-CIDR,69.65.19.160/32,no-resolve
 IP-CIDR,72.52.81.22/32,no-resolve

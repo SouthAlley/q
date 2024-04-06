@@ -1012,6 +1012,7 @@ DOMAIN-SUFFIX,clyp.it
 DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cmcn.org
 DOMAIN-SUFFIX,cmoinc.org
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cms.gov
 DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
@@ -3895,6 +3896,7 @@ DOMAIN-SUFFIX,peopo.org
 DOMAIN-SUFFIX,percy.in
 DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,perfectgirls.net
+DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,persecutionblog.com
 DOMAIN-SUFFIX,persiankitty.com
@@ -4066,6 +4068,7 @@ DOMAIN-SUFFIX,proxytunnel.net
 DOMAIN-SUFFIX,proyectoclubes.com
 DOMAIN-SUFFIX,prozz.net
 DOMAIN-SUFFIX,psblog.name
+DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,pshvpn.com
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,psiphontoday.com
@@ -4793,6 +4796,7 @@ DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,szbbs.net
 DOMAIN-SUFFIX,t-g.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t35.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,t91y.com
@@ -4877,6 +4881,7 @@ DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
 DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,telecomspace.com
+DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tenco.cc
@@ -5211,6 +5216,7 @@ DOMAIN-SUFFIX,tweetbackup.com
 DOMAIN-SUFFIX,tweetboard.com
 DOMAIN-SUFFIX,tweetboner.biz
 DOMAIN-SUFFIX,tweetcs.com
+DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetedtimes.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,tweetmylast.fm
@@ -5257,6 +5263,7 @@ DOMAIN-SUFFIX,twitlonger.com
 DOMAIN-SUFFIX,twitmania.com
 DOMAIN-SUFFIX,twitoaster.com
 DOMAIN-SUFFIX,twitonmsn.com
+DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
 DOMAIN-SUFFIX,twitthat.com
@@ -5270,8 +5277,12 @@ DOMAIN-SUFFIX,twskype.com
 DOMAIN-SUFFIX,twstar.net
 DOMAIN-SUFFIX,twt.tl
 DOMAIN-SUFFIX,twtkr.com
+DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twtrland.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twurl.nl
+DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,twyac.org
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,txxx.com
@@ -5465,6 +5476,7 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vimperator.org
 DOMAIN-SUFFIX,vincnd.com
+DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vinniev.com
 DOMAIN-SUFFIX,vip-enterprise.com
 DOMAIN-SUFFIX,virginia.edu
@@ -5795,6 +5807,7 @@ DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,x-berry.com
 DOMAIN-SUFFIX,x-wall.org
 DOMAIN-SUFFIX,x.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x1949x.com
 DOMAIN-SUFFIX,x24hr.com

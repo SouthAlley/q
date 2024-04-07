@@ -1,6 +1,5 @@
-# Update > 23:29 2024/2/17
+# Update > 16:38 2024/4/5
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
-# https://github.com/vokins/ad/blob/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
 # https://raw.githubusercontent.com/vokins/ad/main/adls.list
 # 策略建议使用特定域名走Pr.list，白名单域名dr.list
@@ -763,6 +762,7 @@ DOMAIN,h-adashx.ut.fliggy.com
 #Trip-滴滴
 DOMAIN,adtrack.xiaojukeji.com
 DOMAIN,doraemon.xiaojukeji.com
+DOMAIN,dsp.xiaojukeji.com
 DOMAIN-SUFFIX,gwp.xiaojukeji.com
 #Trip-携程旅行
 DOMAIN,ma-adx.ctrip.com
@@ -1289,9 +1289,9 @@ DOMAIN,log0-misc-alinc2.amemv.com
 DOMAIN,log3-misc-lq.amemv.com
 DOMAIN,log5-misc-lq.amemv.com
 DOMAIN,mon11-misc-lq.amemv.com
-DOMAIN,webcast3-core-c-lf.amemv.com
-DOMAIN,webcast3-normal-c-lf.amemv.com
-DOMAIN,webcast5-normal-lf.amemv.com
+#DOMAIN,webcast3-core-c-lf.amemv.com
+#DOMAIN,webcast3-normal-c-lf.amemv.com
+#DOMAIN,webcast5-normal-lf.amemv.com
 #Bytedance-抖音
 #DOMAIN-KEYWORD,-cold.douyinvod.com
 #DOMAIN-KEYWORD,-cold1.douyinvod.com
@@ -1311,9 +1311,9 @@ DOMAIN,webcast5-normal-lf.amemv.com
 #DOMAIN-KEYWORD,-litea.douyinvod.com
 #DOMAIN-KEYWORD,-liteb.douyinvod.com
 DOMAIN-KEYWORD,tt.x.bsgslb.cn
-DOMAIN-KEYWORD,free-lbv3.idouyinvod.com
-DOMAIN,sf5-hl-cdn-tos.douyinstatic.com
-DOMAIN,sf6-cdn-tos.douyinstatic.com
+#DOMAIN-KEYWORD,free-lbv3.idouyinvod.com
+#DOMAIN,sf5-hl-cdn-tos.douyinstatic.com
+#DOMAIN,sf6-cdn-tos.douyinstatic.com
 DOMAIN,tr.byteurl.cn
 DOMAIN,mssdk.volces.com
 DOMAIN-SUFFIX,volcsirius.com
@@ -1364,11 +1364,11 @@ DOMAIN-KEYWORD,applog-hl.novelfm.com
 DOMAIN-KEYWORD,applog-lf.ixigua.com
 DOMAIN-KEYWORD,applog-lq.ixigua.com
 #Bytedance-ecombdapi抖音商城
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,ecombdimg.com
-DOMAIN-SUFFIX,ecombdstatic.com
-DOMAIN-SUFFIX,jinritemai.com
-DOMAIN-SUFFIX,volceapplog.com
+#DOMAIN-SUFFIX,ecombdapi.com
+#DOMAIN-SUFFIX,ecombdimg.com
+#DOMAIN-SUFFIX,ecombdstatic.com
+#DOMAIN-SUFFIX,jinritemai.com
+#DOMAIN-SUFFIX,volceapplog.com
 #Bytedance-抖音月付/随心借
 DOMAIN-SUFFIX,f-cashloan.snssdk.com
 DOMAIN-SUFFIX,f-cpay.snssdk.com
@@ -1437,7 +1437,7 @@ DOMAIN,mssdk.zijieapi.com
 DOMAIN,polaris.zijieapi.com
 DOMAIN,starkgame.zijieapi.com
 DOMAIN,timon.zijieapi.com
-DOMAIN,vcs.zijieapi.com
+#DOMAIN,vcs.zijieapi.com
 DOMAIN,view.zijieapi.com
 DOMAIN,abtest3-misc-lq.zijieapi.com
 DOMAIN,abtest5-misc-hl.zijieapi.com

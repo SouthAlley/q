@@ -1,4 +1,4 @@
-# Main total line 3418
+# Main total line 3420
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -200,6 +200,8 @@ DOMAIN,exp.360in.com
 DOMAIN,extmaps-api.yandex.net
 DOMAIN,ezozojawg.com
 DOMAIN,feedback-c.zijieapi.com
+DOMAIN,finderks.video.qq.com
+DOMAIN,finderv1.video.qq.com
 DOMAIN,flash.sec.miui.com
 DOMAIN,floor.bz.mgtv.com
 DOMAIN,flowplus.meituan.net

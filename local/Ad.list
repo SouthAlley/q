@@ -1,5 +1,7 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+DOMAIN-SUFFIX,afdback.ppsimg.com
+
 #Book-阅文-起点
 host, uedas.qidian.com, reject
 

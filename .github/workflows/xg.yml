@@ -72,7 +72,7 @@ jobs:
                    sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
                    sed -i '/^#New-Test-一个月没发现问题会并入/q' "$original_file"
                    # 查找指定行并保留该行以下的所有内容
-                   sed -n '/# > Mainland/,$p' "$original_file"
+                   sed -i '1,/# > Mainland/d' "$original_file"
                    
                    }
                    

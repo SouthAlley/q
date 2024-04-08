@@ -1,4 +1,4 @@
-# Main total line 983
+# Main total line 984
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -352,6 +352,7 @@ DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,ghpym.com
+DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,gitcode.com
 DOMAIN-SUFFIX,gitee.com

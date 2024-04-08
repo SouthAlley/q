@@ -1,8 +1,14 @@
+## >> 网易云加速
+DOMAIN-SUFFIX,163jiasu.com
+DOMAIN-SUFFIX,163nasa.com
+## >> 网易账号中心
+DOMAIN-SUFFIX,netstatic.net
+DOMAIN-SUFFIX,static163.net
+
 DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,netease.im
-
 
 # > Agricultural Bank of China
 HOST-SUFFIX,abchina.com

@@ -1,4 +1,4 @@
-# Main total line 985
+# Main total line 986
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -709,6 +709,7 @@ DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,saxyit.com
+DOMAIN-SUFFIX,saxysec.com
 DOMAIN-SUFFIX,scomper.me
 DOMAIN-SUFFIX,seafile.com
 DOMAIN-SUFFIX,segmentfault.com

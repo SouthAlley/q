@@ -1,4 +1,4 @@
-# Main total line 986
+# Main total line 983
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -90,11 +90,6 @@ DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,algocasts.io
 DOMAIN-SUFFIX,ali213.net
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba-inc.com
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aliexpress.com
@@ -774,10 +769,6 @@ DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,tcdnlive.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tebex.io
-DOMAIN-SUFFIX,tencent-cloud.net
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,tencentmind.com
-DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,th-sjy.com
 DOMAIN-SUFFIX,thundercdn.com
@@ -903,6 +894,8 @@ DOMAIN-SUFFIX,yixia.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youpin898.com
+DOMAIN-SUFFIX,youpinimg.com
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,ys168.com
 DOMAIN-SUFFIX,ys7.com
@@ -955,7 +948,10 @@ DOMAIN-SUFFIX,zuimeitianqi.com
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-KEYWORD,.tmall.
 DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,aliapp
+DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-KEYWORD,baidu
@@ -964,6 +960,7 @@ DOMAIN-KEYWORD,jdcloud
 DOMAIN-KEYWORD,jdpay
 DOMAIN-KEYWORD,qhimg
 DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,tencent
 DOMAIN-KEYWORD,toutiao
 IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,1.255.62.0/24,no-resolve

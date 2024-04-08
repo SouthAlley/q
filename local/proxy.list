@@ -1001,6 +1001,7 @@ DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudimage.io
@@ -4234,6 +4235,7 @@ DOMAIN-SUFFIX,religioustolerance.org
 DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,renminbao.com
 DOMAIN-SUFFIX,renyurenquan.org
+DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,rerouted.org
 DOMAIN-SUFFIX,researchintel.com

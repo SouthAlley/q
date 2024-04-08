@@ -30,6 +30,7 @@ jobs:
                ["china-GeQ1an.list"]="xg/china-GeQ1an.list https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list"
                ["china-Hackl0us.list"]="xg/china-Hackl0us.list https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list"
                ["china-sve1r.list"]="xg/china-sve1r.list https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list"
+               ["china-ACL4SSR.list"]="xg/china-sve1r.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
                
                )
 

@@ -71,8 +71,6 @@ jobs:
                    # 查找指定行并删除该行以下的所有内容
                    sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
                    sed -i '/^#New-Test-一个月没发现问题会并入/q' "$original_file"
-                   # 查找指定行并保留该行以下的所有内容
-                   sed -i '1,/# > Mainland/d' "$original_file"
                    
                    }
                    
@@ -115,6 +113,9 @@ jobs:
                    if [ -f "$original_file" ]; then
                         # 运行规则处理函数
                         process_rules
+                        if [[ "$file" == china-GeQ1an.list ]]; then
+                            # 查找指定行并保留该行以下的所有内容
+                            sed -i '1,/# > Mainland/d' "$original_file"
                         # 其他规则处理代码（如果有）
                         echo "运行其他规则处理（示例）"
                    else

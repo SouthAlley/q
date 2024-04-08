@@ -1,4 +1,4 @@
-# Main total line 3420
+# Main total line 3421
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -913,6 +913,7 @@ DOMAIN-SUFFIX,ae.bdstatic.com
 DOMAIN-SUFFIX,afd.baidu.cn
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afd.l.google.com
+DOMAIN-SUFFIX,afdback.ppsimg.com
 DOMAIN-SUFFIX,afp.alicdn.com
 DOMAIN-SUFFIX,afp.iqiyi.com
 DOMAIN-SUFFIX,afp.pplive.com

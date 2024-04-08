@@ -1,10 +1,9 @@
-# Main total line 986
+# Main total line 985
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
 DOMAIN,download.jetbrains.com
 DOMAIN,gs-loc-cn.apple.com
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com

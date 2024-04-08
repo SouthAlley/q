@@ -1,9 +1,8 @@
-# Main total line 988
+# Main total line 985
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
 DOMAIN,download.jetbrains.com
-DOMAIN,gs-loc-cn.apple.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com
@@ -163,7 +162,6 @@ DOMAIN-SUFFIX,biqudu.com
 DOMAIN-SUFFIX,biquge.com
 DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bjango.com
-DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,bokecc.com
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bosszhipin.com
@@ -367,7 +365,6 @@ DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,got001.com
-DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,guazi.com
 DOMAIN-SUFFIX,guoguo-app.com

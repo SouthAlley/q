@@ -28,6 +28,7 @@ jobs:
                ["ACL4SSRprolite.list"]="xg/ACL4SSRprolite.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list"
                ["ACL4SSRpro.list"]="xg/ACL4SSRpro.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
                ["china-GeQ1an.list"]="xg/china-GeQ1an.list https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list"
+               ["china-Hackl0us.list"]="xg/china-Hackl0us.list https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list"
                
                )
 

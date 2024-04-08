@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alikunlun.com
+DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alisoft.com
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
@@ -165,7 +166,6 @@ DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmct.tv
 DOMAIN-SUFFIX,cmfu.com
-DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnbetacdn.com

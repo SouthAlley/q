@@ -24,6 +24,13 @@ DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,stayfork.app
 DOMAIN-SUFFIX,alipan.com
 
+# 携程
+DOMAIN-SUFFIX,toursbms.com
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,vipdlt.com
+DOMAIN-SUFFIX,ctrip.com
+
 
 ## >> 懂车帝
 DOMAIN-SUFFIX,dcarapi.com

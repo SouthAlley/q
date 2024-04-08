@@ -1,4 +1,4 @@
-# Main total line 736
+# Main total line 737
 # ------------------------------------------
 DOMAIN,download.jetbrains.com
 DOMAIN-SUFFIX,00cdn.com
@@ -557,6 +557,7 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,staybrowser.com
+DOMAIN-SUFFIX,stayfork.app
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,synology.com

@@ -1,33 +1,18 @@
-DOMAIN-SUFFIX,hk
-# MyList
-DOMAIN-SUFFIX,423down.com
-DOMAIN-SUFFIX,chaipip.com
-
-# CN域名直连(中国|公司|网络)
-DOMAIN-SUFFIX,cn
-
-# NetEase
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,lofter.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,netease.im
-DOMAIN-SUFFIX,ydstatic.com
-DOMAIN-SUFFIX,youdao.com
-
-# douyin
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,byted.org
+# 中国常见域名关键词
+DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,aliyun
+DOMAIN-KEYWORD,.tmall.
+DOMAIN-KEYWORD,alimama
+DOMAIN-KEYWORD,baidupcs
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,ccgslb
+DOMAIN-KEYWORD,chinacache
+DOMAIN-KEYWORD,duobao
+DOMAIN-KEYWORD,jdpay
+DOMAIN-KEYWORD,qhimg
+DOMAIN-KEYWORD,vpimg
+DOMAIN-KEYWORD,xiami
+DOMAIN-KEYWORD,xiaomi

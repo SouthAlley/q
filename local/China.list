@@ -83,6 +83,8 @@ HOST-SUFFIX,pingan.com
 
 
 # 中国常见域名关键词
+DOMAIN-KEYWORD,-cn.
+DOMAIN-KEYWORD,-cn-
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun

@@ -45,7 +45,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add local/*
-          git commit -m "addproxy"
+          git commit -m "add"
           git push origin HEAD
         else
           echo "No changes to commit."

@@ -74,7 +74,7 @@ jobs:
                    # 查找指定行并删除该行以下的所有内容
                    sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
                    sed -i '/^#New-Test-一个月没发现问题会并入/q' "$original_file"
-                   
+                   sed -i '/^DOMAIN-SUFFIX,\(eu\|hk\|jp\|kr\|sg\|tw\|uk\|us\|ca\)$/d' "$original_file"
                    }
                    
                    # 处理 _Set.list 文件

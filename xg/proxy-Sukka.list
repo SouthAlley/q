@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromeexperiments.com
@@ -159,6 +160,11 @@ DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
@@ -203,6 +209,7 @@ DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,nicehash.com
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,1password.com
@@ -260,6 +267,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bwh1.net
+DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,character.ai
@@ -301,6 +309,7 @@ DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,etsy.com
+DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedly.com
@@ -460,6 +469,7 @@ DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org

@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,blizzard.com
 
 # > Duolingo
 USER-AGENT,Duolingo*
-DOMAIN-KEYWORD,duolingo
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
 
@@ -40,7 +39,6 @@ DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
 
 # > Tesla
-DOMAIN-KEYWORD,tesla
 
 # > Zooba
 USER-AGENT,battleroyale*
@@ -637,8 +635,6 @@ DOMAIN-SUFFIX,zynamics.com
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 USER-AGENT,WhatsApp*
 
-DOMAIN-KEYWORD,appledaily
-DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
@@ -696,7 +692,6 @@ DOMAIN-SUFFIX,webrtc.org
 # > V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-DOMAIN-KEYWORD,dlercloud
 
 # > VikACG
 DOMAIN-SUFFIX,vikacg.com

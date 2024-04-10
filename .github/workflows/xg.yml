@@ -50,8 +50,8 @@ jobs:
 
                # 定义原始文件和删除规则文件的路径
                original_file="q-repo/$path"
-               del_file="q-repo/xg/del/del${rule_type}.ini"
-               add_file="q-repo/xg/add/add${rule_type}.ini"
+               del_file="q-repo/xg/del/${rule_type}.ini"
+               add_file="q-repo/xg/add/${rule_type}.ini"
 
                # 处理规则的函数
                process_rules() {

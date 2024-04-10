@@ -21,12 +21,12 @@ jobs:
         run: |
            # 定义关联数组，键为文件名，值为路径和 URL 的组合
            declare -A file_path_url=(
-               ["dlerproxy.list"]="xg/dlerproxy.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
                ["Adblock4limbo.list"]="xg/Adblock4limbo.list https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Surge/rule/Adblock4limbo_surge.list"
                ["vokins.list"]="xg/vokins.list https://raw.githubusercontent.com/vokins/ad/main/ad.list"
-               ["skkglobal.list"]="xg/skkglobal.list https://ruleset.skk.moe/List/non_ip/global.conf"
-               ["ACL4SSRprolite.list"]="xg/ACL4SSRprolite.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list"
-               ["ACL4SSRpro.list"]="xg/ACL4SSRpro.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
+               ["proxy-dler.list"]="xg/proxy-dler.list https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Proxy.list"
+               ["proxy-Sukka.list"]="xg/proxy-Sukka.list https://ruleset.skk.moe/List/non_ip/global.conf"
+               ["proxy-ACL4SSRLite.list"]="xg/proxy-ACL4SSRLite.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list"
+               ["proxy-ACL4SSRGFW.list"]="xg/proxy-ACL4SSRGFW.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
                ["china-GeQ1an.list"]="xg/china-GeQ1an.list https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list"
                ["china-Hackl0us.list"]="xg/china-Hackl0us.list https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list"
                ["china-sve1r.list"]="xg/china-sve1r.list https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list"

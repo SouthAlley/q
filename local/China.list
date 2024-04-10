@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdpage.com
 DOMAIN-SUFFIX,360os.com
@@ -81,6 +80,17 @@ HOST-SUFFIX,mbcloud.com
 
 # > Ping An Bank
 HOST-SUFFIX,pingan.com
+
+
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,ca
 
 
 # 中国常见域名关键词

@@ -60,7 +60,6 @@ DOMAIN,wzrypclog.dftoutiao.com
 DOMAIN,sdk.qzbonline.com
 #3rdPage-页面插入-页面抽奖
 DOMAIN-SUFFIX,bianxianmao.com
-DOMAIN-SUFFIX,cat-happy.cn
 DOMAIN-SUFFIX,fawulu.com
 DOMAIN-SUFFIX,ituibei.cn
 DOMAIN-SUFFIX,iyoubei.cn
@@ -1871,11 +1870,6 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,bugtags.cn
 DOMAIN-SUFFIX,busydata.cn
 DOMAIN-SUFFIX,buysellads.com
-DOMAIN-SUFFIX,cacafly.com
-DOMAIN-SUFFIX,caidangdang.cn
-DOMAIN-SUFFIX,carbonads.com
-DOMAIN-SUFFIX,casalemedia.com
-DOMAIN-SUFFIX,castplatform.com
 DOMAIN-SUFFIX,cdnmaster.cn
 DOMAIN-SUFFIX,cdnmaster.com
 DOMAIN-SUFFIX,chanet.com.cn
@@ -2030,17 +2024,12 @@ DOMAIN-SUFFIX,jazdoxthxiv.com
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,jizzads.com
 DOMAIN-SUFFIX,jkzj120.com
-DOMAIN-SUFFIX,jpush-ipv6.cn
-DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,jpush.io
-DOMAIN-SUFFIX,jpushoa.com
 DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,jutuike.com
 DOMAIN-SUFFIX,kejet.com
 DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,keyrun.cn
 DOMAIN-SUFFIX,kluvcc.com
-DOMAIN-SUFFIX,krxd.net
 DOMAIN-SUFFIX,kuyun.com
 DOMAIN-SUFFIX,ladsp.com
 DOMAIN-SUFFIX,ldfengyun.cn
@@ -2166,7 +2155,6 @@ DOMAIN-SUFFIX,sensorsdata.cn
 DOMAIN-SUFFIX,sensorsdatavip.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serving-sys.com
-DOMAIN-SUFFIX,sglyd.cn
 DOMAIN-SUFFIX,sh-qiruizx.com
 DOMAIN-SUFFIX,shareclick.top
 DOMAIN-SUFFIX,showmylife.com
@@ -2246,8 +2234,6 @@ DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,tuenhai.com
 DOMAIN-SUFFIX,tuisnake.com
 DOMAIN-SUFFIX,turn.com
-DOMAIN-SUFFIX,twdjn.cn
-DOMAIN-SUFFIX,twlxyx.cn
 DOMAIN-SUFFIX,tydouke.com
 DOMAIN-SUFFIX,u7u9.com
 DOMAIN-SUFFIX,ujian.cc
@@ -2259,7 +2245,6 @@ DOMAIN-SUFFIX,unionsy.com
 DOMAIN-SUFFIX,upapi.net
 DOMAIN-SUFFIX,upzcf.com
 DOMAIN-SUFFIX,uqnkvjx.cn
-DOMAIN-SUFFIX,usingde.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,v4dwkcv.com
 DOMAIN-SUFFIX,valueke.com

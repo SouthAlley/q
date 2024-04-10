@@ -127,7 +127,6 @@ DOMAIN-SUFFIX,botanwang.com
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxun.com
-DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.segment.com
@@ -191,7 +190,6 @@ DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,entrust.net
-DOMAIN-SUFFIX,eurekavpt.com
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,eyny.com
@@ -506,13 +504,6 @@ DOMAIN-SUFFIX,tumblr.co
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tv.com
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,tweetmarker.net
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitthat.com
-DOMAIN-SUFFIX,twtkr.com
-DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typcn.com
 DOMAIN-SUFFIX,typekit.net
@@ -535,12 +526,6 @@ DOMAIN-SUFFIX,uProxy.org
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,urlparser.com
-DOMAIN-SUFFIX,us.to
-DOMAIN-SUFFIX,usertrust.com
-DOMAIN-SUFFIX,usgs.gov
-DOMAIN-SUFFIX,usma.edu
-DOMAIN-SUFFIX,uspto.gov
-DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ray.com
@@ -682,8 +667,6 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,webmproject.org

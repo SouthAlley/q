@@ -1,4 +1,5 @@
-# Update > 16:38 2024/4/5
+# Update > 22:13 2024/4/9
+# https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
 # https://raw.githubusercontent.com/vokins/ad/main/adls.list
@@ -1022,6 +1023,11 @@ DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,dsp.mp.microsoft.com
 DOMAIN,telemetry.api.swiftkey.com
+#OS-MicroSoft-Bing
+DOMAIN,c.bing.com
+DOMAIN,c.msn.cn
+DOMAIN,srtb.msn.com
+DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com
 #OS-Oppo
 DOMAIN-SUFFIX,ads.oppomobile.com
 DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
@@ -1064,11 +1070,10 @@ DOMAIN-SUFFIX,union.youdao.com
 DOMAIN,oimagea7.ydstatic.com
 DOMAIN,oimageb8.ydstatic.com
 #360So
-DOMAIN,api.so.lianmeng.360.cn
+DOMAIN-SUFFIX,daikuan.360.cn
+DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN,papi.look.360.cn
 DOMAIN,socm.dmp.360.cn
-DOMAIN,stat.lianmeng.360.cn
-DOMAIN-SUFFIX,daikuan.360.cn
 DOMAIN,e.so.com
 DOMAIN,p.sug.so.com
 DOMAIN,s.qhupdate.com
@@ -1246,7 +1251,6 @@ DOMAIN,mbdp02.bdstatic.com
 DOMAIN,ms.bdstatic.com
 DOMAIN,nspt.bdstatic.com
 DOMAIN,s.bdstatic.com
-#DOMAIN,sofire.bdstatic.com
 DOMAIN,su.bdstatic.com
 DOMAIN,zz.bdstatic.com
 #Baidu-度小满
@@ -1281,46 +1285,15 @@ DOMAIN-SUFFIX,tosv.byted.org
 DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,oceanengine.com
 #Bytedance-amemv
-#DOMAIN,api3-normal-c-lf.amemv.com
 DOMAIN,log0-misc-lf.amemv.com
-#DOMAIN,frontier100-aweme-lf.amemv.com
-#DOMAIN,klink5-lf.amemv.com
 DOMAIN,log0-misc-alinc2.amemv.com
 DOMAIN,log3-misc-lq.amemv.com
 DOMAIN,log5-misc-lq.amemv.com
-DOMAIN,mon11-misc-lq.amemv.com
-#DOMAIN,webcast3-core-c-lf.amemv.com
-#DOMAIN,webcast3-normal-c-lf.amemv.com
-#DOMAIN,webcast5-normal-lf.amemv.com
 #Bytedance-抖音
-#DOMAIN-KEYWORD,-cold.douyinvod.com
-#DOMAIN-KEYWORD,-cold1.douyinvod.com
-#DOMAIN-KEYWORD,-cold2.douyinvod.com
-#DOMAIN-KEYWORD,-cold3.douyinvod.com
-#DOMAIN-KEYWORD,-cold4.douyinvod.com
-#DOMAIN-KEYWORD,-colda.douyinvod.com
-#DOMAIN-KEYWORD,-coldb.douyinvod.com
-#DOMAIN-KEYWORD,-coldd.douyinvod.com
-#DOMAIN-KEYWORD,-coldf.douyinvod.com
-#DOMAIN-KEYWORD,-coldx.douyinvod.com
-#DOMAIN-KEYWORD,-coldy.douyinvod.com
-#DOMAIN-KEYWORD,-lite-a.douyinvod.com
-#DOMAIN-KEYWORD,-lite-b.douyinvod.com
-#DOMAIN-KEYWORD,-lite-c.douyinvod.com
-#DOMAIN-KEYWORD,-lite.douyinvod.com
-#DOMAIN-KEYWORD,-litea.douyinvod.com
-#DOMAIN-KEYWORD,-liteb.douyinvod.com
 DOMAIN-KEYWORD,tt.x.bsgslb.cn
-#DOMAIN-KEYWORD,free-lbv3.idouyinvod.com
-#DOMAIN,sf5-hl-cdn-tos.douyinstatic.com
-#DOMAIN,sf6-cdn-tos.douyinstatic.com
-DOMAIN,tr.byteurl.cn
 DOMAIN,mssdk.volces.com
 DOMAIN-SUFFIX,volcsirius.com
 DOMAIN-SUFFIX,volcsiriusbd.com
-#Bytedance-Others
-#DOMAIN-SUFFIX,dig.bdurl.net
-DOMAIN,lf1-cdn-tos.bytegoofy.com
 #Bytedance-TikTok
 DOMAIN,analytics.tiktok.com
 DOMAIN,pangolin16.sgsnssdk.com
@@ -1363,33 +1336,21 @@ DOMAIN-KEYWORD,applog-hl.novelfm.com
 #Bytedance-西瓜视频
 DOMAIN-KEYWORD,applog-lf.ixigua.com
 DOMAIN-KEYWORD,applog-lq.ixigua.com
-#Bytedance-ecombdapi抖音商城
-#DOMAIN-SUFFIX,ecombdapi.com
-#DOMAIN-SUFFIX,ecombdimg.com
-#DOMAIN-SUFFIX,ecombdstatic.com
-#DOMAIN-SUFFIX,jinritemai.com
-#DOMAIN-SUFFIX,volceapplog.com
 #Bytedance-抖音月付/随心借
 DOMAIN-SUFFIX,f-cashloan.snssdk.com
 DOMAIN-SUFFIX,f-cpay.snssdk.com
 DOMAIN-SUFFIX,tp-pay.snssdk.com
 DOMAIN-SUFFIX,bytefae.com
 DOMAIN-SUFFIX,doupay.com
-DOMAIN-KEYWORD,-pay.bytefae.com
-DOMAIN-KEYWORD,-static.bytefae.com
 DOMAIN-KEYWORD,-infras.bytetos.com
 DOMAIN-KEYWORD,-insurance.byteimg.com
 DOMAIN-KEYWORD,-infras.byteimg.com
 DOMAIN-SUFFIX,baohuaxia.com
-DOMAIN,klink.amemv.com
-#DOMAIN,lf-webcast-gr-sourcecdn.bytegecko.com
-DOMAIN,repayment.jishitailai.com
 #Bytedance-snssdk
 DOMAIN-SUFFIX,applog.snssdk.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
-DOMAIN-SUFFIX,is.snssdk.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,sdfp.snssdk.com
 DOMAIN-SUFFIX,toblog.snssdk.com
@@ -1397,7 +1358,6 @@ DOMAIN,analytics.snssdk.com
 DOMAIN,aweme.snssdk.com
 DOMAIN,haohuo.snssdk.com
 DOMAIN,i-lq.snssdk.com
-DOMAIN,ib.snssdk.com
 DOMAIN,lf.snssdk.com
 DOMAIN,log.snssdk.com
 DOMAIN,mcs.snssdk.com
@@ -1437,7 +1397,6 @@ DOMAIN,mssdk.zijieapi.com
 DOMAIN,polaris.zijieapi.com
 DOMAIN,starkgame.zijieapi.com
 DOMAIN,timon.zijieapi.com
-#DOMAIN,vcs.zijieapi.com
 DOMAIN,view.zijieapi.com
 DOMAIN,abtest3-misc-lq.zijieapi.com
 DOMAIN,abtest5-misc-hl.zijieapi.com
@@ -1490,13 +1449,6 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,adservice.google.co.jp
-DOMAIN,googleads.g.doubleclick.net
-DOMAIN,securepubads.g.doubleclick.net
-DOMAIN,pagead2.googlesyndication.com
-DOMAIN,tpc.googlesyndication.com
-DOMAIN,partner.googleadservices.com
-DOMAIN,www.googleadservices.com
-DOMAIN,imasdk.googleapis.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,ads.youtube.com
@@ -1511,15 +1463,14 @@ DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,clickserver.googleads.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadapis.com
+DOMAIN-SUFFIX,googleads.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googleanalytics.com
-DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices.com
@@ -1539,7 +1490,6 @@ DOMAIN,dgstatic.jd.com
 DOMAIN,janapi.jd.com
 DOMAIN,wqs11.jd.com
 DOMAIN,xlog.jd.com
-#DOMAIN,dg.k.jd.com
 DOMAIN,uranus.jd.com
 #Sohu
 DOMAIN,fpb0.sohu.com
@@ -1762,7 +1712,6 @@ DOMAIN,s.u7u9.com
 DOMAIN,pb1.jiayongluyou.com
 DOMAIN,pb2.jiayongluyou.com
 #Union-Ads
-#支付宝部分充值页面误杀DOMAIN-SUFFIX,iyoudui.cn
 DOMAIN-SUFFIX,051091.com
 DOMAIN-SUFFIX,123zn.cn
 DOMAIN-SUFFIX,186078.com
@@ -1819,6 +1768,7 @@ DOMAIN-SUFFIX,adkernel.com
 DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,adlefee.com
 DOMAIN-SUFFIX,adlocus.com
+DOMAIN-SUFFIX,admama.com
 DOMAIN-SUFFIX,admamax.com
 DOMAIN-SUFFIX,admarvel.com
 DOMAIN-SUFFIX,admaster.com.cn
@@ -2009,7 +1959,6 @@ DOMAIN-SUFFIX,gameanalytics.com
 DOMAIN-SUFFIX,gbitcoin.cn
 DOMAIN-SUFFIX,gentags.com
 DOMAIN-SUFFIX,gentags.net
-DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gfnormal01ae.com
@@ -2119,6 +2068,7 @@ DOMAIN-SUFFIX,manduhu.com
 DOMAIN-SUFFIX,mathtag.com
 DOMAIN-SUFFIX,mchnad.com
 DOMAIN-SUFFIX,mddlsa.com
+DOMAIN-SUFFIX,mdvdns.com
 DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,meihu56.cn
 DOMAIN-SUFFIX,metheny.cn
@@ -2230,6 +2180,7 @@ DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smadex.com
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smvm.cn
+DOMAIN-SUFFIX,sndo.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,social-touch.com
 DOMAIN-SUFFIX,sogowan.com

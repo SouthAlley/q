@@ -513,12 +513,5 @@ DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,quillbot.com
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,pinterest
 USER-AGENT,Roam*
 ################## EOF ##################

@@ -1,4 +1,4 @@
-# Main total line 985
+# Main total line 983
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -454,7 +454,6 @@ DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,jb51.net
 DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jdcache.com
 DOMAIN-SUFFIX,jdcdn.com
 DOMAIN-SUFFIX,jianguoyun.com
@@ -782,7 +781,6 @@ DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tiexue.net
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tmiaoo.com
 DOMAIN-SUFFIX,tmzvps.com
 DOMAIN-SUFFIX,tnkjmec.com

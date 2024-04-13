@@ -1,4 +1,4 @@
-# Main total line 19561
+# Main total line 19557
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -13167,9 +13167,6 @@ DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,paxlicense.org
 DOMAIN-SUFFIX,paygonline.com
 DOMAIN-SUFFIX,payhulu.com
-DOMAIN-SUFFIX,paypa1.com
-DOMAIN-SUFFIX,paypa1.org
-DOMAIN-SUFFIX,paypaal.com
 DOMAIN-SUFFIX,paypass.net
 DOMAIN-SUFFIX,payserve.com
 DOMAIN-SUFFIX,paysitesreviews.net
@@ -19539,7 +19536,6 @@ USER-AGENT,Niconico*
 USER-AGENT,OneDrive*
 USER-AGENT,PBS*
 USER-AGENT,Pandora*
-USER-AGENT,PayPal*
 USER-AGENT,Prime%20Video*
 USER-AGENT,Roam*
 USER-AGENT,SoundCloud*

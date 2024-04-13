@@ -1,4 +1,4 @@
-# Main total line 3421
+# Main total line 3405
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -7,9 +7,6 @@ DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
 DOMAIN,abema-adx.ameba.jp
 DOMAIN,abtest-ch.snssdk.com
-DOMAIN,abtest3-misc-lq.zijieapi.com
-DOMAIN,abtest5-misc-hl.zijieapi.com
-DOMAIN,abtest5-misc.zijieapi.com
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-cn.jovcloud.com
@@ -156,7 +153,6 @@ DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,browser.sentry-cdn.com
-DOMAIN,bsync3-normal-lq.zijieapi.com
 DOMAIN,business.msstatic.com
 DOMAIN,c.bing.com
 DOMAIN,c1wx.lianwangtech.com
@@ -216,7 +212,6 @@ DOMAIN,gecko-pangle-lf.snssdk.com
 DOMAIN,gecko-pangle-lq.snssdk.com
 DOMAIN,gecko3-lq.zijieapi.com
 DOMAIN,gecko5-lq.zijieapi.com
-DOMAIN,gecko5.zijieapi.com
 DOMAIN,get.sogou.com
 DOMAIN,ggc.cmvideo.cn
 DOMAIN,ggic03.miguvideo.com
@@ -293,11 +288,8 @@ DOMAIN,log-hl.snssdk.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,log.pinterest.com
 DOMAIN,log.ycapp.yiche.com
-DOMAIN,log0-misc-alinc2.amemv.com
-DOMAIN,log3-misc-lq.amemv.com
 DOMAIN,log3-normal-lq.toutiaoapi.com
 DOMAIN,log3-normal.toutiaoapi.com
-DOMAIN,log5-misc-lq.amemv.com
 DOMAIN,logs.chelaile.net.cn
 DOMAIN,logsdk.qq.com
 DOMAIN,lookup.api.bsb.baidu.com
@@ -305,8 +297,6 @@ DOMAIN,luckyorange.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,m.adyounger.com
 DOMAIN,ma-adx.ctrip.com
-DOMAIN,ma3-normal-lf.zijieapi.com
-DOMAIN,ma5-normal-lq.zijieapi.com
 DOMAIN,mads.suning.com
 DOMAIN,mail.kguapp.com
 DOMAIN,mapi.apptimize.com
@@ -321,7 +311,6 @@ DOMAIN,mob.bz.mgtv.com
 DOMAIN,mobad.ijinshan.com
 DOMAIN,mon.toutiaocloud.com
 DOMAIN,mon.toutiaocloud.net
-DOMAIN,mon11-misc-lf.zijieapi.com
 DOMAIN,mon11-misc-lq.toutiaoapi.com
 DOMAIN,monitor.ssp.admobile.top
 DOMAIN,mopnativeadv.037201.com
@@ -329,10 +318,6 @@ DOMAIN,mouseflow.com
 DOMAIN,mqtt.zhihu.com
 DOMAIN,mssdk-bu.snssdk.com
 DOMAIN,mssdk.snssdk.com
-DOMAIN,mssdk3-normal-lq.zijieapi.com
-DOMAIN,mssdk3-normal.zijieapi.com
-DOMAIN,mssdk5-normal-lf.zijieapi.com
-DOMAIN,mssdk5-normal.zijieapi.com
 DOMAIN,mtvod.meituan.net
 DOMAIN,n.3g.163.com
 DOMAIN,nadvideo2.baidu.com
@@ -357,7 +342,6 @@ DOMAIN,partwithner.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pin.hpplay.cn
-DOMAIN,pitaya.bytedance.com
 DOMAIN,pixel.facebook.com
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,polaris5-normal-lf.zijieapi.com

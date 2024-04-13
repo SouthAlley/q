@@ -1,4 +1,4 @@
-# Main total line 3399
+# Main total line 3400
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -342,6 +342,7 @@ DOMAIN,partwithner.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pin.hpplay.cn
+DOMAIN,pitaya.bytedance.com
 DOMAIN,pixel.facebook.com
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,polaris5-normal-lf.zijieapi.com
@@ -2208,7 +2209,6 @@ DOMAIN-SUFFIX,pingdom.net
 DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pingtcss.qq.com
 DOMAIN-SUFFIX,pinzhitmall.com
-DOMAIN-SUFFIX,pitaya.bytedance.com
 DOMAIN-SUFFIX,pitrespite.com
 DOMAIN-SUFFIX,pixel.wp.com
 DOMAIN-SUFFIX,pixels.asia
@@ -2901,6 +2901,7 @@ DOMAIN-SUFFIX,vm5apis.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,voiceads.com
 DOMAIN-SUFFIX,voicefive.com
+DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,voodoo-ads.io
 DOMAIN-SUFFIX,vpon.com
 DOMAIN-SUFFIX,vrtcal.com

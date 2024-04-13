@@ -1,4 +1,4 @@
-# Update > 22:13 2024/4/9
+# Update > 17:24 2024/4/11
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
@@ -1107,8 +1107,6 @@ DOMAIN,gm.mmstat.com
 DOMAIN,log.mmstat.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,yt.mmstat.com
-DOMAIN,umdc.aliapp.org
-DOMAIN,ynuf.aliapp.org
 #Ali-淘宝
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,acs.m.taobao.com
@@ -1264,11 +1262,6 @@ DOMAIN-SUFFIX,paydxm.com
 #Bytedance
 DOMAIN-SUFFIX,dm.bytedance.com
 DOMAIN-SUFFIX,mssdk.bytedance.com
-DOMAIN,mssdk-bu.bytedance.com
-DOMAIN,tnc3-alisc1.bytedance.com
-DOMAIN,tnc3-aliec2.bytedance.com
-DOMAIN,tnc3-bjlgy.bytedance.com
-DOMAIN,pitaya.bytedance.com
 DOMAIN-KEYWORD,adbrand.byteimg.com
 DOMAIN-KEYWORD,ad-sign.byteimg.com
 DOMAIN-KEYWORD,asiad.byteactivity
@@ -1284,11 +1277,6 @@ DOMAIN-SUFFIX,tosv.boe.byted.org
 DOMAIN-SUFFIX,tosv.byted.org
 DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,oceanengine.com
-#Bytedance-amemv
-DOMAIN,log0-misc-lf.amemv.com
-DOMAIN,log0-misc-alinc2.amemv.com
-DOMAIN,log3-misc-lq.amemv.com
-DOMAIN,log5-misc-lq.amemv.com
 #Bytedance-抖音
 DOMAIN-KEYWORD,tt.x.bsgslb.cn
 DOMAIN,mssdk.volces.com
@@ -1398,47 +1386,19 @@ DOMAIN,polaris.zijieapi.com
 DOMAIN,starkgame.zijieapi.com
 DOMAIN,timon.zijieapi.com
 DOMAIN,view.zijieapi.com
-DOMAIN,abtest3-misc-lq.zijieapi.com
-DOMAIN,abtest5-misc-hl.zijieapi.com
-DOMAIN,abtest5-misc.zijieapi.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-lq.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads5-normal-lq.zijieapi.com
 DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,bsync3-normal-lq.zijieapi.com
-DOMAIN,bsync5-normal-lf.zijieapi.com
-DOMAIN,gecko3-lq.zijieapi.com
-DOMAIN,gecko5-lq.zijieapi.com
-DOMAIN,gecko5.zijieapi.com
-DOMAIN,ma3-normal-lf.zijieapi.com
-DOMAIN,ma5-normal-lq.zijieapi.com
 DOMAIN,minigame3-normal.zijieapi.com
 DOMAIN,minigame5-normal-hl.zijieapi.com
 DOMAIN,minigame5-normal-lq.zijieapi.com
 DOMAIN,minigame5-normal.zijieapi.com
-DOMAIN,mon11-misc-lf.zijieapi.com
-DOMAIN,mssdk3-normal-hl.zijieapi.com
-DOMAIN,mssdk3-normal-lf.zijieapi.com
-DOMAIN,mssdk3-normal-lq.zijieapi.com
-DOMAIN,mssdk3-normal.zijieapi.com
-DOMAIN,mssdk5-normal-lf.zijieapi.com
-DOMAIN,mssdk5-normal.zijieapi.com
 DOMAIN,polaris3-normal-hl.zijieapi.com
 DOMAIN,polaris3-normal-lq.zijieapi.com
 DOMAIN,polaris5-normal-lf.zijieapi.com
-DOMAIN,saveu5-normal-lq.zijieapi.com
-DOMAIN,tnc1-bjlgy.zijieapi.com
-DOMAIN,tnc11-aliec2.zijieapi.com
-DOMAIN,tnc11-alisc1.zijieapi.com
-DOMAIN,tnc11-bjlgy.zijieapi.com
-DOMAIN,tnc2-bjlgy.zijieapi.com
-DOMAIN,tnc3-aliec2.zijieapi.com
-DOMAIN,tnc3-alisc1.zijieapi.com
-DOMAIN,tnc3-bjlgy.zijieapi.com
-DOMAIN,tnc4-bjlgy.zijieapi.com
-DOMAIN,tnc5-bjlgy.zijieapi.com
 #Google
 DOMAIN,analyticsmobile-pa.googleapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com

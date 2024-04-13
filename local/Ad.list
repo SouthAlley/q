@@ -240,9 +240,6 @@ host, feedback-c.zijieapi.com, reject
 host, starkgame.zijieapi.com, reject
 host, timon.zijieapi.com, reject
 host, view.zijieapi.com, reject
-host, abtest3-misc-lq.zijieapi.com, reject
-host, abtest5-misc-hl.zijieapi.com, reject
-host, abtest5-misc.zijieapi.com, reject
 host, ads3-normal.zijieapi.com, reject
 host, ads5-normal.zijieapi.com, reject
 host, bsync3-normal-lq.zijieapi.com, reject

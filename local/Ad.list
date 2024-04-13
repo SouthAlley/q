@@ -204,9 +204,6 @@ host-keyword, applog-hl.novelfm.com, reject
 host-keyword, applog-lf.ixigua.com, reject
 host-keyword, applog-lq.ixigua.com, reject
 
-#Bytedance-ecombdapi抖音商城
-host-suffix, volceapplog.com, reject
-
 #Bytedance-抖音月付/随心借
 host-suffix, tp-pay.snssdk.com, reject
 

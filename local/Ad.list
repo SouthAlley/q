@@ -242,15 +242,10 @@ host, timon.zijieapi.com, reject
 host, view.zijieapi.com, reject
 host, ads3-normal.zijieapi.com, reject
 host, ads5-normal.zijieapi.com, reject
-host, bsync3-normal-lq.zijieapi.com, reject
 host, gecko3-lq.zijieapi.com, reject
 host, gecko5-lq.zijieapi.com, reject
-host, gecko5.zijieapi.com, reject
-host, ma3-normal-lf.zijieapi.com, reject
-host, ma5-normal-lq.zijieapi.com, reject
 host, minigame3-normal.zijieapi.com, reject
 host, minigame5-normal.zijieapi.com, reject
-host, mon11-misc-lf.zijieapi.com, reject
 host, mssdk3-normal-lq.zijieapi.com, reject
 host, mssdk3-normal.zijieapi.com, reject
 host, mssdk5-normal-lf.zijieapi.com, reject

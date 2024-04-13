@@ -31,7 +31,6 @@ jobs:
           .\r.cmd rule/proxy
           .\r.cmd rule/china
           .\r.cmd rule/game
-          .\r.cmd rule/telegram
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

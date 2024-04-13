@@ -156,11 +156,6 @@ host-keyword, analytics.bytescm.com, reject
 host-suffix, tosv.boe.byted.org, reject
 host-suffix, tosv.byted.org, reject
 
-#Bytedance-amemv
-host, log0-misc-alinc2.amemv.com, reject
-host, log3-misc-lq.amemv.com, reject
-host, log5-misc-lq.amemv.com, reject
-
 #Bytedance-抖音
 host-keyword, tt.x.bsgslb.cn, reject
 host, tr.byteurl.cn, reject

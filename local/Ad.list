@@ -144,10 +144,6 @@ host-suffix, stream-sdk.feedcoopapi.com, reject
 
 #Bytedance
 host-suffix, dm.bytedance.com, reject
-host, tnc3-alisc1.bytedance.com, reject
-host, tnc3-aliec2.bytedance.com, reject
-host, tnc3-bjlgy.bytedance.com, reject
-host, pitaya.bytedance.com, reject
 host-keyword, adbrand.byteimg.com, reject
 host-keyword, ad-sign.byteimg.com, reject
 host-keyword, asiad.byteactivity, reject

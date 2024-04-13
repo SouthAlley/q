@@ -1,8 +1,5 @@
-# Main total line 85
+# Main total line 82
 # ------------------------------------------
-DOMAIN,cdn.honey.io
-DOMAIN,fraud-api.dyneti.com
-DOMAIN,survey.qualtrics.com
 DOMAIN-SUFFIX,anfutong.cn
 DOMAIN-SUFFIX,anfutong.com
 DOMAIN-SUFFIX,anfutong.com.cn

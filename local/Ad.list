@@ -245,13 +245,6 @@ host, ads5-normal.zijieapi.com, reject
 host, minigame3-normal.zijieapi.com, reject
 host, minigame5-normal.zijieapi.com, reject
 host, polaris5-normal-lf.zijieapi.com, reject
-
-host, tnc2-bjlgy.zijieapi.com, reject
-host, tnc3-aliec2.zijieapi.com, reject
-host, tnc3-alisc1.zijieapi.com, reject
-host, tnc3-bjlgy.zijieapi.com, reject
-host, tnc4-bjlgy.zijieapi.com, reject
-host, tnc5-bjlgy.zijieapi.com, reject
 # 影响番茄小说广告奖励
 host, vcs.zijieapi.com, reject
 # 番茄

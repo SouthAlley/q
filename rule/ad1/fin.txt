@@ -1,4 +1,4 @@
-# Main total line 3398
+# Main total line 3399
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2208,6 +2208,7 @@ DOMAIN-SUFFIX,pingdom.net
 DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pingtcss.qq.com
 DOMAIN-SUFFIX,pinzhitmall.com
+DOMAIN-SUFFIX,pitaya.bytedance.com
 DOMAIN-SUFFIX,pitrespite.com
 DOMAIN-SUFFIX,pixel.wp.com
 DOMAIN-SUFFIX,pixels.asia

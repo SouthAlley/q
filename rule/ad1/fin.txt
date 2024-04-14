@@ -79,7 +79,6 @@ DOMAIN,ads.viber.com
 DOMAIN,ads.weilitoutiao.net
 DOMAIN,ads.yahoo.de
 DOMAIN,ads.youtube.com
-DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,adsapi.manhuaren.com
 DOMAIN,adsapi.snapchat.com
 DOMAIN,adsdk.dmzj.com
@@ -809,6 +808,7 @@ DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.msn.com
 DOMAIN-SUFFIX,ads3-normal-hl.zijieapi.com
 DOMAIN-SUFFIX,ads3-normal-lq.zijieapi.com
+DOMAIN-SUFFIX,ads3-normal.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-hl.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-lf.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-lq.zijieapi.com
@@ -2500,8 +2500,8 @@ DOMAIN-SUFFIX,sifuhe.cn
 DOMAIN-SUFFIX,sifuhu.cn
 DOMAIN-SUFFIX,sifuji.cn
 DOMAIN-SUFFIX,sifuka.cn
-DOMAIN-SUFFIX,sigmob.c0m
 DOMAIN-SUFFIX,sigmob.cn
+DOMAIN-SUFFIX,sigmob.com
 DOMAIN-SUFFIX,silvermob.com
 DOMAIN-SUFFIX,simaba.m.taobao.com
 DOMAIN-SUFFIX,simaba.taobao.com

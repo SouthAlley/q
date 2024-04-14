@@ -1,4 +1,4 @@
-# Main total line 3410
+# Main total line 3411
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1294,7 +1294,6 @@ DOMAIN-SUFFIX,datax.baidu.com
 DOMAIN-SUFFIX,datouniao.com
 DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,dc.meitustat.com
-DOMAIN-SUFFIX,dc.sigmob.cn
 DOMAIN-SUFFIX,dcads.sina.com.cn
 DOMAIN-SUFFIX,dd.sina.com.cn
 DOMAIN-SUFFIX,ddapp.cn
@@ -2501,6 +2500,8 @@ DOMAIN-SUFFIX,sifuhe.cn
 DOMAIN-SUFFIX,sifuhu.cn
 DOMAIN-SUFFIX,sifuji.cn
 DOMAIN-SUFFIX,sifuka.cn
+DOMAIN-SUFFIX,sigmob.c0m
+DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,silvermob.com
 DOMAIN-SUFFIX,simaba.m.taobao.com
 DOMAIN-SUFFIX,simaba.taobao.com

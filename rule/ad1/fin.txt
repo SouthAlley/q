@@ -1,4 +1,4 @@
-# Main total line 3398
+# Main total line 3410
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1021,6 +1021,7 @@ DOMAIN-SUFFIX,atplay.cn
 DOMAIN-SUFFIX,aty.hd.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN-SUFFIX,audid-api.taobao.com
+DOMAIN-SUFFIX,authenticate.chiq-cloud.com
 DOMAIN-SUFFIX,awaitcola.com
 DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,axonix.com
@@ -1215,7 +1216,9 @@ DOMAIN-SUFFIX,coinhive.com
 DOMAIN-SUFFIX,collect.kugou.com
 DOMAIN-SUFFIX,collector.githubapp.com
 DOMAIN-SUFFIX,comet.yahoo.com
+DOMAIN-SUFFIX,commdata.v.qq.com
 DOMAIN-SUFFIX,comscore.com
+DOMAIN-SUFFIX,config.chsmarttv.com
 DOMAIN-SUFFIX,connexity.net
 DOMAIN-SUFFIX,conv.youdao.com
 DOMAIN-SUFFIX,coocaatv.com
@@ -1282,6 +1285,7 @@ DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,dafapromo.com
 DOMAIN-SUFFIX,daitdai.com
 DOMAIN-SUFFIX,daoyoudao.com
+DOMAIN-SUFFIX,data.chsmarttv.com
 DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.xiaomi.com
@@ -1333,6 +1337,7 @@ DOMAIN-SUFFIX,dmp.sina.com.cn
 DOMAIN-SUFFIX,docerad.wps.cn
 DOMAIN-SUFFIX,dol.tianya.cn
 DOMAIN-SUFFIX,dol.tianyaui.cn
+DOMAIN-SUFFIX,domain.aishengji.com
 DOMAIN-SUFFIX,dongmansoft.com
 DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,dotcounter.douyutv.com
@@ -1812,6 +1817,8 @@ DOMAIN-SUFFIX,kwmsg.kuwo.cn
 DOMAIN-SUFFIX,l.qq.com
 DOMAIN-SUFFIX,l.ykimg.com
 DOMAIN-SUFFIX,l.youku.com
+DOMAIN-SUFFIX,launcher.smart-tv.cn
+DOMAIN-SUFFIX,launcherimg.smart-tv.cn
 DOMAIN-SUFFIX,leadbolt.com
 DOMAIN-SUFFIX,leadbolt.net
 DOMAIN-SUFFIX,leadboltads.net
@@ -1826,6 +1833,7 @@ DOMAIN-SUFFIX,linkeye.ximalaya.com
 DOMAIN-SUFFIX,links.services.disqus.com
 DOMAIN-SUFFIX,liveadvert.com
 DOMAIN-SUFFIX,liveats-vod.video.ptqy.gitv.tv
+DOMAIN-SUFFIX,livemonitor.huan.tv
 DOMAIN-SUFFIX,lm.licenses.adobe.com
 DOMAIN-SUFFIX,lm.tv.sohu.com
 DOMAIN-SUFFIX,lm10111.jtrincc.cn
@@ -1843,6 +1851,7 @@ DOMAIN-SUFFIX,log-sdk.gifshow.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,log.aispeech.com
+DOMAIN-SUFFIX,log.appstore3.huan.tv
 DOMAIN-SUFFIX,log.avlyun.com
 DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
 DOMAIN-SUFFIX,log.byteoversea.com
@@ -1975,6 +1984,7 @@ DOMAIN-SUFFIX,minipage.2345.cn
 DOMAIN-SUFFIX,minisite.letv.com
 DOMAIN-SUFFIX,minisplat.cn
 DOMAIN-SUFFIX,mipcache.bdstatic.com
+DOMAIN-SUFFIX,mission-pub.smart-tv.cn
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mjmobi.com
@@ -2083,6 +2093,7 @@ DOMAIN-SUFFIX,news.docer.com
 DOMAIN-SUFFIX,newscgp.com
 DOMAIN-SUFFIX,newspush.sinajs.cn
 DOMAIN-SUFFIX,newton-api.ele.me
+DOMAIN-SUFFIX,newvoice.chiq5.smart-tv.cn
 DOMAIN-SUFFIX,nex.corp.163.com
 DOMAIN-SUFFIX,nex8.net
 DOMAIN-SUFFIX,nexac.com
@@ -2829,6 +2840,7 @@ DOMAIN-SUFFIX,up.qingdaonews.com
 DOMAIN-SUFFIX,up.wps.kingsoft.com
 DOMAIN-SUFFIX,update.360safe.com
 DOMAIN-SUFFIX,update.avlyun.sec.miui.com
+DOMAIN-SUFFIX,update.lejiao.tv
 DOMAIN-SUFFIX,update.mobile.kugou.com
 DOMAIN-SUFFIX,updatepage.kuwo.cn
 DOMAIN-SUFFIX,upgrade.xl9.xunlei.com

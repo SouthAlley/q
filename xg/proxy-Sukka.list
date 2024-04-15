@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-09T10:29:07.836Z
-# Size: 515
+# Last Updated: 2024-04-14T06:39:54.642Z
+# Size: 523
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,7 +13,6 @@ DOMAIN,pki.goog
 DOMAIN,addons.mozilla.org
 DOMAIN,ees.elsevier.com
 DOMAIN,ccmdl.adobe.com
-DOMAIN,onedrive.live.com
 DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,abc.xyz
@@ -94,6 +93,7 @@ DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,linkedin.com
@@ -262,6 +262,7 @@ DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,blogimg.jp
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,booklive.jp
@@ -307,6 +308,7 @@ DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
@@ -319,6 +321,7 @@ DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,genius.com
+DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,ghostery.com
@@ -360,7 +363,6 @@ DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,ledger.com
-DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,meetup.com
@@ -373,6 +375,7 @@ DOMAIN-SUFFIX,moegirl.uk
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,muku.tv
 DOMAIN-SUFFIX,myfreecams.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,naver.com
@@ -380,6 +383,7 @@ DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nyaa.si
@@ -452,6 +456,7 @@ DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,substack.com
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tenor.com
@@ -508,6 +513,9 @@ DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,prowritingaid.com

@@ -1,4 +1,4 @@
-# Main total line 19557
+# Main total line 19558
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -8641,6 +8641,7 @@ DOMAIN-SUFFIX,ibtimes.com
 DOMAIN-SUFFIX,ibvpn.com
 DOMAIN-SUFFIX,icams.com
 DOMAIN-SUFFIX,icashpassport.com.mx
+DOMAIN-SUFFIX,icedrive.net
 DOMAIN-SUFFIX,icegay.tv
 DOMAIN-SUFFIX,icegaytube.tv
 DOMAIN-SUFFIX,icerocket.com

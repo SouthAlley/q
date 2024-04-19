@@ -1001,6 +1001,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudfront.net
@@ -1246,12 +1247,14 @@ DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,de-sci.org
 DOMAIN-SUFFIX,deadline.com
 DOMAIN-SUFFIX,deaftone.com
+DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,deck.ly
 DOMAIN-SUFFIX,decodet.co
 DOMAIN-SUFFIX,deepfreeze.com
 DOMAIN-SUFFIX,deepfreeze.com.br
 DOMAIN-SUFFIX,deepfreeze.net
 DOMAIN-SUFFIX,deepfreeze.tech
+DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,definebabe.com
 DOMAIN-SUFFIX,deja.com
 DOMAIN-SUFFIX,delcamp.net
@@ -1583,6 +1586,7 @@ DOMAIN-SUFFIX,etaa.org.au
 DOMAIN-SUFFIX,etadult.com
 DOMAIN-SUFFIX,etaiwannews.com
 DOMAIN-SUFFIX,etherdelta.com
+DOMAIN-SUFFIX,ethermine.org
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,etizer.org
 DOMAIN-SUFFIX,etokki.com
@@ -1620,6 +1624,7 @@ DOMAIN-SUFFIX,ezpc.tk
 DOMAIN-SUFFIX,ezpeer.com
 DOMAIN-SUFFIX,ezua.com
 DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,faceless.me
@@ -2394,6 +2399,7 @@ DOMAIN-SUFFIX,hrcchina.org
 DOMAIN-SUFFIX,hrcir.com
 DOMAIN-SUFFIX,hrea.org
 DOMAIN-SUFFIX,hrichina.org
+DOMAIN-SUFFIX,hrntt.org
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hrw.org
 DOMAIN-SUFFIX,hrweb.org
@@ -3836,6 +3842,7 @@ DOMAIN-SUFFIX,ozyoyo.com
 DOMAIN-SUFFIX,pachosting.com
 DOMAIN-SUFFIX,pacificpoker.com
 DOMAIN-SUFFIX,packagecontrol.io
+DOMAIN-SUFFIX,packagephobia.com
 DOMAIN-SUFFIX,packetix.net
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,paddle.com
@@ -5155,6 +5162,8 @@ DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
+DOMAIN-SUFFIX,travis-ci.com
+DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,trendmicro.com
@@ -5331,6 +5340,7 @@ DOMAIN-SUFFIX,uberproxy.net
 DOMAIN-SUFFIX,ubertags.com
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,uc-japan.org
 DOMAIN-SUFFIX,ucam.org
 DOMAIN-SUFFIX,ucanews.com
@@ -5729,6 +5739,7 @@ DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,wikilivres.info
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikimedia.org
@@ -6021,6 +6032,7 @@ DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zalo.me
 DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX,zamimg.com
 DOMAIN-SUFFIX,zannel.com
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaozon.com

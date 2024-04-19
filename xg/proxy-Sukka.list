@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-16T15:26:27.600Z
-# Size: 530
+# Last Updated: 2024-04-18T10:29:39.929Z
+# Size: 538
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -76,6 +76,8 @@ DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,translate.goog
+DOMAIN-SUFFIX,travis-ci.com
+DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,webmproject.org
@@ -94,6 +96,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,linkedin.com
@@ -287,6 +290,8 @@ DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
@@ -403,6 +408,7 @@ DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,packagephobia.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,perplexity.ai
@@ -482,6 +488,7 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
@@ -498,6 +505,7 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whoer.cc
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikipedia.org

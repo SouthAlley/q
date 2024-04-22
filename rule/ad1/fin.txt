@@ -1,4 +1,4 @@
-# Main total line 3419
+# Main total line 3432
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2676,7 +2676,6 @@ DOMAIN-SUFFIX,tcc.qscvli.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tcxshop.com
 DOMAIN-SUFFIX,tdc.qq.com
-DOMAIN-SUFFIX,tdid.m.qq.com
 DOMAIN-SUFFIX,tdrec.youku.com
 DOMAIN-SUFFIX,teads.tv
 DOMAIN-SUFFIX,tellapart.com
@@ -3262,6 +3261,7 @@ IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,103.37.155.60/32,no-resolve
 IP-CIDR,103.41.167.237/32,no-resolve
 IP-CIDR,103.49.209.27/32,no-resolve
+IP-CIDR,103.82.243.5/32,no-resolve
 IP-CIDR,104.239.213.7/32,no-resolve
 IP-CIDR,106.75.231.48/32,no-resolve
 IP-CIDR,111.11.208.2/32,no-resolve
@@ -3304,6 +3304,10 @@ IP-CIDR,125.211.213.130/31,no-resolve
 IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
+IP-CIDR,158.220.95.214/31,no-resolve
+IP-CIDR,172.232.208.90/32,no-resolve
+IP-CIDR,172.233.155.253/32,no-resolve
+IP-CIDR,172.233.221.61/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
 IP-CIDR,180.153.103.224/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
@@ -3315,6 +3319,8 @@ IP-CIDR,183.221.242.172/32,no-resolve
 IP-CIDR,183.221.250.11/32,no-resolve
 IP-CIDR,183.224.40.24/32,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
+IP-CIDR,192.9.135.73/32,no-resolve
+IP-CIDR,194.233.91.144/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
 IP-CIDR,202.100.220.54/32,no-resolve
 IP-CIDR,202.100.68.117/32,no-resolve
@@ -3338,6 +3344,7 @@ IP-CIDR,211.161.101.106/32,no-resolve
 IP-CIDR,211.161.101.110/32,no-resolve
 IP-CIDR,211.98.70.226/31,no-resolve
 IP-CIDR,211.98.71.195/32,no-resolve
+IP-CIDR,213.199.41.33/32,no-resolve
 IP-CIDR,218.28.144.36/30,no-resolve
 IP-CIDR,218.28.144.40/31,no-resolve
 IP-CIDR,218.28.144.42/32,no-resolve
@@ -3395,6 +3402,7 @@ IP-CIDR,223.87.182.11/32,no-resolve
 IP-CIDR,223.87.182.52/32,no-resolve
 IP-CIDR,23.202.231.167/32,no-resolve
 IP-CIDR,23.217.138.108/32,no-resolve
+IP-CIDR,31.210.173.10/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,42.123.125.237/32,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve
@@ -3402,6 +3410,7 @@ IP-CIDR,47.56.131.76/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
 IP-CIDR,47.97.215.55/32,no-resolve
 IP-CIDR,47.99.42.29/32,no-resolve
+IP-CIDR,5.252.177.195/32,no-resolve
 IP-CIDR,60.19.29.21/32,no-resolve
 IP-CIDR,60.19.29.22/31,no-resolve
 IP-CIDR,60.19.29.24/30,no-resolve
@@ -3417,5 +3426,9 @@ IP-CIDR,61.160.200.252/32,no-resolve
 IP-CIDR,61.174.50.214/32,no-resolve
 IP-CIDR,61.183.1.186/32,no-resolve
 IP-CIDR,61.191.206.4/32,no-resolve
+IP-CIDR,62.204.41.234/32,no-resolve
+IP-CIDR,64.23.199.206/32,no-resolve
+IP-CIDR,77.105.162.176/32,no-resolve
+IP-CIDR,84.247.157.112/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve

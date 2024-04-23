@@ -1,4 +1,4 @@
-# Main total line 19562
+# Main total line 19560
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -887,8 +887,6 @@ DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akademiye.org
 DOMAIN-SUFFIX,akadns.com
 DOMAIN-SUFFIX,akadns6.net
-DOMAIN-SUFFIX,akadns88.net
-DOMAIN-SUFFIX,akadns99.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
 DOMAIN-SUFFIX,akagtm.org
@@ -5559,7 +5557,6 @@ DOMAIN-SUFFIX,edengay.net
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgefonts.net
 DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,edgemeplease.com
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,edicypages.com
@@ -6510,6 +6507,7 @@ DOMAIN-SUFFIX,firstpelvicexam.com
 DOMAIN-SUFFIX,firstpost.com
 DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,fishmpegs.com
+DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,fitnakedgirls.com
 DOMAIN-SUFFIX,fixtracking.com
 DOMAIN-SUFFIX,fizzik.com

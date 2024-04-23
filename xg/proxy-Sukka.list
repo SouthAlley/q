@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-19T10:18:33.134Z
-# Size: 543
+# Last Updated: 2024-04-22T05:18:07.137Z
+# Size: 544
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,travis-ci.com
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org

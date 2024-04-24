@@ -1,4 +1,4 @@
-# Main total line 3434
+# Main total line 3438
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -888,6 +888,7 @@ DOMAIN-SUFFIX,afd.baidu.cn
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afd.l.google.com
 DOMAIN-SUFFIX,afdback.ppsimg.com
+DOMAIN-SUFFIX,affinitychina.cn
 DOMAIN-SUFFIX,afp.alicdn.com
 DOMAIN-SUFFIX,afp.iqiyi.com
 DOMAIN-SUFFIX,afp.pplive.com
@@ -1539,6 +1540,7 @@ DOMAIN-SUFFIX,go2cloud.org
 DOMAIN-SUFFIX,godloveme.cn
 DOMAIN-SUFFIX,golden1.sogou.com
 DOMAIN-SUFFIX,golden1.sohu.com
+DOMAIN-SUFFIX,goldwavechina.cn
 DOMAIN-SUFFIX,goods.tudou.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googlecommerce.com
@@ -1945,6 +1947,7 @@ DOMAIN-SUFFIX,medialytics.com
 DOMAIN-SUFFIX,medialytics.io
 DOMAIN-SUFFIX,mediaplex.com
 DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,medproad.com
 DOMAIN-SUFFIX,meetrics.com
 DOMAIN-SUFFIX,meetrics.net
 DOMAIN-SUFFIX,megajoy.com
@@ -2264,6 +2267,7 @@ DOMAIN-SUFFIX,promotionengine.com
 DOMAIN-SUFFIX,propellerads.com
 DOMAIN-SUFFIX,proper.io
 DOMAIN-SUFFIX,proxistore.com
+DOMAIN-SUFFIX,ps-chajian.com
 DOMAIN-SUFFIX,pu0glv.cn
 DOMAIN-SUFFIX,pub.funshion.com
 DOMAIN-SUFFIX,pub.mop.com

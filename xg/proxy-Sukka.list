@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-22T05:18:07.137Z
-# Size: 544
+# Last Updated: 2024-04-24T07:53:48.813Z
+# Size: 551
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -65,6 +65,10 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,gvt5.com
+DOMAIN-SUFFIX,gvt6.com
+DOMAIN-SUFFIX,gvt7.com
+DOMAIN-SUFFIX,gvt9.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,madewithcode.com
@@ -299,6 +303,7 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlsite.com
@@ -412,6 +417,7 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,one.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,packagephobia.com

@@ -1,22 +1,11 @@
 # > Microsoft
 # > Main
 USER-AGENT,Microsoft*
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,windows
-DOMAIN-SUFFIX,microsoft.com
+DOMAIN-WILDCARD,microsoft*
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoft-tst.com
 
 # > Azure
-DOMAIN-KEYWORD,Azure
-DOMAIN-KEYWORD,azure-dns
-DOMAIN-KEYWORD,azurecosmosdb
-DOMAIN-KEYWORD,azuredigitaltwins
-DOMAIN-KEYWORD,azuredns-prd
-DOMAIN-KEYWORD,azurefd
-DOMAIN-KEYWORD,azureplanetscale
-DOMAIN-KEYWORD,cosmosdb
-DOMAIN-KEYWORD,windowsazure
 DOMAIN-SUFFIX,azure-apim.net
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-sphere.com
@@ -53,8 +42,6 @@ DOMAIN-SUFFIX,bethesdagamestudios.com
 DOMAIN-SUFFIX,bethsoft.com
 
 # > Bing
-DOMAIN-KEYWORD,Bing
-DOMAIN-KEYWORD,biying
 DOMAIN-SUFFIX,bbing.com
 DOMAIN-SUFFIX,bibg.com
 DOMAIN-SUFFIX,biing.com
@@ -121,7 +108,6 @@ DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,s-msedge.net
 
 # > Here
-DOMAIN-KEYWORD,Here
 DOMAIN-SUFFIX,heremaps.cn
 DOMAIN-SUFFIX,ovi.com.cn
 
@@ -130,8 +116,6 @@ DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,m12.vc
 
 # > Hotmail & Outlook
-DOMAIN-KEYWORD,hotmail
-DOMAIN-KEYWORD,outlook
 DOMAIN-SUFFIX,outlookgroups.ms
 DOMAIN-SUFFIX,outlookmobile.com
 
@@ -150,21 +134,11 @@ DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
 
 # > MSN
-DOMAIN-KEYWORD,microsoftnews
-DOMAIN-KEYWORD,microsoft-online
-DOMAIN-KEYWORD,microsoftnewsforkids
-DOMAIN-KEYWORD,microsoftnewskids
-DOMAIN-KEYWORD,microsoftol
-DOMAIN-KEYWORD,msn
-DOMAIN-KEYWORD,msnewskids
 DOMAIN-SUFFIX,microsoftusercontent.com
 DOMAIN-SUFFIX,msnkids.com
 DOMAIN-SUFFIX,winmp.cn
 
 # > Microsoft Developer
-DOMAIN-KEYWORD,microsoftreactor
-DOMAIN-KEYWORD,microsoftsilverlight
-DOMAIN-KEYWORD,vfsforgit
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,apisof.net
@@ -212,7 +186,6 @@ DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
 
 # > Office 365
-DOMAIN-KEYWORD,Office
 DOMAIN-SUFFIX,o365cn.com
 DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,o365weve-dev.com
@@ -225,26 +198,23 @@ DOMAIN-SUFFIX,microsoft365.com
 # > OneDrive & Sharepoint
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-DOMAIN-KEYWORD,Onedrive
 DOMAIN-WILDCARD,Onedrive.*
-DOMAIN-KEYWORD,skydrive
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,sharepoint
+DOMAIN-WILDCARD,Onedrive.*
+DOMAIN-WILDCARD,skydrive.*.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,svc.ms
 
 # > OneNote
-DOMAIN-KEYWORD,onenote
+
 
 # > Skype
-DOMAIN-KEYWORD,Skype
-DOMAIN-KEYWORD,skypeassets
+
 DOMAIN-SUFFIX,skypeforbusiness.com
 
 # > Store
-DOMAIN-KEYWORD,microsoftstore
+
 
 # > Sway
 DOMAIN-SUFFIX,sway-cdn.com
@@ -252,12 +222,10 @@ DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com
 
 # > VisualStudio
-DOMAIN-KEYWORD,visualstudio
 DOMAIN-SUFFIX,visualstudio-staging.com
 DOMAIN-SUFFIX,vsassets.io
 
 # > Xiaobing
-DOMAIN-KEYWORD,msminico
 DOMAIN-SUFFIX,aicscience.com
 DOMAIN-SUFFIX,mmais.com.cn
 DOMAIN-SUFFIX,msxiaobing.com
@@ -267,10 +235,6 @@ DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,renlifang.com
 
 # > Xbox 
-DOMAIN-KEYWORD,xbox
-DOMAIN-KEYWORD,xbox360
-DOMAIN-KEYWORD,xboxlive
-DOMAIN-KEYWORD,xboxone
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
@@ -287,14 +251,6 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 
 # > Others
-DOMAIN-KEYWORD,Applicationinsights
-DOMAIN-KEYWORD,joinms
-DOMAIN-KEYWORD,internetexplorer
-DOMAIN-KEYWORD,microsofthouse
-DOMAIN-KEYWORD,msauth
-DOMAIN-KEYWORD,msft
-DOMAIN-KEYWORD,msftauth
-DOMAIN-KEYWORD,winhec
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,ankarazirvesi2018.com

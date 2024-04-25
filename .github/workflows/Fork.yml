@@ -28,7 +28,7 @@ jobs:
         for file in porxyip.list; do
           if [ -f "$file" ]; then
             # 删除规则
-            sed -i '/^\(PROCESS-NAME\|DOMAIN-KEYWORD\|DOMAIN\|DOMAIN-SUFFIX\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$file"
+            sed -i '/^\(PROCESS-NAME\|DOMAIN-WILDCARD\|DOMAIN-KEYWORD\|DOMAIN\|DOMAIN-SUFFIX\|IP-ASN\|URL-REGEX\|USER-AGENT\|OR\|AND\),.*$/d' "$file"
             # 删除注释
             sed -i 's/#.*//' "$file"
             # 删除空行

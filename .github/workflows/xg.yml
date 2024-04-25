@@ -57,11 +57,8 @@ jobs:
                process_rules() {
                    # 修改, 为,
                    sed -i 's/, /,/g' "$original_file"
-                   # 删除规则
-                   awk '{sub("host-wildcard.*$", ""); print}' "$original_file" > tmpfile
-                   mv tmpfile "$original_file"
                    # 修改为大写
-                   sed -i -e 's/host,/DOMAIN,/gi' -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' "$original_file"
+                   sed -i -e 's/host,/DOMAIN,/gi' -e 's/host-suffix,/DOMAIN-SUFFIX,/gi' -e 's/host-keyword,/DOMAIN-KEYWORD,/gi' -e 's/host-wildcard,/DOMAIN-WILDCARD,/gi' "$original_file"
                    sed -i 's/ip-cidr,/IP-CIDR,/gi' "$original_file"
                    sed -i 's/ip6-cidr,/IP-CIDR6,/gi' "$original_file"
                    sed -i 's/user-agent,/USER-AGENT,/g' "$original_file"

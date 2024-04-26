@@ -24,10 +24,6 @@ jobs:
         run: |
           .\r.cmd rule/ad1
           .\r.cmd rule/global
-          .\r.cmd rule/apple
-          .\r.cmd rule/microsoft
-          .\r.cmd rule/google
-          .\r.cmd rule/paypal
           .\r.cmd rule/proxy
           .\r.cmd rule/china
           .\r.cmd rule/game

@@ -1,4 +1,4 @@
-# Main total line 216
+# Main total line 215
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -215,4 +215,3 @@ DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-WILDCARD,edgedl.me.gvt?.com

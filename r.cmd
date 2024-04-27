@@ -80,6 +80,7 @@ busybox sed -i -E "/^D.*,.*[A-Z]/d" 2.txt
 busybox sed -i -E "s/^DOMAIN,\*\./DOMAIN-SUFFIX,/g" 2.txt
 busybox sed -i -E "s/^DOMAIN-SUFFIX,\*\./DOMAIN-SUFFIX,/g" 2.txt
 busybox sed -i -E "/^D.*,.*\*/d" 2.txt
+busybox sed -i -E "/^DOMAIN-WILDCARD/d" 2.txt
 busybox sed -i -E "/^GEOIP/d" 2.txt
 echo.>>.\2.txt
 type .\2.txt >>fas.txt

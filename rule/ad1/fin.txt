@@ -1,4 +1,4 @@
-# Main total line 3438
+# Main total line 3437
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -3433,7 +3433,6 @@ IP-CIDR,61.174.50.214/32,no-resolve
 IP-CIDR,61.183.1.186/32,no-resolve
 IP-CIDR,61.191.206.4/32,no-resolve
 IP-CIDR,62.204.41.234/32,no-resolve
-IP-CIDR,64.23.199.206/32,no-resolve
 IP-CIDR,77.105.162.176/32,no-resolve
 IP-CIDR,84.247.157.112/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve

@@ -1,4 +1,4 @@
-# Main total line 2353
+# Main total line 2354
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -821,6 +821,7 @@ DOMAIN,media.infosec.exchange
 DOMAIN,media.istockphoto.com
 DOMAIN,media.licdn.com
 DOMAIN,media.mas.to
+DOMAIN,media.masto.nu
 DOMAIN,media.mstdn.io
 DOMAIN,media.npr.org
 DOMAIN,media.orz.uno

@@ -1,4 +1,4 @@
-# Main total line 6242
+# Main total line 6244
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -4534,6 +4534,7 @@ DOMAIN-SUFFIX,simpleproductivityblog.com
 DOMAIN-SUFFIX,sinchew.com.my
 DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singtao.com
 DOMAIN-SUFFIX,singtaousa.com
 DOMAIN-SUFFIX,singular.net
@@ -6040,6 +6041,8 @@ DOMAIN-SUFFIX,yyii.org
 DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yzzk.com
 DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,z-library.sx
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zalo.me
@@ -6127,7 +6130,6 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
-DOMAIN-KEYWORD,.archive.
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-KEYWORD,.facebook.
 DOMAIN-KEYWORD,.pinterest.

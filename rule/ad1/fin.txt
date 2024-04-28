@@ -1,4 +1,4 @@
-# Main total line 3436
+# Main total line 3435
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2612,7 +2612,6 @@ DOMAIN-SUFFIX,steelhousemedia.com
 DOMAIN-SUFFIX,steepto.com
 DOMAIN-SUFFIX,stg8.com
 DOMAIN-SUFFIX,stickyadstv.com
-DOMAIN-SUFFIX,storage.moegirl.org.cn
 DOMAIN-SUFFIX,store.tv.api.3g.youku.com
 DOMAIN-SUFFIX,store.xl.api.3g.youku.com
 DOMAIN-SUFFIX,stream-sdk.feedcoopapi.com

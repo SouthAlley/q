@@ -8,6 +8,7 @@ DOMAIN,a.fireside.fm
 DOMAIN,a5.behance.net
 DOMAIN,a57.foxnews.com
 DOMAIN,academy-public.coinmarketcap.com
+DOMAIN,account-cdn.svc.ui.com
 DOMAIN,accounts-cdn.9gag.com
 DOMAIN,aff.equalweb.com
 DOMAIN,ajax.cat.net
@@ -1304,7 +1305,6 @@ DOMAIN,thumbnailer.mixcloud.com
 DOMAIN,thumbs.gfycat.com
 DOMAIN,thumbs.onlyfans.com
 DOMAIN,thumbs2.sendvid.com
-DOMAIN,thumbs44.redgifs.com
 DOMAIN,thumbsnap.com
 DOMAIN,tiles.stadiamaps.com
 DOMAIN,ton.local.twitter.com

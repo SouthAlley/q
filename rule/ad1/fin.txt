@@ -1,4 +1,4 @@
-# Main total line 3435
+# Main total line 3431
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1218,8 +1218,6 @@ DOMAIN-SUFFIX,comet.yahoo.com
 DOMAIN-SUFFIX,commdata.v.qq.com
 DOMAIN-SUFFIX,comscore.com
 DOMAIN-SUFFIX,config.chsmarttv.com
-DOMAIN-SUFFIX,conn-service-cn-04.allawntech.com
-DOMAIN-SUFFIX,conn-service-cn-05.allawntech.com
 DOMAIN-SUFFIX,connexity.net
 DOMAIN-SUFFIX,conv.youdao.com
 DOMAIN-SUFFIX,coocaatv.com
@@ -1937,8 +1935,6 @@ DOMAIN-SUFFIX,mdc.meitustat.com
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
 DOMAIN-SUFFIX,mdfull.com
 DOMAIN-SUFFIX,mdotm.com
-DOMAIN-SUFFIX,mdp-appconf-in.heytapdl.com
-DOMAIN-SUFFIX,mdp-usertrace-cn.heytapmobi.com
 DOMAIN-SUFFIX,measurementapi.com
 DOMAIN-SUFFIX,media.aso1.net
 DOMAIN-SUFFIX,media.cheshi-img.com

@@ -79,6 +79,7 @@ DOMAIN,assets.coinbase.com
 DOMAIN,assets.coingecko.com
 DOMAIN,assets.convertkit.com
 DOMAIN,assets.dnsfilter.com
+DOMAIN,assets.dwncdn.net
 DOMAIN,assets.extension.grammarly.com
 DOMAIN,assets.fastly.com
 DOMAIN,assets.fireside.fm
@@ -930,7 +931,6 @@ DOMAIN,player.cnevids.com
 DOMAIN,player.h-cdn.com
 DOMAIN,player.louisvuitton.com
 DOMAIN,player.vimeo.com
-DOMAIN,playwright.azureedge.net
 DOMAIN,plugins-artifacts.gradle.org
 DOMAIN,plugins.dprint.dev
 DOMAIN,plus.unsplash.com
@@ -1750,7 +1750,6 @@ DOMAIN-SUFFIX,jspm.io
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,k8s.io
-DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,kc-usercontent.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,kinja-static.com
@@ -2192,6 +2191,7 @@ DOMAIN-SUFFIX,sbcdnvideo.com
 DOMAIN-SUFFIX,sc-cdn.com
 DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,sciencedirectassets.com
+DOMAIN-SUFFIX,scribdassets.com
 DOMAIN-SUFFIX,seadn.io
 DOMAIN-SUFFIX,search.ipfsgate.com
 DOMAIN-SUFFIX,sendspace.com

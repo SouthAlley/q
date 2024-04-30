@@ -1,4 +1,4 @@
-# Main total line 6244
+# Main total line 6246
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -3033,6 +3033,8 @@ DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,linecorp.com

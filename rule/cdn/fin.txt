@@ -1,4 +1,4 @@
-# Main total line 2354
+# Main total line 2355
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -857,6 +857,7 @@ DOMAIN,mwf-service.akamaized.net
 DOMAIN,mycommerce.akamaized.net
 DOMAIN,na-library.klarnaservices.com
 DOMAIN,navismithapis-cdn.com
+DOMAIN,net-fe-static-assets.network-controller.svc.ui.com
 DOMAIN,newassets.hcaptcha.com
 DOMAIN,newsletter.postmarkapp.com
 DOMAIN,next-images.opencollective.com

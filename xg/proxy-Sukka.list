@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-24T07:53:48.813Z
-# Size: 551
+# Last Updated: 2024-04-29T07:54:03.232Z
+# Size: 552
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -496,6 +496,7 @@ DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tmagazine.com
+DOMAIN-SUFFIX,tokyonline.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net

@@ -1,4 +1,4 @@
-# Main total line 991
+# Main total line 992
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -755,6 +755,7 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,staticdn.net
+DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,staybrowser.com
 DOMAIN-SUFFIX,stayfork.app

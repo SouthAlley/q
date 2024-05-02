@@ -1,4 +1,4 @@
-# Main total line 3432
+# Main total line 3431
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2176,7 +2176,6 @@ DOMAIN-SUFFIX,pagechoice.net
 DOMAIN-SUFFIX,pagefair.com
 DOMAIN-SUFFIX,pagefair.net
 DOMAIN-SUFFIX,pangle.io
-DOMAIN-SUFFIX,panglelog.gz.bcebos.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,paopao.iqiyi.com
 DOMAIN-SUFFIX,paopaod.qiyipic.com

@@ -1,4 +1,4 @@
-# Main total line 2355
+# Main total line 2356
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1563,6 +1563,7 @@ DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dogehls.xyz
 DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,doppiocdn.net
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,dropboxstatic.com

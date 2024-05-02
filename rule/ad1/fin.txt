@@ -1,7 +1,8 @@
-# Main total line 3431
+# Main total line 3432
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
+DOMAIN,a.cpic.com.cn
 DOMAIN,a.labadena.com
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com

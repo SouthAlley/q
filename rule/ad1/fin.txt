@@ -1,4 +1,4 @@
-# Main total line 3431
+# Main total line 3429
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2980,7 +2980,6 @@ DOMAIN-SUFFIX,wbpctips.mobile.sina.cn
 DOMAIN-SUFFIX,we.tm
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-community-drcn.weather.dbankcloud.cn
-DOMAIN-SUFFIX,weather-drcn.music.dbankcloud.cn
 DOMAIN-SUFFIX,webads.eu
 DOMAIN-SUFFIX,websd8.com
 DOMAIN-SUFFIX,webstat.kuwo.cn
@@ -3302,7 +3301,6 @@ IP-CIDR,125.211.213.130/31,no-resolve
 IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
-IP-CIDR,158.220.95.214/32,no-resolve
 IP-CIDR,172.233.155.253/32,no-resolve
 IP-CIDR,172.233.221.61/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve

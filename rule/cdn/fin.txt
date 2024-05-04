@@ -1,4 +1,4 @@
-# Main total line 2360
+# Main total line 2362
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1244,6 +1244,7 @@ DOMAIN,static.tronscan.org
 DOMAIN,static.tumblr.com
 DOMAIN,static.twitchcdn.net
 DOMAIN,static.typingclub.com
+DOMAIN,static.ui.com
 DOMAIN,static.underhentai.net
 DOMAIN,static.v2ex.com
 DOMAIN,static.vocadb.net
@@ -1345,6 +1346,7 @@ DOMAIN,userimg-assets.customeriomail.com
 DOMAIN,userimg-bee.customeriomail.com
 DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
+DOMAIN,useruploads.socratic.org
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
 DOMAIN,v.hillwaver.com

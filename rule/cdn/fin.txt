@@ -1,4 +1,4 @@
-# Main total line 2362
+# Main total line 2367
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -140,6 +140,7 @@ DOMAIN,assets.upload.io
 DOMAIN,assets.vercel.com
 DOMAIN,assets.video.yahoo.net
 DOMAIN,assets.vidyard.com
+DOMAIN,assets.vogue.com
 DOMAIN,assets.volvo.com
 DOMAIN,assets.xbox.com
 DOMAIN,assets.xboxservices.com
@@ -695,6 +696,7 @@ DOMAIN,images.scalero.io
 DOMAIN,images.spot.im
 DOMAIN,images.spr.so
 DOMAIN,images.store.crowdstrike.com
+DOMAIN,images.svc.ui.com
 DOMAIN,images.unsplash.com
 DOMAIN,images.web3.storage
 DOMAIN,images.weserv.nl
@@ -1230,6 +1232,7 @@ DOMAIN,static.skyassets.com
 DOMAIN,static.snapchat.com
 DOMAIN,static.snaptube.in
 DOMAIN,static.snyk.io
+DOMAIN,static.socratic.org
 DOMAIN,static.solarwinds.com
 DOMAIN,static.spankbang.com
 DOMAIN,static.srcspot.com
@@ -1766,6 +1769,7 @@ DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
+DOMAIN-SUFFIX,kuaikan-cdn4.com
 DOMAIN-SUFFIX,kwcdn.com
 DOMAIN-SUFFIX,kym-cdn.com
 DOMAIN-SUFFIX,lencr.org
@@ -2254,6 +2258,7 @@ DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,substackcdn.com
 DOMAIN-SUFFIX,surge.sh
+DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,susercontent.com
 DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,sxccdn.com

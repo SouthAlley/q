@@ -1,4 +1,4 @@
-# Main total line 213
+# Main total line 214
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -89,6 +89,7 @@ DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
 DOMAIN,downloadr2.apkmirror.com
 DOMAIN,downloads.openwrt.org
+DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net
 DOMAIN,downloads.xrite.com
 DOMAIN,edge.steam-dns.top.comcast.net

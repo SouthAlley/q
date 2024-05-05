@@ -1,4 +1,4 @@
-# Main total line 6253
+# Main total line 6254
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -842,6 +842,7 @@ DOMAIN-SUFFIX,cdp1989.org
 DOMAIN-SUFFIX,cdp1998.org
 DOMAIN-SUFFIX,cdp2006.org
 DOMAIN-SUFFIX,cdpeu.org
+DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,cdpusa.org
 DOMAIN-SUFFIX,cdpweb.org
 DOMAIN-SUFFIX,cdpwu.org

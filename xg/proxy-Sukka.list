@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-29T07:54:03.232Z
-# Size: 552
+# Last Updated: 2024-05-04T16:29:21.284Z
+# Size: 553
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -283,6 +283,7 @@ DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,cloudfront.net

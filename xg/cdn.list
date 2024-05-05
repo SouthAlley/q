@@ -138,6 +138,7 @@ DOMAIN,assets.upload.io
 DOMAIN,assets.vercel.com
 DOMAIN,assets.video.yahoo.net
 DOMAIN,assets.vidyard.com
+DOMAIN,assets.vogue.com
 DOMAIN,assets.volvo.com
 DOMAIN,assets.xbox.com
 DOMAIN,assets.xboxservices.com
@@ -364,6 +365,7 @@ DOMAIN,cdn.rauno.me
 DOMAIN,cdn.readme.io
 DOMAIN,cdn.recovermycart.com
 DOMAIN,cdn.redoc.ly
+DOMAIN,cdn.reimu.net
 DOMAIN,cdn.rex.contents.rakuten.co.jp
 DOMAIN,cdn.robinpro.gallery
 DOMAIN,cdn.roboflow.com
@@ -692,6 +694,7 @@ DOMAIN,images.scalero.io
 DOMAIN,images.spot.im
 DOMAIN,images.spr.so
 DOMAIN,images.store.crowdstrike.com
+DOMAIN,images.svc.ui.com
 DOMAIN,images.unsplash.com
 DOMAIN,images.web3.storage
 DOMAIN,images.weserv.nl
@@ -729,6 +732,7 @@ DOMAIN,img.pawoo.net
 DOMAIN,img.perfops.net
 DOMAIN,img.picacomic.com
 DOMAIN,img.reg.ru
+DOMAIN,img.reimu.net
 DOMAIN,img.represent.com
 DOMAIN,img.riskified.com
 DOMAIN,img.skk.moe
@@ -737,6 +741,7 @@ DOMAIN,img.timero.xyz
 DOMAIN,img.urlnode.com
 DOMAIN,img.utdstc.com
 DOMAIN,img.vim-cn.com
+DOMAIN,img.xhacgn.com
 DOMAIN,img.xjh.me
 DOMAIN,img.youtube.com
 DOMAIN,img2.tnaflix.com
@@ -959,6 +964,7 @@ DOMAIN,publicsuffix.org
 DOMAIN,quriobot.com
 DOMAIN,r.r10s.jp
 DOMAIN,raw.github.com
+DOMAIN,re.reimu.net
 DOMAIN,react.dev
 DOMAIN,rebound.postmarkapp.com
 DOMAIN,redircdn.com
@@ -1224,6 +1230,7 @@ DOMAIN,static.skyassets.com
 DOMAIN,static.snapchat.com
 DOMAIN,static.snaptube.in
 DOMAIN,static.snyk.io
+DOMAIN,static.socratic.org
 DOMAIN,static.solarwinds.com
 DOMAIN,static.spankbang.com
 DOMAIN,static.srcspot.com
@@ -1238,6 +1245,7 @@ DOMAIN,static.tronscan.org
 DOMAIN,static.tumblr.com
 DOMAIN,static.twitchcdn.net
 DOMAIN,static.typingclub.com
+DOMAIN,static.ui.com
 DOMAIN,static.underhentai.net
 DOMAIN,static.v2ex.com
 DOMAIN,static.vocadb.net
@@ -1339,6 +1347,7 @@ DOMAIN,userimg-assets.customeriomail.com
 DOMAIN,userimg-bee.customeriomail.com
 DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
+DOMAIN,useruploads.socratic.org
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
 DOMAIN,v.hillwaver.com
@@ -1758,6 +1767,7 @@ DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
+DOMAIN-SUFFIX,kuaikan-cdn4.com
 DOMAIN-SUFFIX,kwcdn.com
 DOMAIN-SUFFIX,kym-cdn.com
 DOMAIN-SUFFIX,lencr.org
@@ -2246,6 +2256,7 @@ DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,substackcdn.com
 DOMAIN-SUFFIX,surge.sh
+DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,susercontent.com
 DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,sxccdn.com

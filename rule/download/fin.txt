@@ -1,4 +1,4 @@
-# Main total line 214
+# Main total line 215
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -6,6 +6,7 @@ DOMAIN,amupdatedl3.microsoft.com
 DOMAIN,amupdatedl4.microsoft.com
 DOMAIN,amupdatedl5.microsoft.com
 DOMAIN,api-updates.orbstack.dev
+DOMAIN,artifacts.electronjs.org
 DOMAIN,ava6.androidfilehost.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,binary-factory.kde.org

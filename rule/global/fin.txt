@@ -1,4 +1,4 @@
-# Main total line 20129
+# Main total line 20138
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -5426,6 +5426,15 @@ DOMAIN-SUFFIX,drtuber.com
 DOMAIN-SUFFIX,drunk6.com
 DOMAIN-SUFFIX,drunkenstepfather.com
 DOMAIN-SUFFIX,drunkentop.com
+DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb-av.pl
+DOMAIN-SUFFIX,drweb.by
+DOMAIN-SUFFIX,drweb.com
+DOMAIN-SUFFIX,drweb.fr
+DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.uz
 DOMAIN-SUFFIX,dscn.info
 DOMAIN-SUFFIX,dsex.to
 DOMAIN-SUFFIX,dslr.net

@@ -1,4 +1,4 @@
-# Main total line 2367
+# Main total line 2369
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -765,6 +765,7 @@ DOMAIN,ipfs.d.tube
 DOMAIN,irp-cdn.multiscreensite.com
 DOMAIN,iterm2.com
 DOMAIN,j.udn.com.tw
+DOMAIN,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 DOMAIN,js-cdn.blockchair.io
 DOMAIN,js-eu1.hsforms.net
 DOMAIN,js.braintreegateway.com
@@ -885,6 +886,7 @@ DOMAIN,ocsp2.apple.com
 DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,ooo.0o0.ooo
 DOMAIN,ooo.o0o.ooo
+DOMAIN,open-vsx.org
 DOMAIN,openseauserdata.com
 DOMAIN,opensignal.cdnbye.com
 DOMAIN,opt.moovweb.net

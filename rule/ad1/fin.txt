@@ -1,4 +1,4 @@
-# Main total line 3429
+# Main total line 3416
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -21,7 +21,6 @@ DOMAIN,ad.360in.com
 DOMAIN,ad.51wnl-cq.com
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.browser.qq.com
-DOMAIN,ad.hpplay.cn
 DOMAIN,ad.huajiao.com
 DOMAIN,ad.hzyoka.com
 DOMAIN,ad.jiemian.com
@@ -337,7 +336,6 @@ DOMAIN,pangolin16.sgsnssdk.com
 DOMAIN,partwithner.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
-DOMAIN,pin.hpplay.cn
 DOMAIN,pitaya.bytedance.com
 DOMAIN,pixel.facebook.com
 DOMAIN,pl.cp31.ott.cibntv.net
@@ -364,7 +362,6 @@ DOMAIN,richmanrules.ksedt.com
 DOMAIN,rockpoint.xhamster.com
 DOMAIN,rprain.bz.mgtv.com
 DOMAIN,rprain.log.mgtv.com
-DOMAIN,rpt.hpplay.cn
 DOMAIN,rthmnj.xyz
 DOMAIN,s.c-ctrip.com
 DOMAIN,s.orbsrv.com
@@ -669,9 +666,7 @@ DOMAIN-SUFFIX,adblade.com
 DOMAIN-SUFFIX,adblox.net
 DOMAIN-SUFFIX,adbooth.com
 DOMAIN-SUFFIX,adbox.sina.com.cn
-DOMAIN-SUFFIX,adc.hpplay.cn
 DOMAIN-SUFFIX,adcamp.ru
-DOMAIN-SUFFIX,adcdn.hpplay.cn
 DOMAIN-SUFFIX,adcdn.tencentmusic.com
 DOMAIN-SUFFIX,adcdnx.com
 DOMAIN-SUFFIX,adcel.co
@@ -698,7 +693,6 @@ DOMAIN-SUFFIX,adecosystems.net
 DOMAIN-SUFFIX,adecosystems.tech
 DOMAIN-SUFFIX,adelement.com
 DOMAIN-SUFFIX,adelva.com
-DOMAIN-SUFFIX,adeng.hpplay.cn
 DOMAIN-SUFFIX,adentifi.com
 DOMAIN-SUFFIX,ader.mobi
 DOMAIN-SUFFIX,adexchangemachine.com
@@ -806,6 +800,7 @@ DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.msn.com
 DOMAIN-SUFFIX,ads3-normal-hl.zijieapi.com
+DOMAIN-SUFFIX,ads3-normal-lf.zijieapi.com
 DOMAIN-SUFFIX,ads3-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,ads3-normal.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-hl.zijieapi.com
@@ -1021,7 +1016,6 @@ DOMAIN-SUFFIX,atplay.cn
 DOMAIN-SUFFIX,aty.hd.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN-SUFFIX,audid-api.taobao.com
-DOMAIN-SUFFIX,authenticate.chiq-cloud.com
 DOMAIN-SUFFIX,awaitcola.com
 DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,axonix.com
@@ -1165,6 +1159,7 @@ DOMAIN-SUFFIX,chat1.jd.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,chemdraw.com.cn
 DOMAIN-SUFFIX,chengadx.com
+DOMAIN-SUFFIX,chiq-cloud.com
 DOMAIN-SUFFIX,chmae.com
 DOMAIN-SUFFIX,cishantao.com
 DOMAIN-SUFFIX,cj.qidian.com
@@ -1566,7 +1561,6 @@ DOMAIN-SUFFIX,grs.hicloud.com
 DOMAIN-SUFFIX,grs.platform.dbankcloud.ru
 DOMAIN-SUFFIX,gscxs.cn
 DOMAIN-SUFFIX,gsjln04hd.com
-DOMAIN-SUFFIX,gslb.hpplay.cn
 DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,gtlpaj.com
 DOMAIN-SUFFIX,gtmsdd.alicdn.com
@@ -1613,6 +1607,7 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,houtai.2345.cn
 DOMAIN-SUFFIX,hpd.baidu.cn
 DOMAIN-SUFFIX,hpd.baidu.com
+DOMAIN-SUFFIX,hpplay.cn
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hub5btmain.sandai.net
 DOMAIN-SUFFIX,hub5emu.sandai.net
@@ -1749,7 +1744,6 @@ DOMAIN-SUFFIX,jebe.renren.com
 DOMAIN-SUFFIX,jebe.xnimg.cn
 DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
 DOMAIN-SUFFIX,jesgoo.com
-DOMAIN-SUFFIX,jfapi.chiq-cloud.com
 DOMAIN-SUFFIX,jiaeasy.net
 DOMAIN-SUFFIX,jiagu.360.cn
 DOMAIN-SUFFIX,jianxinshanghai.com
@@ -1931,6 +1925,7 @@ DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,mbai.cn
 DOMAIN-SUFFIX,mbdlog.iqiyi.com
 DOMAIN-SUFFIX,mc7clurd09pla4nrtat7ion.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,mcgi.v.qq.com
 DOMAIN-SUFFIX,mdc.meitustat.com
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
@@ -2385,7 +2380,6 @@ DOMAIN-SUFFIX,roi.soulapp.cn
 DOMAIN-SUFFIX,rotaban.ru
 DOMAIN-SUFFIX,rp.baidu.cn
 DOMAIN-SUFFIX,rp.baidu.com
-DOMAIN-SUFFIX,rp.hpplay.cn
 DOMAIN-SUFFIX,rplog.baidu.com
 DOMAIN-SUFFIX,rqmob.com
 DOMAIN-SUFFIX,rtbapi.douyucdn.cn
@@ -2440,7 +2434,6 @@ DOMAIN-SUFFIX,sdk.m.youku.com
 DOMAIN-SUFFIX,sdk.mobads.adwangmai.com
 DOMAIN-SUFFIX,sdkapp.mobile.sina.cn
 DOMAIN-SUFFIX,sdkapp.uve.weibo.com
-DOMAIN-SUFFIX,sdkauth.hpplay.cn
 DOMAIN-SUFFIX,sdkclick.com
 DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
 DOMAIN-SUFFIX,sdkconf.avlyun.com
@@ -2782,7 +2775,6 @@ DOMAIN-SUFFIX,tuisong.baidu.com
 DOMAIN-SUFFIX,tuitiger.com
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tutoads.tv
-DOMAIN-SUFFIX,tvapp.hpplay.cn
 DOMAIN-SUFFIX,tvuser-ch.cedock.com
 DOMAIN-SUFFIX,tx-ad.a.yximgs.com
 DOMAIN-SUFFIX,tx-kmpaudio.pull.yximgs.com
@@ -2795,7 +2787,6 @@ DOMAIN-SUFFIX,u.uc123.com
 DOMAIN-SUFFIX,u.ucfly.com
 DOMAIN-SUFFIX,u1.img.mobile.sina.cn
 DOMAIN-SUFFIX,u3.ucweb.com
-DOMAIN-SUFFIX,uapi.chiq-cloud.com
 DOMAIN-SUFFIX,uberads.com
 DOMAIN-SUFFIX,uc.ucweb.com
 DOMAIN-SUFFIX,ucsec.ucweb.com
@@ -3301,7 +3292,6 @@ IP-CIDR,125.211.213.130/31,no-resolve
 IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
-IP-CIDR,172.233.155.253/32,no-resolve
 IP-CIDR,172.234.250.178/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
 IP-CIDR,180.153.103.224/32,no-resolve
@@ -3315,7 +3305,6 @@ IP-CIDR,183.221.250.11/32,no-resolve
 IP-CIDR,183.224.40.24/32,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
 IP-CIDR,192.9.135.73/32,no-resolve
-IP-CIDR,194.233.91.144/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
 IP-CIDR,202.100.220.54/32,no-resolve
 IP-CIDR,202.100.68.117/32,no-resolve
@@ -3339,7 +3328,6 @@ IP-CIDR,211.161.101.106/32,no-resolve
 IP-CIDR,211.161.101.110/32,no-resolve
 IP-CIDR,211.98.70.226/31,no-resolve
 IP-CIDR,211.98.71.195/32,no-resolve
-IP-CIDR,213.199.41.33/32,no-resolve
 IP-CIDR,218.28.144.36/30,no-resolve
 IP-CIDR,218.28.144.40/31,no-resolve
 IP-CIDR,218.28.144.42/32,no-resolve
@@ -3425,7 +3413,6 @@ IP-CIDR,61.183.1.186/32,no-resolve
 IP-CIDR,61.191.206.4/32,no-resolve
 IP-CIDR,62.204.41.234/32,no-resolve
 IP-CIDR,77.105.162.176/32,no-resolve
-IP-CIDR,84.247.157.112/32,no-resolve
 IP-CIDR,93.88.74.63/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve

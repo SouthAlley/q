@@ -1,4 +1,4 @@
-# Main total line 3415
+# Main total line 3417
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -58,7 +58,6 @@ DOMAIN,ads-cloud.rovio.com
 DOMAIN,ads-d.viber.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,ads-marketing-vivofs.vivo.com.cn
-DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads.aplus.pptv.com
 DOMAIN,ads.aplusapi.pptv.com
 DOMAIN,ads.auctions.yahoo.com
@@ -68,7 +67,6 @@ DOMAIN,ads.daydaycook.com.cn
 DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.mojicdn.com
 DOMAIN,ads.pinger.com
-DOMAIN,ads.pinterest.com
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.reembed.com
 DOMAIN,ads.snapchat.com
@@ -281,7 +279,6 @@ DOMAIN,livewebbs2.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,log-hl.snssdk.com
 DOMAIN,log.51wnl-cq.com
-DOMAIN,log.pinterest.com
 DOMAIN,log.ycapp.yiche.com
 DOMAIN,log3-normal-lq.toutiaoapi.com
 DOMAIN,log3-normal.toutiaoapi.com
@@ -416,8 +413,6 @@ DOMAIN,track.tiara.kakao.com
 DOMAIN,tracking.intl.miui.com
 DOMAIN,trk.pinterest.com
 DOMAIN,tunion-api.m.taobao.com
-DOMAIN,udc.yahoo.com
-DOMAIN,udcm.yahoo.com
 DOMAIN,uedas.qidian.com
 DOMAIN,upload.luckyorange.net
 DOMAIN,ups.ksmobile.net
@@ -435,7 +430,6 @@ DOMAIN,vip.bz.mgtv.com
 DOMAIN,vstlog.17usoft.com
 DOMAIN,w1.luckyorange.com
 DOMAIN,wa.gtimg.com
-DOMAIN,widgets.pinterest.com
 DOMAIN,ws.ksmobile.net
 DOMAIN,www.traforama.com
 DOMAIN,www.vipads.live
@@ -766,8 +760,11 @@ DOMAIN-SUFFIX,ads-api-sandbox.twitter.com
 DOMAIN-SUFFIX,ads-api.tiktok.com
 DOMAIN-SUFFIX,ads-api.twitter.com
 DOMAIN-SUFFIX,ads-img-qc.xhscdn.com
+DOMAIN-SUFFIX,ads-jp.tiktok.com
 DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,ads-sg.tiktok.com
 DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,ads-us.tiktok.com
 DOMAIN-SUFFIX,ads-video-al.xhscdn.com
 DOMAIN-SUFFIX,ads-video-qc.xhscdn.com
 DOMAIN-SUFFIX,ads.95516.com
@@ -788,6 +785,7 @@ DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN-SUFFIX,ads.msn.com
 DOMAIN-SUFFIX,ads.music.126.net
 DOMAIN-SUFFIX,ads.oppomobile.com
+DOMAIN-SUFFIX,ads.pinterest.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,ads.roku.com
 DOMAIN-SUFFIX,ads.service.kugou.com
@@ -1856,6 +1854,7 @@ DOMAIN-SUFFIX,log.mix.sina.com.cn
 DOMAIN-SUFFIX,log.moji.com
 DOMAIN-SUFFIX,log.music.baidu.com
 DOMAIN-SUFFIX,log.nuomi.com
+DOMAIN-SUFFIX,log.pinterest.com
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,log.stat.kugou.com
 DOMAIN-SUFFIX,log.tbs.qq.com
@@ -2792,6 +2791,8 @@ DOMAIN-SUFFIX,ucsec.ucweb.com
 DOMAIN-SUFFIX,ucsec1.ucweb.com
 DOMAIN-SUFFIX,ucstat.baidu.cn
 DOMAIN-SUFFIX,ucstat.baidu.com
+DOMAIN-SUFFIX,udc.yahoo.com
+DOMAIN-SUFFIX,udcm.yahoo.com
 DOMAIN-SUFFIX,udrig.com
 DOMAIN-SUFFIX,ue.yeyoucdn.com
 DOMAIN-SUFFIX,ueadlian.com
@@ -2981,6 +2982,7 @@ DOMAIN-SUFFIX,wenku-cms.bj.bcebos.com
 DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,whpxy.com
 DOMAIN-SUFFIX,widespace.com
+DOMAIN-SUFFIX,widgets.pinterest.com
 DOMAIN-SUFFIX,wifiapidd.51y5.net
 DOMAIN-SUFFIX,wigetmedia.com
 DOMAIN-SUFFIX,win-stock.com.cn

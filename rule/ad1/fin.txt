@@ -1,4 +1,4 @@
-# Main total line 3417
+# Main total line 3418
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -966,6 +966,7 @@ DOMAIN-SUFFIX,apiyd.my91app.com
 DOMAIN-SUFFIX,apk.shouji.koowo.com
 DOMAIN-SUFFIX,apks.webxiaobai.top
 DOMAIN-SUFFIX,app-adforce.jp
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app-monitor.ele.me
 DOMAIN-SUFFIX,app.aplus.pptv.com

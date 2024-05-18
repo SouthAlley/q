@@ -178,6 +178,7 @@ DOMAIN,dagonghuzhu.com
 DOMAIN,ddacn6pr5v0tl.cloudfront.net
 DOMAIN,dflow.bz.mgtv.com
 DOMAIN,dispatcher.360in.com
+DOMAIN,dns.alidns.com
 DOMAIN,dns.jd.com
 DOMAIN,doraemon.xiaojukeji.com
 DOMAIN,duclick.baidu.com
@@ -1924,7 +1925,6 @@ DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,mbai.cn
 DOMAIN-SUFFIX,mbdlog.iqiyi.com
 DOMAIN-SUFFIX,mc7clurd09pla4nrtat7ion.com
-DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,mcgi.v.qq.com
 DOMAIN-SUFFIX,mdc.meitustat.com
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com

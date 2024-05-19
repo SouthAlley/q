@@ -1,4 +1,4 @@
-# Main total line 3418
+# Main total line 3421
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -620,6 +620,7 @@ DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.thepaper.cn
 DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,ad.vidverto.io
 DOMAIN-SUFFIX,ad.winrar.com.cn
 DOMAIN-SUFFIX,ad.wretch.cc
 DOMAIN-SUFFIX,ad.xelements.cn
@@ -1335,6 +1336,7 @@ DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,dotcounter.douyutv.com
 DOMAIN-SUFFIX,dotmore.com.tw
 DOMAIN-SUFFIX,dotomi.com
+DOMAIN-SUFFIX,double.net
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
@@ -1524,6 +1526,7 @@ DOMAIN-SUFFIX,gimg.baidu.com
 DOMAIN-SUFFIX,giocdn.com
 DOMAIN-SUFFIX,glispa.com
 DOMAIN-SUFFIX,gma.alicdn.com
+DOMAIN-SUFFIX,gn01.top
 DOMAIN-SUFFIX,go-mpulse
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,go.10086.cn

@@ -968,7 +968,6 @@ DOMAIN,quriobot.com
 DOMAIN,r.r10s.jp
 DOMAIN,raw.github.com
 DOMAIN,re.reimu.net
-DOMAIN,react.dev
 DOMAIN,rebound.postmarkapp.com
 DOMAIN,redircdn.com
 DOMAIN,registry-cdn.wapm.io
@@ -1906,6 +1905,7 @@ DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgit.org
 DOMAIN-SUFFIX,rbxcdn.com
 DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,react.dev
 DOMAIN-SUFFIX,reactjs.org
 DOMAIN-SUFFIX,reasoningtheory.net
 DOMAIN-SUFFIX,redd.it

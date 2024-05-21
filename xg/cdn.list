@@ -1339,6 +1339,7 @@ DOMAIN,upload.filebase.com
 DOMAIN,upload.wikimedia.org
 DOMAIN,uploads.codesandbox.io
 DOMAIN,uploads.guim.co.uk
+DOMAIN,uploads.sitepoint.com
 DOMAIN,us.hamreus.com
 DOMAIN,use.typekit.com
 DOMAIN,use.typekit.net
@@ -1863,6 +1864,7 @@ DOMAIN-SUFFIX,permaweb.io
 DOMAIN-SUFFIX,pgl.yoyo.org
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,photobucket.com
+DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixelcdn.net
@@ -2324,6 +2326,7 @@ DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,vusercontent.net
 DOMAIN-SUFFIX,vx-cdn.com
 DOMAIN-SUFFIX,w-corp.staticblitz.com
+DOMAIN-SUFFIX,w-credentialless-staticblitz.com
 DOMAIN-SUFFIX,w-credentialless.staticblitz.com
 DOMAIN-SUFFIX,w.staticblitz.com
 DOMAIN-SUFFIX,w3s.link

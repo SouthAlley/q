@@ -1,4 +1,4 @@
-# Update > 17:24 2024/4/11
+# Update > 20:11 2024/5/21
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
@@ -1218,8 +1218,8 @@ DOMAIN,wangmeng.baidu.com
 DOMAIN,wkctj.baidu.com
 DOMAIN,wn.pos.baidu.com
 #Baidu-百家号
-DOMAIN,mbd.baidu.com
-DOMAIN,msite.baidu.com
+#DOMAIN,mbd.baidu.com
+#DOMAIN,msite.baidu.com
 #Baidu-bdimg
 DOMAIN,ecma.bdimg.com
 DOMAIN,ecmb.bdimg.com

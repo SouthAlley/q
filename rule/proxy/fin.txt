@@ -1,4 +1,4 @@
-# Main total line 6253
+# Main total line 6262
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -308,7 +308,9 @@ DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,animecrazy.net
 DOMAIN-SUFFIX,aniscartujo.com
+DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,anobii.com
 DOMAIN-SUFFIX,anonfiles.com
@@ -3020,6 +3022,11 @@ DOMAIN-SUFFIX,liangyou.net
 DOMAIN-SUFFIX,liangzhichuanmei.com
 DOMAIN-SUFFIX,lianyue.net
 DOMAIN-SUFFIX,liaowangxizang.net
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.lol
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.st
 DOMAIN-SUFFIX,libraryinformationtechnology.com
 DOMAIN-SUFFIX,libredd.it
 DOMAIN-SUFFIX,libsyn.com
@@ -4541,6 +4548,7 @@ DOMAIN-SUFFIX,sinchew.com.my
 DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,singtao.com
 DOMAIN-SUFFIX,singtaousa.com
 DOMAIN-SUFFIX,singular.net
@@ -6110,6 +6118,7 @@ DOMAIN-SUFFIX,ziporn.com
 DOMAIN-SUFFIX,zippyshare.com
 DOMAIN-SUFFIX,zkaip.com
 DOMAIN-SUFFIX,zkiz.com
+DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zomobo.net

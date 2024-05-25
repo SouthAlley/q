@@ -1,4 +1,4 @@
-# Main total line 3417
+# Main total line 3419
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1937,6 +1937,7 @@ DOMAIN-SUFFIX,measurementapi.com
 DOMAIN-SUFFIX,media.aso1.net
 DOMAIN-SUFFIX,media.cheshi-img.com
 DOMAIN-SUFFIX,media.cheshi.com
+DOMAIN-SUFFIX,media.dalysv.com
 DOMAIN-SUFFIX,medialytics.com
 DOMAIN-SUFFIX,medialytics.io
 DOMAIN-SUFFIX,mediaplex.com
@@ -3051,6 +3052,7 @@ DOMAIN-SUFFIX,xlmzc.cnjp-exp.com
 DOMAIN-SUFFIX,xlog.jd.com
 DOMAIN-SUFFIX,xlviiirdr.com
 DOMAIN-SUFFIX,xlviirdr.com
+DOMAIN-SUFFIX,xlvirdr.com
 DOMAIN-SUFFIX,xmindchina.net
 DOMAIN-SUFFIX,xmlwizard.com
 DOMAIN-SUFFIX,xn--2qux23c9ziyrq.club

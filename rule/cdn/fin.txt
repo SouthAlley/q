@@ -1,4 +1,4 @@
-# Main total line 2377
+# Main total line 2378
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -195,6 +195,7 @@ DOMAIN,bundle.trysavvy.com
 DOMAIN,bundlephobia.com
 DOMAIN,bundles.npr.org
 DOMAIN,busuanzi.ibruce.info
+DOMAIN,c.1password.com
 DOMAIN,c.marsflag.com
 DOMAIN,c.navattic.com
 DOMAIN,c.s-microsoft.com

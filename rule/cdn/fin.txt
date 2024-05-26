@@ -1,4 +1,4 @@
-# Main total line 2378
+# Main total line 2381
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -883,6 +883,7 @@ DOMAIN,objects.hit.moe
 DOMAIN,ocecdn.oraclecloud.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.godaddy.com
+DOMAIN,ocsp.r2m02.amazontrust.com
 DOMAIN,ocsp.sectigo.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,ohttp-relay1.fastly-edge.com
@@ -1751,6 +1752,7 @@ DOMAIN-SUFFIX,ipfs.xoqq.ch
 DOMAIN-SUFFIX,ipfs.yt
 DOMAIN-SUFFIX,ipfs0.sjc.cloudsigma.com
 DOMAIN-SUFFIX,ipfs1.pixura.io
+DOMAIN-SUFFIX,ipfscdn.io
 DOMAIN-SUFFIX,ipfsgateway.makersplace.com
 DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,itsre-sumo.mozilla.net
@@ -2277,6 +2279,7 @@ DOMAIN-SUFFIX,tapecontent.net
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,thirdwebcdn.com
 DOMAIN-SUFFIX,thisiscdn.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com

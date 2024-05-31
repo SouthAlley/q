@@ -1,5 +1,8 @@
-# Main total line 3426
+# Main total line 3430
 # ------------------------------------------
+DOMAIN,3117kc.saigmpl.com
+DOMAIN,314240585f1fb7266kcc.fwxhvvd.com
+DOMAIN,314240585f1fb7266kg.oiocklg.com
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
 DOMAIN,a.cpic.com.cn
@@ -401,6 +404,7 @@ DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tnc3-alisc1.snssdk.com
 DOMAIN,tnc3-bjlgy.snssdk.com
 DOMAIN,toblog.tobsnssdk.com
+DOMAIN,tong.8888888888.bid
 DOMAIN,tools.mouseflow.com
 DOMAIN,toots-a.akamaihd.net
 DOMAIN,tpns.qq.com

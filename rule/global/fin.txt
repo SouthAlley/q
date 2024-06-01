@@ -1,4 +1,4 @@
-# Main total line 20139
+# Main total line 20125
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -7,12 +7,10 @@ DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 DOMAIN,beck-online.beck.de
 DOMAIN,bybit.ada.support
-DOMAIN,c.mi.com
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cdn.js7k.com
-DOMAIN,cdn.statically.io
 DOMAIN,cisco.evergage.com
 DOMAIN,cloud.oracle.com
 DOMAIN,clubhouse.pubnubapi.com
@@ -40,7 +38,6 @@ DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ood.opsource.net
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,qualcomm.sc.omtrdc.net
-DOMAIN,search.arc.net
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,wetv.qq.com
@@ -1269,7 +1266,6 @@ DOMAIN-SUFFIX,aniscartujo.com
 DOMAIN-SUFFIX,anistreaming.xyz
 DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,annamilk.com
-DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,annstores.net
 DOMAIN-SUFFIX,annualpelvicexam.com
@@ -4949,7 +4945,6 @@ DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,devpn.com
 DOMAIN-SUFFIX,devsitetest.how
-DOMAIN-SUFFIX,devv.ai
 DOMAIN-SUFFIX,dewitwithdurex.com
 DOMAIN-SUFFIX,dexterhorn.com
 DOMAIN-SUFFIX,dezyred.com
@@ -14104,7 +14099,6 @@ DOMAIN-SUFFIX,privatetunnel.com
 DOMAIN-SUFFIX,privatevoyeurvideos.com
 DOMAIN-SUFFIX,privatevpn.com
 DOMAIN-SUFFIX,privoxy.org
-DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,procopytips.com
 DOMAIN-SUFFIX,proctoscopeexam.com
 DOMAIN-SUFFIX,prodrive-japan.com
@@ -14265,7 +14259,6 @@ DOMAIN-SUFFIX,qattdh.top
 DOMAIN-SUFFIX,qattdh1.cc
 DOMAIN-SUFFIX,qattdh2.cc
 DOMAIN-SUFFIX,qattdh6.top
-DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,qbmengmei6.mom
 DOMAIN-SUFFIX,qckprn.com
 DOMAIN-SUFFIX,qcmod.xyz
@@ -15493,7 +15486,6 @@ DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singlelogin.re
-DOMAIN-SUFFIX,singlelogin.rs
 DOMAIN-SUFFIX,singlelogin.site
 DOMAIN-SUFFIX,singtao.com
 DOMAIN-SUFFIX,singtaobooks.com
@@ -17342,7 +17334,6 @@ DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typenetwork.com
 DOMAIN-SUFFIX,typepad.com
-DOMAIN-SUFFIX,typeset.io
 DOMAIN-SUFFIX,typesquare.com
 DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,typora.io
@@ -17463,7 +17454,6 @@ DOMAIN-SUFFIX,uocn.org
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uoutside.org
 DOMAIN-SUFFIX,up01.cc
-DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,updatestar.com
 DOMAIN-SUFFIX,updatetube.com
 DOMAIN-SUFFIX,upfrontcfd.com
@@ -18830,7 +18820,6 @@ DOMAIN-SUFFIX,wqyd.org
 DOMAIN-SUFFIX,wrchina.org
 DOMAIN-SUFFIX,wrenchead.com
 DOMAIN-SUFFIX,wretch.cc
-DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.jobs
 DOMAIN-SUFFIX,wsj.net
@@ -19972,9 +19961,6 @@ DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
-DOMAIN-KEYWORD,.blogspot.
-DOMAIN-KEYWORD,.facebook.
-DOMAIN-KEYWORD,.pinterest.
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema

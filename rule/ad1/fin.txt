@@ -1,8 +1,5 @@
-# Main total line 3430
+# Main total line 3428
 # ------------------------------------------
-DOMAIN,3117kc.saigmpl.com
-DOMAIN,314240585f1fb7266kcc.fwxhvvd.com
-DOMAIN,314240585f1fb7266kg.oiocklg.com
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
 DOMAIN,a.cpic.com.cn
@@ -3226,6 +3223,9 @@ DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,jads
 DOMAIN-KEYWORD,juruigj
+DOMAIN-KEYWORD,kc.saigmpl.com
+DOMAIN-KEYWORD,kcc.fwxhvvd.com
+DOMAIN-KEYWORD,kg.oiocklg.com
 DOMAIN-KEYWORD,lieyou
 DOMAIN-KEYWORD,mathtag
 DOMAIN-KEYWORD,mdapp09
@@ -3403,7 +3403,6 @@ IP-CIDR,223.87.182.11/32,no-resolve
 IP-CIDR,223.87.182.52/32,no-resolve
 IP-CIDR,23.202.231.167/32,no-resolve
 IP-CIDR,23.217.138.108/32,no-resolve
-IP-CIDR,38.180.142.98/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,42.123.125.237/32,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve
@@ -3427,6 +3426,5 @@ IP-CIDR,61.174.50.214/32,no-resolve
 IP-CIDR,61.183.1.186/32,no-resolve
 IP-CIDR,61.191.206.4/32,no-resolve
 IP-CIDR,62.204.41.234/32,no-resolve
-IP-CIDR,93.88.74.63/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve

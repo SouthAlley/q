@@ -1582,6 +1582,7 @@ DOMAIN-SUFFIX,doppiocdn.net
 DOMAIN-SUFFIX,doppiocdn.org
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dsc.cloud
+DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,dweb.eu.org
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,easylist.to
@@ -1879,7 +1880,11 @@ DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,pixiv.nl
 DOMAIN-SUFFIX,pixiv.re
 DOMAIN-SUFFIX,pkg.github.com
+DOMAIN-SUFFIX,place-hold.it
+DOMAIN-SUFFIX,placehold.co
+DOMAIN-SUFFIX,placehold.jp
 DOMAIN-SUFFIX,placekitten.com
+DOMAIN-SUFFIX,placewaifu.com
 DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,polyfill.io

@@ -1,4 +1,4 @@
-# Main total line 223
+# Main total line 225
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -22,7 +22,7 @@ DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
-DOMAIN,ciscobinary.openh264
+DOMAIN,ciscobinary.openh264.org
 DOMAIN,client.hikarifield.co.jp
 DOMAIN,content-origin.steampowered.com
 DOMAIN,content1.steampowered.com
@@ -78,6 +78,7 @@ DOMAIN,download.mikrotik.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.mozilla.org
 DOMAIN,download.nektony.com
+DOMAIN,download.opensuse.org
 DOMAIN,download.parallels.com
 DOMAIN,download.pixelexperience.org
 DOMAIN,download.sketch.com
@@ -120,6 +121,7 @@ DOMAIN,invent.kde.org
 DOMAIN,level3.blizzard.com
 DOMAIN,mirror-cdn.xtom.com
 DOMAIN,mirror.cat.net
+DOMAIN,mirror.ghproxy.com
 DOMAIN,mirror.navercorp.com
 DOMAIN,mirror.xtom.au
 DOMAIN,mirror.xtom.com

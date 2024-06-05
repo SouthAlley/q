@@ -1,4 +1,4 @@
-# Main total line 2387
+# Main total line 2388
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -492,6 +492,7 @@ DOMAIN,confluence-v1.prod.atl-paas.net
 DOMAIN,connect.facebook.net
 DOMAIN,connectivitycheck.android.com
 DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,consentdeliveryfd.azurefd.net
 DOMAIN,consumersite-assets.trustpilot.net
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,content.any.run
@@ -883,7 +884,6 @@ DOMAIN,objects.hit.moe
 DOMAIN,ocecdn.oraclecloud.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.godaddy.com
-DOMAIN,ocsp.r2m02.amazontrust.com
 DOMAIN,ocsp.sectigo.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,ohttp-relay1.fastly-edge.com
@@ -943,6 +943,7 @@ DOMAIN,player.cnevids.com
 DOMAIN,player.h-cdn.com
 DOMAIN,player.louisvuitton.com
 DOMAIN,player.vimeo.com
+DOMAIN,playgroundcdn.typescriptlang.org
 DOMAIN,plugins-artifacts.gradle.org
 DOMAIN,plugins.dprint.dev
 DOMAIN,plus.unsplash.com

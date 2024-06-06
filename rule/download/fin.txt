@@ -1,4 +1,4 @@
-# Main total line 225
+# Main total line 226
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -222,6 +222,7 @@ DOMAIN-SUFFIX,mirror.clarkson.edu
 DOMAIN-SUFFIX,mirror.constant.com
 DOMAIN-SUFFIX,mirrors.dotsrc.org
 DOMAIN-SUFFIX,nitro.download
+DOMAIN-SUFFIX,releases.hashicorp.com
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net

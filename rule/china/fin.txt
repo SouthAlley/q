@@ -1,4 +1,4 @@
-# Main total line 997
+# Main total line 998
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -499,6 +499,7 @@ DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,lagou.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,lancdns.com

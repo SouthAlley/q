@@ -172,7 +172,6 @@ DOMAIN,avatars.mds.yandex.net
 DOMAIN,avatars.micro.blog
 DOMAIN,avatars.plurk.com
 DOMAIN,avts.wmlabs.net
-DOMAIN,aws-static.kwai.net
 DOMAIN,az700632.vo.msecnd.net
 DOMAIN,badbits.dwebops.pub
 DOMAIN,badge.buildkite.com
@@ -228,7 +227,6 @@ DOMAIN,cdn-sellix.com
 DOMAIN,cdn-service.jp.sumologic.com
 DOMAIN,cdn-share-sprites.flaticon.com
 DOMAIN,cdn-static-1.medium.com
-DOMAIN,cdn-static.kwai.net
 DOMAIN,cdn-static.talent.com
 DOMAIN,cdn-thumbs.porntube.com
 DOMAIN,cdn-txweb.transifex.com
@@ -716,6 +714,7 @@ DOMAIN,img.bigcloud.cyou
 DOMAIN,img.biguz.net
 DOMAIN,img.bttimg.com
 DOMAIN,img.clerk.com
+DOMAIN,img.community.ui.com
 DOMAIN,img.connatix.com
 DOMAIN,img.dlsite.jp
 DOMAIN,img.domaintools.com
@@ -1019,7 +1018,6 @@ DOMAIN,s.w.org
 DOMAIN,s.wsj.net
 DOMAIN,s0.wp.com
 DOMAIN,s1.feedly.com
-DOMAIN,s1.kwai.net
 DOMAIN,s1.qwant.com
 DOMAIN,s1.wp.com
 DOMAIN,s2.coinmarketcap.com

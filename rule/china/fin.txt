@@ -1,4 +1,4 @@
-# Main total line 998
+# Main total line 999
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -683,6 +683,7 @@ DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniucdn.com
 DOMAIN-SUFFIX,qiniudn.com
 DOMAIN-SUFFIX,qiushibaike.com
+DOMAIN-SUFFIX,qixin.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qlivecdn.com

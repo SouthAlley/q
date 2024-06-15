@@ -1,4 +1,4 @@
-# Main total line 2390
+# Main total line 2391
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -353,6 +353,7 @@ DOMAIN,cdn.piano.io
 DOMAIN,cdn.pickystory.com
 DOMAIN,cdn.pika.dev
 DOMAIN,cdn.pixabay.com
+DOMAIN,cdn.pkg.svc.ui.com
 DOMAIN,cdn.plaid.com
 DOMAIN,cdn.player.fm
 DOMAIN,cdn.plot.ly

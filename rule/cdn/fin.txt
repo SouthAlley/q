@@ -1,4 +1,4 @@
-# Main total line 2389
+# Main total line 2390
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1002,6 +1002,7 @@ DOMAIN,res2.weblium.site
 DOMAIN,resize.blogsys.jp
 DOMAIN,resize.yandex.net
 DOMAIN,resizing.flixster.com
+DOMAIN,resource.video.nimg.jp
 DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
 DOMAIN,resources.help.salesforce.com

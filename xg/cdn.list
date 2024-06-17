@@ -351,6 +351,7 @@ DOMAIN,cdn.piano.io
 DOMAIN,cdn.pickystory.com
 DOMAIN,cdn.pika.dev
 DOMAIN,cdn.pixabay.com
+DOMAIN,cdn.pkg.svc.ui.com
 DOMAIN,cdn.plaid.com
 DOMAIN,cdn.player.fm
 DOMAIN,cdn.plot.ly
@@ -1000,6 +1001,7 @@ DOMAIN,res2.weblium.site
 DOMAIN,resize.blogsys.jp
 DOMAIN,resize.yandex.net
 DOMAIN,resizing.flixster.com
+DOMAIN,resource.video.nimg.jp
 DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
 DOMAIN,resources.help.salesforce.com

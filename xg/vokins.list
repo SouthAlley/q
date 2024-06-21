@@ -1,4 +1,4 @@
-# Update > 20:11 2024/5/21
+# Update > 15:58 2024/6/19
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
@@ -9,6 +9,8 @@
 #Apple Ads
 DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN,securemetrics.apple.com
+DOMAIN,metrics.icloud.com
 #https://developer.apple.com/documentation/adservices/aaattribution/attributiontoken()
 DOMAIN-SUFFIX,api-adservices.apple.com
 #https://developer.apple.com/documentation/apple_search_ads/get_all_ads
@@ -93,6 +95,7 @@ DOMAIN-SUFFIX,dgbei.com
 DOMAIN-SUFFIX,fenqile.com
 DOMAIN-SUFFIX,haiercash.com
 DOMAIN-SUFFIX,haohuan.com
+DOMAIN-SUFFIX,hhdfinance.com.cn
 DOMAIN-SUFFIX,huanbeiadall.com
 DOMAIN-SUFFIX,huanbeiloan.cn
 DOMAIN-SUFFIX,huanbeiloan.com
@@ -110,6 +113,7 @@ DOMAIN-SUFFIX,rrxplatform.com
 DOMAIN-SUFFIX,shanghaihagai.com
 DOMAIN-SUFFIX,smyfinancial.com
 DOMAIN-SUFFIX,xiaoying.com
+DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,xystatic.com
 DOMAIN-SUFFIX,yangqianguan.com
 DOMAIN-SUFFIX,yixin.com
@@ -1717,6 +1721,7 @@ DOMAIN-SUFFIX,adeaz.com
 DOMAIN-SUFFIX,adentifi.com
 DOMAIN-SUFFIX,adexplain.com
 DOMAIN-SUFFIX,adform.net
+DOMAIN-SUFFIX,adfunlink.com
 DOMAIN-SUFFIX,adfurikun.jp
 DOMAIN-SUFFIX,adgeek.com.tw
 DOMAIN-SUFFIX,adinall.com
@@ -1774,6 +1779,7 @@ DOMAIN-SUFFIX,alo15.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,analytics-data.io
 DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,appadhoc.com
 DOMAIN-SUFFIX,appboy.com
 DOMAIN-SUFFIX,appcenter.ms

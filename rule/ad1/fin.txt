@@ -1,4 +1,4 @@
-# Main total line 3426
+# Main total line 3427
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -94,6 +94,7 @@ DOMAIN,adsstatic.vivo.com.cn
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
 DOMAIN,adtrack.ucweb.com
 DOMAIN,adtrack.xiaojukeji.com
+DOMAIN,adtracker.adfunlink.com
 DOMAIN,adttrackingprd.hwwt8.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com

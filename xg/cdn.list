@@ -202,6 +202,7 @@ DOMAIN,c.speedtestcustom.com
 DOMAIN,c.start.me
 DOMAIN,c0.wp.com
 DOMAIN,ca.nfs.pub
+DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.agilebits.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
@@ -741,6 +742,7 @@ DOMAIN,img.reimu.net
 DOMAIN,img.represent.com
 DOMAIN,img.riskified.com
 DOMAIN,img.skk.moe
+DOMAIN,img.sparknotes.com
 DOMAIN,img.supjav.com
 DOMAIN,img.timero.xyz
 DOMAIN,img.urlnode.com
@@ -1963,6 +1965,7 @@ DOMAIN-SUFFIX,stream.publicradio.org
 DOMAIN-SUFFIX,streamhentai.org
 DOMAIN-SUFFIX,stripcdn.com
 DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,substackcdn.com
 DOMAIN-SUFFIX,surge.sh

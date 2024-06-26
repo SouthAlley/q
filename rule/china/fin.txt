@@ -1,4 +1,4 @@
-# Main total line 999
+# Main total line 1000
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -458,6 +458,7 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,jb51.net
+DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.hk

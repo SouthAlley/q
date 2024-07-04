@@ -1,4 +1,4 @@
-# Main total line 3388
+# Main total line 3382
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -147,6 +147,7 @@ DOMAIN,apppv.zol.com.cn
 DOMAIN,at3.doubanio.com
 DOMAIN,at4.doubanio.com
 DOMAIN,atrace.chelaile.net.cn
+DOMAIN,badjs.weixinbridge.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
@@ -3143,6 +3144,7 @@ DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-adsystem.com
 DOMAIN-KEYWORD,-cdn2.adtng.com
 DOMAIN-KEYWORD,112wan
+DOMAIN-KEYWORD,4240585f1fb7266
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,ad-sign.byteimg.com
 DOMAIN-KEYWORD,adbrand.byteimg.com
@@ -3192,9 +3194,6 @@ DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,jads
 DOMAIN-KEYWORD,juruigj
-DOMAIN-KEYWORD,kc.saigmpl.com
-DOMAIN-KEYWORD,kcc.fwxhvvd.com
-DOMAIN-KEYWORD,kg.oiocklg.com
 DOMAIN-KEYWORD,lieyou
 DOMAIN-KEYWORD,mathtag
 DOMAIN-KEYWORD,mdapp09
@@ -3255,9 +3254,7 @@ IP-CIDR,119.4.249.166/32,no-resolve
 IP-CIDR,120.192.83.163/32,no-resolve
 IP-CIDR,120.209.138.64/32,no-resolve
 IP-CIDR,120.240.95.37/32,no-resolve
-IP-CIDR,120.27.235.201/32,no-resolve
 IP-CIDR,120.76.189.132/32,no-resolve
-IP-CIDR,121.196.197.147/32,no-resolve
 IP-CIDR,122.229.29.89/32,no-resolve
 IP-CIDR,122.229.8.47/32,no-resolve
 IP-CIDR,123.125.81.12/32,no-resolve
@@ -3367,10 +3364,7 @@ IP-CIDR,23.217.138.108/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,42.123.125.237/32,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve
-IP-CIDR,47.56.131.76/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
-IP-CIDR,47.97.215.55/32,no-resolve
-IP-CIDR,47.99.42.29/32,no-resolve
 IP-CIDR,60.19.29.21/32,no-resolve
 IP-CIDR,60.19.29.22/31,no-resolve
 IP-CIDR,60.19.29.24/30,no-resolve

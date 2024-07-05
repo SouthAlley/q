@@ -1,4 +1,4 @@
-# Update > 15:58 2024/6/19
+# Update > 21:28 2024/7/4
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
@@ -129,10 +129,11 @@ DOMAIN,adcdn.tencentmusic.com
 DOMAIN,adclick.tencentmusic.com
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adstats.tencentmusic.com
-DOMAIN,report.tencentmusic.com
 DOMAIN,monitor.music.qq.com
+DOMAIN,report.tencentmusic.com
 DOMAIN,stat.y.qq.com
 DOMAIN,tmead.y.qq.com
+DOMAIN,tmeadbak.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 #Audio-QQ音乐-全民K歌
 DOMAIN-SUFFIX,gdc.kg.qq.com
@@ -365,6 +366,7 @@ DOMAIN,enennsa.gushiwen.cn
 DOMAIN,enennsb.gushiwen.cn
 #Finance-95516
 DOMAIN,ads.95516.com
+DOMAIN,ads.cup.com.cn
 #Finance-建设银行
 DOMAIN,adv.ccb.com
 DOMAIN,imageadv.ccb.com
@@ -660,13 +662,15 @@ DOMAIN,ivy.pchouse.com.cn
 DOMAIN,jwz.3conline.com
 DOMAIN,icons.mydrivers.com
 #Tool-10010
-DOMAIN,smartad.10010.com
+DOMAIN-SUFFIX,ad.10010.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,pushservice.10010.com
+DOMAIN,smartad.10010.com
 DOMAIN,unilog.wostore.cn
 #Tool-189-21cn
 DOMAIN,ad.21cn.com
 DOMAIN,ad.k.21cn.com
+DOMAIN,admarket.21cn.com
 DOMAIN,adshows.21cn.com
 DOMAIN,afp.21cn.com
 DOMAIN,analytics.21cn.com
@@ -1012,8 +1016,9 @@ DOMAIN,data.sec.miui.com
 DOMAIN,feedback.miui.com
 DOMAIN,port.sec.miui.com
 DOMAIN,report.sp.miui.com
+DOMAIN,tracking.intl.miui.com
 DOMAIN,tracking.miui.com
-DOMAIN,update.miui.com
+#DOMAIN,update.miui.com
 DOMAIN,site.e.mi.com
 #OS-Mi/小米跟踪API
 DOMAIN,a0.app.xiaomi.com
@@ -1091,12 +1096,13 @@ DOMAIN-SUFFIX,umenglog.com
 DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,alipaylog.com
 DOMAIN,ssp-partner.alibaba.com
-DOMAIN,hudong.alicdn.com
 DOMAIN,afpmm.alicdn.com
 DOMAIN,alimama.alicdn.com
 DOMAIN,atanx.alicdn.com
 DOMAIN,baichuan-sdk.alicdn.com
+DOMAIN,hudong.alicdn.com
 DOMAIN,nbsdk-baichuan.alicdn.com
+DOMAIN,ossgw.alicdn.com
 DOMAIN,unidesk.alicdn.com
 DOMAIN,userlink.alicdn.com
 DOMAIN,admobile.oss-cn-hangzhou.aliyuncs.com
@@ -1113,7 +1119,7 @@ DOMAIN,wgo.mmstat.com
 DOMAIN,yt.mmstat.com
 #Ali-淘宝
 DOMAIN,h-adashx.ut.taobao.com
-DOMAIN,acs.m.taobao.com
+#DOMAIN,acs.m.taobao.com
 DOMAIN,trade-acs.m.taobao.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,acs4baichuan.m.taobao.com
@@ -1250,9 +1256,9 @@ DOMAIN,code.bdstatic.com
 DOMAIN,dss2.bdstatic.com
 DOMAIN,fex.bdstatic.com
 DOMAIN,mbdp02.bdstatic.com
-DOMAIN,ms.bdstatic.com
+#DOMAIN,ms.bdstatic.com
 DOMAIN,nspt.bdstatic.com
-DOMAIN,s.bdstatic.com
+#DOMAIN,s.bdstatic.com
 DOMAIN,su.bdstatic.com
 DOMAIN,zz.bdstatic.com
 #Baidu-度小满
@@ -1264,6 +1270,7 @@ DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,dxmstatic.com
 DOMAIN-SUFFIX,paydxm.com
 #Bytedance
+DOMAIN,mssdk-bu.bytedance.com
 DOMAIN-SUFFIX,dm.bytedance.com
 DOMAIN-SUFFIX,mssdk.bytedance.com
 DOMAIN-KEYWORD,adbrand.byteimg.com
@@ -1504,8 +1511,8 @@ DOMAIN,ad.browser.qq.com
 DOMAIN,ad.qq.com
 DOMAIN,ads.privacy.qq.com
 DOMAIN,analytics.map.qq.com
-DOMAIN,dp3.qq.com
 DOMAIN,btrace.qq.com
+DOMAIN,dp3.qq.com
 DOMAIN,h.trace.qq.com
 DOMAIN,hc.tdm.qq.com
 DOMAIN,ios.rqd.qq.com
@@ -1513,6 +1520,7 @@ DOMAIN,jpush.html5.qq.com
 DOMAIN,logsdk.qq.com
 DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
+DOMAIN,mi.gdt.qq.com
 DOMAIN,rdelivery.qq.com
 DOMAIN,report.qqweb.qq.com
 DOMAIN,tdid.m.qq.com
@@ -1538,13 +1546,11 @@ DOMAIN,qqdata.ab.qq.com
 DOMAIN,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,tpns.tencent.com
 #Tencent-gdt
-DOMAIN,adsmind.ugdtimg.com
-DOMAIN,pgdt.ugdtimg.com
-DOMAIN,pgdt.gtimg.cn
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,gtimg.cn
 DOMAIN,ra.gtimg.com
 DOMAIN,wa.gtimg.com
-DOMAIN,adsmind.gdtimg.com
-DOMAIN,qzs.gdtimg.com
 DOMAIN,report.idqqimg.com
 #Tencent-cloud
 DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
@@ -1909,6 +1915,7 @@ DOMAIN-SUFFIX,emogi.com
 DOMAIN-SUFFIX,enlightent.cn
 DOMAIN-SUFFIX,envac-china.com
 DOMAIN-SUFFIX,ero-advertising.com
+DOMAIN-SUFFIX,ethicalads.io
 DOMAIN-SUFFIX,etrack07.com
 DOMAIN-SUFFIX,everesttech.net
 DOMAIN-SUFFIX,exdynsrv.com

@@ -1,4 +1,4 @@
-# Main total line 3384
+# Main total line 3383
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -3007,7 +3007,6 @@ DOMAIN-SUFFIX,www.govshenzhen.cn
 DOMAIN-SUFFIX,www42.zskwai.com
 DOMAIN-SUFFIX,wx16999.com
 DOMAIN-SUFFIX,wxa.wxs.qq.com
-DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wximg.wxs.qq.com
 DOMAIN-SUFFIX,wxsmw.wxs.qq.com
 DOMAIN-SUFFIX,wxsnsad.tc.qq.com

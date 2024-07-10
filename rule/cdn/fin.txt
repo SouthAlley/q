@@ -1,4 +1,4 @@
-# Main total line 2081
+# Main total line 2082
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -878,6 +878,7 @@ DOMAIN,ni-assets.azureedge.net
 DOMAIN,nightly.link
 DOMAIN,nodeassets.nbcnews.com
 DOMAIN,nodei.co
+DOMAIN,npm.antfu.dev
 DOMAIN,npm.jsr.io
 DOMAIN,npmgraph.js.org
 DOMAIN,nr.staticblitz.com

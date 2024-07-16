@@ -1,4 +1,4 @@
-# Main total line 2082
+# Main total line 2083
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -393,7 +393,6 @@ DOMAIN,cdn.softswiss.net
 DOMAIN,cdn.solvvy.com
 DOMAIN,cdn.split.io
 DOMAIN,cdn.sprig.com
-DOMAIN,cdn.sstatic.net
 DOMAIN,cdn.stash.com
 DOMAIN,cdn.substack.com
 DOMAIN,cdn.sunofbeaches.com
@@ -822,6 +821,7 @@ DOMAIN,media.cmx.edu.kg
 DOMAIN,media.cnn.com
 DOMAIN,media.contentapi.ea.com
 DOMAIN,media.convertkit.com
+DOMAIN,media.dev.to
 DOMAIN,media.discordapp.net
 DOMAIN,media.dlsite.com
 DOMAIN,media.e4le.me
@@ -1947,6 +1947,7 @@ DOMAIN-SUFFIX,sqspcdn.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 DOMAIN-SUFFIX,ss-cdn.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stack.imgur.com
 DOMAIN-SUFFIX,stackblitz.io
 DOMAIN-SUFFIX,static.domains

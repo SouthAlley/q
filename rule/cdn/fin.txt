@@ -1865,7 +1865,7 @@ DOMAIN-SUFFIX,placekitten.com
 DOMAIN-SUFFIX,placewaifu.com
 DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,poecdn.net
-DOMAIN-SUFFIX,polyfill.io
+DOMAIN-SUFFIX,polyfill-fastly.io
 DOMAIN-SUFFIX,porndudecdn.com
 DOMAIN-SUFFIX,pornimg.xyz
 DOMAIN-SUFFIX,postimg.cc

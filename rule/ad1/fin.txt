@@ -1,4 +1,4 @@
-# Main total line 3384
+# Main total line 3385
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -114,6 +114,7 @@ DOMAIN,adxlog.vivo.com.cn
 DOMAIN,afdconf.baidu.com
 DOMAIN,aff-partners-io.ck-cdn.com
 DOMAIN,aff.partners.io
+DOMAIN,affcpatrk.com
 DOMAIN,amap-aos-info-nogw.amap.com
 DOMAIN,amdc.m.youku.com
 DOMAIN,analytics-sg.tiktok.com

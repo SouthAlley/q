@@ -653,6 +653,7 @@ DOMAIN,icons.duckduckgo.com
 DOMAIN,icons.ly
 DOMAIN,iframe.nbcnews.com
 DOMAIN,imag.malavida.com
+DOMAIN,image-forwarder.notaku.so
 DOMAIN,image.civitai.com
 DOMAIN,image.crisp.chat
 DOMAIN,image.email.microsoftemail.com
@@ -896,6 +897,7 @@ DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,ooo.0o0.ooo
 DOMAIN,ooo.o0o.ooo
 DOMAIN,open-vsx.org
+DOMAIN,openapi.vercel.sh
 DOMAIN,openseauserdata.com
 DOMAIN,opensignal.cdnbye.com
 DOMAIN,opt.moovweb.net

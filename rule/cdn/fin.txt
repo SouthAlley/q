@@ -1,4 +1,4 @@
-# Main total line 2085
+# Main total line 2081
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1314,13 +1314,9 @@ DOMAIN,stubdownloader.services.mozilla.com
 DOMAIN,t.betterstack.com
 DOMAIN,t.nhentai.net
 DOMAIN,t1.picb.cc
-DOMAIN,t2.nhentai.net
 DOMAIN,t2.picb.cc
-DOMAIN,t3.nhentai.net
 DOMAIN,t3.picb.cc
 DOMAIN,t4.picb.cc
-DOMAIN,t5.nhentai.net
-DOMAIN,t7.nhentai.net
 DOMAIN,talk.hyvor.com
 DOMAIN,talk.washingtonpost.com
 DOMAIN,telemetry.nextjs.org

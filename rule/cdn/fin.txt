@@ -1,4 +1,4 @@
-# Main total line 2081
+# Main total line 2082
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -613,6 +613,7 @@ DOMAIN,glyph.medium.com
 DOMAIN,gmedia.playstation.com
 DOMAIN,go.vercel.com
 DOMAIN,godoc.org
+DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,gopkg.in
 DOMAIN,graph.facebook.com
 DOMAIN,gravatar.cat.net

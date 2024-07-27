@@ -1,4 +1,4 @@
-# Main total line 2082
+# Main total line 2085
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -252,6 +252,7 @@ DOMAIN,cdn.ashbyprd.com
 DOMAIN,cdn.assets.as2.amazonaws.com
 DOMAIN,cdn.auth0.com
 DOMAIN,cdn.autoketing.org
+DOMAIN,cdn.babylonjs.com
 DOMAIN,cdn.bfe.dev
 DOMAIN,cdn.branch.io
 DOMAIN,cdn.bsky.social
@@ -316,6 +317,7 @@ DOMAIN,cdn.ipregistry.co
 DOMAIN,cdn.jetboost.io
 DOMAIN,cdn.jetphotos.com
 DOMAIN,cdn.jifi.co
+DOMAIN,cdn.joincommunity.xyz
 DOMAIN,cdn.jolipage.co
 DOMAIN,cdn.judge.me
 DOMAIN,cdn.jwplayer.com
@@ -1221,6 +1223,7 @@ DOMAIN,static.missav.com
 DOMAIN,static.mocortech.com
 DOMAIN,static.monei.net
 DOMAIN,static.mysph.sph.com.sg
+DOMAIN,static.mytonwallet.io
 DOMAIN,static.namebeta.com
 DOMAIN,static.news.bitcoin.com
 DOMAIN,static.nhentai.net

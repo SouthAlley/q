@@ -1,4 +1,4 @@
-# Main total line 1000
+# Main total line 1001
 # ------------------------------------------
 DOMAIN,cdn.bootcdn.net
 DOMAIN,cdn.bootcss.com
@@ -149,6 +149,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilibilipay.com
 DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net

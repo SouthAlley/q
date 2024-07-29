@@ -79,6 +79,7 @@ DOMAIN,assets.coingecko.com
 DOMAIN,assets.convertkit.com
 DOMAIN,assets.dnsfilter.com
 DOMAIN,assets.dwncdn.net
+DOMAIN,assets.ecomm.ui.com
 DOMAIN,assets.exercism.org
 DOMAIN,assets.extension.grammarly.com
 DOMAIN,assets.fastly.com
@@ -250,6 +251,7 @@ DOMAIN,cdn.ashbyprd.com
 DOMAIN,cdn.assets.as2.amazonaws.com
 DOMAIN,cdn.auth0.com
 DOMAIN,cdn.autoketing.org
+DOMAIN,cdn.babylonjs.com
 DOMAIN,cdn.bfe.dev
 DOMAIN,cdn.branch.io
 DOMAIN,cdn.bsky.social
@@ -280,6 +282,7 @@ DOMAIN,cdn.dotaoutpost.com
 DOMAIN,cdn.download.it
 DOMAIN,cdn.dribbble.com
 DOMAIN,cdn.dynamicyield.com
+DOMAIN,cdn.ecomm.ui.com
 DOMAIN,cdn.embed.ly
 DOMAIN,cdn.equalweb.com
 DOMAIN,cdn.european-alternatives.eu
@@ -314,6 +317,7 @@ DOMAIN,cdn.ipregistry.co
 DOMAIN,cdn.jetboost.io
 DOMAIN,cdn.jetphotos.com
 DOMAIN,cdn.jifi.co
+DOMAIN,cdn.joincommunity.xyz
 DOMAIN,cdn.jolipage.co
 DOMAIN,cdn.judge.me
 DOMAIN,cdn.jwplayer.com
@@ -767,6 +771,7 @@ DOMAIN,imgur.dcard.tw
 DOMAIN,info.cloudflare.com
 DOMAIN,info.knak.com
 DOMAIN,interactive.guim.co.uk
+DOMAIN,ipe-plugins.js.org
 DOMAIN,ipfs.d.tube
 DOMAIN,irp-cdn.multiscreensite.com
 DOMAIN,iterm2.com
@@ -1219,6 +1224,7 @@ DOMAIN,static.missav.com
 DOMAIN,static.mocortech.com
 DOMAIN,static.monei.net
 DOMAIN,static.mysph.sph.com.sg
+DOMAIN,static.mytonwallet.io
 DOMAIN,static.namebeta.com
 DOMAIN,static.news.bitcoin.com
 DOMAIN,static.nhentai.net
@@ -1695,6 +1701,7 @@ DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,imglink.win
 DOMAIN-SUFFIX,imgmrplay.xyz
 DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,infura-ipfs.io
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,intercomassets.com
@@ -1873,6 +1880,7 @@ DOMAIN-SUFFIX,pressablecdn.com
 DOMAIN-SUFFIX,prod.public.atl-paas.net
 DOMAIN-SUFFIX,proxy.startpage.com
 DOMAIN-SUFFIX,proxy.ustclug.org
+DOMAIN-SUFFIX,proxy2.startpage.com
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,public.cdn.office.net

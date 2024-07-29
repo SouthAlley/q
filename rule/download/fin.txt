@@ -1,4 +1,4 @@
-# Main total line 542
+# Main total line 543
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -109,6 +109,7 @@ DOMAIN,fastly-download.epicgames.com
 DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
 DOMAIN,file24-d.kuku.lu
+DOMAIN,formulae.brew.sh
 DOMAIN,ftp.androidfilehost.com
 DOMAIN,ftp.gnu.org
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net

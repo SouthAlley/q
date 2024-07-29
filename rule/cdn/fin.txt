@@ -1,4 +1,4 @@
-# Main total line 2090
+# Main total line 2091
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -602,7 +602,6 @@ DOMAIN,fonts.wp.com
 DOMAIN,fonts.zapier.com
 DOMAIN,fonts1.unidays.world
 DOMAIN,forest-mt-s3.seekrtech.com
-DOMAIN,formulae.brew.sh
 DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,freeshippingbar.herokuapp.com
 DOMAIN,g-static.ap4r.com
@@ -1317,6 +1316,7 @@ DOMAIN,storageapi2.fleek.one
 DOMAIN,store-images.microsoft.com
 DOMAIN,store-images.s-microsoft.com
 DOMAIN,stories.freepiklabs.com
+DOMAIN,storybook.js.org
 DOMAIN,stubdownloader.services.mozilla.com
 DOMAIN,t.betterstack.com
 DOMAIN,t.nhentai.net
@@ -2080,6 +2080,7 @@ DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zi-scripts.com
 DOMAIN-SUFFIX,ziffstatic.com
+DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zippyshare.com
 DOMAIN-SUFFIX,zohocdn.com
 DOMAIN-SUFFIX,zohostatic.com

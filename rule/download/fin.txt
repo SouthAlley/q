@@ -1,4 +1,4 @@
-# Main total line 543
+# Main total line 544
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -16,6 +16,7 @@ DOMAIN,blzddistkr1-a.akamaihd.net
 DOMAIN,boot.netboot.xyz
 DOMAIN,builds.paranoidandroid.co
 DOMAIN,builds.parsec.app
+DOMAIN,cache.agilebits.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cdimage.kali.org
 DOMAIN,cdn-images.orbstack.dev

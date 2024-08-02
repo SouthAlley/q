@@ -1,4 +1,4 @@
-# Main total line 544
+# Main total line 554
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -25,6 +25,7 @@ DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,client.hikarifield.co.jp
+DOMAIN,codeload.github.com
 DOMAIN,content-origin.steampowered.com
 DOMAIN,content1.steampowered.com
 DOMAIN,content2.steampowered.com
@@ -150,6 +151,7 @@ DOMAIN,mirrors.xtom.jp
 DOMAIN,mirrors.xtom.nl
 DOMAIN,mirrors.xtom.sg
 DOMAIN,mirrors.xtom.us
+DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net
@@ -159,6 +161,7 @@ DOMAIN,packages.virtfusion.net
 DOMAIN,packagespc.xboxlive.com
 DOMAIN,pf-cdn-content-prod.azureedge.net
 DOMAIN,pixeldrain.com
+DOMAIN,pkg-containers.githubusercontent.com
 DOMAIN,playwright.azureedge.net
 DOMAIN,ppa.launchpad.net
 DOMAIN,product-downloads.atlassian.com
@@ -171,7 +174,9 @@ DOMAIN,repo.carbon.sh
 DOMAIN,repo.powerdns.com
 DOMAIN,security.debian.org
 DOMAIN,security.ubuntu.com
+DOMAIN,share.riseup.net
 DOMAIN,softwareupdate.pilotmoon.com
+DOMAIN,stats.snipaste.com
 DOMAIN,steam.apac.qtlglb.com
 DOMAIN,steam.eca.qtlglb.com
 DOMAIN,steam.naeu.qtlglb.com
@@ -190,6 +195,7 @@ DOMAIN-SUFFIX,1fichier.com
 DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,archive.debian.org
 DOMAIN-SUFFIX,archive.ubuntu.com
+DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,cdn.ubi.com
@@ -224,6 +230,8 @@ DOMAIN-SUFFIX,download.mokeedev.com
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
+DOMAIN-SUFFIX,file.io
+DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,files.1drv.com
 DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,ftp-master.debian.org
@@ -543,4 +551,6 @@ DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,temp.sh
+DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,vultrobjects.com

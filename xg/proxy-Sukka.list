@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-07-29T13:09:06.884Z
-# Size: 578
+# Last Updated: 2024-08-02T10:29:50.210Z
+# Size: 581
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -265,6 +265,7 @@ DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkmirror.com
@@ -394,6 +395,7 @@ DOMAIN-SUFFIX,jirachecklist.com
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,jumpdesktop.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kik.com
@@ -509,6 +511,7 @@ DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,textnow.me
+DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,themoviedb.org

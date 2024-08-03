@@ -85,6 +85,7 @@ DOMAIN,assets.extension.grammarly.com
 DOMAIN,assets.fastly.com
 DOMAIN,assets.fireside.fm
 DOMAIN,assets.flodesk.com
+DOMAIN,assets.garr.it
 DOMAIN,assets.gcore.pro
 DOMAIN,assets.genius.com
 DOMAIN,assets.getkirby.com
@@ -205,11 +206,11 @@ DOMAIN,c0.wp.com
 DOMAIN,ca.nfs.pub
 DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
-DOMAIN,cache.agilebits.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
 DOMAIN,cdn-app.pathfactory.com
 DOMAIN,cdn-assets.circleci.com
 DOMAIN,cdn-assets.porntube.com
+DOMAIN,cdn-c.leavemealone.com
 DOMAIN,cdn-client.medium.com
 DOMAIN,cdn-cookieyes.com
 DOMAIN,cdn-edge.karte.io
@@ -654,6 +655,7 @@ DOMAIN,ias.r10s.jp
 DOMAIN,ichef.bbci.co.uk
 DOMAIN,icons.buffer.com
 DOMAIN,icons.duckduckgo.com
+DOMAIN,icons.leavemealone.com
 DOMAIN,icons.ly
 DOMAIN,iframe.nbcnews.com
 DOMAIN,imag.malavida.com
@@ -814,6 +816,7 @@ DOMAIN,m.wsj.net
 DOMAIN,maps.geoapify.com
 DOMAIN,mastodon-static.miao.dev
 DOMAIN,maven.google.com
+DOMAIN,media-cdn.atlassian.com
 DOMAIN,media-cdn.comfy.social
 DOMAIN,media-cdn.epicgames.com
 DOMAIN,media-cldnry.s-nbcnews.com
@@ -1089,8 +1092,8 @@ DOMAIN,secure.download.dm.origin.com
 DOMAIN,secure.fanboy.co.nz
 DOMAIN,secure.telegraph.co.uk
 DOMAIN,services.linkfire.com
+DOMAIN,sf-coze-web-cdn.coze.com
 DOMAIN,sf-flow-web-cdn.ciciai.com
-DOMAIN,share.riseup.net
 DOMAIN,shell.cdn.office.net
 DOMAIN,shopify.cleverecommerce.com
 DOMAIN,shots.codepen.io
@@ -1498,7 +1501,6 @@ DOMAIN-SUFFIX,bytebucket.org
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,c-dn.net
 DOMAIN-SUFFIX,c.staticblitz.com
-DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-SUFFIX,cdn-one.com
@@ -1613,8 +1615,6 @@ DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,file.core.windows.net
-DOMAIN-SUFFIX,file.io
-DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,files.gitbook.io
 DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN-SUFFIX,firebaseapp.com
@@ -1909,6 +1909,7 @@ DOMAIN-SUFFIX,reasoningtheory.net
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,replicate.delivery
 DOMAIN-SUFFIX,repo.anaconda.com
 DOMAIN-SUFFIX,res.office365.com
 DOMAIN-SUFFIX,rocketcdn.me
@@ -1961,6 +1962,7 @@ DOMAIN-SUFFIX,stack.imgur.com
 DOMAIN-SUFFIX,stackblitz.io
 DOMAIN-SUFFIX,static.domains
 DOMAIN-SUFFIX,static.gartner.com
+DOMAIN-SUFFIX,static.microsoft
 DOMAIN-SUFFIX,static2cdn.hubspot.com
 DOMAIN-SUFFIX,statically.io
 DOMAIN-SUFFIX,staticaly.com
@@ -1989,7 +1991,6 @@ DOMAIN-SUFFIX,sxccdn.com
 DOMAIN-SUFFIX,t.staticblitz.com
 DOMAIN-SUFFIX,tapecontent.net
 DOMAIN-SUFFIX,tedcdn.com
-DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,thirdwebcdn.com
 DOMAIN-SUFFIX,thisiscdn.com
@@ -1999,7 +2000,6 @@ DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,tile.osm.org
 DOMAIN-SUFFIX,tiqcdn.com
-DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,tnastatic.com
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,transcend-cdn.com

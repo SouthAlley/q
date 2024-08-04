@@ -1,4 +1,4 @@
-# Main total line 554
+# Main total line 555
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -169,6 +169,7 @@ DOMAIN,redstone-launcher.mojang.com
 DOMAIN,registry.fedoraproject.org
 DOMAIN,releases.arc.net
 DOMAIN,releases.grapheneos.org
+DOMAIN,releases.obsidian.md
 DOMAIN,releases.whatpulse.org
 DOMAIN,repo.carbon.sh
 DOMAIN,repo.powerdns.com

@@ -1,4 +1,4 @@
-# Main total line 555
+# Main total line 556
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -190,6 +190,7 @@ DOMAIN,store1.gofile.io
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
+DOMAIN,update.sleazyfork.org
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com

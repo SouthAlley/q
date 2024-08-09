@@ -1,4 +1,4 @@
-# Main total line 6282
+# Main total line 6283
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -4538,6 +4538,7 @@ DOMAIN-SUFFIX,shopifycloud.com
 DOMAIN-SUFFIX,shopifystatus.com
 DOMAIN-SUFFIX,shopifysvc.com
 DOMAIN-SUFFIX,shopping.com
+DOMAIN-SUFFIX,short.io
 DOMAIN-SUFFIX,showhaotu.com
 DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,shvoong.com

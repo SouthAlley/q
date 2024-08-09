@@ -1,4 +1,4 @@
-# Main total line 556
+# Main total line 558
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -16,6 +16,7 @@ DOMAIN,blzddistkr1-a.akamaihd.net
 DOMAIN,boot.netboot.xyz
 DOMAIN,builds.paranoidandroid.co
 DOMAIN,builds.parsec.app
+DOMAIN,c.1password.com
 DOMAIN,cache.agilebits.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cdimage.kali.org
@@ -69,7 +70,6 @@ DOMAIN,download.anydesk.com
 DOMAIN,download.beeper.com
 DOMAIN,download.cpuid.com
 DOMAIN,download.dlsite.com
-DOMAIN,download.dm.origin.com
 DOMAIN,download.docker.com
 DOMAIN,download.gigabyte.com
 DOMAIN,download.gimp.org
@@ -227,6 +227,7 @@ DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,dl.sourceforge.net
 DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,download.cdp.bethesda.net
+DOMAIN-SUFFIX,download.dm.origin.com
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,download.mokeedev.com
 DOMAIN-SUFFIX,download.nvidia.com
@@ -551,6 +552,7 @@ DOMAIN-SUFFIX,s3.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,temp.sh

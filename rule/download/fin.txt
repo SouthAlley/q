@@ -1,4 +1,4 @@
-# Main total line 558
+# Main total line 559
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -121,6 +121,7 @@ DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,install.virtfusion.net
 DOMAIN,invent.kde.org
+DOMAIN,iterm2.com
 DOMAIN,level3.blizzard.com
 DOMAIN,mac-release-static.stash.ws
 DOMAIN,mirror-cdn.xtom.com

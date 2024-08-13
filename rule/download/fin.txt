@@ -52,7 +52,7 @@ DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
-DOMAIN,dl.ubnt.com
+DOMAIN,dl.ui.com
 DOMAIN,dl2.xmind.net
 DOMAIN,dl3.xmind.net
 DOMAIN,dlcdnets.asus.com

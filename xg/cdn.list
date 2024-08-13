@@ -30,6 +30,7 @@ DOMAIN,api.roboflow.com
 DOMAIN,api.web3.storage
 DOMAIN,app-api.vidjet.io
 DOMAIN,app-spm.com
+DOMAIN,app-static.turtl.co
 DOMAIN,app-updates.agilebits.com
 DOMAIN,app.backinstock.org
 DOMAIN,app.chatwoot.com
@@ -120,6 +121,7 @@ DOMAIN,assets.plurk.com
 DOMAIN,assets.poool.fr
 DOMAIN,assets.positional-bucket.com
 DOMAIN,assets.prowritingaid.com
+DOMAIN,assets.queue-it.net
 DOMAIN,assets.quillbot.com
 DOMAIN,assets.repair.org
 DOMAIN,assets.safing.io
@@ -196,6 +198,7 @@ DOMAIN,bst.icons8.com
 DOMAIN,bundle.trysavvy.com
 DOMAIN,bundlephobia.com
 DOMAIN,bundler.nice-team.net
+DOMAIN,bundler.wix-code.com
 DOMAIN,bundles.npr.org
 DOMAIN,busuanzi.ibruce.info
 DOMAIN,c.1password.com
@@ -282,6 +285,7 @@ DOMAIN,cdn.datatables.net
 DOMAIN,cdn.datdota.com
 DOMAIN,cdn.db-ip.com
 DOMAIN,cdn.dnsimple.com
+DOMAIN,cdn.donmai.us
 DOMAIN,cdn.dotaoutpost.com
 DOMAIN,cdn.download.it
 DOMAIN,cdn.dribbble.com
@@ -430,6 +434,7 @@ DOMAIN,cdn.weglot.com
 DOMAIN,cdn.windowsreport.com
 DOMAIN,cdn.wishpond.net
 DOMAIN,cdn.writeas.net
+DOMAIN,cdn.xeiaso.net
 DOMAIN,cdn.yinghuazy.xyz
 DOMAIN,cdn.ywxi.net
 DOMAIN,cdn.zapier.com
@@ -543,6 +548,7 @@ DOMAIN,downloads.coindesk.com
 DOMAIN,downloads.wordpress.org
 DOMAIN,drscdn.500px.org
 DOMAIN,dynamic-assets.mobilius.top
+DOMAIN,e.deviantart.net
 DOMAIN,e3.365dm.com
 DOMAIN,eaassets-a.akamaihd.net
 DOMAIN,easylist-downloads.adblockplus.org
@@ -706,6 +712,7 @@ DOMAIN,images.idgesg.net
 DOMAIN,images.macrumors.com
 DOMAIN,images.moovitapp.com
 DOMAIN,images.now-tv.com
+DOMAIN,images.nvidia.com
 DOMAIN,images.opencollective.com
 DOMAIN,images.pexels.com
 DOMAIN,images.plurk.com
@@ -790,7 +797,6 @@ DOMAIN,interactive.guim.co.uk
 DOMAIN,ipe-plugins.js.org
 DOMAIN,ipfs.d.tube
 DOMAIN,irp-cdn.multiscreensite.com
-DOMAIN,iterm2.com
 DOMAIN,j.udn.com.tw
 DOMAIN,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 DOMAIN,js-cdn.blockchair.io
@@ -849,6 +855,7 @@ DOMAIN,media.discordapp.net
 DOMAIN,media.dlsite.com
 DOMAIN,media.e4le.me
 DOMAIN,media.evolv.ai
+DOMAIN,media.fc2.com
 DOMAIN,media.flaticon.com
 DOMAIN,media.gettr.com
 DOMAIN,media.gettyimages.com
@@ -887,6 +894,7 @@ DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN,miro.medium.com
 DOMAIN,mixin-images.zeromesh.net
 DOMAIN,mobilecenter.azureedge.net
+DOMAIN,momentjs.com
 DOMAIN,mstdn-s3.o3o.studio
 DOMAIN,mwcm.nyt.com
 DOMAIN,mwf-service.akamaized.net
@@ -961,6 +969,7 @@ DOMAIN,pic.skk.moe
 DOMAIN,pic.ziyuan.wang
 DOMAIN,piccdn.7mmtv.sx
 DOMAIN,pics.dmm.co.jp
+DOMAIN,pics.hentai.name
 DOMAIN,pics.paypal.com
 DOMAIN,pics.vpdmm.cc
 DOMAIN,pics.x-n-x-x.pro
@@ -1211,6 +1220,7 @@ DOMAIN,static.esimplus.net
 DOMAIN,static.ettoday.net
 DOMAIN,static.euronews.com
 DOMAIN,static.fasthosts.co.uk
+DOMAIN,static.fc2.com
 DOMAIN,static.figma.com
 DOMAIN,static.files.bbci.co.uk
 DOMAIN,static.filestackapi.com
@@ -1264,6 +1274,7 @@ DOMAIN,static.osdn.net
 DOMAIN,static.playstation.com
 DOMAIN,static.plus.net
 DOMAIN,static.probit.com
+DOMAIN,static.queue-it.net
 DOMAIN,static.rakuten.com
 DOMAIN,static.redhat.com
 DOMAIN,static.reo.dev
@@ -1539,6 +1550,7 @@ DOMAIN-SUFFIX,cdn.ipinfo.io
 DOMAIN-SUFFIX,cdn.manage.runcloud.io
 DOMAIN-SUFFIX,cdn.medallia.com
 DOMAIN-SUFFIX,cdn.mozilla.net
+DOMAIN-SUFFIX,cdn.nimg.jp
 DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,cdn.prismic.io

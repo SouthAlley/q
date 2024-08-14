@@ -1,4 +1,4 @@
-# Main total line 3357
+# Main total line 3358
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2830,6 +2830,7 @@ DOMAIN-SUFFIX,uuzu.com
 DOMAIN-SUFFIX,uxip.meizu.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,v.adintl.cn
+DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,v1-ad.video.yximgs.com
 DOMAIN-SUFFIX,v2-ad.video.yximgs.com
 DOMAIN-SUFFIX,v2.hunantv.com

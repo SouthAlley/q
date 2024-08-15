@@ -1,4 +1,4 @@
-# Main total line 20386
+# Main total line 20392
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -1249,7 +1249,9 @@ DOMAIN-SUFFIX,anchorfree.com
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,android-x86.org
+DOMAIN-SUFFIX,androidauthority.com
 DOMAIN-SUFFIX,androidplus.co
+DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,andygod.com
 DOMAIN-SUFFIX,andysparis.com
 DOMAIN-SUFFIX,angel-gto.com
@@ -16663,6 +16665,7 @@ DOMAIN-SUFFIX,techliquidators.com
 DOMAIN-SUFFIX,technics.com
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,technorati.com
+DOMAIN-SUFFIX,techradar.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techstreet.com
@@ -17129,6 +17132,7 @@ DOMAIN-SUFFIX,tokyotosho.se
 DOMAIN-SUFFIX,tomatespodres.com
 DOMAIN-SUFFIX,tomonews.net
 DOMAIN-SUFFIX,tomovie.net
+DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,tomshardware.com
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tonicmovies.com
@@ -20056,6 +20060,8 @@ DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,zctb.buzz
 DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdnet.com
+DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zee.com
 DOMAIN-SUFFIX,zee5.com

@@ -1,4 +1,4 @@
-# Main total line 20384
+# Main total line 20386
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -16312,6 +16312,7 @@ DOMAIN-SUFFIX,store-bridgestonesports.com
 DOMAIN-SUFFIX,storesense.com
 DOMAIN-SUFFIX,storiesonline.net
 DOMAIN-SUFFIX,storify.com
+DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
 DOMAIN-SUFFIX,storyful.com
@@ -17732,6 +17733,7 @@ DOMAIN-SUFFIX,usaco.org
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,usatodaynetworkservice.com
 DOMAIN-SUFFIX,usc.edu
+DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,uselessjunk.com
 DOMAIN-SUFFIX,usembassy.gov

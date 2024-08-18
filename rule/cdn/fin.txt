@@ -1,4 +1,4 @@
-# Main total line 2153
+# Main total line 2158
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -764,6 +764,7 @@ DOMAIN,img.itch.zone
 DOMAIN,img.javstore.net
 DOMAIN,img.jsdelivr.com
 DOMAIN,img.kbhgames.com
+DOMAIN,img.kemono.su
 DOMAIN,img.ltyears.com
 DOMAIN,img.m.mw
 DOMAIN,img.merch.cameo.com
@@ -1208,6 +1209,7 @@ DOMAIN,static.bit.dev
 DOMAIN,static.bitfinex.com
 DOMAIN,static.buffer.com
 DOMAIN,static.bytepan.com
+DOMAIN,static.chaika.moe
 DOMAIN,static.change.org
 DOMAIN,static.cloud.coveo.com
 DOMAIN,static.codepen.io
@@ -1259,6 +1261,7 @@ DOMAIN,static.maxmind.com
 DOMAIN,static.mediafire.com
 DOMAIN,static.meiguo.com
 DOMAIN,static.mendeley.com
+DOMAIN,static.mikuclub.fun
 DOMAIN,static.missav.com
 DOMAIN,static.mocortech.com
 DOMAIN,static.moegoat.com
@@ -1434,6 +1437,7 @@ DOMAIN,viu-static.akamaized.net
 DOMAIN,vjs.zencdn.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
+DOMAIN,vscodeexperiments.azureedge.net
 DOMAIN,vuejs.org
 DOMAIN,w.chatlio.com
 DOMAIN,w.soundcloud.com
@@ -1953,6 +1957,7 @@ DOMAIN-SUFFIX,qooqlevideo.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,qy0.ru
 DOMAIN-SUFFIX,r2.dev
+DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,ravencoinipfs-gateway.com
 DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,rawgit.com

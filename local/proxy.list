@@ -1,8 +1,10 @@
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
 DOMAIN,clubhouse.pubnubapi.com
+DOMAIN,community.oneplus.com
 DOMAIN,ees.elsevier.com
 DOMAIN,ip-api.com
+DOMAIN,new.c.mi.com
 DOMAIN,reddit.app.link
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
@@ -677,6 +679,7 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnews.co
 DOMAIN-SUFFIX,bnn.co
 DOMAIN-SUFFIX,bnrmetal.com
+DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,boardreader.com
 DOMAIN-SUFFIX,bod.asia
 DOMAIN-SUFFIX,bodog88.com
@@ -6065,6 +6068,7 @@ DOMAIN-SUFFIX,yilubbs.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yingsuoss.com
+DOMAIN-SUFFIX,yingwangtech.cloud
 DOMAIN-SUFFIX,yinlei.org
 DOMAIN-SUFFIX,yipub.com
 DOMAIN-SUFFIX,yizhihongxing.com

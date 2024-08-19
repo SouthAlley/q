@@ -1,4 +1,4 @@
-# Main total line 20392
+# Main total line 20395
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -37,6 +37,7 @@ DOMAIN,mdn.mozillademos.org
 DOMAIN,medone-education.thieme.com
 DOMAIN,muse.jhu.edu
 DOMAIN,nationalaustraliaban.tt.omtrdc.net
+DOMAIN,new.c.mi.com
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ood.opsource.net
 DOMAIN,public-us-pingsx.api.clonoth.com
@@ -3169,6 +3170,7 @@ DOMAIN-SUFFIX,bnef.com
 DOMAIN-SUFFIX,bnews.co
 DOMAIN-SUFFIX,bnn.co
 DOMAIN-SUFFIX,bnrmetal.com
+DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,boardreader.com
 DOMAIN-SUFFIX,bobovip.cc
 DOMAIN-SUFFIX,bobs-tube.com
@@ -19861,6 +19863,7 @@ DOMAIN-SUFFIX,yinac5.top
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yingpianqu.com
 DOMAIN-SUFFIX,yingsuoss.com
+DOMAIN-SUFFIX,yingwangtech.cloud
 DOMAIN-SUFFIX,yinhdhan.sbs
 DOMAIN-SUFFIX,yinhuafish.lat
 DOMAIN-SUFFIX,yinlei.org

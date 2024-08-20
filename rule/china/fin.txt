@@ -1,4 +1,4 @@
-# Main total line 1003
+# Main total line 1004
 # ------------------------------------------
 DOMAIN,download.jetbrains.com
 DOMAIN,www.layuicdn.com
@@ -925,6 +925,7 @@ DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yunpan.com
+DOMAIN-SUFFIX,yupoo.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yyets.com

@@ -1,4 +1,4 @@
-# Main total line 559
+# Main total line 563
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -6,6 +6,7 @@ DOMAIN,amupdatedl3.microsoft.com
 DOMAIN,amupdatedl4.microsoft.com
 DOMAIN,amupdatedl5.microsoft.com
 DOMAIN,api-updates.orbstack.dev
+DOMAIN,app-updates.agilebits.com
 DOMAIN,artifacts.electronjs.org
 DOMAIN,ava6.androidfilehost.com
 DOMAIN,az764295.vo.msecnd.net
@@ -76,6 +77,7 @@ DOMAIN,download.gimp.org
 DOMAIN,download.hikarifield.co.jp
 DOMAIN,download.iboysoft.com
 DOMAIN,download.jetbrains.com
+DOMAIN,download.maxmind.com
 DOMAIN,download.mikrotik.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.mozilla.org
@@ -98,6 +100,7 @@ DOMAIN,downloads.1password.com
 DOMAIN,downloads.openwrt.org
 DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net
+DOMAIN,downloads.wordpress.org
 DOMAIN,downloads.xrite.com
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
@@ -192,6 +195,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
 DOMAIN,update.sleazyfork.org
+DOMAIN,updates.istatmenus.app
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com

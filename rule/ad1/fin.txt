@@ -1,4 +1,4 @@
-# Main total line 3363
+# Main total line 3371
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -3214,6 +3214,7 @@ IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,103.37.155.60/32,no-resolve
 IP-CIDR,103.41.167.237/32,no-resolve
 IP-CIDR,103.49.209.27/32,no-resolve
+IP-CIDR,104.168.155.129/32,no-resolve
 IP-CIDR,104.239.213.7/32,no-resolve
 IP-CIDR,106.75.231.48/32,no-resolve
 IP-CIDR,111.11.208.2/32,no-resolve
@@ -3226,6 +3227,7 @@ IP-CIDR,114.112.163.232/32,no-resolve
 IP-CIDR,114.112.163.254/32,no-resolve
 IP-CIDR,114.247.28.96/32,no-resolve
 IP-CIDR,115.182.16.79/32,no-resolve
+IP-CIDR,116.48.142.21/32,no-resolve
 IP-CIDR,117.177.248.17/32,no-resolve
 IP-CIDR,117.177.248.41/32,no-resolve
 IP-CIDR,118.144.88.126/32,no-resolve
@@ -3252,7 +3254,11 @@ IP-CIDR,125.211.213.130/31,no-resolve
 IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
+IP-CIDR,129.232.146.250/32,no-resolve
+IP-CIDR,138.197.109.175/32,no-resolve
+IP-CIDR,162.243.103.246/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
+IP-CIDR,178.79.147.66/32,no-resolve
 IP-CIDR,180.153.103.224/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
 IP-CIDR,180.168.41.175/32,no-resolve
@@ -3264,6 +3270,7 @@ IP-CIDR,183.221.250.11/32,no-resolve
 IP-CIDR,183.224.40.24/32,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
 IP-CIDR,192.9.135.73/32,no-resolve
+IP-CIDR,192.99.150.39/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
 IP-CIDR,202.100.220.54/32,no-resolve
 IP-CIDR,202.100.68.117/32,no-resolve
@@ -3285,6 +3292,7 @@ IP-CIDR,211.138.74.132/32,no-resolve
 IP-CIDR,211.139.136.73/32,no-resolve
 IP-CIDR,211.98.70.226/31,no-resolve
 IP-CIDR,211.98.71.195/32,no-resolve
+IP-CIDR,212.112.86.37/32,no-resolve
 IP-CIDR,218.28.144.36/30,no-resolve
 IP-CIDR,218.28.144.40/31,no-resolve
 IP-CIDR,218.28.144.42/32,no-resolve

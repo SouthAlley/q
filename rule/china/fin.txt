@@ -1,6 +1,7 @@
-# Main total line 1008
+# Main total line 1009
 # ------------------------------------------
 DOMAIN,download.jetbrains.com
+DOMAIN,gstore.val.manlaxy.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com

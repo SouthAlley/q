@@ -1,4 +1,4 @@
-# Main total line 20396
+# Main total line 20395
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -18723,7 +18723,6 @@ DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,wballiance.com
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,wbdnbo.net
-DOMAIN-SUFFIX,wbrks.com
 DOMAIN-SUFFIX,wbvm4s.com
 DOMAIN-SUFFIX,wd.bible
 DOMAIN-SUFFIX,wd.com

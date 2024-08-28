@@ -1,4 +1,4 @@
-# Main total line 3452
+# Main total line 3459
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -878,6 +878,7 @@ DOMAIN-SUFFIX,adxmi.com
 DOMAIN-SUFFIX,adyun.com
 DOMAIN-SUFFIX,adzerk.net
 DOMAIN-SUFFIX,ae.bdstatic.com
+DOMAIN-SUFFIX,aegis.qq.com
 DOMAIN-SUFFIX,afd.baidu.cn
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afd.l.google.com
@@ -949,6 +950,7 @@ DOMAIN-SUFFIX,anydeskchina.cn
 DOMAIN-SUFFIX,anysdk.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,aoodoo.feng.com
+DOMAIN-SUFFIX,ap.dongqiudi.com
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apd-pcdnwxstat.teg.tencent-cloud.net
@@ -1055,6 +1057,7 @@ DOMAIN-SUFFIX,beacon-api.aliyuncs.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN-SUFFIX,beacon.tingyun.com
+DOMAIN-SUFFIX,beaconcdn.qq.com
 DOMAIN-SUFFIX,beacons.gvt2.com
 DOMAIN-SUFFIX,beap-bc.yahoo.com
 DOMAIN-SUFFIX,beerto.cn
@@ -1105,6 +1108,7 @@ DOMAIN-SUFFIX,brucelead.com
 DOMAIN-SUFFIX,bryonypie.com
 DOMAIN-SUFFIX,bsdev.cn
 DOMAIN-SUFFIX,bshare.cn
+DOMAIN-SUFFIX,bsrv.qq.com
 DOMAIN-SUFFIX,bss.pandora.xiaomi.com
 DOMAIN-SUFFIX,btlaunch.baidu.com
 DOMAIN-SUFFIX,bttrack.com
@@ -2256,6 +2260,7 @@ DOMAIN-SUFFIX,placelocal.com
 DOMAIN-SUFFIX,playersb.com
 DOMAIN-SUFFIX,plista.com
 DOMAIN-SUFFIX,plugrush.com
+DOMAIN-SUFFIX,pms.mb.qq.com
 DOMAIN-SUFFIX,po.funshion.com
 DOMAIN-SUFFIX,polarmobile.com
 DOMAIN-SUFFIX,policy.jd.com
@@ -2388,6 +2393,7 @@ DOMAIN-SUFFIX,relap.io
 DOMAIN-SUFFIX,release.baidu.com
 DOMAIN-SUFFIX,report.meituan.com
 DOMAIN-SUFFIX,report.qq.com
+DOMAIN-SUFFIX,report.tv.kohesport.qq.com
 DOMAIN-SUFFIX,res.gwifi.com.cn
 DOMAIN-SUFFIX,res.hunantv.com
 DOMAIN-SUFFIX,res.limei.com
@@ -2602,6 +2608,7 @@ DOMAIN-SUFFIX,startappexchange.com
 DOMAIN-SUFFIX,startappservice.com
 DOMAIN-SUFFIX,stat.10jqka.com.cn
 DOMAIN-SUFFIX,stat.360safe.com
+DOMAIN-SUFFIX,stat.dongqiudi.com
 DOMAIN-SUFFIX,stat.funshion.com
 DOMAIN-SUFFIX,stat.it168.com
 DOMAIN-SUFFIX,stat.letv.com
@@ -2624,7 +2631,6 @@ DOMAIN-SUFFIX,static.ku6.com
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statics.woozooo.com
-DOMAIN-SUFFIX,staticsns.cdn.bcebos.com
 DOMAIN-SUFFIX,staticxx.facebook.com
 DOMAIN-SUFFIX,stats-locations.com
 DOMAIN-SUFFIX,stats.autohome.com.cn
@@ -2935,6 +2941,7 @@ DOMAIN-SUFFIX,vi-serve.com
 DOMAIN-SUFFIX,vidazoo.com
 DOMAIN-SUFFIX,video-ad.sm.cn
 DOMAIN-SUFFIX,video-dsp.pddpic.com
+DOMAIN-SUFFIX,video.dispatch.tc.qq.com
 DOMAIN-SUFFIX,video.ktkjmp.com
 DOMAIN-SUFFIX,videoadex.com
 DOMAIN-SUFFIX,videohub.tv

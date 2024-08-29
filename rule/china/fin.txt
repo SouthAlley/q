@@ -1,4 +1,4 @@
-# Main total line 1009
+# Main total line 1012
 # ------------------------------------------
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
@@ -171,6 +171,7 @@ DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
 DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytefcdnrd.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteimg.com
@@ -319,6 +320,7 @@ DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,ecitic.net
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdpage.com
+DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,element-plus.org
@@ -494,6 +496,7 @@ DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,knewone.com
 DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,koubei.com
+DOMAIN-SUFFIX,koyso.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ksord.com

@@ -1,4 +1,4 @@
-# Main total line 6358
+# Main total line 6357
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5529,7 +5529,6 @@ DOMAIN-SUFFIX,urlborg.com
 DOMAIN-SUFFIX,urlparser.com
 DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
-DOMAIN-SUFFIX,usc.edu
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,usembassy.gov

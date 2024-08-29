@@ -55,6 +55,7 @@ DOMAIN,assets-production.packagecloud.io
 DOMAIN,assets-s3-us-east-1.ceros.com
 DOMAIN,assets-v2.super.so
 DOMAIN,assets-www.xbox.com
+DOMAIN,assets.aboutamazon.com
 DOMAIN,assets.adobedtm.com
 DOMAIN,assets.apilayer.com
 DOMAIN,assets.auth.magic.link
@@ -77,6 +78,7 @@ DOMAIN,assets.clever-cloud.com
 DOMAIN,assets.codepen.io
 DOMAIN,assets.coinbase.com
 DOMAIN,assets.coingecko.com
+DOMAIN,assets.context.ly
 DOMAIN,assets.convertkit.com
 DOMAIN,assets.dnsfilter.com
 DOMAIN,assets.dwncdn.net
@@ -367,6 +369,7 @@ DOMAIN,cdn.pagic.org
 DOMAIN,cdn.parsely.com
 DOMAIN,cdn.pathfactory.com
 DOMAIN,cdn.perfops.net
+DOMAIN,cdn.permutive.com
 DOMAIN,cdn.piano.io
 DOMAIN,cdn.pickystory.com
 DOMAIN,cdn.pika.dev
@@ -697,6 +700,7 @@ DOMAIN,image.status.io
 DOMAIN,image.theblockbeats.info
 DOMAIN,image.thefly.com
 DOMAIN,image.tmdb.org
+DOMAIN,image.westinyou.com
 DOMAIN,imagehost.player.fm
 DOMAIN,imageio.forbes.com
 DOMAIN,images-assets.nasa.gov
@@ -704,6 +708,7 @@ DOMAIN,images-eds-ssl.xboxlive.com
 DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
 DOMAIN,images.arigatotravel.com
+DOMAIN,images.bfmtv.com
 DOMAIN,images.contentful.com
 DOMAIN,images.design-editor.com
 DOMAIN,images.dmca.com
@@ -791,7 +796,6 @@ DOMAIN,img1.ak.crunchyroll.com
 DOMAIN,img2.tnaflix.com
 DOMAIN,img2.xiangbinjun.com
 DOMAIN,img3.lltaohuaxiang.com
-DOMAIN,imgcdn.91pic.org
 DOMAIN,imgix.setapp.com
 DOMAIN,imgproxy.fourthwall.com
 DOMAIN,imgrs.apkcombo.com
@@ -1503,6 +1507,7 @@ DOMAIN-SUFFIX,1passwordusercontent.eu
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,7mmtv.tv
+DOMAIN-SUFFIX,91pic.org
 DOMAIN-SUFFIX,98avcdn.xyz
 DOMAIN-SUFFIX,99av.tv
 DOMAIN-SUFFIX,9cache.com
@@ -1528,6 +1533,7 @@ DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-servd.host
 DOMAIN-SUFFIX,assets-yammer.com
+DOMAIN-SUFFIX,assets.adidas.com
 DOMAIN-SUFFIX,assets.digitalocean.com
 DOMAIN-SUFFIX,assets.getpocket.com
 DOMAIN-SUFFIX,assets.heroku.com
@@ -1721,6 +1727,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gitpage.si
+DOMAIN-SUFFIX,glass.adidas.com
 DOMAIN-SUFFIX,glbimg.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gravatar.com
@@ -1762,6 +1769,7 @@ DOMAIN-SUFFIX,images-iherb.com
 DOMAIN-SUFFIX,images.androeed.ru
 DOMAIN-SUFFIX,images.arcpublishing.com
 DOMAIN-SUFFIX,imageshack.us
+DOMAIN-SUFFIX,img-dpreview.com
 DOMAIN-SUFFIX,img1.acsta.net
 DOMAIN-SUFFIX,img2.acsta.net
 DOMAIN-SUFFIX,img3.acsta.net

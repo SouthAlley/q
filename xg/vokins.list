@@ -1,4 +1,4 @@
-# Update > 21:28 2024/7/4
+# Update > 16:21 2024/8/27
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
@@ -266,7 +266,6 @@ DOMAIN,video-dsp.pddpic.com
 #Buy-美团
 DOMAIN,adgame.waimai.meituan.com
 DOMAIN,analytics.meituan.net
-DOMAIN,appsec-mobile.meituan.com
 DOMAIN,mtvod.meituan.net
 DOMAIN-SUFFIX,d.meituan.net
 DOMAIN-SUFFIX,dreport.meituan.net
@@ -806,7 +805,7 @@ DOMAIN,nsclickvideo.xiaodutv.com
 DOMAIN,xda.xiaodutv.com
 #Video-优酷
 DOMAIN-SUFFIX,atm.youku.com
-DOMAIN,acs.youku.com
+DOMAIN-SUFFIX,ad.youku.com
 DOMAIN,adashx.ut.tudou.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,adx-open-service.youku.com
@@ -815,10 +814,8 @@ DOMAIN,cad.youku.com
 DOMAIN,ems.youku.com
 DOMAIN,h-adashx.ut.youku.com
 DOMAIN,iyes.youku.com
-DOMAIN,push.m.youku.com
 DOMAIN,rhdc-acs.youku.com
 DOMAIN,un-acs.youku.com
-DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,f-vali.cp31.ott.cibntv.net
 DOMAIN,m-vali.cp31.ott.cibntv.net
@@ -1100,7 +1097,7 @@ DOMAIN,afpmm.alicdn.com
 DOMAIN,alimama.alicdn.com
 DOMAIN,atanx.alicdn.com
 DOMAIN,baichuan-sdk.alicdn.com
-DOMAIN,hudong.alicdn.com
+#DOMAIN,hudong.alicdn.com
 DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,ossgw.alicdn.com
 DOMAIN,unidesk.alicdn.com
@@ -1118,6 +1115,7 @@ DOMAIN,log.mmstat.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,yt.mmstat.com
 #Ali-淘宝
+DOMAIN,ifs.tanx.com
 DOMAIN,h-adashx.ut.taobao.com
 #DOMAIN,acs.m.taobao.com
 DOMAIN,trade-acs.m.taobao.com
@@ -1135,7 +1133,7 @@ DOMAIN,umengjmacs.m.taobao.com
 DOMAIN,youku-acs.m.taobao.com
 DOMAIN,mamasearchad.cloudvideocdn.taobao.com
 DOMAIN,guangguang.cloudvideocdn.taobao.com
-DOMAIN-SUFFIX,simba.taobao.com
+#DOMAIN-SUFFIX,simba.taobao.com
 #Ali-UC
 DOMAIN,applog-perf.uc.cn
 DOMAIN,applog.uc.cn
@@ -1548,7 +1546,8 @@ DOMAIN-SUFFIX,tpns.tencent.com
 #Tencent-gdt
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,gdtimg.com
-DOMAIN-SUFFIX,gtimg.cn
+#DOMAIN-SUFFIX,gtimg.cn
+DOMAIN,pgdt.gtimg.cn
 DOMAIN,ra.gtimg.com
 DOMAIN,wa.gtimg.com
 DOMAIN,report.idqqimg.com
@@ -1768,6 +1767,7 @@ DOMAIN-SUFFIX,adtaily.com
 DOMAIN-SUFFIX,adtechjp.com
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adthrive.com
+DOMAIN-SUFFIX,adtng.com
 DOMAIN-SUFFIX,adtroop.cn
 DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,adultfriendfinder.com
@@ -1805,6 +1805,7 @@ DOMAIN-SUFFIX,atomhike.com
 DOMAIN-SUFFIX,atwola.com
 DOMAIN-SUFFIX,audiobuy.cc
 DOMAIN-SUFFIX,autumnone.cn
+DOMAIN-SUFFIX,avlm1.com
 DOMAIN-SUFFIX,awaliwa.com
 DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,baichuanhd.com
@@ -1853,6 +1854,7 @@ DOMAIN-SUFFIX,cdnmaster.com
 DOMAIN-SUFFIX,chanet.com.cn
 DOMAIN-SUFFIX,channeladvisor.com
 DOMAIN-SUFFIX,chartbeat.com
+DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,chinese-blog.org
 DOMAIN-SUFFIX,chushoushijian.cn
 DOMAIN-SUFFIX,cjgcedu.com
@@ -1863,6 +1865,7 @@ DOMAIN-SUFFIX,clearbitjs.com
 DOMAIN-SUFFIX,clicki.cn
 DOMAIN-SUFFIX,cloudmobi.net
 DOMAIN-SUFFIX,cmgadx.com
+DOMAIN-SUFFIX,cmvrclicks000.com
 DOMAIN-SUFFIX,cn.miaozhen.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cocounion.com
@@ -1897,6 +1900,7 @@ DOMAIN-SUFFIX,dlads.cn
 DOMAIN-SUFFIX,dncvj.cn
 DOMAIN-SUFFIX,domob.cn
 DOMAIN-SUFFIX,domobcdn.com
+DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,dotmore.com.tw
 DOMAIN-SUFFIX,dots-services.com
 DOMAIN-SUFFIX,doumob.com
@@ -1921,6 +1925,7 @@ DOMAIN-SUFFIX,everesttech.net
 DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exoclick.com
 DOMAIN-SUFFIX,fanli.com
+DOMAIN-SUFFIX,faphouse.com
 DOMAIN-SUFFIX,fastclick.net
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,ffllff.com
@@ -2057,6 +2062,7 @@ DOMAIN-SUFFIX,mintegral.com
 DOMAIN-SUFFIX,miptoo.cn
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mktyhr.xyz
+DOMAIN-SUFFIX,mnaspm.com
 DOMAIN-SUFFIX,mnknrt.xyz
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,mob.com
@@ -2122,6 +2128,7 @@ DOMAIN-SUFFIX,quandangdang.net
 DOMAIN-SUFFIX,quanfeng.net
 DOMAIN-SUFFIX,quantserve.com
 DOMAIN-SUFFIX,qumi.com
+DOMAIN-SUFFIX,ranfenghd.com
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,reachmax.cn
 DOMAIN-SUFFIX,realsrv.com
@@ -2149,6 +2156,7 @@ DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,simonayean.com
 DOMAIN-SUFFIX,sinawap.com
 DOMAIN-SUFFIX,sitescout.com
+DOMAIN-SUFFIX,sloffer1.com
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smadex.com
 DOMAIN-SUFFIX,smartadserver.com
@@ -2174,6 +2182,8 @@ DOMAIN-SUFFIX,stg8.com
 DOMAIN-SUFFIX,stgowan.com
 DOMAIN-SUFFIX,stickyadstv.com
 DOMAIN-SUFFIX,stnts.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,stripchat.ooo
 DOMAIN-SUFFIX,suisuihu.com
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,survata.com
@@ -2210,11 +2220,13 @@ DOMAIN-SUFFIX,toboads.com
 DOMAIN-SUFFIX,toponad.com
 DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,trafficjam.cn
+DOMAIN-SUFFIX,trafficjunky.com
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,tremorhub.com
 DOMAIN-SUFFIX,tribalfusion.com
 DOMAIN-SUFFIX,trwl1.com
 DOMAIN-SUFFIX,tsquan.cn
+DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,tuenhai.com
 DOMAIN-SUFFIX,tuisnake.com
@@ -2223,6 +2235,7 @@ DOMAIN-SUFFIX,twdjn.cn
 DOMAIN-SUFFIX,twlxyx.cn
 DOMAIN-SUFFIX,tydouke.com
 DOMAIN-SUFFIX,u7u9.com
+DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,ujian.cc
 DOMAIN-SUFFIX,ulink.cc
 DOMAIN-SUFFIX,umsns.com
@@ -2239,6 +2252,7 @@ DOMAIN-SUFFIX,valueke.com
 DOMAIN-SUFFIX,vamaker.com
 DOMAIN-SUFFIX,veda.top
 DOMAIN-SUFFIX,verizonmedia.com
+DOMAIN-SUFFIX,vfgtg.com
 DOMAIN-SUFFIX,videojj.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,viglink.com

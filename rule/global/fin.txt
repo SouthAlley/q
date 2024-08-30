@@ -1,4 +1,4 @@
-# Main total line 20395
+# Main total line 20397
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -43,6 +43,7 @@ DOMAIN,ood.opsource.net
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN,search.arc.net
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,translomatic.foxfortmobile.com
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
@@ -19139,6 +19140,7 @@ DOMAIN-SUFFIX,x-berry.com
 DOMAIN-SUFFIX,x-caprice.com
 DOMAIN-SUFFIX,x-fetish.org
 DOMAIN-SUFFIX,x-wall.org
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company

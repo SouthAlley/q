@@ -41,6 +41,7 @@ DOMAIN,ood.opsource.net
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN,search.arc.net
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,translomatic.foxfortmobile.com
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
@@ -19137,6 +19138,7 @@ DOMAIN-SUFFIX,x-berry.com
 DOMAIN-SUFFIX,x-caprice.com
 DOMAIN-SUFFIX,x-fetish.org
 DOMAIN-SUFFIX,x-wall.org
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company

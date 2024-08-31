@@ -1,4 +1,4 @@
-# Main total line 2189
+# Main total line 2190
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1862,6 +1862,7 @@ DOMAIN-SUFFIX,kc-usercontent.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,kinja-static.com
 DOMAIN-SUFFIX,kinsta.page
+DOMAIN-SUFFIX,kirafile.com
 DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,kuaikan-cdn4.com
 DOMAIN-SUFFIX,kwcdn.com

@@ -1,4 +1,4 @@
-# Main total line 2190
+# Main total line 2193
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -507,6 +507,7 @@ DOMAIN,client.px-cloud.net
 DOMAIN,clips-media-assets2.twitch.tv
 DOMAIN,cloud.redhat.com
 DOMAIN,cloudflare.tv
+DOMAIN,cms-assets.nodecraft.com
 DOMAIN,cms-assets.webediamovies.pro
 DOMAIN,cms-cdn.now.gg
 DOMAIN,code.benco.io
@@ -1984,6 +1985,8 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pztv.ca
 DOMAIN-SUFFIX,pzvcdn.com
 DOMAIN-SUFFIX,qooqlevideo.com
+DOMAIN-SUFFIX,quip-cdn.com
+DOMAIN-SUFFIX,quip-marketing.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,qy0.ru
 DOMAIN-SUFFIX,r2.dev

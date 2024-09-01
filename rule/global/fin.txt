@@ -1,4 +1,4 @@
-# Main total line 20397
+# Main total line 20398
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -13524,6 +13524,7 @@ DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openamt.com
 DOMAIN-SUFFIX,openapiplatform.com
 DOMAIN-SUFFIX,openapiservice.com
+DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendemocracy.net

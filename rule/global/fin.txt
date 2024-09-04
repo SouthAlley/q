@@ -1,4 +1,4 @@
-# Main total line 20400
+# Main total line 20403
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -4238,6 +4238,7 @@ DOMAIN-SUFFIX,clinical-videos.com
 DOMAIN-SUFFIX,clinicalkey.com
 DOMAIN-SUFFIX,clip16.com
 DOMAIN-SUFFIX,clipcake.com
+DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,cliphayho.com
 DOMAIN-SUFFIX,cliphunter.com
@@ -5023,6 +5024,7 @@ DOMAIN-SUFFIX,diddykongracing.com
 DOMAIN-SUFFIX,didilist.com
 DOMAIN-SUFFIX,dierectv.com
 DOMAIN-SUFFIX,difangwenge.org
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert-validation.com
 DOMAIN-SUFFIX,digicert.com
@@ -10063,6 +10065,7 @@ DOMAIN-SUFFIX,japxtube.com
 DOMAIN-SUFFIX,jasa3dmax.com
 DOMAIN-SUFFIX,jasaautocad.com
 DOMAIN-SUFFIX,jasmin.com
+DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,jav-1080.com
 DOMAIN-SUFFIX,jav-angel.net
 DOMAIN-SUFFIX,jav-legend.com

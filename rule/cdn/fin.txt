@@ -1,4 +1,4 @@
-# Main total line 2198
+# Main total line 2200
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1271,6 +1271,7 @@ DOMAIN,static.ietf.org
 DOMAIN,static.incapsula.com
 DOMAIN,static.independent.co.uk
 DOMAIN,static.infomaniak.ch
+DOMAIN,static.institution.grammarly.com
 DOMAIN,static.itch.io
 DOMAIN,static.javcdn.info
 DOMAIN,static.killedbygoogle.com
@@ -1794,6 +1795,7 @@ DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intuitcdn.net
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,ipfs.1-2.dev

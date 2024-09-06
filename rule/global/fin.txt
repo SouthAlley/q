@@ -1,4 +1,4 @@
-# Main total line 20403
+# Main total line 20404
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -11782,6 +11782,7 @@ DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mindrolling.org
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,mingdemedia.org
 DOMAIN-SUFFIX,minghui-a.org
 DOMAIN-SUFFIX,minghui-b.org

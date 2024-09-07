@@ -141,6 +141,7 @@ DOMAIN,assets.the-independent.com
 DOMAIN,assets.time.com
 DOMAIN,assets.toot.cafe
 DOMAIN,assets.tumblr.com
+DOMAIN,assets.twitch.tv
 DOMAIN,assets.unifi-ai.com
 DOMAIN,assets.upload.io
 DOMAIN,assets.vercel.com
@@ -610,6 +611,7 @@ DOMAIN,files.slack.com
 DOMAIN,files.writefreely.org
 DOMAIN,files.yande.re
 DOMAIN,filestore.fortinet.com
+DOMAIN,firefox.settings.services.mozilla.com
 DOMAIN,flows.trysavvy.com
 DOMAIN,fontbit.io
 DOMAIN,fonts-api.wp.com
@@ -690,6 +692,8 @@ DOMAIN,image.crisp.chat
 DOMAIN,image.dooo.ng
 DOMAIN,image.email.microsoftemail.com
 DOMAIN,image.freepik.com
+DOMAIN,image.gyutto.com
+DOMAIN,image.gyutto.jp
 DOMAIN,image.ibb.co
 DOMAIN,image.lichess1.org
 DOMAIN,image.nmb.best
@@ -742,6 +746,7 @@ DOMAIN,images.web3.storage
 DOMAIN,images.weserv.nl
 DOMAIN,images.wikia.com
 DOMAIN,images.wsj.net
+DOMAIN,images1.vinted.net
 DOMAIN,images7.design-editor.com
 DOMAIN,images8.design-editor.com
 DOMAIN,imagizer.imageshack.com
@@ -783,6 +788,7 @@ DOMAIN,img.reg.ru
 DOMAIN,img.reimu.net
 DOMAIN,img.represent.com
 DOMAIN,img.riskified.com
+DOMAIN,img.shoplineapp.com
 DOMAIN,img.skk.moe
 DOMAIN,img.sparknotes.com
 DOMAIN,img.supjav.com
@@ -850,6 +856,7 @@ DOMAIN,lumiere-a.akamaihd.net
 DOMAIN,m-cdn.phonearena.com
 DOMAIN,m.wsj.net
 DOMAIN,maps.geoapify.com
+DOMAIN,marketplace-web-assets.vinted.com
 DOMAIN,mastodon-static.miao.dev
 DOMAIN,maven.google.com
 DOMAIN,media-cdn.atlassian.com
@@ -1186,6 +1193,7 @@ DOMAIN,static-assets.coinbase.com
 DOMAIN,static-assets.freeanimehentai.net
 DOMAIN,static-assets.mapbox.com
 DOMAIN,static-assets.npr.org
+DOMAIN,static-assets.vinted.com
 DOMAIN,static-cache.fboom.me
 DOMAIN,static-cache.k2s.cc
 DOMAIN,static-cdn.123rf.com
@@ -1336,6 +1344,7 @@ DOMAIN,static.typingclub.com
 DOMAIN,static.ui.com
 DOMAIN,static.underhentai.net
 DOMAIN,static.v2ex.com
+DOMAIN,static.vinted.com
 DOMAIN,static.vocadb.net
 DOMAIN,static.whatsapp.net
 DOMAIN,static.zaobao.com

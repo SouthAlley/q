@@ -1,4 +1,4 @@
-# Main total line 20404
+# Main total line 20405
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -8419,6 +8419,7 @@ DOMAIN-SUFFIX,herokussl.com
 DOMAIN-SUFFIX,herringnetwork.com
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hetzner.company
 DOMAIN-SUFFIX,hetzner.de
 DOMAIN-SUFFIX,heungkongdiscuss.com
 DOMAIN-SUFFIX,hex.pm

@@ -1,4 +1,4 @@
-# Main total line 2215
+# Main total line 2216
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1489,6 +1489,7 @@ DOMAIN,wac-cdn.atlassian.com
 DOMAIN,waitlisted.co
 DOMAIN,wandi-6402.kxcdn.com
 DOMAIN,wcpstatic.microsoft.com
+DOMAIN,web-assets.esetstatic.com
 DOMAIN,web-assets.ifttt.com
 DOMAIN,web-assets.otogi-frontier.com
 DOMAIN,web-assets.strava.com

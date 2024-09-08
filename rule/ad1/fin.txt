@@ -1,4 +1,4 @@
-# Main total line 3478
+# Main total line 3480
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -1948,7 +1948,6 @@ DOMAIN-SUFFIX,mackeeper.com
 DOMAIN-SUFFIX,madhouse.cn
 DOMAIN-SUFFIX,madmini.com
 DOMAIN-SUFFIX,madserving.com
-DOMAIN-SUFFIX,magev6.if.qidian.com
 DOMAIN-SUFFIX,magicwindow.cn
 DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,maipinshangmao.com
@@ -2198,6 +2197,7 @@ DOMAIN-SUFFIX,otheve.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,outbrain.org
 DOMAIN-SUFFIX,outbrainimg.com
+DOMAIN-SUFFIX,outlookads.live.com
 DOMAIN-SUFFIX,overture.com
 DOMAIN-SUFFIX,overturechina.com
 DOMAIN-SUFFIX,owneriq.net
@@ -3031,6 +3031,8 @@ DOMAIN-SUFFIX,waps.cn
 DOMAIN-SUFFIX,wapstart.ru
 DOMAIN-SUFFIX,wapx.cn
 DOMAIN-SUFFIX,watchingthat.net
+DOMAIN-SUFFIX,watson.microsoft.com
+DOMAIN-SUFFIX,watson.telemetry.microsoft.com
 DOMAIN-SUFFIX,wax.weibo.com.cn
 DOMAIN-SUFFIX,wbapp.mobile.sina.cn
 DOMAIN-SUFFIX,wbapp.uve.weibo.com

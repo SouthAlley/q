@@ -1,4 +1,4 @@
-# Main total line 6367
+# Main total line 6369
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -1421,6 +1421,7 @@ DOMAIN-SUFFIX,doujincafe.com
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpr.info
 DOMAIN-SUFFIX,dragonex.io
@@ -1758,6 +1759,7 @@ DOMAIN-SUFFIX,faronicswise.com
 DOMAIN-SUFFIX,fartit.com
 DOMAIN-SUFFIX,farwestchina.com
 DOMAIN-SUFFIX,fastestvpn.com
+DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylb.net

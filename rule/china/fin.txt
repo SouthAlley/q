@@ -1,4 +1,4 @@
-# Main total line 1013
+# Main total line 1014
 # ------------------------------------------
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
@@ -179,6 +179,7 @@ DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytemaimg.com
 DOMAIN-SUFFIX,bytemastatic.com
 DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
 DOMAIN-SUFFIX,c-ctrip.com

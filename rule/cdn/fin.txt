@@ -1,4 +1,4 @@
-# Main total line 2262
+# Main total line 2263
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1977,6 +1977,7 @@ DOMAIN-SUFFIX,nest.land
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,netdna-ssl.com
 DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,nextui.org
 DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ngfiles.com
 DOMAIN-SUFFIX,nincontent.com

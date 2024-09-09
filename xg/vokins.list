@@ -1,4 +1,4 @@
-# Update > 16:21 2024/8/27
+# Update > 20:22 2024/9/8
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
@@ -300,6 +300,7 @@ DOMAIN,log.suning.com
 #Cam-美人相机
 DOMAIN,a-m-s.adnonstop.com.cn
 #Cam-美图秀秀
+DOMAIN,adui.tg.meitu.com
 DOMAIN-SUFFIX,tg.meitu.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN,mea.meitudata.com
@@ -1221,6 +1222,7 @@ DOMAIN,sp1.baidu.com
 DOMAIN,tcbox.baidu.com
 DOMAIN,ucstat.baidu.com
 DOMAIN,ug.baidu.com
+DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
 DOMAIN,wangmeng.baidu.com
 DOMAIN,wkctj.baidu.com
@@ -1248,6 +1250,7 @@ DOMAIN,search-operate.cdn.bcebos.com
 DOMAIN,lupic.cdn.bcebos.com
 DOMAIN,render-server.cdn.bcebos.com
 #Baidu-baidustatic
+DOMAIN,cpro.baidustatic.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN,ae.bdstatic.com
 DOMAIN,code.bdstatic.com
@@ -1274,6 +1277,7 @@ DOMAIN-SUFFIX,mssdk.bytedance.com
 DOMAIN-KEYWORD,adbrand.byteimg.com
 DOMAIN-KEYWORD,ad-sign.byteimg.com
 DOMAIN-KEYWORD,asiad.byteactivity
+DOMAIN-KEYWORD,-ad.byteoversea.com
 DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
@@ -1309,9 +1313,13 @@ DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN,sf1-pitaya-tos.pstatp.com
 DOMAIN,sf3-pitaya-tos.pstatp.com
 #Bytedance-今日头条
+DOMAIN,log-api.pangolin-sdk-toutiao-b.com
+DOMAIN,log-api.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN,gromore.pangolin-sdk-toutiao.com
+DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,ad.toutiao.com
@@ -1347,6 +1355,7 @@ DOMAIN-SUFFIX,baohuaxia.com
 DOMAIN-SUFFIX,applog.snssdk.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN,toblog.ctobsnssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,sdfp.snssdk.com
@@ -1511,19 +1520,24 @@ DOMAIN,ads.privacy.qq.com
 DOMAIN,analytics.map.qq.com
 DOMAIN,btrace.qq.com
 DOMAIN,dp3.qq.com
-DOMAIN,h.trace.qq.com
+#DOMAIN,h.trace.qq.com
 DOMAIN,hc.tdm.qq.com
 DOMAIN,ios.rqd.qq.com
 DOMAIN,jpush.html5.qq.com
 DOMAIN,logsdk.qq.com
 DOMAIN,masdkv6.3g.qq.com
-DOMAIN,mazu.m.qq.com
+#DOMAIN,mazu.m.qq.com
+DOMAIN,c2.gdt.qq.com
 DOMAIN,mi.gdt.qq.com
+DOMAIN,t.gdt.qq.com
+DOMAIN,v.gdt.qq.com
+DOMAIN,v2.gdt.qq.com
+DOMAIN,win.gdt.qq.com
 DOMAIN,rdelivery.qq.com
 DOMAIN,report.qqweb.qq.com
 DOMAIN,tdid.m.qq.com
-DOMAIN,tmfmazu.m.qq.com
-DOMAIN,tpush.html5.qq.com
+#DOMAIN,tmfmazu.m.qq.com
+#DOMAIN,tpush.html5.qq.com
 DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.video.qq.com
@@ -1546,6 +1560,9 @@ DOMAIN-SUFFIX,tpns.tencent.com
 #Tencent-gdt
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,gdtimg.com
+DOMAIN,adsmind.gdtimg.com
+DOMAIN,adsmind.ugdtimg.com
+DOMAIN,pgdt.ugdtimg.com
 #DOMAIN-SUFFIX,gtimg.cn
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,ra.gtimg.com
@@ -1866,7 +1883,6 @@ DOMAIN-SUFFIX,clicki.cn
 DOMAIN-SUFFIX,cloudmobi.net
 DOMAIN-SUFFIX,cmgadx.com
 DOMAIN-SUFFIX,cmvrclicks000.com
-DOMAIN-SUFFIX,cn.miaozhen.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cocounion.com
 DOMAIN-SUFFIX,codenow.cn
@@ -1929,6 +1945,7 @@ DOMAIN-SUFFIX,faphouse.com
 DOMAIN-SUFFIX,fastclick.net
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,ffllff.com
+DOMAIN-SUFFIX,flnet.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fraudmetrix.cn
@@ -2070,11 +2087,13 @@ DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobfox.com
 DOMAIN-SUFFIX,mobgi.com
 DOMAIN-SUFFIX,mobilegamestats.com
+DOMAIN-SUFFIX,mobileservice.cn
 DOMAIN-SUFFIX,mobvista.com
 DOMAIN-SUFFIX,modela.cn
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,moreyun.cn
 DOMAIN-SUFFIX,morningds.com
+DOMAIN-SUFFIX,mosspf.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mtadver.com
 DOMAIN-SUFFIX,mtk.pub

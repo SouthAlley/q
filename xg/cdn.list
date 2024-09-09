@@ -38,6 +38,8 @@ DOMAIN,app.cookieyes.com
 DOMAIN,app.roboflow.com
 DOMAIN,app.viral-loops.com
 DOMAIN,appassets.mvtdev.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apps.profitihub.com
 DOMAIN,archive.mozilla.org
 DOMAIN,artworks.thetvdb.com
@@ -528,6 +530,9 @@ DOMAIN,content.any.run
 DOMAIN,content.jwplatform.com
 DOMAIN,content.wepik.com
 DOMAIN,cookie-cdn.cookiepro.com
+DOMAIN,cp2.cloudflare.com
+DOMAIN,cp3.cloudflare.com
+DOMAIN,cp4.cloudflare.com
 DOMAIN,cpwebassets.codepen.io
 DOMAIN,creativajs.altervista.org
 DOMAIN,crl.usertrust.com
@@ -1004,6 +1009,7 @@ DOMAIN,pkg-cdn.jetbrains.team
 DOMAIN,pkg-size.dev
 DOMAIN,pkg.cloudflareclient.com
 DOMAIN,pkg.csb.dev
+DOMAIN,pkgs.dev.azure.com
 DOMAIN,pl.ea.com
 DOMAIN,placeimg.com
 DOMAIN,platform.twitter.com
@@ -1481,6 +1487,7 @@ DOMAIN,wac-cdn.atlassian.com
 DOMAIN,waitlisted.co
 DOMAIN,wandi-6402.kxcdn.com
 DOMAIN,wcpstatic.microsoft.com
+DOMAIN,web-assets.esetstatic.com
 DOMAIN,web-assets.ifttt.com
 DOMAIN,web-assets.otogi-frontier.com
 DOMAIN,web-assets.strava.com

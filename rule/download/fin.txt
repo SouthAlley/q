@@ -1,4 +1,4 @@
-# Main total line 566
+# Main total line 568
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -40,11 +40,13 @@ DOMAIN,content6.steampowered.com
 DOMAIN,content7.steampowered.com
 DOMAIN,content8.steampowered.com
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN,deb.nodesource.com
 DOMAIN,desktop.docker.com
 DOMAIN,desktop.parallels.com
 DOMAIN,desktop.wifiman.com
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,dl-portal.iina.io
+DOMAIN,dl.cloudsmith.io
 DOMAIN,dl.devmate.com
 DOMAIN,dl.discordapp.net
 DOMAIN,dl.flathub.org

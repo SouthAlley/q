@@ -1,4 +1,4 @@
-# Main total line 3480
+# Main total line 3481
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -2974,6 +2974,7 @@ DOMAIN-SUFFIX,vjugz.com
 DOMAIN-SUFFIX,vlion.cn
 DOMAIN-SUFFIX,vlive.qqvideo.tc.qq.com
 DOMAIN-SUFFIX,vm5apis.com
+DOMAIN-SUFFIX,vntsm.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,voiceads.com
 DOMAIN-SUFFIX,voicefive.com

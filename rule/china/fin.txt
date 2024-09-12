@@ -1,4 +1,4 @@
-# Main total line 1014
+# Main total line 1015
 # ------------------------------------------
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
@@ -484,6 +484,7 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,jomoxc.com
 DOMAIN-SUFFIX,jsboxbbs.com
 DOMAIN-SUFFIX,jstarkan.com
+DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,jumei.com
 DOMAIN-SUFFIX,kaikeba.com
 DOMAIN-SUFFIX,kaiyanapp.com

@@ -1,4 +1,4 @@
-# Main total line 6369
+# Main total line 6370
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5989,6 +5989,7 @@ DOMAIN-SUFFIX,xcafe.in
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xcritic.com
 DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,xerotica.com

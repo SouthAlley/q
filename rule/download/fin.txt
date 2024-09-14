@@ -1,4 +1,4 @@
-# Main total line 568
+# Main total line 569
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -41,7 +41,6 @@ DOMAIN,content7.steampowered.com
 DOMAIN,content8.steampowered.com
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,deb.nodesource.com
-DOMAIN,desktop.docker.com
 DOMAIN,desktop.parallels.com
 DOMAIN,desktop.wifiman.com
 DOMAIN,dl-cdn.alpinelinux.org
@@ -180,6 +179,7 @@ DOMAIN,releases.grapheneos.org
 DOMAIN,releases.obsidian.md
 DOMAIN,releases.whatpulse.org
 DOMAIN,repo.carbon.sh
+DOMAIN,repo.debiancn.org
 DOMAIN,repo.powerdns.com
 DOMAIN,security.debian.org
 DOMAIN,security.ubuntu.com
@@ -230,6 +230,7 @@ DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,dl.dlsite.com
 DOMAIN-SUFFIX,dl.elementary.io

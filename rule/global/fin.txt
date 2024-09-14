@@ -1,4 +1,4 @@
-# Main total line 20405
+# Main total line 20406
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -7745,6 +7745,7 @@ DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,giffgaff.design
 DOMAIN-SUFFIX,gifnuki.com
 DOMAIN-SUFFIX,gifree.com
+DOMAIN-SUFFIX,gigabyte.com
 DOMAIN-SUFFIX,gigacircle.com
 DOMAIN-SUFFIX,giganews.com
 DOMAIN-SUFFIX,gigantits.com

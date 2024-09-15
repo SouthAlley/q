@@ -1,4 +1,4 @@
-# Main total line 570
+# Main total line 572
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -213,6 +213,7 @@ DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,content.cdp.bethesda.net
 DOMAIN-SUFFIX,content.steampowered.com
 DOMAIN-SUFFIX,copr.fedorainfracloud.org
@@ -281,6 +282,7 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,releases.hashicorp.com
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,s3-1.amazonaws.com

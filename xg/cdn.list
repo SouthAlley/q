@@ -22,6 +22,7 @@ DOMAIN,alt.idgesg.net
 DOMAIN,amp.azure.net
 DOMAIN,anchor.digitalocean.com
 DOMAIN,api-frameworks.vercel.sh
+DOMAIN,api.allorigins.win
 DOMAIN,api.bintray.com
 DOMAIN,api.iconify.design
 DOMAIN,api.mintlify.com
@@ -363,6 +364,7 @@ DOMAIN,cdn.mcr.ea.com
 DOMAIN,cdn.media.amplience.net
 DOMAIN,cdn.micro.blog
 DOMAIN,cdn.minecraft-server-list.com
+DOMAIN,cdn.miohentai.com
 DOMAIN,cdn.missav.com
 DOMAIN,cdn.modrinth.com
 DOMAIN,cdn.myfonts.net
@@ -541,6 +543,7 @@ DOMAIN,content.any.run
 DOMAIN,content.jwplatform.com
 DOMAIN,content.wepik.com
 DOMAIN,cookie-cdn.cookiepro.com
+DOMAIN,cors-proxy.htmldriven.com
 DOMAIN,cp2.cloudflare.com
 DOMAIN,cp3.cloudflare.com
 DOMAIN,cp4.cloudflare.com
@@ -569,6 +572,7 @@ DOMAIN,dims.apnews.com
 DOMAIN,disco.headliner.link
 DOMAIN,dl.nwjs.io
 DOMAIN,dl2.nwjs.io
+DOMAIN,docker.cloudsmith.io
 DOMAIN,docs.rs
 DOMAIN,doppler-config.cbsivideo.com
 DOMAIN,doujin-assets.dmm.co.jp
@@ -604,6 +608,7 @@ DOMAIN,eu.hamreus.com
 DOMAIN,euc-widget.freshworks.com
 DOMAIN,events-delivery.apple.com
 DOMAIN,events-live.apple.com
+DOMAIN,events.tableplus.com
 DOMAIN,external-content.duckduckgo.com
 DOMAIN,f.convertkit.com
 DOMAIN,f.start.me
@@ -947,6 +952,7 @@ DOMAIN,mixin-images.zeromesh.net
 DOMAIN,mobilecenter.azureedge.net
 DOMAIN,momentjs.com
 DOMAIN,mstdn-s3.o3o.studio
+DOMAIN,mui.com
 DOMAIN,mwcm.nyt.com
 DOMAIN,mwf-service.akamaized.net
 DOMAIN,mycommerce.akamaized.net
@@ -1067,6 +1073,7 @@ DOMAIN,prodamdnewsencoding.akamaized.net
 DOMAIN,production-cmp.isgprivacy.cbsi.com
 DOMAIN,profile-images.xing.com
 DOMAIN,proxy.beyondwords.io
+DOMAIN,proxy.cors.sh
 DOMAIN,proxy.golang.org
 DOMAIN,proxy.joinmastodon.org
 DOMAIN,ps.w.org
@@ -1130,6 +1137,7 @@ DOMAIN,s.w-x.co
 DOMAIN,s.w.org
 DOMAIN,s.wsj.net
 DOMAIN,s0.wp.com
+DOMAIN,s1.coincarp.com
 DOMAIN,s1.divhunt.com
 DOMAIN,s1.feedly.com
 DOMAIN,s1.qwant.com
@@ -1419,6 +1427,7 @@ DOMAIN,statics-xbc-eas.xbox.com
 DOMAIN,statics.goorm.io
 DOMAIN,statics.teams.cdn.office.net
 DOMAIN,staticw2.yotpo.com
+DOMAIN,stats.setapp.com
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
@@ -1452,6 +1461,7 @@ DOMAIN,telemetry.nextjs.org
 DOMAIN,telemetry.vercel.com
 DOMAIN,th.bing.com
 DOMAIN,themes.fourthwall.com
+DOMAIN,thingproxy.freeboard.io
 DOMAIN,thumbnail.missav.com
 DOMAIN,thumbnailer.mixcloud.com
 DOMAIN,thumbor.forbes.com
@@ -1466,6 +1476,8 @@ DOMAIN,ton.local.twitter.com
 DOMAIN,topbar-static.piano.io
 DOMAIN,torrindex.net
 DOMAIN,tracker.cdnbye.com
+DOMAIN,tuf-repo-cdn.sigstore.dev
+DOMAIN,tuf-repo.github.com
 DOMAIN,tvdownloaddw-a.akamaihd.net
 DOMAIN,twemoji.maxcdn.com
 DOMAIN,typeface.nyt.com
@@ -1697,6 +1709,7 @@ DOMAIN-SUFFIX,combinatronics.io
 DOMAIN-SUFFIX,content-storage-upload.googleapis.com
 DOMAIN-SUFFIX,content001.bet365.com
 DOMAIN-SUFFIX,coral.coralproject.net
+DOMAIN-SUFFIX,corsproxy.io
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,crossbell.io
 DOMAIN-SUFFIX,csb.app
@@ -1706,7 +1719,6 @@ DOMAIN-SUFFIX,cwwcdn.com
 DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,deno.land
 DOMAIN-SUFFIX,denopkg.com
-DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,devrum.uptime.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,disconnect.me
@@ -2047,12 +2059,14 @@ DOMAIN-SUFFIX,proxy2.startpage.com
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,public.cdn.office.net
+DOMAIN-SUFFIX,public.ecr.aws
 DOMAIN-SUFFIX,pxgcdn.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pztv.ca
 DOMAIN-SUFFIX,pzvcdn.com
 DOMAIN-SUFFIX,qooqlevideo.com
+DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,quip-cdn.com
 DOMAIN-SUFFIX,quip-marketing.com
 DOMAIN-SUFFIX,quoracdn.net
@@ -2149,6 +2163,7 @@ DOMAIN-SUFFIX,stream.publicradio.org
 DOMAIN-SUFFIX,streamhentai.org
 DOMAIN-SUFFIX,streamhk.com
 DOMAIN-SUFFIX,stripcdn.com
+DOMAIN-SUFFIX,stripeassets.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,strpst.com

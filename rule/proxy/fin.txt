@@ -1,4 +1,4 @@
-# Main total line 6370
+# Main total line 6371
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -3217,6 +3217,7 @@ DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,ma.hao123.com
 DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,macid.co
+DOMAIN-SUFFIX,macpaw.com
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrovpn.com
 DOMAIN-SUFFIX,macrumors.com

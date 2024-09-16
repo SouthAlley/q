@@ -1,4 +1,4 @@
-# Main total line 572
+# Main total line 573
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -186,6 +186,7 @@ DOMAIN,security.debian.org
 DOMAIN,security.ubuntu.com
 DOMAIN,share.riseup.net
 DOMAIN,softwareupdate.pilotmoon.com
+DOMAIN,static.adguard.com
 DOMAIN,stats.snipaste.com
 DOMAIN,steam.apac.qtlglb.com
 DOMAIN,steam.eca.qtlglb.com

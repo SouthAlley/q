@@ -1,4 +1,4 @@
-# Main total line 577
+# Main total line 583
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -213,6 +213,7 @@ DOMAIN-SUFFIX,1fichier.com
 DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,archive.debian.org
 DOMAIN-SUFFIX,archive.ubuntu.com
+DOMAIN-SUFFIX,autoupdatesvc.delivery.autodesk.com
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
@@ -244,6 +245,7 @@ DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,dl.sourceforge.net
 DOMAIN-SUFFIX,dl.wireshark.org
+DOMAIN-SUFFIX,download.autodesk.com
 DOMAIN-SUFFIX,download.cdp.bethesda.net
 DOMAIN-SUFFIX,download.dm.origin.com
 DOMAIN-SUFFIX,download.epicgames.com
@@ -257,6 +259,7 @@ DOMAIN-SUFFIX,files.1drv.com
 DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
+DOMAIN-SUFFIX,ftp2.de.debian.org
 DOMAIN-SUFFIX,fuwamofu.com
 DOMAIN-SUFFIX,iso.reactos.org
 DOMAIN-SUFFIX,kali.download
@@ -574,6 +577,9 @@ DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,swupdate.chaos.com
+DOMAIN-SUFFIX,swupdate.chaosgroup.com
+DOMAIN-SUFFIX,swupdate.vray.com
 DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,vultrobjects.com

@@ -1,4 +1,4 @@
-# Main total line 573
+# Main total line 577
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -49,6 +49,7 @@ DOMAIN,dl.cloudsmith.io
 DOMAIN,dl.devmate.com
 DOMAIN,dl.discordapp.net
 DOMAIN,dl.flathub.org
+DOMAIN,dl.getaurora.dev
 DOMAIN,dl.google.com
 DOMAIN,dl.iina.io
 DOMAIN,dl.l.google.com
@@ -71,6 +72,7 @@ DOMAIN,down.filen.net
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download-core.sys.truenas.net
 DOMAIN,download.anydesk.com
+DOMAIN,download.bazzite.gg
 DOMAIN,download.beeper.com
 DOMAIN,download.cpuid.com
 DOMAIN,download.dlsite.com
@@ -88,6 +90,7 @@ DOMAIN,download.nektony.com
 DOMAIN,download.opensuse.org
 DOMAIN,download.parallels.com
 DOMAIN,download.pixelexperience.org
+DOMAIN,download.projectbluefin.io
 DOMAIN,download.sketch.com
 DOMAIN,download.snipaste.com
 DOMAIN,download.tensorflow.google.com
@@ -159,6 +162,7 @@ DOMAIN,mirrors.xtom.jp
 DOMAIN,mirrors.xtom.nl
 DOMAIN,mirrors.xtom.sg
 DOMAIN,mirrors.xtom.us
+DOMAIN,nobara-images.nobaraproject.org
 DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,origin-a.akamaihd.net

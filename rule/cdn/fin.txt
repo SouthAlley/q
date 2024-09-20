@@ -1,4 +1,4 @@
-# Main total line 2310
+# Main total line 2311
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -2089,6 +2089,7 @@ DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,pstorage.space
 DOMAIN-SUFFIX,public.cdn.office.net
 DOMAIN-SUFFIX,public.ecr.aws
+DOMAIN-SUFFIX,push.services.mozilla.com
 DOMAIN-SUFFIX,pxgcdn.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org

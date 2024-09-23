@@ -1,4 +1,4 @@
-# Main total line 2343
+# Main total line 2344
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,4gtvimg2.4gtv.tv
@@ -141,6 +141,7 @@ DOMAIN,assets.safing.io
 DOMAIN,assets.scaleflex.com
 DOMAIN,assets.scroll.com
 DOMAIN,assets.sendinblue.com
+DOMAIN,assets.shazam.com
 DOMAIN,assets.squarespace.com
 DOMAIN,assets.st-note.com
 DOMAIN,assets.stash.com

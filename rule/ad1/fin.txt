@@ -1,4 +1,4 @@
-# Main total line 3481
+# Main total line 3485
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -7,7 +7,6 @@ DOMAIN,a.labadena.com
 DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
 DOMAIN,abema-adx.ameba.jp
-DOMAIN,abtest-ch.snssdk.com
 DOMAIN,abyss.cyapi.cn
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cn.jovcloud.com
@@ -552,6 +551,7 @@ DOMAIN-SUFFIX,aarki.com
 DOMAIN-SUFFIX,aarki.net
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,abtasty.com
+DOMAIN-SUFFIX,abtest-ch.snssdk.com
 DOMAIN-SUFFIX,acento.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,acs86.com
@@ -1050,6 +1050,7 @@ DOMAIN-SUFFIX,bbcoe.cn
 DOMAIN-SUFFIX,bd.hd.sohu.com
 DOMAIN-SUFFIX,bd1.52che.com
 DOMAIN-SUFFIX,bd2.52che.com
+DOMAIN-SUFFIX,bdad.123pan.cn
 DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
 DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
 DOMAIN-SUFFIX,bdj.tianya.cn
@@ -1070,6 +1071,7 @@ DOMAIN-SUFFIX,beintoo.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,benshiw.net
 DOMAIN-SUFFIX,bepolite.eu
+DOMAIN-SUFFIX,bes-mtj.baidu.com
 DOMAIN-SUFFIX,betterzip.net
 DOMAIN-SUFFIX,betterzipcn.com
 DOMAIN-SUFFIX,beyondcompare.cc
@@ -2879,6 +2881,7 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengacs.m.taobao.com
 DOMAIN-SUFFIX,umengjmacs.m.taobao.com
 DOMAIN-SUFFIX,umid.orion.meizu.com
+DOMAIN-SUFFIX,umini.shujupie.com
 DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,umtrack.com
 DOMAIN-SUFFIX,undertone.com
@@ -3371,6 +3374,7 @@ IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
 IP-CIDR,162.243.103.246/32,no-resolve
+IP-CIDR,169.254.169.254/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
 IP-CIDR,180.153.103.224/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve

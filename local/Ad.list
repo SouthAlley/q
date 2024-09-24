@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,app-analytics-services.com
 
 DOMAIN-SUFFIX,afdback.ppsimg.com
 
+DOMAIN, api.liquidlink.cn, REJECT
+
 #Book-阅文-起点
 host, uedas.qidian.com, reject
 

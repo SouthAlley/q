@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,afdback.ppsimg.com
 
 DOMAIN, api.liquidlink.cn, REJECT
 
+# 微博开屏广告
+DOMAIN, huodong.weibo.cn, REJECT
+DOMAIN-SUFFIX, biz.weibo.com, REJECT
+
 #Book-阅文-起点
 host, uedas.qidian.com, reject
 

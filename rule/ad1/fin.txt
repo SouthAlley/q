@@ -1,4 +1,4 @@
-# Main total line 3483
+# Main total line 3484
 # ------------------------------------------
 DOMAIN,4lke.online
 DOMAIN,a.adtng.com
@@ -3325,6 +3325,7 @@ DOMAIN-KEYWORD,zjtoolbar
 DOMAINname=*.zhihu.com
 DOMAINname=cn-acs.m.cainiao.com,guide-acs.m.taobao.com
 DOMAINname=interface*.music.163.com
+IP-CIDR,0.0.0.0/24,no-resolve
 IP-CIDR,10.72.25.0/24,no-resolve
 IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR,101.226.10.8/32,no-resolve

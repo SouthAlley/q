@@ -1,4 +1,5 @@
 DOMAIN,0x0.st
+DOMAIN,2mdn.net
 DOMAIN,4gtvimg2.4gtv.tv
 DOMAIN,9191.ga
 DOMAIN,a.deviantart.net
@@ -21,7 +22,9 @@ DOMAIN,akidoo.top
 DOMAIN,alt-images.codestream.com
 DOMAIN,alt.idgesg.net
 DOMAIN,amp.azure.net
+DOMAIN,analytics.welcomesoftware.com
 DOMAIN,anchor.digitalocean.com
+DOMAIN,android-safebrowsing.google.com
 DOMAIN,api-frameworks.vercel.sh
 DOMAIN,api.allorigins.win
 DOMAIN,api.bintray.com
@@ -31,6 +34,7 @@ DOMAIN,api.producthunt.com
 DOMAIN,api.pwnedpasswords.com
 DOMAIN,api.qrserver.com
 DOMAIN,api.roboflow.com
+DOMAIN,api.weather.com
 DOMAIN,api.web3.storage
 DOMAIN,app-api.vidjet.io
 DOMAIN,app-spm.com
@@ -193,6 +197,7 @@ DOMAIN,avatars.mds.yandex.net
 DOMAIN,avatars.micro.blog
 DOMAIN,avatars.plurk.com
 DOMAIN,avts.wmlabs.net
+DOMAIN,axiecdn.axieinfinity.com
 DOMAIN,az700632.vo.msecnd.net
 DOMAIN,badbits.dwebops.pub
 DOMAIN,badge.buildkite.com
@@ -305,6 +310,7 @@ DOMAIN,cdn.datacamp.com
 DOMAIN,cdn.datatables.net
 DOMAIN,cdn.datdota.com
 DOMAIN,cdn.db-ip.com
+DOMAIN,cdn.decrypt.co
 DOMAIN,cdn.dnsimple.com
 DOMAIN,cdn.donmai.us
 DOMAIN,cdn.dotaoutpost.com
@@ -383,6 +389,7 @@ DOMAIN,cdn.neverbounce.com
 DOMAIN,cdn.now.gg
 DOMAIN,cdn.onesignal.com
 DOMAIN,cdn.onetime.dog
+DOMAIN,cdn.onlyhentaistuff.com
 DOMAIN,cdn.osxdaily.com
 DOMAIN,cdn.paddle.com
 DOMAIN,cdn.pagefly.io
@@ -450,6 +457,7 @@ DOMAIN,cdn.travis-ci.org
 DOMAIN,cdn.trustedsite.com
 DOMAIN,cdn.trustpilot.net
 DOMAIN,cdn.ttgtmedia.com
+DOMAIN,cdn.ttloli.com
 DOMAIN,cdn.tuk.dev
 DOMAIN,cdn.unwire.hk
 DOMAIN,cdn.up-timely.com
@@ -492,6 +500,7 @@ DOMAIN,cdn2.macpaw.com
 DOMAIN,cdn2.onlyfans.com
 DOMAIN,cdn2.stamped.io
 DOMAIN,cdn2.sysgears.com
+DOMAIN,cdn2.ttloli.com
 DOMAIN,cdn2.unrealengine.com
 DOMAIN,cdn3.dan.com
 DOMAIN,cdn3.hextom.com
@@ -554,6 +563,7 @@ DOMAIN,consumersite-assets.trustpilot.net
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,content.any.run
 DOMAIN,content.jwplatform.com
+DOMAIN,content.product.glitch.com
 DOMAIN,content.wepik.com
 DOMAIN,contents-thumbnail2.fc2.com
 DOMAIN,cookie-cdn.cookiepro.com
@@ -567,6 +577,7 @@ DOMAIN,crl.usertrust.com
 DOMAIN,crl.verisign.com
 DOMAIN,crt.comodoca.com
 DOMAIN,crt.usertrust.com
+DOMAIN,css.blackmagicdesign.com
 DOMAIN,css.createsend1.com
 DOMAIN,curl.se
 DOMAIN,d4.alternativeto.net
@@ -636,6 +647,7 @@ DOMAIN,euc-widget.freshworks.com
 DOMAIN,events-delivery.apple.com
 DOMAIN,events-live.apple.com
 DOMAIN,events.tableplus.com
+DOMAIN,explorer-api.walletconnect.com
 DOMAIN,external-content.duckduckgo.com
 DOMAIN,f.convertkit.com
 DOMAIN,f.start.me
@@ -681,6 +693,7 @@ DOMAIN,forest-mt-s3.seekrtech.com
 DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,freeshippingbar.herokuapp.com
 DOMAIN,front-resource.fs.com
+DOMAIN,fs2.onlyhentaistuff.com
 DOMAIN,g-static.ap4r.com
 DOMAIN,g1.nyt.com
 DOMAIN,genesis-cdn.ff.com
@@ -773,6 +786,7 @@ DOMAIN,images-ext-2.discordapp.net
 DOMAIN,images.arigatotravel.com
 DOMAIN,images.axios.com
 DOMAIN,images.bfmtv.com
+DOMAIN,images.blackmagicdesign.com
 DOMAIN,images.contentful.com
 DOMAIN,images.contentstack.io
 DOMAIN,images.crunchbase.com
@@ -780,6 +794,7 @@ DOMAIN,images.design-editor.com
 DOMAIN,images.dmca.com
 DOMAIN,images.ecomm.microsoft.com
 DOMAIN,images.emojiterra.com
+DOMAIN,images.en.aptoide.com
 DOMAIN,images.everyplate.com
 DOMAIN,images.fandango.com
 DOMAIN,images.financemagnates.com
@@ -795,6 +810,7 @@ DOMAIN,images.nvidia.com
 DOMAIN,images.opencollective.com
 DOMAIN,images.pexels.com
 DOMAIN,images.plurk.com
+DOMAIN,images.pluto.tv
 DOMAIN,images.prismic.io
 DOMAIN,images.ptt.cc
 DOMAIN,images.purevpn-tools.com
@@ -828,6 +844,7 @@ DOMAIN,img.catwvod.xyz
 DOMAIN,img.clerk.com
 DOMAIN,img.community.ui.com
 DOMAIN,img.connatix.com
+DOMAIN,img.decrypt.co
 DOMAIN,img.dlsite.jp
 DOMAIN,img.domaintools.com
 DOMAIN,img.foresightnews.pro
@@ -881,6 +898,9 @@ DOMAIN,imgssl.constantcontact.com
 DOMAIN,imgur.dcard.tw
 DOMAIN,info.cloudflare.com
 DOMAIN,info.knak.com
+DOMAIN,int.mwbbiz.com
+DOMAIN,int.qiniuyun15.xyz
+DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,interactive.guim.co.uk
 DOMAIN,ipfs.d.tube
 DOMAIN,irp-cdn.multiscreensite.com
@@ -904,11 +924,13 @@ DOMAIN,js.smile.io
 DOMAIN,js.upload.io
 DOMAIN,js.userflow.com
 DOMAIN,js.verygoodvault.com
+DOMAIN,jslibs.blackmagicdesign.com
 DOMAIN,kdata1.com
 DOMAIN,keyframe-cdn.abcnews.com
 DOMAIN,lain.bgm.tv
 DOMAIN,launchercontent.mojang.com
 DOMAIN,lcdn-locator.apple.com
+DOMAIN,learn.optimizely.com
 DOMAIN,ledger-wp-website-s3-prd.ledger.com
 DOMAIN,lib.arvancloud.com
 DOMAIN,libs.quillbot.com
@@ -989,8 +1011,10 @@ DOMAIN,minotar.net
 DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN,miro.medium.com
 DOMAIN,mixin-images.zeromesh.net
+DOMAIN,mkt-site-asset.crypto.com
 DOMAIN,mobilecenter.azureedge.net
 DOMAIN,momentjs.com
+DOMAIN,mparticle.weather.com
 DOMAIN,mstdn-s3.o3o.studio
 DOMAIN,mui.com
 DOMAIN,mwcm.nyt.com
@@ -1109,6 +1133,7 @@ DOMAIN,pro2-ui-assets-s3-fy.myportfolio.com
 DOMAIN,prod-packager-packages.codesandbox.io
 DOMAIN,prod-streaming-video-msn-com.akamaized.net
 DOMAIN,prod-video-cms-amp-microsoft-com.akamaized.net
+DOMAIN,prod.addictinggames.com
 DOMAIN,prod.msocdn.com
 DOMAIN,prodamdnewsencoding.akamaized.net
 DOMAIN,production-cmp.isgprivacy.cbsi.com
@@ -1235,6 +1260,7 @@ DOMAIN,secure.beer7live.com
 DOMAIN,secure.fanboy.co.nz
 DOMAIN,secure.telegraph.co.uk
 DOMAIN,services.linkfire.com
+DOMAIN,sessions.bugsnag.com
 DOMAIN,sf-coze-web-cdn.coze.com
 DOMAIN,sf-flow-web-cdn.ciciai.com
 DOMAIN,shell.cdn.office.net
@@ -1245,6 +1271,7 @@ DOMAIN,sig.grumpybumpers.com
 DOMAIN,sigma9.zokhoi.com
 DOMAIN,signal.cdnbye.com
 DOMAIN,signalcloud.cdnbye.com
+DOMAIN,siloh-ns1.plutotv.net
 DOMAIN,simpleicons.org
 DOMAIN,simplicity.trustpilot.com
 DOMAIN,sites.super.so
@@ -1565,6 +1592,7 @@ DOMAIN,useruploads.socratic.org
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
 DOMAIN,v.hillwaver.com
+DOMAIN,v.w-x.co
 DOMAIN,vanilla-extract.style
 DOMAIN,versionbadg.es
 DOMAIN,vetted.ai
@@ -1606,16 +1634,20 @@ DOMAIN,widget.intercom.io
 DOMAIN,widget.trustpilot.com
 DOMAIN,widget.user.com
 DOMAIN,widget.uservoice.com
+DOMAIN,widgets-red.media.weather.com
+DOMAIN,widgets.media.weather.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.tree-nation.com
 DOMAIN,widgets.wp.com
 DOMAIN,widgets.zohosalesiq.com
+DOMAIN,wikiless.chaosmos.io
 DOMAIN,wikiwandv2-19431.kxcdn.com
 DOMAIN,wimg.rule34.xxx
 DOMAIN,wl-apps.yourwebsite.life
 DOMAIN,wp.salesforce.com
 DOMAIN,wpmedia.tealium.com
 DOMAIN,ws-assets.zoominfo.com
+DOMAIN,ws2-cache.aptoide.com
 DOMAIN,ww2-secure.justanswer.com
 DOMAIN,ww2.justanswer.com
 DOMAIN,www-static.ripe.net
@@ -1693,6 +1725,7 @@ DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,botsrv2.com
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,bp.blogspot.com
+DOMAIN-SUFFIX,bstarstatic.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
@@ -2157,6 +2190,7 @@ DOMAIN-SUFFIX,res.office365.com
 DOMAIN-SUFFIX,rocketcdn.me
 DOMAIN-SUFFIX,rollupjs.org
 DOMAIN-SUFFIX,rsb.net
+DOMAIN-SUFFIX,rspcdn.net
 DOMAIN-SUFFIX,rss3.dev
 DOMAIN-SUFFIX,ruleset.skk.moe
 DOMAIN-SUFFIX,runkitcdn.com

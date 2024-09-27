@@ -1,4 +1,4 @@
-# Main total line 6374
+# Main total line 6375
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -851,6 +851,7 @@ DOMAIN-SUFFIX,catchgod.com
 DOMAIN-SUFFIX,catfightpayperview.xxx
 DOMAIN-SUFFIX,cato.org
 DOMAIN-SUFFIX,cattt.com
+DOMAIN-SUFFIX,cbslocal.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,cc.com
 DOMAIN-SUFFIX,cccat.cc

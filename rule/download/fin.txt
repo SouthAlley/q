@@ -1,4 +1,4 @@
-# Main total line 584
+# Main total line 585
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -573,6 +573,7 @@ DOMAIN-SUFFIX,s3.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-east-2.amazonaws.com
 DOMAIN-SUFFIX,s3.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-gov-west-1.amazonaws.com
+DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
 DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,software-download.microsoft.com

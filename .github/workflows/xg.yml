@@ -32,7 +32,6 @@ jobs:
                ["china-sve1r.list"]="xg/china-sve1r.list https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list"
                ["china-ACL4SSR.list"]="xg/china-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
                ["cdn.list"]="xg/cdn.list https://raw.githubusercontent.com/SouthAlley/q/main/rule/cdn/fin.txt"
-               ["wawa.list"]="xg/wawa.list https://raw.githubusercontent.com/RuCu6/Loon/refs/heads/main/Plugins/myblockads.plugin"
                
                )
 
@@ -74,7 +73,6 @@ jobs:
                    sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
                    sed -i '/^#New-Test-一个月没发现问题会并入/q' "$original_file"
                    sed -i '/^DOMAIN-SUFFIX,\(eu\|hk\|jp\|kr\|sg\|tw\|uk\|us\|ca\)$/d' "$original_file"
-                   sed -i '/^[Rewrite]/q' "$original_file"
                    }
                    
                    # 处理 _Set.list 文件

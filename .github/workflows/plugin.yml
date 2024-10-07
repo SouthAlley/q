@@ -24,8 +24,8 @@ jobs:
 
     - name: Edit Domain
       run: |
-        cd q-repo/local/ini
-        for file in porxyip.list; do
+        cd q-repo/xg
+        for file in wawa.list; do
           if [ -f "$file" ]; then
             # 删除规则
             sed -i '/^[Rewrite]/q' "$file"
@@ -41,7 +41,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "local ini"
+          git commit -m "wawa"
           git push
         else
           echo "No changes to commit."

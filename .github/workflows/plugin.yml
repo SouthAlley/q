@@ -47,7 +47,7 @@ jobs:
                # 处理规则的函数
                process_rules() {
                    # 查找指定行并删除该行以下的所有内容
-                   sed -i '/^[Rewrite]/q' "$original_file"
+                   sed -i '/^# ======= REGEX ======= #/q' "$original_file"
                    }
                    
                if [ -f "$original_file" ]; then

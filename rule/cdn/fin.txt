@@ -1,4 +1,4 @@
-# Main total line 2446
+# Main total line 2447
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -2109,6 +2109,7 @@ DOMAIN-SUFFIX,lzzyimg.com
 DOMAIN-SUFFIX,lzzypic.com
 DOMAIN-SUFFIX,makeuseofimages.com
 DOMAIN-SUFFIX,mangadex.network
+DOMAIN-SUFFIX,marketing.aws.dev
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,media.beeper.com

@@ -1,5 +1,7 @@
-# Main total line 1015
+# Main total line 1017
 # ------------------------------------------
+DOMAIN,config.ubnt.com
+DOMAIN,dl.ubnt.com
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,www.layuicdn.com

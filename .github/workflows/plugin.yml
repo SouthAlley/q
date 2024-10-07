@@ -18,7 +18,7 @@ jobs:
    
     - name: Download file to Surge
       run: |
-        mkdir -p q-repo/local
+        mkdir -p q-repo/xg
         # 分流规则
         curl -L -o q-repo/xg/wawa.list "https://raw.githubusercontent.com/RuCu6/Loon/main/Plugins/myblockads.plugin"
 

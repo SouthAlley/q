@@ -1,4 +1,4 @@
-name: xg
+name: plugin
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-# Main total line 585
+# Main total line 602
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -323,6 +323,7 @@ DOMAIN-SUFFIX,s3-accesspoint.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3-accesspoint.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.af-south-1.amazonaws.com
@@ -336,6 +337,7 @@ DOMAIN-SUFFIX,s3-accesspoint.dualstack.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3-accesspoint.dualstack.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.eu-central-1.amazonaws.com
@@ -382,6 +384,7 @@ DOMAIN-SUFFIX,s3-ap-south-1.amazonaws.com
 DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-ca-central-1.amazonaws.com
+DOMAIN-SUFFIX,s3-deprecated.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3-deprecated.eu-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-deprecated.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-deprecated.us-east-2.amazonaws.com
@@ -422,7 +425,9 @@ DOMAIN-SUFFIX,s3-object-lambda.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3-object-lambda.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.ca-central-1.amazonaws.com
+DOMAIN-SUFFIX,s3-object-lambda.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.eu-central-2.amazonaws.com
 DOMAIN-SUFFIX,s3-object-lambda.eu-north-1.amazonaws.com
@@ -467,6 +472,7 @@ DOMAIN-SUFFIX,s3-website.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3-website.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3-website.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3-website.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.af-south-1.amazonaws.com
@@ -474,16 +480,25 @@ DOMAIN-SUFFIX,s3-website.dualstack.ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ap-northeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ap-northeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ap-south-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.ap-south-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ap-southeast-2.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.ap-southeast-3.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.eu-central-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.eu-south-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.eu-south-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.eu-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.eu-west-3.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.il-central-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.me-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.sa-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.us-east-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.eu-central-1.amazonaws.com
@@ -519,6 +534,7 @@ DOMAIN-SUFFIX,s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.af-south-1.amazonaws.com
@@ -532,6 +548,7 @@ DOMAIN-SUFFIX,s3.dualstack.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.ap-southeast-4.amazonaws.com
+DOMAIN-SUFFIX,s3.dualstack.ap-southeast-5.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.eu-central-1.amazonaws.com

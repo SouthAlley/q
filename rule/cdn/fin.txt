@@ -1,4 +1,4 @@
-# Main total line 2468
+# Main total line 2470
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -2174,6 +2174,8 @@ DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,now.sh
 DOMAIN-SUFFIX,nowestatic.com
 DOMAIN-SUFFIX,npmfs.com
+DOMAIN-SUFFIX,nxcli.io
+DOMAIN-SUFFIX,nxedge.io
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oculuscdn.com

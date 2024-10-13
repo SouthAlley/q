@@ -167,6 +167,7 @@ DOMAIN,assets.video.yahoo.net
 DOMAIN,assets.videowise.com
 DOMAIN,assets.vidyard.com
 DOMAIN,assets.visioncritical.net
+DOMAIN,assets.vodafone.co.uk
 DOMAIN,assets.vogue.com
 DOMAIN,assets.volvo.com
 DOMAIN,assets.xbox.com
@@ -432,11 +433,13 @@ DOMAIN,cdn.prowritingaid.com
 DOMAIN,cdn.quadpay.com
 DOMAIN,cdn.rauno.me
 DOMAIN,cdn.readme.io
+DOMAIN,cdn.ready-market.com.tw
 DOMAIN,cdn.recovermycart.com
 DOMAIN,cdn.redoc.ly
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,cdn.reimu.net
 DOMAIN,cdn.rex.contents.rakuten.co.jp
+DOMAIN,cdn.rive.app
 DOMAIN,cdn.robinpro.gallery
 DOMAIN,cdn.roboflow.com
 DOMAIN,cdn.safecharge.com
@@ -550,7 +553,6 @@ DOMAIN,checkout.stripe.com
 DOMAIN,ci.testling.com
 DOMAIN,claritystatic.azureedge.net
 DOMAIN,client.px-cloud.net
-DOMAIN,clientmetrics-pa.googleapis.com
 DOMAIN,clips-media-assets2.twitch.tv
 DOMAIN,cloud.redhat.com
 DOMAIN,cloudflare.tv
@@ -828,6 +830,7 @@ DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
 DOMAIN,images.idgesg.net
 DOMAIN,images.macrumors.com
+DOMAIN,images.microcms-assets.io
 DOMAIN,images.moegoat.com
 DOMAIN,images.moovitapp.com
 DOMAIN,images.newrepublic.com
@@ -1214,6 +1217,7 @@ DOMAIN,repository.jboss.org
 DOMAIN,res-geo.cdn.office.net
 DOMAIN,res.abc.net.au
 DOMAIN,res.cloudinary.com
+DOMAIN,res.craft.do
 DOMAIN,res2.weblium.site
 DOMAIN,resize.blogsys.jp
 DOMAIN,resize.yandex.net
@@ -1292,6 +1296,7 @@ DOMAIN,seal-newyork.bbb.org
 DOMAIN,searchanise-ef84.kxcdn.com
 DOMAIN,searchserverapi.com
 DOMAIN,seccdn.libravatar.org
+DOMAIN,secure-res.craft.do
 DOMAIN,secure-uploads.ui.com
 DOMAIN,secure.beer7live.com
 DOMAIN,secure.fanboy.co.nz
@@ -1329,6 +1334,7 @@ DOMAIN,sponsor.ajay.app
 DOMAIN,spoppe-b.azureedge.net
 DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,st-eu.dynamicyield.com
+DOMAIN,st.agrd.eu
 DOMAIN,st.deviantart.net
 DOMAIN,st.dynamicyield.com
 DOMAIN,st1.zoom.us
@@ -1499,6 +1505,7 @@ DOMAIN,static.start.me
 DOMAIN,static.status.io
 DOMAIN,static.t-ru.org
 DOMAIN,static.telegraph.co.uk
+DOMAIN,static.tenki.jp
 DOMAIN,static.test-beta.com
 DOMAIN,static.theguardian.com
 DOMAIN,static.tokenview.io
@@ -1620,6 +1627,7 @@ DOMAIN,upload.wikimedia.org
 DOMAIN,uploads.codesandbox.io
 DOMAIN,uploads.guim.co.uk
 DOMAIN,uploads.sitepoint.com
+DOMAIN,upos-sz-mirroralibstar1.bilivideo.com
 DOMAIN,us.hamreus.com
 DOMAIN,use.typekit.com
 DOMAIN,use.typekit.net
@@ -1833,6 +1841,7 @@ DOMAIN-SUFFIX,characterai.io
 DOMAIN-SUFFIX,chasecdn.com
 DOMAIN-SUFFIX,chcdn.xyz
 DOMAIN-SUFFIX,chesscomfiles.com
+DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
 DOMAIN-SUFFIX,cloud.influxdata.com
 DOMAIN-SUFFIX,cloud1.influxdata.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
@@ -2136,6 +2145,7 @@ DOMAIN-SUFFIX,meetupstatic.com
 DOMAIN-SUFFIX,mercdn.net
 DOMAIN-SUFFIX,metric.gstatic.com
 DOMAIN-SUFFIX,mfcimg.com
+DOMAIN-SUFFIX,mirror-media.xyz
 DOMAIN-SUFFIX,mirrors.utermux.dev
 DOMAIN-SUFFIX,misskeyusercontent.com
 DOMAIN-SUFFIX,misskeyusercontent.jp
@@ -2178,6 +2188,8 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,odycdn.com
+DOMAIN-SUFFIX,ogads-pa.clients6.google.com
+DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,oktacdn.com
 DOMAIN-SUFFIX,olemovienews.com
 DOMAIN-SUFFIX,ominisrc.com

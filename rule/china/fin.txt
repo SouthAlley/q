@@ -1,4 +1,4 @@
-# Main total line 1010
+# Main total line 1012
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,bstatic.com
+DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.com
@@ -572,6 +573,7 @@ DOMAIN-SUFFIX,metatrader4.com
 DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi-fds.com
+DOMAIN-SUFFIX,mi-idc.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com

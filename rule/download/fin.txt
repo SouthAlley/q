@@ -1,4 +1,4 @@
-# Main total line 602
+# Main total line 603
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -28,6 +28,7 @@ DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
 DOMAIN,cdn.winget.microsoft.com
+DOMAIN,cdn.zoom.us
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,client.hikarifield.co.jp
 DOMAIN,codeload.github.com

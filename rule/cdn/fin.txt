@@ -1,4 +1,4 @@
-# Main total line 2487
+# Main total line 2489
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -28,11 +28,13 @@ DOMAIN,amp.azure.net
 DOMAIN,analytics.welcomesoftware.com
 DOMAIN,anchor.digitalocean.com
 DOMAIN,android-safebrowsing.google.com
+DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-frameworks.vercel.sh
 DOMAIN,api.allorigins.win
 DOMAIN,api.bintray.com
 DOMAIN,api.iconify.design
 DOMAIN,api.mintlify.com
+DOMAIN,api.mixpanel.com
 DOMAIN,api.producthunt.com
 DOMAIN,api.pwnedpasswords.com
 DOMAIN,api.qrserver.com

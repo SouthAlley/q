@@ -1,4 +1,4 @@
-# Main total line 605
+# Main total line 606
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -208,6 +208,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
 DOMAIN,update.sleazyfork.org
+DOMAIN,updates-cdn.bravesoftware.com
 DOMAIN,updates.istatmenus.app
 DOMAIN,versioncheck-bg.addons.mozilla.org
 DOMAIN,xvcf1.xboxlive.com

@@ -1,10 +1,6 @@
-# Main total line 3503
+# Main total line 3467
 # ------------------------------------------
-DOMAIN,4lke.online
-DOMAIN,a.adtng.com
 DOMAIN,a.cpic.com.cn
-DOMAIN,a.labadena.com
-DOMAIN,a.orbsrv.com
 DOMAIN,a.wkanx.com
 DOMAIN,abema-adx.ameba.jp
 DOMAIN,abyss.cyapi.cn
@@ -107,8 +103,6 @@ DOMAIN,adx.sogaha.cn
 DOMAIN,adx.yiche.com
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,afdconf.baidu.com
-DOMAIN,aff-partners-io.ck-cdn.com
-DOMAIN,aff.partners.io
 DOMAIN,affcpatrk.com
 DOMAIN,amdc.m.youku.com
 DOMAIN,analytics-sg.tiktok.com
@@ -160,7 +154,6 @@ DOMAIN,counter.ksosoft.com
 DOMAIN,crash.xiaohongshu.com
 DOMAIN,crash2.zhihu.com
 DOMAIN,creative.bbrdbr.com
-DOMAIN,creative.rmhfrtnd.com
 DOMAIN,credits.bz.mgtv.com
 DOMAIN,credits2.bz.mgtv.com
 DOMAIN,credits3.bz.mgtv.com
@@ -183,7 +176,6 @@ DOMAIN,erebor.douban.com
 DOMAIN,etl.xlmc.sandai.net
 DOMAIN,exp.360in.com
 DOMAIN,extmaps-api.yandex.net
-DOMAIN,ezozojawg.com
 DOMAIN,feedback-c.zijieapi.com
 DOMAIN,flash.sec.miui.com
 DOMAIN,floor.bz.mgtv.com
@@ -207,23 +199,12 @@ DOMAIN,ggmk.miguvideo.com
 DOMAIN,ggs.myzaker.com
 DOMAIN,ggv.cmvideo.cn
 DOMAIN,glitter.services.disqus.com
-DOMAIN,go.aoalmfwinbsstec23.com
-DOMAIN,go.bbrdbr.com
-DOMAIN,go.go-srv.com
-DOMAIN,go.rmhfrtnd.com
-DOMAIN,go.spankbanglive.com
-DOMAIN,go.xhamsterlive.com
-DOMAIN,go.xliirdr.com
-DOMAIN,go.xxxviijmp.com
-DOMAIN,go.xxxvjmp.com
 DOMAIN,goblin.hupu.com
 DOMAIN,gtm.mouseflow.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hc-ssp.sm.cn
 DOMAIN,hdns.ksyun.com
-DOMAIN,hhbypdoecp.com
 DOMAIN,hnrtg.iujkegbpo.xyz
-DOMAIN,ht.youporn.com
 DOMAIN,hudong.alicdn.com
 DOMAIN,huichuan-mc.sm.cn
 DOMAIN,huodong.weibo.cn
@@ -282,9 +263,7 @@ DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,m.adyounger.com
 DOMAIN,ma-adx.ctrip.com
 DOMAIN,mads.suning.com
-DOMAIN,mail.kguapp.com
 DOMAIN,mapi.apptimize.com
-DOMAIN,marine.xhamster.com
 DOMAIN,md-i-s.apptimize.com
 DOMAIN,mdrecv.app.cntvwb.cn
 DOMAIN,media.net
@@ -323,7 +302,6 @@ DOMAIN,p9.pstatp.com
 DOMAIN,pagead2.googlesyndication-cn.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin16.sgsnssdk.com
-DOMAIN,partwithner.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pitaya.bytedance.com
@@ -332,13 +310,10 @@ DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,polaris5-normal-lf.zijieapi.com
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,pre-acs.youku.com
-DOMAIN,pv.vipads.cc
 DOMAIN,pvnapp.zol.com.cn
 DOMAIN,r.51wnl-cq.com
-DOMAIN,r.trackwilltrk.com
 DOMAIN,ra.gtimg.com
 DOMAIN,rc-topic-api.bz.mgtv.com
-DOMAIN,reactads.engine.adglare.net
 DOMAIN,realtime.luckyorange.com
 DOMAIN,regist.fotoable.com
 DOMAIN,reporting.cdndex.io
@@ -349,12 +324,10 @@ DOMAIN,richmanmain.jxedt.com
 DOMAIN,richmanrank.ksedt.com
 DOMAIN,richmanrules.jxedt.com
 DOMAIN,richmanrules.ksedt.com
-DOMAIN,rockpoint.xhamster.com
 DOMAIN,rprain.bz.mgtv.com
 DOMAIN,rprain.log.mgtv.com
 DOMAIN,rthmnj.xyz
 DOMAIN,s.c-ctrip.com
-DOMAIN,s.orbsrv.com
 DOMAIN,safe.sogou.com
 DOMAIN,safe.ucweb.com
 DOMAIN,saxn.sina.com.cn
@@ -406,7 +379,6 @@ DOMAIN,tunion-api.m.taobao.com
 DOMAIN,union.macoms.la
 DOMAIN,upload.luckyorange.net
 DOMAIN,ups.ksmobile.net
-DOMAIN,uug27.com
 DOMAIN,vali-g1.cp31.ott.cibntv.net
 DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
@@ -421,12 +393,9 @@ DOMAIN,vstlog.17usoft.com
 DOMAIN,w1.luckyorange.com
 DOMAIN,wa.gtimg.com
 DOMAIN,ws.ksmobile.net
-DOMAIN,www.traforama.com
-DOMAIN,www.vipads.live
 DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.video.qq.com
-DOMAIN,x.eccorp.cc
 DOMAIN,yandexmetrica.com
 DOMAIN,youhui.95516.com
 DOMAIN,yt-adp.nosdn.127.net
@@ -1185,7 +1154,6 @@ DOMAIN-SUFFIX,channeladvisor.com
 DOMAIN-SUFFIX,chartbeat.com
 DOMAIN-SUFFIX,chartboost.com
 DOMAIN-SUFFIX,chat1.jd.com
-DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,chemdraw.com.cn
 DOMAIN-SUFFIX,chengadx.com
 DOMAIN-SUFFIX,chiq-cloud.com
@@ -1280,6 +1248,7 @@ DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,cre.dp.sina.cn
 DOMAIN-SUFFIX,creative.kbnmnl.com
 DOMAIN-SUFFIX,creative.live.missav.com
+DOMAIN-SUFFIX,creative.mnaspm.com
 DOMAIN-SUFFIX,creative.myavlive.com
 DOMAIN-SUFFIX,creditcard-fin.meituan.com
 DOMAIN-SUFFIX,crispadvertising.com
@@ -1365,7 +1334,6 @@ DOMAIN-SUFFIX,dol.tianya.cn
 DOMAIN-SUFFIX,dol.tianyaui.cn
 DOMAIN-SUFFIX,domain.aishengji.com
 DOMAIN-SUFFIX,dongmansoft.com
-DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,dotcounter.douyutv.com
 DOMAIN-SUFFIX,dotmore.com.tw
 DOMAIN-SUFFIX,dotomi.com
@@ -1480,7 +1448,6 @@ DOMAIN-SUFFIX,fair.sogou.com
 DOMAIN-SUFFIX,fan-yong.com
 DOMAIN-SUFFIX,fancyapi.com
 DOMAIN-SUFFIX,fanza.cc
-DOMAIN-SUFFIX,faphouse.com
 DOMAIN-SUFFIX,farmcrapsubsist.com
 DOMAIN-SUFFIX,farwine.com
 DOMAIN-SUFFIX,fastapi.net
@@ -1572,6 +1539,7 @@ DOMAIN-SUFFIX,gn01.top
 DOMAIN-SUFFIX,go-mpulse
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,go.10086.cn
+DOMAIN-SUFFIX,go.mnaspm.com
 DOMAIN-SUFFIX,go.myavlive.com
 DOMAIN-SUFFIX,go.sohu.com
 DOMAIN-SUFFIX,go2cloud.org
@@ -2045,7 +2013,6 @@ DOMAIN-SUFFIX,mjmobi.com
 DOMAIN-SUFFIX,mkitgfs.com
 DOMAIN-SUFFIX,mlnbike.com
 DOMAIN-SUFFIX,mm9842.com
-DOMAIN-SUFFIX,mnaspm.com
 DOMAIN-SUFFIX,mng-ads.com
 DOMAIN-SUFFIX,mnqlog.ldmnq.com
 DOMAIN-SUFFIX,mo.kugou.com
@@ -2682,8 +2649,6 @@ DOMAIN-SUFFIX,streamrail.com
 DOMAIN-SUFFIX,streamrail.net
 DOMAIN-SUFFIX,strikead.com
 DOMAIN-SUFFIX,strip.taobaocdn.com
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,stripchat.ooo
 DOMAIN-SUFFIX,su.bdimg.com
 DOMAIN-SUFFIX,su.bdstatic.com
 DOMAIN-SUFFIX,sumome.com
@@ -3259,7 +3224,6 @@ DOMAIN-SUFFIX,zzsx8.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-adsystem.com
-DOMAIN-KEYWORD,-cdn2.adtng.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,ad-sign.byteimg.com

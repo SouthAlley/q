@@ -1,9 +1,8 @@
-# Main total line 3467
+# Main total line 3444
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
 DOMAIN,abema-adx.ameba.jp
-DOMAIN,abyss.cyapi.cn
 DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,ad-cn.jovcloud.com
 DOMAIN,ad-mediation.tuanguwen.com
@@ -104,7 +103,6 @@ DOMAIN,adx.yiche.com
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,afdconf.baidu.com
 DOMAIN,affcpatrk.com
-DOMAIN,amdc.m.youku.com
 DOMAIN,analytics-sg.tiktok.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,analytics.snssdk.com
@@ -117,15 +115,12 @@ DOMAIN,api.liquidlink.cn
 DOMAIN,api.luckyorange.com
 DOMAIN,api.mouseflow.com
 DOMAIN,api.nx-perf.cn
-DOMAIN,api.sm.cn
 DOMAIN,api.zuihuimai.com
-DOMAIN,apiv4-iyes.youku.com
 DOMAIN,apm.gotokeep.com
 DOMAIN,app-ad.variflight.com
 DOMAIN,app-log.dewu.com
 DOMAIN,app.bugsnag.com
 DOMAIN,app.getsentry.com
-DOMAIN,appcloud.zhihu.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,appnext-a.akamaihd.net
 DOMAIN,appnext.hs.llnwd.net
@@ -134,14 +129,12 @@ DOMAIN,at3.doubanio.com
 DOMAIN,at4.doubanio.com
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,badjs.weixinbridge.com
-DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,browser.sentry-cdn.com
 DOMAIN,business.msstatic.com
 DOMAIN,c.bing.com
 DOMAIN,c1wx.lianwangtech.com
-DOMAIN,cad.youku.com
 DOMAIN,cdn-test.mouseflow.com
 DOMAIN,cdn.adapi.fotoable.com
 DOMAIN,cdn.luckyorange.com
@@ -152,8 +145,6 @@ DOMAIN,client-log.poizon.com
 DOMAIN,collector.clue.run
 DOMAIN,counter.ksosoft.com
 DOMAIN,crash.xiaohongshu.com
-DOMAIN,crash2.zhihu.com
-DOMAIN,creative.bbrdbr.com
 DOMAIN,credits.bz.mgtv.com
 DOMAIN,credits2.bz.mgtv.com
 DOMAIN,credits3.bz.mgtv.com
@@ -185,7 +176,6 @@ DOMAIN,fwtracks.freshmarketer.com
 DOMAIN,g.ousns.net
 DOMAIN,g1.163.com
 DOMAIN,galaxy.bjcathay.com
-DOMAIN,gather.colorfulclouds.net
 DOMAIN,gecko-hl.snssdk.com
 DOMAIN,gecko-pangle-hl.snssdk.com
 DOMAIN,gecko-pangle-lf.snssdk.com
@@ -206,7 +196,6 @@ DOMAIN,hc-ssp.sm.cn
 DOMAIN,hdns.ksyun.com
 DOMAIN,hnrtg.iujkegbpo.xyz
 DOMAIN,hudong.alicdn.com
-DOMAIN,huichuan-mc.sm.cn
 DOMAIN,huodong.weibo.cn
 DOMAIN,huyafile.msstatic.com
 DOMAIN,iad.g.163.com
@@ -214,7 +203,6 @@ DOMAIN,iad0ssl.pcauto.com.cn
 DOMAIN,iad0ssl.pconline.com.cn
 DOMAIN,iadcontent.apple.com
 DOMAIN,iadmat.nosdn.127.net
-DOMAIN,iadmatapk.nosdn.127.net
 DOMAIN,iadmoo.apple.com
 DOMAIN,iadmusicmat.music.126.net
 DOMAIN,iadmusicmatvideo.music.126.net
@@ -230,8 +218,6 @@ DOMAIN,impservice.youdao.com
 DOMAIN,info4.video.qq.com
 DOMAIN,info6.video.qq.com
 DOMAIN,ios.video.mpush.qq.com
-DOMAIN,ipv4.music.163.com
-DOMAIN,ipv6.music.163.com
 DOMAIN,is-lq.snssdk.com
 DOMAIN,is.snssdk.com
 DOMAIN,itad.linetv.tw
@@ -259,7 +245,6 @@ DOMAIN,logs.chelaile.net.cn
 DOMAIN,logsdk.qq.com
 DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,luckyorange.com
-DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,m.adyounger.com
 DOMAIN,ma-adx.ctrip.com
 DOMAIN,mads.suning.com
@@ -286,7 +271,6 @@ DOMAIN,mtvod.meituan.net
 DOMAIN,n.3g.163.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nativeadv.dftoutiao.com
-DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,nex.163.com
 DOMAIN,nggfe.fdgem.com
 DOMAIN,notify.bugsnag.com
@@ -309,7 +293,6 @@ DOMAIN,pixel.facebook.com
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,polaris5-normal-lf.zijieapi.com
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
-DOMAIN,pre-acs.youku.com
 DOMAIN,pvnapp.zol.com.cn
 DOMAIN,r.51wnl-cq.com
 DOMAIN,ra.gtimg.com
@@ -379,8 +362,6 @@ DOMAIN,tunion-api.m.taobao.com
 DOMAIN,union.macoms.la
 DOMAIN,upload.luckyorange.net
 DOMAIN,ups.ksmobile.net
-DOMAIN,vali-g1.cp31.ott.cibntv.net
-DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,vcl-brain.snssdk.com
 DOMAIN,vcs.zijieapi.com
@@ -3305,9 +3286,6 @@ DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-KEYWORD,zjtoolbar
-DOMAINname=*.zhihu.com
-DOMAINname=cn-acs.m.cainiao.com,guide-acs.m.taobao.com
-DOMAINname=interface*.music.163.com
 IP-CIDR,0.0.0.0/24,no-resolve
 IP-CIDR,10.72.25.0/24,no-resolve
 IP-CIDR,101.124.19.122/32,no-resolve
@@ -3315,7 +3293,6 @@ IP-CIDR,101.226.10.8/32,no-resolve
 IP-CIDR,101.227.200.0/24,no-resolve
 IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,103.37.155.60/32,no-resolve
-IP-CIDR,103.41.167.237/32,no-resolve
 IP-CIDR,103.49.209.27/32,no-resolve
 IP-CIDR,104.239.213.7/32,no-resolve
 IP-CIDR,106.75.231.48/32,no-resolve

@@ -1,4 +1,4 @@
-# Main total line 606
+# Main total line 609
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -8,6 +8,8 @@ DOMAIN,amupdatedl5.microsoft.com
 DOMAIN,api-updates.orbstack.dev
 DOMAIN,app-updates.agilebits.com
 DOMAIN,artifacts.electronjs.org
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
 DOMAIN,aus2-community.mozilla.org
 DOMAIN,aus5.mozilla.org
 DOMAIN,ava6.androidfilehost.com
@@ -258,6 +260,7 @@ DOMAIN-SUFFIX,download.mokeedev.com
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,files.1drv.com

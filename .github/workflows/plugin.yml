@@ -2,8 +2,8 @@ name: plugin
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 */2 * *"
+  #schedule:
+    #- cron: "0 0 */2 * *"
 
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
         run: |
            # 定义关联数组，键为文件名，值为路径和 URL 的组合
            declare -A file_path_url=(
-               ["wawa.list"]="xg/wawa.list https://raw.githubusercontent.com/RuCu6/Loon/main/Plugins/myblockads.plugin"
+               ["wawa.list"]="xg/wawa.list https://raw.githubusercontent.com/RuCu6/Loon/main/Plugin"
                
                )
 

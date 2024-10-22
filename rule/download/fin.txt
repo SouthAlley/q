@@ -1,4 +1,4 @@
-# Main total line 609
+# Main total line 612
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -27,6 +27,7 @@ DOMAIN,cache.pack.google.com
 DOMAIN,cdimage.kali.org
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-updates.orbstack.dev
+DOMAIN,cdn.cypress.io
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
 DOMAIN,cdn.winget.microsoft.com
@@ -79,6 +80,7 @@ DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
 DOMAIN,download.beeper.com
 DOMAIN,download.cpuid.com
+DOMAIN,download.cypress.io
 DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
 DOMAIN,download.gigabyte.com
@@ -210,6 +212,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
 DOMAIN,update.sleazyfork.org
+DOMAIN,updater.snipaste.com
 DOMAIN,updates-cdn.bravesoftware.com
 DOMAIN,updates.istatmenus.app
 DOMAIN,versioncheck-bg.addons.mozilla.org

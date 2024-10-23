@@ -1,4 +1,4 @@
-# Main total line 612
+# Main total line 613
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -141,6 +141,7 @@ DOMAIN,iterm2.com
 DOMAIN,level3.blizzard.com
 DOMAIN,mac-release-static.stash.ws
 DOMAIN,mirror-cdn.xtom.com
+DOMAIN,mirror.apad.pro
 DOMAIN,mirror.cat.net
 DOMAIN,mirror.ghproxy.com
 DOMAIN,mirror.navercorp.com

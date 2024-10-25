@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,43110.cf
 DOMAIN-SUFFIX,466453.com
 DOMAIN-SUFFIX,4bluestones.biz
 DOMAIN-SUFFIX,4chan.com
+DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,4dq.com
 DOMAIN-SUFFIX,4everproxy.com
 DOMAIN-SUFFIX,4irc.com
@@ -289,11 +290,9 @@ DOMAIN-SUFFIX,alwaysdata.com
 DOMAIN-SUFFIX,alwaysdata.net
 DOMAIN-SUFFIX,alwaysvpn.com
 DOMAIN-SUFFIX,amaaozn.com
-DOMAIN-SUFFIX,america.gov
 DOMAIN-SUFFIX,american.edu
 DOMAIN-SUFFIX,americangreencard.com
 DOMAIN-SUFFIX,americanunfinished.com
-DOMAIN-SUFFIX,americorps.gov
 DOMAIN-SUFFIX,amiblockedornot.com
 DOMAIN-SUFFIX,amigobbs.net
 DOMAIN-SUFFIX,amnesty.org
@@ -395,7 +394,6 @@ DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archiveofourown.com
 DOMAIN-SUFFIX,archiveofourown.org
-DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,areca-backup.org
 DOMAIN-SUFFIX,arena.taipei
@@ -535,7 +533,6 @@ DOMAIN-SUFFIX,bayvoice.net
 DOMAIN-SUFFIX,baywords.com
 DOMAIN-SUFFIX,bb-chat.tv
 DOMAIN-SUFFIX,bbchat.tv
-DOMAIN-SUFFIX,bbg.gov
 DOMAIN-SUFFIX,bbkz.com
 DOMAIN-SUFFIX,bbnradio.org
 DOMAIN-SUFFIX,bbs-tw.com
@@ -888,12 +885,10 @@ DOMAIN-SUFFIX,cdpusa.org
 DOMAIN-SUFFIX,cdpweb.org
 DOMAIN-SUFFIX,cdpwu.org
 DOMAIN-SUFFIX,cdw.com
-DOMAIN-SUFFIX,cecc.gov
 DOMAIN-SUFFIX,celeron.com
 DOMAIN-SUFFIX,celeron.net
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,cellulo.info
-DOMAIN-SUFFIX,census.gov
 DOMAIN-SUFFIX,centauro.com.br
 DOMAIN-SUFFIX,centerforhumanreprod.com
 DOMAIN-SUFFIX,centralnation.com
@@ -1070,7 +1065,6 @@ DOMAIN-SUFFIX,cmcn.org
 DOMAIN-SUFFIX,cmegroup.com
 DOMAIN-SUFFIX,cmoinc.org
 DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,cms.gov
 DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
 DOMAIN-SUFFIX,cmule.org
@@ -2202,6 +2196,7 @@ DOMAIN-SUFFIX,got-game.org
 DOMAIN-SUFFIX,gotdns.ch
 DOMAIN-SUFFIX,gotgeeks.com
 DOMAIN-SUFFIX,gotrusted.com
+DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gov.taipei
 DOMAIN-SUFFIX,gr8domain.biz
 DOMAIN-SUFFIX,gr8name.biz
@@ -3491,7 +3486,6 @@ DOMAIN-SUFFIX,mrslove.com
 DOMAIN-SUFFIX,mrtweet.com
 DOMAIN-SUFFIX,msa-it.org
 DOMAIN-SUFFIX,msguancha.com
-DOMAIN-SUFFIX,msha.gov
 DOMAIN-SUFFIX,mswe1.org
 DOMAIN-SUFFIX,mthruf.com
 DOMAIN-SUFFIX,mtw.tl
@@ -3587,7 +3581,6 @@ DOMAIN-SUFFIX,nanyangpost.com
 DOMAIN-SUFFIX,nanzao.com
 DOMAIN-SUFFIX,naol.cc
 DOMAIN-SUFFIX,narod.ru
-DOMAIN-SUFFIX,nasa.gov
 DOMAIN-SUFFIX,nat.moe
 DOMAIN-SUFFIX,natado.com
 DOMAIN-SUFFIX,nationalawakening.org
@@ -3677,11 +3670,9 @@ DOMAIN-SUFFIX,ngodupdongchung.com
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nhentai.xxx
 DOMAIN-SUFFIX,nianticlabs.com
-DOMAIN-SUFFIX,nic.gov
 DOMAIN-SUFFIX,nicehash.com
 DOMAIN-SUFFIX,nighost.org
 DOMAIN-SUFFIX,nightlife141.com
-DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nike.com.br
 DOMAIN-SUFFIX,nikecdn.com
@@ -3752,7 +3743,6 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,npr.org
-DOMAIN-SUFFIX,nps.gov
 DOMAIN-SUFFIX,npsboost.com
 DOMAIN-SUFFIX,nradio.me
 DOMAIN-SUFFIX,nrk.no
@@ -3918,7 +3908,6 @@ DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,orzdream.com
 DOMAIN-SUFFIX,orzistic.org
 DOMAIN-SUFFIX,osfoora.com
-DOMAIN-SUFFIX,osha.gov
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
 DOMAIN-SUFFIX,osxdaily.com
@@ -4765,6 +4754,7 @@ DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,songjianjun.com
 DOMAIN-SUFFIX,sonicbbs.cc
 DOMAIN-SUFFIX,sonidodelaesperanza.org
+DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sopcast.com
 DOMAIN-SUFFIX,sopcast.org
 DOMAIN-SUFFIX,sophos.com
@@ -4825,7 +4815,6 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,squirly.info
 DOMAIN-SUFFIX,squirrelvpn.com
 DOMAIN-SUFFIX,ss-link.com
-DOMAIN-SUFFIX,ssa.gov
 DOMAIN-SUFFIX,ssglobal.co
 DOMAIN-SUFFIX,ssglobal.me
 DOMAIN-SUFFIX,ssh91.com
@@ -4859,7 +4848,6 @@ DOMAIN-SUFFIX,starfishfx.com
 DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,startuplivingchina.com
-DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,static-economist.com
 DOMAIN-SUFFIX,static-nike.com
 DOMAIN-SUFFIX,static.fun
@@ -5559,15 +5547,12 @@ DOMAIN-SUFFIX,us.to
 DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
-DOMAIN-SUFFIX,usembassy.gov
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usfk.mil
-DOMAIN-SUFFIX,usgs.gov
 DOMAIN-SUFFIX,usma.edu
 DOMAIN-SUFFIX,usmc.mil
 DOMAIN-SUFFIX,usocctn.com
-DOMAIN-SUFFIX,uspto.gov
 DOMAIN-SUFFIX,ustibetcommittee.org
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,usus.cc

@@ -1,4 +1,4 @@
-# Main total line 2531
+# Main total line 2532
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -1002,6 +1002,7 @@ DOMAIN,livedoor.blogimg.jp
 DOMAIN,load.csell.co
 DOMAIN,loader.mantis-intelligence.com
 DOMAIN,logo.clearbit.com
+DOMAIN,logos.kiwibrowser.com
 DOMAIN,logos.speedtestcustom.com
 DOMAIN,loutre.blockchair.io
 DOMAIN,ltn.hitomi.la

@@ -1,4 +1,4 @@
-# Main total line 2535
+# Main total line 2536
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -116,6 +116,7 @@ DOMAIN,assets.garr.it
 DOMAIN,assets.gcore.pro
 DOMAIN,assets.genius.com
 DOMAIN,assets.getkirby.com
+DOMAIN,assets.github.dev
 DOMAIN,assets.grammarly.com
 DOMAIN,assets.grooveapps.com
 DOMAIN,assets.guim.co.uk

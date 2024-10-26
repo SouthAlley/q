@@ -1,9 +1,7 @@
-# Main total line 1022
+# Main total line 1020
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
-DOMAIN,dns.pub
-DOMAIN,dot.pub
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
 DOMAIN,www.layuicdn.com

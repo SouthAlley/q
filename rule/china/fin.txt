@@ -1,4 +1,4 @@
-# Main total line 1020
+# Main total line 1021
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -375,6 +375,7 @@ DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,gorouter.info
 DOMAIN-SUFFIX,got001.com
 DOMAIN-SUFFIX,gotokeep.com
 DOMAIN-SUFFIX,gtimg.com

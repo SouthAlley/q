@@ -1,4 +1,4 @@
-# Main total line 2553
+# Main total line 2554
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -1664,6 +1664,7 @@ DOMAIN,tracker.cdnbye.com
 DOMAIN,truth.bahamut.com.tw
 DOMAIN,tuf-repo-cdn.sigstore.dev
 DOMAIN,tuf-repo.github.com
+DOMAIN,turbo.build
 DOMAIN,tvdownloaddw-a.akamaihd.net
 DOMAIN,twemoji.maxcdn.com
 DOMAIN,typeface.nyt.com

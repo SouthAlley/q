@@ -1,8 +1,7 @@
-# Update > 20:22 2024/9/8
+# Update > 21:34 2024/10/30/周三
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
-# 此文件适用于QX。Loon Shadowrocket Surge 请使用下面的文件
-# https://raw.githubusercontent.com/vokins/ad/main/adls.list
+# 此文件适用于Loon Shadowrocket Surge，不再适配 QX
 # 策略建议使用特定域名走Pr.list，白名单域名dr.list
 
 # **Reject**
@@ -379,6 +378,8 @@ DOMAIN,ads-cloud.rovio.com
 DOMAIN,videoads-cloud.rovio.com
 #Game-地铁跑酷
 DOMAIN,subway.prod.sybo.net
+#Game-XX荣耀人机鉴别 拦截人机头像库，显示不出头像的就是人机
+DOMAIN,sgameicon.ecology.smoba.qq.com
 #News-人民网
 DOMAIN,adstatic.peopleapp.com
 DOMAIN,stat.peopleapp.com
@@ -614,6 +615,8 @@ DOMAIN,live.yuanbobo.com
 DOMAIN,zxid-m.mobileservice.cn
 #SNS-Linkedin
 DOMAIN-SUFFIX,ads.linkedin.com
+#SNS-LIHKG
+DOMAIN,adv.lihkg.com
 #SNS-Snapchat
 DOMAIN,app-analytics-v2.snapchat.com
 #SNS-Twitter

@@ -1,4 +1,4 @@
-# Main total line 3464
+# Main total line 3463
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1605,7 +1605,6 @@ DOMAIN-SUFFIX,hdswgc.com
 DOMAIN-SUFFIX,henzanapp.com
 DOMAIN-SUFFIX,hexagon-analytics.com
 DOMAIN-SUFFIX,heyzap.com
-DOMAIN-SUFFIX,hiboard-drcn.ai.dbankcloud.cn
 DOMAIN-SUFFIX,hitslink.com
 DOMAIN-SUFFIX,hivecn.cn
 DOMAIN-SUFFIX,hivedata.cc

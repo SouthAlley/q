@@ -1,4 +1,4 @@
-# Main total line 613
+# Main total line 615
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -115,6 +115,7 @@ DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net
 DOMAIN,downloads.wordpress.org
 DOMAIN,downloads.xrite.com
+DOMAIN,drive.massgrave.dev
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgedl.me.gvt2.com
@@ -273,6 +274,7 @@ DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,ftp2.de.debian.org
 DOMAIN-SUFFIX,fuwamofu.com
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,iso.reactos.org
 DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com

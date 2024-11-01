@@ -1,4 +1,4 @@
-# Main total line 6379
+# Main total line 6380
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -1017,6 +1017,7 @@ DOMAIN-SUFFIX,cipfg.org
 DOMAIN-SUFFIX,circle.ms
 DOMAIN-SUFFIX,circlethebayfortibet.org
 DOMAIN-SUFFIX,cirosantilli.com
+DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org
 DOMAIN-SUFFIX,citizencn.com

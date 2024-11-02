@@ -1,4 +1,4 @@
-# Main total line 615
+# Main total line 610
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -12,7 +12,6 @@ DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,aus2-community.mozilla.org
 DOMAIN,aus5.mozilla.org
-DOMAIN,ava6.androidfilehost.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,binary-factory.kde.org
 DOMAIN,blizzard.gcdn.cloudn.co.kr
@@ -118,10 +117,6 @@ DOMAIN,downloads.xrite.com
 DOMAIN,drive.massgrave.dev
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
-DOMAIN,edgedl.me.gvt2.com
-DOMAIN,edgedl.me.gvt3.com
-DOMAIN,edgedl.me.gvt4.com
-DOMAIN,edgedl.me.gvt5.com
 DOMAIN,enterprise.proxmox.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,fastly-download.epicgames.com
@@ -129,7 +124,6 @@ DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
 DOMAIN,file24-d.kuku.lu
 DOMAIN,formulae.brew.sh
-DOMAIN,ftp.androidfilehost.com
 DOMAIN,ftp.gnu.org
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,get.pixelexperience.org
@@ -222,6 +216,7 @@ DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com
 DOMAIN-SUFFIX,1fichier.info
+DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,archive.debian.org
 DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,artifacts.ui.com

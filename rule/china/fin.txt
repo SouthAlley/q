@@ -1,9 +1,10 @@
-# Main total line 1021
+# Main total line 1022
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
 DOMAIN,download.jetbrains.com
 DOMAIN,gstore.val.manlaxy.com
+DOMAIN,media.cdn.queniuqe.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com

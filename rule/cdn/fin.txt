@@ -1,4 +1,4 @@
-# Main total line 2630
+# Main total line 2631
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,2mdn.net
@@ -925,6 +925,7 @@ DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,img.agrd.eu
 DOMAIN,img.announcekit.app
+DOMAIN,img.api.video
 DOMAIN,img.applealmond.com
 DOMAIN,img.apponic.com
 DOMAIN,img.atwiki.jp

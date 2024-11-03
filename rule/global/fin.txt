@@ -1,4 +1,4 @@
-# Main total line 20471
+# Main total line 20470
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -1836,7 +1836,6 @@ DOMAIN-SUFFIX,avinetworks.com
 DOMAIN-SUFFIX,avinin.com
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
-DOMAIN-SUFFIX,avjb.com
 DOMAIN-SUFFIX,avjiasu.com
 DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,avjzy67.xyz

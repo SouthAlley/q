@@ -1,4 +1,4 @@
-# Main total line 610
+# Main total line 611
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -225,6 +225,7 @@ DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN-SUFFIX,cloud-object-storage.appdomain.cloud
 DOMAIN-SUFFIX,cloudflaremirrors.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,content.cdp.bethesda.net

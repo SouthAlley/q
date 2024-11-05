@@ -1,4 +1,4 @@
-# Main total line 3464
+# Main total line 3467
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -536,8 +536,11 @@ DOMAIN-SUFFIX,ad-cdn.qingting.fm
 DOMAIN-SUFFIX,ad-center.com
 DOMAIN-SUFFIX,ad-channel.wikawika.xyz
 DOMAIN-SUFFIX,ad-cloud.jp
+DOMAIN-SUFFIX,ad-cmp.hismarttv.com
 DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,ad-display.wikawika.xyz
+DOMAIN-SUFFIX,ad-download.hismarttv.com
+DOMAIN-SUFFIX,ad-imp.hismarttv.com
 DOMAIN-SUFFIX,ad-locus.com
 DOMAIN-SUFFIX,ad-maven.com
 DOMAIN-SUFFIX,ad-move.jp

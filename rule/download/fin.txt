@@ -1,4 +1,4 @@
-# Main total line 611
+# Main total line 602
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -13,7 +13,6 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN,aus2-community.mozilla.org
 DOMAIN,aus5.mozilla.org
 DOMAIN,az764295.vo.msecnd.net
-DOMAIN,binary-factory.kde.org
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
@@ -29,20 +28,13 @@ DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,cdn.cypress.io
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
+DOMAIN,cdn.kde.org
 DOMAIN,cdn.winget.microsoft.com
 DOMAIN,cdn.zoom.us
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,client.hikarifield.co.jp
 DOMAIN,codeload.github.com
 DOMAIN,content-origin.steampowered.com
-DOMAIN,content1.steampowered.com
-DOMAIN,content2.steampowered.com
-DOMAIN,content3.steampowered.com
-DOMAIN,content4.steampowered.com
-DOMAIN,content5.steampowered.com
-DOMAIN,content6.steampowered.com
-DOMAIN,content7.steampowered.com
-DOMAIN,content8.steampowered.com
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,deb.nodesource.com
 DOMAIN,desktop.parallels.com
@@ -122,14 +114,12 @@ DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
-DOMAIN,file24-d.kuku.lu
 DOMAIN,formulae.brew.sh
 DOMAIN,ftp.gnu.org
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,get.pixelexperience.org
 DOMAIN,gog-cdn-fastly-cp77.gog.com
 DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,install.virtfusion.net
 DOMAIN,invent.kde.org
 DOMAIN,iterm2.com
@@ -218,6 +208,7 @@ DOMAIN-SUFFIX,1fichier.com
 DOMAIN-SUFFIX,1fichier.info
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,archive.debian.org
+DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,artifacts.ui.com
 DOMAIN-SUFFIX,autoupdatesvc.delivery.autodesk.com

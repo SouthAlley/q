@@ -1,4 +1,4 @@
-# Main total line 602
+# Main total line 610
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -15,6 +15,8 @@ DOMAIN,aus5.mozilla.org
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddist2-a.akamaihd.net
+DOMAIN,blzddist3-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
 DOMAIN,boot.netboot.xyz
 DOMAIN,builds.paranoidandroid.co
@@ -24,6 +26,7 @@ DOMAIN,cache.agilebits.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cdimage.kali.org
 DOMAIN,cdn-images.orbstack.dev
+DOMAIN,cdn-patch.swtor.com
 DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,cdn.cypress.io
 DOMAIN,cdn.hyperbeam.com
@@ -39,6 +42,7 @@ DOMAIN,ctldl.windowsupdate.com
 DOMAIN,deb.nodesource.com
 DOMAIN,desktop.parallels.com
 DOMAIN,desktop.wifiman.com
+DOMAIN,dist.blizzard.com
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,dl-portal.iina.io
 DOMAIN,dl.cloudsmith.io
@@ -215,6 +219,7 @@ DOMAIN-SUFFIX,autoupdatesvc.delivery.autodesk.com
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
+DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,cloud-object-storage.appdomain.cloud
 DOMAIN-SUFFIX,cloudflaremirrors.com
@@ -253,6 +258,7 @@ DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
+DOMAIN-SUFFIX,epicgamescdn.com
 DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,files.1drv.com
@@ -602,3 +608,5 @@ DOMAIN-SUFFIX,swupdate.vray.com
 DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,vultrobjects.com
+DOMAIN-SUFFIX,wup.eshop.nintendo.net
+DOMAIN-SUFFIX,wup.shop.nintendo.net

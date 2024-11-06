@@ -1,4 +1,4 @@
-# Main total line 1026
+# Main total line 1028
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,188.com
 DOMAIN-SUFFIX,1905.com
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,2288.org
+DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,263.net
 DOMAIN-SUFFIX,321fenx.com
 DOMAIN-SUFFIX,3322.net
@@ -98,6 +99,7 @@ DOMAIN-SUFFIX,ali213.net
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aliexpress.com
+DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alikunlun.net

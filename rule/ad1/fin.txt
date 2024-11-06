@@ -548,6 +548,7 @@ DOMAIN-SUFFIX,ad-plus.cn
 DOMAIN-SUFFIX,ad-scope.com
 DOMAIN-SUFFIX,ad-scope.com.cn
 DOMAIN-SUFFIX,ad-score.com
+DOMAIN-SUFFIX,ad-sdk-config.youdao.com
 DOMAIN-SUFFIX,ad-sdk.huxiu.com
 DOMAIN-SUFFIX,ad-srv.co
 DOMAIN-SUFFIX,ad-stir.com
@@ -1605,7 +1606,6 @@ DOMAIN-SUFFIX,hbssjd.cn
 DOMAIN-SUFFIX,hc.baidu.cn
 DOMAIN-SUFFIX,hc.baidu.com
 DOMAIN-SUFFIX,hdswgc.com
-DOMAIN-SUFFIX,henzanapp.com
 DOMAIN-SUFFIX,hexagon-analytics.com
 DOMAIN-SUFFIX,heyzap.com
 DOMAIN-SUFFIX,hitslink.com

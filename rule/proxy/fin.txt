@@ -1,4 +1,4 @@
-# Main total line 6409
+# Main total line 6410
 # ------------------------------------------
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
@@ -5781,6 +5781,7 @@ DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,waffle1999.com
 DOMAIN-SUFFIX,wahas.com
+DOMAIN-SUFFIX,waifu2x.net
 DOMAIN-SUFFIX,waigaobu.com
 DOMAIN-SUFFIX,waikeung.org
 DOMAIN-SUFFIX,wailaike.net

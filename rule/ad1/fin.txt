@@ -1,4 +1,4 @@
-# Main total line 3467
+# Main total line 3469
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1142,6 +1142,7 @@ DOMAIN-SUFFIX,cbjslog.baidu.com
 DOMAIN-SUFFIX,cdj99d.cn
 DOMAIN-SUFFIX,cdn-ad.wtzw.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN-SUFFIX,cdn.jiuzhilan.com
 DOMAIN-SUFFIX,cdn.moji002.com
 DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
@@ -2891,6 +2892,7 @@ DOMAIN-SUFFIX,update.avlyun.sec.miui.com
 DOMAIN-SUFFIX,update.lejiao.tv
 DOMAIN-SUFFIX,update.mobile.kugou.com
 DOMAIN-SUFFIX,updatepage.kuwo.cn
+DOMAIN-SUFFIX,upgrade-update.hismarttv.com
 DOMAIN-SUFFIX,upgrade.xl9.xunlei.com
 DOMAIN-SUFFIX,upltv.com
 DOMAIN-SUFFIX,uprivaladserver.net
@@ -2924,6 +2926,7 @@ DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,v1-ad.video.yximgs.com
 DOMAIN-SUFFIX,v2-ad.video.yximgs.com
+DOMAIN-SUFFIX,v2-api-channel-launcher.hismarttv.com
 DOMAIN-SUFFIX,v2.hunantv.com
 DOMAIN-SUFFIX,v3-ad.video.yximgs.com
 DOMAIN-SUFFIX,v3.fstats.xyz
@@ -3445,7 +3448,6 @@ IP-CIDR,223.87.182.11/32,no-resolve
 IP-CIDR,223.87.182.52/32,no-resolve
 IP-CIDR,23.202.231.167/32,no-resolve
 IP-CIDR,23.217.138.108/32,no-resolve
-IP-CIDR,31.220.49.39/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,42.123.125.237/32,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve

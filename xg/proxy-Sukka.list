@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-11-05T15:40:24.631Z
-# Size: 718
+# Last Updated: 2024-11-08T18:39:13.520Z
+# Size: 719
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -99,15 +99,11 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,jav.pw
-DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,libgen.rs
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,tgstat.ru
 DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,z-library.se
-DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,annas-archive.se
-DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,ouo.si
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,notion.so
@@ -135,7 +131,9 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,ajay.app
+DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,grep.app
+DOMAIN-SUFFIX,knock.app
 DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,cyberghost.app
@@ -474,6 +472,7 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -695,6 +694,7 @@ DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,news.com.au
 DOMAIN-SUFFIX,abc.net.au
@@ -703,6 +703,7 @@ DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,ithome.com.tw
 DOMAIN-SUFFIX,linefriends.com.tw
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,dailymail.co.uk

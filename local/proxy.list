@@ -745,6 +745,8 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,brucewang.net
 DOMAIN-SUFFIX,brutaltgp.com
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bt2mag.com
 DOMAIN-SUFFIX,bt95.com
 DOMAIN-SUFFIX,btaia.com
@@ -3020,6 +3022,7 @@ DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,kiwi.kz
 DOMAIN-SUFFIX,kknews.cc
 DOMAIN-SUFFIX,klip.me
+DOMAIN-SUFFIX,knock.app
 DOMAIN-SUFFIX,knowledgerush.com
 DOMAIN-SUFFIX,knowyourmeme.com
 DOMAIN-SUFFIX,kobo.com
@@ -4664,7 +4667,6 @@ DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.rs
-DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,singtao.com
 DOMAIN-SUFFIX,singtaousa.com
 DOMAIN-SUFFIX,singular.net
@@ -5563,6 +5565,7 @@ DOMAIN-SUFFIX,uploadstation.com
 DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,upornia.com
 DOMAIN-SUFFIX,uproxy.org
+DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,upwill.org
 DOMAIN-SUFFIX,upwork.com
@@ -6203,7 +6206,6 @@ DOMAIN-SUFFIX,yzzk.com
 DOMAIN-SUFFIX,z-lib.gs
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,z-library.rs
-DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zalo.me
@@ -6263,7 +6265,6 @@ DOMAIN-SUFFIX,ziporn.com
 DOMAIN-SUFFIX,zippyshare.com
 DOMAIN-SUFFIX,zkaip.com
 DOMAIN-SUFFIX,zkiz.com
-DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zomobo.net

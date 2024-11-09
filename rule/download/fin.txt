@@ -1,4 +1,4 @@
-# Main total line 610
+# Main total line 611
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -57,6 +57,7 @@ DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
+DOMAIN,dl.tailscale.com
 DOMAIN,dl.ui.com
 DOMAIN,dl2.xmind.net
 DOMAIN,dl3.xmind.net

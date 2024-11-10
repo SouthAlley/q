@@ -1,4 +1,4 @@
-# Main total line 20508
+# Main total line 20509
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -11234,6 +11234,7 @@ DOMAIN-SUFFIX,m2m.com
 DOMAIN-SUFFIX,m5ir5np1.shop
 DOMAIN-SUFFIX,ma.hao123.com
 DOMAIN-SUFFIX,ma1lib.org
+DOMAIN-SUFFIX,maa.plus
 DOMAIN-SUFFIX,mabbank.com
 DOMAIN-SUFFIX,mac-mini.com
 DOMAIN-SUFFIX,mac.com

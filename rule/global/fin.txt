@@ -1,4 +1,4 @@
-# Main total line 20509
+# Main total line 20511
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -3959,6 +3959,7 @@ DOMAIN-SUFFIX,chargenowusa.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,charmescorts.com
 DOMAIN-SUFFIX,charticulator.com
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
@@ -9147,6 +9148,7 @@ DOMAIN-SUFFIX,ichigocandy.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
 DOMAIN-SUFFIX,icloud-isupport.com
+DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.de
 DOMAIN-SUFFIX,icloud.ee

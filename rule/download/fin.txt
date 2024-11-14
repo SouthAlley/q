@@ -1,4 +1,4 @@
-# Main total line 611
+# Main total line 613
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -42,6 +42,7 @@ DOMAIN,ctldl.windowsupdate.com
 DOMAIN,deb.nodesource.com
 DOMAIN,desktop.parallels.com
 DOMAIN,desktop.wifiman.com
+DOMAIN,disks.webvm.io
 DOMAIN,dist.blizzard.com
 DOMAIN,dl-cdn.alpinelinux.org
 DOMAIN,dl-portal.iina.io
@@ -222,6 +223,7 @@ DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,cloud-object-storage.appdomain.cloud
 DOMAIN-SUFFIX,cloudflaremirrors.com
 DOMAIN-SUFFIX,cloudflarestorage.com

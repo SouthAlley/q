@@ -1,4 +1,4 @@
-# Main total line 3470
+# Main total line 3471
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1404,6 +1404,7 @@ DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,ecma.bdimg.com
 DOMAIN-SUFFIX,ecmb.bdimg.com
 DOMAIN-SUFFIX,ecmc.bdimg.com
+DOMAIN-SUFFIX,edge.ads.twitch.tv
 DOMAIN-SUFFIX,edigitalsurvey.com
 DOMAIN-SUFFIX,ediuschina.com
 DOMAIN-SUFFIX,eduancm.com

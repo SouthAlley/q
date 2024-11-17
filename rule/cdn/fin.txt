@@ -1,4 +1,4 @@
-# Main total line 2681
+# Main total line 2682
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1046,6 +1046,7 @@ DOMAIN,js.qualified.com
 DOMAIN,js.recurly.com
 DOMAIN,js.short.io
 DOMAIN,js.smile.io
+DOMAIN,js.stripe.com
 DOMAIN,js.upload.io
 DOMAIN,js.userflow.com
 DOMAIN,js.verygoodvault.com

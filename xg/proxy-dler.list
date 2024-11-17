@@ -40,6 +40,10 @@ DOMAIN-SUFFIX,smartmailcloud.com
 
 # > Tesla
 
+# > WAQI
+DOMAIN,api.waqi.info
+DOMAIN,aqi.aqicn.org
+
 # > Zooba
 USER-AGENT,battleroyale*
 

@@ -1,4 +1,4 @@
-# Main total line 613
+# Main total line 615
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -165,6 +165,7 @@ DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net
+DOMAIN,packagecloud.io
 DOMAIN,packages.linuxmint.com
 DOMAIN,packages.microsoft.com
 DOMAIN,packages.virtfusion.net
@@ -189,6 +190,7 @@ DOMAIN,security.debian.org
 DOMAIN,security.ubuntu.com
 DOMAIN,share.riseup.net
 DOMAIN,softwareupdate.pilotmoon.com
+DOMAIN,softwareupdate.vmware.com
 DOMAIN,static.adguard.com
 DOMAIN,stats.snipaste.com
 DOMAIN,steam.apac.qtlglb.com

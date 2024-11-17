@@ -1,5 +1,7 @@
-# Main total line 6416
+# Main total line 6418
 # ------------------------------------------
+DOMAIN,api.waqi.info
+DOMAIN,aqi.aqicn.org
 DOMAIN,c.mi.com
 DOMAIN,cdn.statically.io
 DOMAIN,clubhouse.pubnubapi.com

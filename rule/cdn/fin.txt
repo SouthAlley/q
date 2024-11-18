@@ -1,4 +1,4 @@
-# Main total line 2682
+# Main total line 2684
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -32,6 +32,7 @@ DOMAIN,api-frameworks.vercel.sh
 DOMAIN,api.allorigins.win
 DOMAIN,api.bintray.com
 DOMAIN,api.crashguard.me
+DOMAIN,api.dicebear.com
 DOMAIN,api.iconify.design
 DOMAIN,api.mintlify.com
 DOMAIN,api.mixpanel.com
@@ -1891,6 +1892,7 @@ DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,amaicdn.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anpoimages.com
+DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,api.loganalytics.io
 DOMAIN-SUFFIX,app-analytics-services.com

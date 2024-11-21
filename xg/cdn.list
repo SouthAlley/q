@@ -198,6 +198,7 @@ DOMAIN,assets.xboxservices.com
 DOMAIN,assets.xmind.net
 DOMAIN,assets.yande.re
 DOMAIN,assets.zerohedge.com
+DOMAIN,assets.zilliz.com
 DOMAIN,assets0.headwayapp.co
 DOMAIN,assets1.lottiefiles.com
 DOMAIN,assets10.lottiefiles.com
@@ -412,6 +413,7 @@ DOMAIN,cdn.kinsta.com
 DOMAIN,cdn.koala.live
 DOMAIN,cdn.kobo.com
 DOMAIN,cdn.langshop.app
+DOMAIN,cdn.leandata.com
 DOMAIN,cdn.libravatar.org
 DOMAIN,cdn.linearicons.com
 DOMAIN,cdn.livechatinc.com
@@ -773,7 +775,6 @@ DOMAIN,flo.uri.sh
 DOMAIN,flows.trysavvy.com
 DOMAIN,fonts.bunny.net
 DOMAIN,fonts.cat.net
-DOMAIN,fonts.cdnfonts.com
 DOMAIN,fonts.codeberg.org
 DOMAIN,fonts.gishan.cc
 DOMAIN,fonts.googleapis.com
@@ -1027,6 +1028,7 @@ DOMAIN,ipfs.d.tube
 DOMAIN,irp-cdn.multiscreensite.com
 DOMAIN,j.udn.com.tw
 DOMAIN,jac.yahoosandbox.com
+DOMAIN,jfe-cdn.qualtrics.com
 DOMAIN,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 DOMAIN,js-1-cdn.airdroid.com
 DOMAIN,js-cdn.blockchair.io
@@ -1148,6 +1150,7 @@ DOMAIN,media3.giphy.com
 DOMAIN,media4.giphy.com
 DOMAIN,medias.meow.social
 DOMAIN,megapx-assets.dcard.tw
+DOMAIN,metrics.kapa.ai
 DOMAIN,micro.rubiconproject.com
 DOMAIN,minotar.net
 DOMAIN,mir-s3-cdn-cf.behance.net
@@ -1186,12 +1189,9 @@ DOMAIN,object.innei.in
 DOMAIN,objects.g0v.social
 DOMAIN,objects.hit.moe
 DOMAIN,ocsp.digicert.com
-DOMAIN,ocsp.globalsign.com
 DOMAIN,ocsp.godaddy.com
 DOMAIN,ocsp.sectigo.com
 DOMAIN,ocsp.usertrust.com
-DOMAIN,ocsp2.apple.com
-DOMAIN,ocsp2.globalsign.com
 DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,ooo.0o0.ooo
 DOMAIN,open-vsx.org
@@ -1307,6 +1307,7 @@ DOMAIN,public.saasexch.com
 DOMAIN,publicsuffix.org
 DOMAIN,quriobot.com
 DOMAIN,r.r10s.jp
+DOMAIN,r2.leadsy.ai
 DOMAIN,raw.github.com
 DOMAIN,rawmarkdown.cloudflareaccess.org
 DOMAIN,rebound.postmarkapp.com
@@ -1716,6 +1717,7 @@ DOMAIN,t2.picb.cc
 DOMAIN,t3.gstatic.com
 DOMAIN,t3.picb.cc
 DOMAIN,t4.picb.cc
+DOMAIN,tag.trovo-tag.com
 DOMAIN,tags.bkrtx.com
 DOMAIN,tags.nationwide.com
 DOMAIN,tags.news.com.au
@@ -1832,6 +1834,7 @@ DOMAIN,webfonts.zoho.com
 DOMAIN,website-cdn.ipinfo.io
 DOMAIN,widget.freshworks.com
 DOMAIN,widget.intercom.io
+DOMAIN,widget.kapa.ai
 DOMAIN,widget.trustpilot.com
 DOMAIN,widget.usepylon.com
 DOMAIN,widget.user.com
@@ -1985,6 +1988,7 @@ DOMAIN-SUFFIX,cdn2.hubspot.net
 DOMAIN-SUFFIX,cdn2020.com
 DOMAIN-SUFFIX,cdnbf.net
 DOMAIN-SUFFIX,cdnclouder.com
+DOMAIN-SUFFIX,cdnfonts.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnjhd.com
 DOMAIN-SUFFIX,cdnjs.network
@@ -2316,6 +2320,7 @@ DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,media.beeper.com
 DOMAIN-SUFFIX,media.ci-en.jp
+DOMAIN-SUFFIX,media.strapiapp.com
 DOMAIN-SUFFIX,media.tumblr.com
 DOMAIN-SUFFIX,media.zestyio.com
 DOMAIN-SUFFIX,meetupstatic.com

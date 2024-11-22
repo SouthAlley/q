@@ -1,4 +1,4 @@
-# Main total line 1033
+# Main total line 1032
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -498,7 +498,6 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,jomoxc.com
 DOMAIN-SUFFIX,jsboxbbs.com
 DOMAIN-SUFFIX,jstarkan.com
-DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,jumei.com
 DOMAIN-SUFFIX,kaikeba.com
 DOMAIN-SUFFIX,kaiyanapp.com

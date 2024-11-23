@@ -1,4 +1,4 @@
-# Main total line 1032
+# Main total line 1031
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -882,7 +882,6 @@ DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,wenku8.net
 DOMAIN-SUFFIX,werewolf.53site.com
 DOMAIN-SUFFIX,wifi8.com
 DOMAIN-SUFFIX,wkcdn.com

@@ -1,4 +1,4 @@
-# Main total line 617
+# Main total line 618
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -87,6 +87,7 @@ DOMAIN,download.hikarifield.co.jp
 DOMAIN,download.iboysoft.com
 DOMAIN,download.jetbrains.com
 DOMAIN,download.maxmind.com
+DOMAIN,download.mersenne.ca
 DOMAIN,download.mikrotik.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.mozilla.org

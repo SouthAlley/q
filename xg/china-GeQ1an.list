@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,airhotels.cn
-DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacloud.com
@@ -53,8 +52,6 @@ DOMAIN-SUFFIX,cloudsigma.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cmct.tv
 DOMAIN-SUFFIX,cmfu.com
-DOMAIN-SUFFIX,cnbeta.com
-DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,cnlang.org
 DOMAIN-SUFFIX,coolapk.com
@@ -179,7 +176,6 @@ DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,sinaimg.com
-DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,smartisan.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,snssdk.com
@@ -219,12 +215,12 @@ DOMAIN-SUFFIX,uxengine.net
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather.bjango.com
 DOMAIN-SUFFIX,webqxs.com
+DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
-DOMAIN-SUFFIX,wenku8.net
 DOMAIN-SUFFIX,werewolf.53site.com
 DOMAIN-SUFFIX,wkcdn.com
 DOMAIN-SUFFIX,xdrig.com

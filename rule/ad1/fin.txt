@@ -1,4 +1,4 @@
-# Main total line 3472
+# Main total line 3474
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1530,7 +1530,9 @@ DOMAIN-SUFFIX,gentags.net
 DOMAIN-SUFFIX,geo.yahoo.com
 DOMAIN-SUFFIX,geo2.adobe.com
 DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.cn
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gg.jtertp.com
 DOMAIN-SUFFIX,gg.kugou.com
 DOMAIN-SUFFIX,gg.meitu.com

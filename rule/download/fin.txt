@@ -1,4 +1,4 @@
-# Main total line 619
+# Main total line 620
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -74,6 +74,7 @@ DOMAIN,down.filen.io
 DOMAIN,down.filen.net
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download-core.sys.truenas.net
+DOMAIN,download-installer.cdn.mozilla.net
 DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
 DOMAIN,download.beeper.com

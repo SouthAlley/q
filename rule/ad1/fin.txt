@@ -1,4 +1,4 @@
-# Main total line 3474
+# Main total line 3477
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -2199,6 +2199,7 @@ DOMAIN-SUFFIX,p.vq6nsu.cn
 DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p2.hunantv.com
 DOMAIN-SUFFIX,p242.plainwrk.name
+DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,p3-tt.byteimg.com
 DOMAIN-SUFFIX,p3p.yahoo.com
 DOMAIN-SUFFIX,pagead-tpc.l.google.com
@@ -2255,6 +2256,7 @@ DOMAIN-SUFFIX,pixels.asia
 DOMAIN-SUFFIX,pixfuture.com
 DOMAIN-SUFFIX,pixfuture.net
 DOMAIN-SUFFIX,pixiu.shangshufang.ksosoft.com
+DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,placeiq.com
 DOMAIN-SUFFIX,placelocal.com
 DOMAIN-SUFFIX,playersb.com
@@ -2673,6 +2675,7 @@ DOMAIN-SUFFIX,syndication.twitter.com
 DOMAIN-SUFFIX,synergy-e.com
 DOMAIN-SUFFIX,sys.zhangyue.com
 DOMAIN-SUFFIX,sysdig.com
+DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,t-dsp.pinduoduo.com
 DOMAIN-SUFFIX,t-e.flyme.cn
 DOMAIN-SUFFIX,t-flow.flyme.cn

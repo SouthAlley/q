@@ -1,4 +1,4 @@
-# Main total line 618
+# Main total line 619
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -213,6 +213,7 @@ DOMAIN,updater.snipaste.com
 DOMAIN,updates-cdn.bravesoftware.com
 DOMAIN,updates.istatmenus.app
 DOMAIN,versioncheck-bg.addons.mozilla.org
+DOMAIN,versioncheck.addons.mozilla.org
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com

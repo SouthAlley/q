@@ -1,4 +1,4 @@
-# Main total line 6059
+# Main total line 6061
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -694,6 +694,7 @@ DOMAIN-SUFFIX,brill.com
 DOMAIN-SUFFIX,brizzly.com
 DOMAIN-SUFFIX,brkmd.com
 DOMAIN-SUFFIX,broadbook.com
+DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,broadpressinc.com
 DOMAIN-SUFFIX,brockbbs.com
 DOMAIN-SUFFIX,bronto.com
@@ -764,6 +765,7 @@ DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cachinese.com
 DOMAIN-SUFFIX,cacnw.com
 DOMAIN-SUFFIX,cactusvpn.com
+DOMAIN-SUFFIX,cafe
 DOMAIN-SUFFIX,cafepress.com
 DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,cal.com

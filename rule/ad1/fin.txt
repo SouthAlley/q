@@ -1,4 +1,4 @@
-# Main total line 3477
+# Main total line 3483
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -52,7 +52,6 @@ DOMAIN,adreq.vivo.com.cn
 DOMAIN,ads-cloud.rovio.com
 DOMAIN,ads-d.viber.com
 DOMAIN,ads-img-al.xhscdn.com
-DOMAIN,ads-marketing-vivofs.vivo.com.cn
 DOMAIN,ads.aplus.pptv.com
 DOMAIN,ads.aplusapi.pptv.com
 DOMAIN,ads.auctions.yahoo.com
@@ -134,7 +133,6 @@ DOMAIN,at3.doubanio.com
 DOMAIN,at4.doubanio.com
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,badjs.weixinbridge.com
-DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,browser.sentry-cdn.com
@@ -734,6 +732,7 @@ DOMAIN-SUFFIX,ads-api.tiktok.com
 DOMAIN-SUFFIX,ads-api.twitter.com
 DOMAIN-SUFFIX,ads-img-qc.xhscdn.com
 DOMAIN-SUFFIX,ads-jp.tiktok.com
+DOMAIN-SUFFIX,ads-marketing-vivofs.vivo.com.cn
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,ads-sg.tiktok.com
 DOMAIN-SUFFIX,ads-twitter.com
@@ -943,6 +942,7 @@ DOMAIN-SUFFIX,api-ad-product.huxiu.com
 DOMAIN-SUFFIX,api-deal.kechenggezi.com
 DOMAIN-SUFFIX,api-flow.meizu.com
 DOMAIN-SUFFIX,api-game.meizu.com
+DOMAIN-SUFFIX,api-gd.hiaiabc.com
 DOMAIN-SUFFIX,api-push.meizu.com
 DOMAIN-SUFFIX,api-z.weidian.com
 DOMAIN-SUFFIX,api.hzsanjiaomao.com
@@ -1015,6 +1015,8 @@ DOMAIN-SUFFIX,azr.footprintdns.com
 DOMAIN-SUFFIX,b.smartvideo.youku.com
 DOMAIN-SUFFIX,b2pk.com
 DOMAIN-SUFFIX,badad.googleplex.com
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,baichuan-sdk.taobao.com
 DOMAIN-SUFFIX,baichuan.baidu.com
 DOMAIN-SUFFIX,baidu9635.com
 DOMAIN-SUFFIX,baidustatic.com
@@ -1207,6 +1209,7 @@ DOMAIN-SUFFIX,cmcore.com
 DOMAIN-SUFFIX,cmgadx.com
 DOMAIN-SUFFIX,cms.ucweb.com
 DOMAIN-SUFFIX,cmx.autohome.com.cn
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
 DOMAIN-SUFFIX,cnxad.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cnzzlink.com
@@ -1493,6 +1496,7 @@ DOMAIN-SUFFIX,funnull.com
 DOMAIN-SUFFIX,funnull01.vip
 DOMAIN-SUFFIX,fyber.com
 DOMAIN-SUFFIX,fz.letv.com
+DOMAIN-SUFFIX,g-adnet.hiaiabc.com
 DOMAIN-SUFFIX,g-staic.ganjingworld.com
 DOMAIN-SUFFIX,g.baidu.com
 DOMAIN-SUFFIX,g.click.taobao.com
@@ -1646,6 +1650,7 @@ DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
 DOMAIN-SUFFIX,hw.zuimeitianqi.com
 DOMAIN-SUFFIX,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN-SUFFIX,hya.comp.360os.com
+DOMAIN-SUFFIX,hybrid.miniapp.taobao.com
 DOMAIN-SUFFIX,hydra.alibaba.com
 DOMAIN-SUFFIX,hye.comp.360os.com
 DOMAIN-SUFFIX,hypeapp.cn
@@ -1922,6 +1927,7 @@ DOMAIN-SUFFIX,lufax.com
 DOMAIN-SUFFIX,luping.net.cn
 DOMAIN-SUFFIX,lvehaisen.com
 DOMAIN-SUFFIX,lvip.youku.com
+DOMAIN-SUFFIX,m-adnet.hiaiabc.com
 DOMAIN-SUFFIX,m.12306media.com
 DOMAIN-SUFFIX,m.kubiqq.com
 DOMAIN-SUFFIX,m.ourlj.com

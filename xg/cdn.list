@@ -103,6 +103,7 @@ DOMAIN,assets.codepen.io
 DOMAIN,assets.coinbase.com
 DOMAIN,assets.coingecko.com
 DOMAIN,assets.context.ly
+DOMAIN,assets.controld.com
 DOMAIN,assets.convertkit.com
 DOMAIN,assets.dev.to
 DOMAIN,assets.dify.ai
@@ -507,6 +508,7 @@ DOMAIN,cdn.stash.com
 DOMAIN,cdn.stellarhosted.com
 DOMAIN,cdn.substack.com
 DOMAIN,cdn.sunofbeaches.com
+DOMAIN,cdn.svgator.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.termius.com
 DOMAIN,cdn.thisav.com
@@ -838,6 +840,7 @@ DOMAIN,i.iheart.com
 DOMAIN,i.imgflip.com
 DOMAIN,i.imgur.com
 DOMAIN,i.insider.com
+DOMAIN,i.ioiox.com
 DOMAIN,i.iwara.tv
 DOMAIN,i.jpg.dog
 DOMAIN,i.loli.best
@@ -1070,6 +1073,7 @@ DOMAIN,js.upload.io
 DOMAIN,js.userflow.com
 DOMAIN,js.verygoodvault.com
 DOMAIN,js1.chargebee.com
+DOMAIN,jsdelivr.ioiox.net
 DOMAIN,jslibs.blackmagicdesign.com
 DOMAIN,jsonplaceholder.typicode.com
 DOMAIN,kdata1.com
@@ -2125,6 +2129,7 @@ DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,file.core.windows.net
 DOMAIN-SUFFIX,filecunhua.top
 DOMAIN-SUFFIX,files.bbci.co.uk
@@ -2664,6 +2669,7 @@ DOMAIN-SUFFIX,w-corp-staticblitz.com
 DOMAIN-SUFFIX,w-credentialless-staticblitz.com
 DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,webp.se

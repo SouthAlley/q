@@ -1,4 +1,4 @@
-# Main total line 620
+# Main total line 621
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -127,6 +127,7 @@ DOMAIN,formulae.brew.sh
 DOMAIN,ftp.gnu.org
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,get.pixelexperience.org
+DOMAIN,ghp.ci
 DOMAIN,gog-cdn-fastly-cp77.gog.com
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,install.virtfusion.net

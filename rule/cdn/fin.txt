@@ -1,4 +1,4 @@
-# Main total line 2740
+# Main total line 2742
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1449,6 +1449,7 @@ DOMAIN,screenshots.webflow.com
 DOMAIN,scripts.dailymail.co.uk
 DOMAIN,scripts.webeo.com
 DOMAIN,sdata.ndtv.com
+DOMAIN,sdk.listenlive.co
 DOMAIN,sdk.qikify.com
 DOMAIN,sdk.snapkit.com
 DOMAIN,sdk.split.io
@@ -1888,6 +1889,7 @@ DOMAIN,widget.user.com
 DOMAIN,widget.usersnap.com
 DOMAIN,widget.uservoice.com
 DOMAIN,widgets-red.media.weather.com
+DOMAIN,widgets.listenlive.co
 DOMAIN,widgets.media.weather.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.tree-nation.com

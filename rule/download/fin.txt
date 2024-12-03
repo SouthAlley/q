@@ -1,4 +1,4 @@
-# Main total line 621
+# Main total line 626
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -37,6 +37,7 @@ DOMAIN,cdn.zoom.us
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,client.hikarifield.co.jp
 DOMAIN,codeload.github.com
+DOMAIN,componentupdater.brave.com
 DOMAIN,content-origin.steampowered.com
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,deb.nodesource.com
@@ -125,9 +126,11 @@ DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
 DOMAIN,formulae.brew.sh
 DOMAIN,ftp.gnu.org
+DOMAIN,ftp.gwdg.de
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,get.pixelexperience.org
 DOMAIN,ghp.ci
+DOMAIN,go-updater.brave.com
 DOMAIN,gog-cdn-fastly-cp77.gog.com
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,install.virtfusion.net
@@ -210,6 +213,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
 DOMAIN,update.greasyfork.org
+DOMAIN,update.kiwibrowser.com
 DOMAIN,update.sleazyfork.org
 DOMAIN,updater.snipaste.com
 DOMAIN,updates-cdn.bravesoftware.com
@@ -552,6 +556,7 @@ DOMAIN-SUFFIX,s3.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-4.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-5.amazonaws.com
+DOMAIN-SUFFIX,s3.brave.com
 DOMAIN-SUFFIX,s3.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.af-south-1.amazonaws.com

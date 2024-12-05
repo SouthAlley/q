@@ -1,4 +1,4 @@
-# Main total line 6065
+# Main total line 6066
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -2680,6 +2680,7 @@ DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,javakiba.org
 DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javfor.me
 DOMAIN-SUFFIX,javhd.com
 DOMAIN-SUFFIX,javhd.today

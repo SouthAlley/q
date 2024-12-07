@@ -1,4 +1,4 @@
-# Main total line 6066
+# Main total line 6070
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -703,6 +703,7 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,brucewang.net
 DOMAIN-SUFFIX,brutaltgp.com
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bt2mag.com
 DOMAIN-SUFFIX,bt95.com
 DOMAIN-SUFFIX,btaia.com
@@ -4463,6 +4464,8 @@ DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,smartone.com
 DOMAIN-SUFFIX,smartoneholdings.com
 DOMAIN-SUFFIX,smartonerobotics.com
+DOMAIN-SUFFIX,smashing.media
+DOMAIN-SUFFIX,smashingmagazine.com
 DOMAIN-SUFFIX,smchbooks.com
 DOMAIN-SUFFIX,smhric.org
 DOMAIN-SUFFIX,smith.edu
@@ -5260,6 +5263,7 @@ DOMAIN-SUFFIX,usacn.com
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,usertesting.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usma.edu
 DOMAIN-SUFFIX,usocctn.com

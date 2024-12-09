@@ -1,4 +1,4 @@
-# Main total line 626
+# Main total line 628
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -62,6 +62,7 @@ DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
 DOMAIN,dl.tailscale.com
 DOMAIN,dl.ui.com
+DOMAIN,dl.wechat.com
 DOMAIN,dl2.xmind.net
 DOMAIN,dl3.xmind.net
 DOMAIN,dlcdnets.asus.com
@@ -115,6 +116,7 @@ DOMAIN,downloads.openwrt.org
 DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net
 DOMAIN,downloads.wordpress.org
+DOMAIN,downloads.xiph.org
 DOMAIN,downloads.xrite.com
 DOMAIN,drive.massgrave.dev
 DOMAIN,edge.steam-dns.top.comcast.net

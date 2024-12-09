@@ -75,6 +75,7 @@ DOMAIN,assets-next.matters.news
 DOMAIN,assets-next.mattersprotocol.io
 DOMAIN,assets-production.packagecloud.io
 DOMAIN,assets-s3-us-east-1.ceros.com
+DOMAIN,assets-themes.chess.com
 DOMAIN,assets-v2.super.so
 DOMAIN,assets-www.xbox.com
 DOMAIN,assets.aboutamazon.com
@@ -295,6 +296,7 @@ DOMAIN,cdn-media-1.freecodecamp.org
 DOMAIN,cdn-media-2.freecodecamp.org
 DOMAIN,cdn-mobile.aptoide.com
 DOMAIN,cdn-msp.18comic.vip
+DOMAIN,cdn-msp.jmcomic-zzz.one
 DOMAIN,cdn-msp.jmcomic.me
 DOMAIN,cdn-node.diskpart.com
 DOMAIN,cdn-public.sociabble.com
@@ -692,6 +694,7 @@ DOMAIN,design-system.yext.com
 DOMAIN,design.mayoclinic.org
 DOMAIN,designsystem.brevo.com
 DOMAIN,detectportal.firefox.com
+DOMAIN,devnull.perfops.net
 DOMAIN,dh-site.b-cdn.net
 DOMAIN,dims.apnews.com
 DOMAIN,disco.headliner.link
@@ -1127,6 +1130,7 @@ DOMAIN,mangaz-static.j-comi.jp
 DOMAIN,mantisloader.mantis-awx.com
 DOMAIN,maps.geoapify.com
 DOMAIN,maps.gstatic.com
+DOMAIN,marketing.figma.com
 DOMAIN,marketplace-web-assets.vinted.com
 DOMAIN,mastodon-static.miao.dev
 DOMAIN,maven.google.com
@@ -1393,6 +1397,7 @@ DOMAIN,rules.ac
 DOMAIN,rules1.clearurls.xyz
 DOMAIN,rules2.clearurls.xyz
 DOMAIN,rum-agent.na-01.cloud.solarwinds.com
+DOMAIN,rum-cdn.perfops.net
 DOMAIN,runkit-packages-static-executables.com
 DOMAIN,runkit-packages-static.com
 DOMAIN,rv-assets.softonic.com
@@ -1948,6 +1953,7 @@ DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,agechecker-northern-apps.com
 DOMAIN-SUFFIX,agechecker.northern-apps.com
+DOMAIN-SUFFIX,airio3.live
 DOMAIN-SUFFIX,akamai-content-delivery.com
 DOMAIN-SUFFIX,akamai-content-network.com
 DOMAIN-SUFFIX,alexdav.id
@@ -2135,6 +2141,7 @@ DOMAIN-SUFFIX,easylist.to
 DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,edgestorewebcdn.azureedge.net
+DOMAIN-SUFFIX,eggjs.org
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,embedgram.com
@@ -2628,6 +2635,7 @@ DOMAIN-SUFFIX,stripeassets.com
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX,stylexjs.com
 DOMAIN-SUFFIX,substackcdn.com
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,surrit.com
@@ -2644,6 +2652,7 @@ DOMAIN-SUFFIX,thisiscdn.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,tile.openstreetmap.de
 DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,tile.osm.org

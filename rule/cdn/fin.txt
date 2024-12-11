@@ -1,4 +1,4 @@
-# Main total line 2778
+# Main total line 2781
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -335,6 +335,7 @@ DOMAIN,cdn.autoketing.org
 DOMAIN,cdn.axieinfinity.com
 DOMAIN,cdn.babylonjs.com
 DOMAIN,cdn.bfe.dev
+DOMAIN,cdn.bigcloud.click
 DOMAIN,cdn.birdie.so
 DOMAIN,cdn.branch.io
 DOMAIN,cdn.britannica.com
@@ -1460,6 +1461,7 @@ DOMAIN,safebrowsing.brave.com
 DOMAIN,safebrowsing.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sandpack-cdn-staging.blazingly.io
+DOMAIN,sandpack-cdn-v2.codesandbox.io
 DOMAIN,sbl.onfastspring.com
 DOMAIN,scdn.clerk.com
 DOMAIN,scontent.whatsapp.net
@@ -2007,6 +2009,7 @@ DOMAIN-SUFFIX,bftuvip.com
 DOMAIN-SUFFIX,bfzypic.com
 DOMAIN-SUFFIX,bigcontent.io
 DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,blackbaudcdn.net
 DOMAIN-SUFFIX,bleepstatic.com
 DOMAIN-SUFFIX,blob.core.windows.net

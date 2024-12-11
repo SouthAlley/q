@@ -1,4 +1,4 @@
-# Main total line 20510
+# Main total line 20511
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.waqi.info
@@ -16103,6 +16103,7 @@ DOMAIN-SUFFIX,soooyinfor.lol
 DOMAIN-SUFFIX,sopcast.com
 DOMAIN-SUFFIX,sopcast.org
 DOMAIN-SUFFIX,sophos.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sora6.com
 DOMAIN-SUFFIX,sorairi.info
 DOMAIN-SUFFIX,sorazone.net

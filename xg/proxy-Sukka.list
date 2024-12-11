@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-12-08T13:35:36.502Z
-# Size: 680
+# Last Updated: 2024-12-10T09:48:00.161Z
+# Size: 683
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -150,6 +150,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,note.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,snap.com
 DOMAIN-SUFFIX,t66y.com
@@ -247,6 +248,7 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,probit.com
+DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,render.com
@@ -278,6 +280,7 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,doujins.com
+DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,godaddy.com
@@ -297,6 +300,7 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,scpwiki.com
@@ -330,7 +334,6 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,euronews.com
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,ghostery.com
@@ -500,7 +503,6 @@ DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,cloudflareresolve.com
-DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,returnyoutubedislike.com
@@ -601,6 +603,7 @@ DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikimedia.org

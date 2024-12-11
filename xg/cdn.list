@@ -56,6 +56,7 @@ DOMAIN,app.moegirl.tw
 DOMAIN,app.roboflow.com
 DOMAIN,app.viral-loops.com
 DOMAIN,appassets.mvtdev.com
+DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apps.profitihub.com
@@ -157,6 +158,7 @@ DOMAIN,assets.mozilla.social
 DOMAIN,assets.msn.com
 DOMAIN,assets.nationbuilder.com
 DOMAIN,assets.newrepublic.com
+DOMAIN,assets.nflxext.com
 DOMAIN,assets.nintendo.com
 DOMAIN,assets.onestore.ms
 DOMAIN,assets.ontrack.com
@@ -512,6 +514,7 @@ DOMAIN,cdn.smooch.io
 DOMAIN,cdn.softswiss.net
 DOMAIN,cdn.split.io
 DOMAIN,cdn.sprig.com
+DOMAIN,cdn.st-note.com
 DOMAIN,cdn.starapps.studio
 DOMAIN,cdn.stash.com
 DOMAIN,cdn.stellarhosted.com
@@ -1099,6 +1102,8 @@ DOMAIN,jsonplaceholder.typicode.com
 DOMAIN,kdata1.com
 DOMAIN,keyframe-cdn.abcnews.com
 DOMAIN,lain.bgm.tv
+DOMAIN,latency-test.lab.skk.moe
+DOMAIN,latency-test.skk.moe
 DOMAIN,launcher.spot.im
 DOMAIN,launchercontent.mojang.com
 DOMAIN,lcdn-locator.apple.com
@@ -1666,6 +1671,7 @@ DOMAIN,static.mysph.sph.com.sg
 DOMAIN,static.mytonwallet.io
 DOMAIN,static.na1.visioncritical.com
 DOMAIN,static.namebeta.com
+DOMAIN,static.netify.ai
 DOMAIN,static.news.bitcoin.com
 DOMAIN,static.nhentai.net
 DOMAIN,static.nicehash.com
@@ -1807,6 +1813,7 @@ DOMAIN,tiles.windy.com
 DOMAIN,time.cloudflare.com
 DOMAIN,tn.vjav.com
 DOMAIN,ton.local.twitter.com
+DOMAIN,tools-static.wmflabs.org
 DOMAIN,topbar-static.piano.io
 DOMAIN,torrindex.net
 DOMAIN,tracker.cdnbye.com
@@ -1971,6 +1978,7 @@ DOMAIN-SUFFIX,app.render.com
 DOMAIN-SUFFIX,applicationinsights.azure.cn
 DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,appmifile.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-servd.host
 DOMAIN-SUFFIX,assets-yammer.com
@@ -2022,6 +2030,7 @@ DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-SUFFIX,cdn-one.com
 DOMAIN-SUFFIX,cdn-spurit.com
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn-uploads.huggingface.co
 DOMAIN-SUFFIX,cdn-website.com
 DOMAIN-SUFFIX,cdn-zlib.sk
@@ -2282,6 +2291,7 @@ DOMAIN-SUFFIX,imostatic.com
 DOMAIN-SUFFIX,in.appcenter.ms
 DOMAIN-SUFFIX,infura-ipfs.io
 DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercomcdn.com
@@ -2368,6 +2378,7 @@ DOMAIN-SUFFIX,kirafile.com
 DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,kwcdn.com
 DOMAIN-SUFFIX,kym-cdn.com
+DOMAIN-SUFFIX,larksuitecdn.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,licensebuttons.net
@@ -2412,6 +2423,7 @@ DOMAIN-SUFFIX,mmtcdn.com
 DOMAIN-SUFFIX,mngbcn.com
 DOMAIN-SUFFIX,motherlessmedia.com
 DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,myanalytics.cdn.office.net

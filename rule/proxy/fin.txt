@@ -1,4 +1,4 @@
-# Main total line 6071
+# Main total line 6073
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -3535,6 +3535,7 @@ DOMAIN-SUFFIX,nordstromimage.com
 DOMAIN-SUFFIX,nordstromrack.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,notability.com
+DOMAIN-SUFFIX,note.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
@@ -4010,6 +4011,7 @@ DOMAIN-SUFFIX,purplelotus.org
 DOMAIN-SUFFIX,pursuestar.com
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushchinawall.com
+DOMAIN-SUFFIX,pusher.com
 DOMAIN-SUFFIX,pushwoosh.com
 DOMAIN-SUFFIX,pussthecat.org
 DOMAIN-SUFFIX,pussyspace.com

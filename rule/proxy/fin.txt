@@ -1,4 +1,4 @@
-# Main total line 6073
+# Main total line 6075
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -482,6 +482,7 @@ DOMAIN-SUFFIX,banana-vpn.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bang.com
 DOMAIN-SUFFIX,bangbrosnetwork.com
 DOMAIN-SUFFIX,bangchen.net
 DOMAIN-SUFFIX,bangdream.space
@@ -1335,6 +1336,7 @@ DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,downdetector.com
+DOMAIN-SUFFIX,downdetectorapi.com
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpr.info
 DOMAIN-SUFFIX,dragonsprings.org

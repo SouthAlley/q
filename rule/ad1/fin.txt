@@ -1,4 +1,4 @@
-# Main total line 3499
+# Main total line 3500
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1480,6 +1480,7 @@ DOMAIN-SUFFIX,feitian001.com
 DOMAIN-SUFFIX,feixin2.com
 DOMAIN-SUFFIX,fengbuy.com
 DOMAIN-SUFFIX,fexclick.baidu.com
+DOMAIN-SUFFIX,file.daihuo.qq.com
 DOMAIN-SUFFIX,files2.sogou.com
 DOMAIN-SUFFIX,fintechpi.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com

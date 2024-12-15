@@ -180,7 +180,6 @@ DOMAIN,packages.microsoft.com
 DOMAIN,packages.virtfusion.net
 DOMAIN,packagespc.xboxlive.com
 DOMAIN,pf-cdn-content-prod.azureedge.net
-DOMAIN,pixeldrain.com
 DOMAIN,pkg-containers.githubusercontent.com
 DOMAIN,pkgs.tailscale.com
 DOMAIN,playwright.azureedge.net
@@ -314,6 +313,7 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,releases.hashicorp.com
 DOMAIN-SUFFIX,repo.jing.rocks

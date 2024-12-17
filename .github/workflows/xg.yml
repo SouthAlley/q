@@ -134,7 +134,7 @@ jobs:
                # 判断删除规则文件是否存在
                if [ -f "$del_file" ]; then
                     # 删除匹配行并备份原始文件
-                    grep -vFf "$del_file" "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
+                    grep -vFxf "$del_file" "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
 
                     # 输出删除操作完成的消息
                     echo "删除${rule_type}操作完成。"

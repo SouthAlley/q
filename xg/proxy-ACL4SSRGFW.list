@@ -29,6 +29,26 @@ DOMAIN-SUFFIX,buzzsprout.com
 # 国外域名
 
 # 国外域名关键字
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,avtb
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,youtube
 
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
@@ -6043,6 +6063,7 @@ IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
 
 # BBC
+DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
 
@@ -6189,6 +6210,9 @@ DOMAIN,cloud.oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 
 # OneDrive
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
@@ -6201,6 +6225,7 @@ DOMAIN-SUFFIX,storage.msn.com
 #DOMAIN-SUFFIX,aria.microsoft.com
 
 # Porn
+DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,8teenxxx.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,bcvcdn.com
@@ -6264,6 +6289,7 @@ DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-KEYWORD,ttvnw
 
 # Twitter
 DOMAIN-SUFFIX,t.co

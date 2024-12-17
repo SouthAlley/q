@@ -2,7 +2,6 @@ USER-AGENT,MicroMessenger Client*
 USER-AGENT,WeChat*
 
 DOMAIN-SUFFIX,cn
-DOMAIN-KEYWORD,-cn
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
@@ -12,13 +11,8 @@ DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,aixifan.com
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,taobao
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
-DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bilibili.com
@@ -69,7 +63,6 @@ DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,office.com
-DOMAIN-KEYWORD,officecdn
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ppsimg.com
@@ -103,7 +96,6 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tianyancha.com
-DOMAIN-KEYWORD,.tmall.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,upaiyun.com

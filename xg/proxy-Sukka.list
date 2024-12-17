@@ -642,13 +642,5 @@ DOMAIN,media.steampowered.com
 DOMAIN-SUFFIX,dnsleak.asn247.net
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN,store.ui.com.cn
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,pinterest
 USER-AGENT,Roam*
 ################## EOF ##################

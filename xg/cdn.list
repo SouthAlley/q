@@ -499,6 +499,7 @@ DOMAIN,cdn.rex.contents.rakuten.co.jp
 DOMAIN,cdn.rive.app
 DOMAIN,cdn.robinpro.gallery
 DOMAIN,cdn.roboflow.com
+DOMAIN,cdn.royaleapi.com
 DOMAIN,cdn.safecharge.com
 DOMAIN,cdn.sanity.io
 DOMAIN,cdn.sc.gl
@@ -1828,6 +1829,8 @@ DOMAIN,talk.hyvor.com
 DOMAIN,talk.washingtonpost.com
 DOMAIN,talon-website-prod.ecosec.on.epicgames.com
 DOMAIN,telemetry.1passwordservices.com
+DOMAIN,telemetry.business.githubcopilot.com
+DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN,telemetry.nextjs.org
 DOMAIN,telemetry.split.io
 DOMAIN,telemetry.vercel.com

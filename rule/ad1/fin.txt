@@ -1,4 +1,4 @@
-# Main total line 3498
+# Main total line 3500
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1695,6 +1695,8 @@ DOMAIN-SUFFIX,idm-su.baidu.com
 DOMAIN-SUFFIX,idmchina.net
 DOMAIN-SUFFIX,iebar.baidu.com
 DOMAIN-SUFFIX,ifacelog.iqiyi.com
+DOMAIN-SUFFIX,ig66.vip
+DOMAIN-SUFFIX,ig67.vip
 DOMAIN-SUFFIX,igexin.com
 DOMAIN-SUFFIX,ikcode.baidu.com
 DOMAIN-SUFFIX,il8r.com

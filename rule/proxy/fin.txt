@@ -1,4 +1,4 @@
-# Main total line 6406
+# Main total line 6405
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -1810,7 +1810,6 @@ DOMAIN-SUFFIX,fengzhenghu.net
 DOMAIN-SUFFIX,fetnet.net
 DOMAIN-SUFFIX,fevernet.com
 DOMAIN-SUFFIX,ff.im
-DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,fffff.at
 DOMAIN-SUFFIX,fflick.com
 DOMAIN-SUFFIX,ffvpn.com

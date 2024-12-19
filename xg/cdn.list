@@ -1,4 +1,4 @@
-# Main total line 2825
+# Main total line 2830
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -431,6 +431,7 @@ DOMAIN,cdn.koala.live
 DOMAIN,cdn.kobo.com
 DOMAIN,cdn.langshop.app
 DOMAIN,cdn.leandata.com
+DOMAIN,cdn.lemonsqueezy.com
 DOMAIN,cdn.libravatar.org
 DOMAIN,cdn.lihkg.com
 DOMAIN,cdn.linearicons.com
@@ -493,6 +494,7 @@ DOMAIN,cdn.rauno.me
 DOMAIN,cdn.readme.io
 DOMAIN,cdn.ready-market.com.tw
 DOMAIN,cdn.recovermycart.com
+DOMAIN,cdn.redhat.com
 DOMAIN,cdn.redoc.ly
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,cdn.reimu.net
@@ -656,6 +658,7 @@ DOMAIN,compass-ssl.xbox.com
 DOMAIN,components.clever-cloud.com
 DOMAIN,components.justanswer.com
 DOMAIN,config.extension.grammarly.com
+DOMAIN,connect-js.stripe.com
 DOMAIN,connect.facebook.net
 DOMAIN,connectivitycheck.android.com
 DOMAIN,connectivitycheck.gstatic.com
@@ -1289,6 +1292,7 @@ DOMAIN,p.typekit.net
 DOMAIN,p.udn.com.tw
 DOMAIN,p2.bahamut.com.tw
 DOMAIN,pacdn.500px.org
+DOMAIN,package-assets.oomol.com
 DOMAIN,packages-cf.termux.dev
 DOMAIN,packages.argotunnel.com
 DOMAIN,packages.httpie.io
@@ -1399,6 +1403,7 @@ DOMAIN,registry.api.cnn.io
 DOMAIN,registry.bower.io
 DOMAIN,registry.npmjs.com
 DOMAIN,registry.npmjs.org
+DOMAIN,registry.oomol.com
 DOMAIN,regmedia.co.uk
 DOMAIN,release.runcloud.io
 DOMAIN,renderer-assets.typeform.com

@@ -1,4 +1,4 @@
-# Main total line 6284
+# Main total line 6285
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -1012,6 +1012,7 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,classicalguitarblog.net
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cleansite.biz
 DOMAIN-SUFFIX,cleansite.info
 DOMAIN-SUFFIX,clearharmony.net

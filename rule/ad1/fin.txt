@@ -1,4 +1,4 @@
-# Main total line 3500
+# Main total line 3499
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -3127,7 +3127,6 @@ DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,xgcsr.com
 DOMAIN-SUFFIX,xhsbpza.com
 DOMAIN-SUFFIX,xiaohuau.xyz
-DOMAIN-SUFFIX,xiaoshuo.wtzw.com
 DOMAIN-SUFFIX,xiaozhen.com
 DOMAIN-SUFFIX,xibao100.com
 DOMAIN-SUFFIX,xitongqingli.com

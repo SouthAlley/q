@@ -1,6 +1,5 @@
-# Main total line 26
+# Main total line 25
 # ------------------------------------------
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,legra.ph

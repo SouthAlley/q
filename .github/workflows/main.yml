@@ -29,6 +29,7 @@ jobs:
           .\r.cmd rule/game
           .\r.cmd rule/cdn
           .\r.cmd rule/download
+          .\r.cmd rule/telegram
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

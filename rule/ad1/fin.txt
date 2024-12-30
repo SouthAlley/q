@@ -1,4 +1,4 @@
-# Main total line 3498
+# Main total line 3497
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -549,7 +549,6 @@ DOMAIN-SUFFIX,ad-srv.co
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,ad-survey.com
 DOMAIN-SUFFIX,ad-sys.com
-DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,ad.3.cn
 DOMAIN-SUFFIX,ad.51wnl.com
 DOMAIN-SUFFIX,ad.95306.cn

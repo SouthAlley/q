@@ -1,4 +1,4 @@
-# Main total line 2877
+# Main total line 2890
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -61,6 +61,7 @@ DOMAIN,appassets.mvtdev.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apps.bazaarvoice.com
 DOMAIN,apps.profitihub.com
 DOMAIN,archive.mozilla.org
 DOMAIN,artworks.thetvdb.com
@@ -397,6 +398,7 @@ DOMAIN,cdn.fourthwall.com
 DOMAIN,cdn.freebiesupply.com
 DOMAIN,cdn.freecodecamp.org
 DOMAIN,cdn.freshdesk.com
+DOMAIN,cdn.gamemonkey.org
 DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.gettr.com
 DOMAIN,cdn.ghostery.com
@@ -960,6 +962,7 @@ DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
 DOMAIN,images.idgesg.net
 DOMAIN,images.macrumors.com
+DOMAIN,images.mattel.net
 DOMAIN,images.microcms-assets.io
 DOMAIN,images.moegoat.com
 DOMAIN,images.moovitapp.com
@@ -1045,12 +1048,14 @@ DOMAIN,img.ltyears.com
 DOMAIN,img.lvv2.com
 DOMAIN,img.m.mw
 DOMAIN,img.majors.im
+DOMAIN,img.ml0987.com
 DOMAIN,img.moedog.org
 DOMAIN,img.moegirl.tw
 DOMAIN,img.mresou.com
 DOMAIN,img.pawoo.net
 DOMAIN,img.perfops.net
 DOMAIN,img.picacomic.com
+DOMAIN,img.ra7.xyz
 DOMAIN,img.reg.ru
 DOMAIN,img.reimu.net
 DOMAIN,img.represent.com
@@ -1405,6 +1410,7 @@ DOMAIN,pytorch.org
 DOMAIN,quriobot.com
 DOMAIN,r.r10s.jp
 DOMAIN,r2.leadsy.ai
+DOMAIN,rapid-cdn.yottaa.com
 DOMAIN,raw.github.com
 DOMAIN,rawmarkdown.cloudflareaccess.org
 DOMAIN,rebound.postmarkapp.com
@@ -1942,6 +1948,7 @@ DOMAIN,videos2.edclub.com
 DOMAIN,vir.wsj.net
 DOMAIN,viu-static.akamaized.net
 DOMAIN,vjs.zencdn.net
+DOMAIN,vod.jfly.xyz
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vuejs.org
@@ -2192,6 +2199,7 @@ DOMAIN-SUFFIX,cwwcdn.com
 DOMAIN-SUFFIX,data.debugbear.com
 DOMAIN-SUFFIX,datocms-assets.com
 DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,ddpic.info
 DOMAIN-SUFFIX,delegated-ipfs.dev
 DOMAIN-SUFFIX,deno.land
 DOMAIN-SUFFIX,denopkg.com
@@ -2264,6 +2272,7 @@ DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,fiverrcdn.com
 DOMAIN-SUFFIX,fivetiu.com
 DOMAIN-SUFFIX,flagcdn.com
+DOMAIN-SUFFIX,flaglog.com
 DOMAIN-SUFFIX,flagpedia.net
 DOMAIN-SUFFIX,flk-ipfs.xyz
 DOMAIN-SUFFIX,fncstatic.com
@@ -2280,6 +2289,7 @@ DOMAIN-SUFFIX,fsvod1.com
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,futurecdn.net
 DOMAIN-SUFFIX,gadgets360cdn.com
+DOMAIN-SUFFIX,gamesgamescdn.com
 DOMAIN-SUFFIX,gateway.originprotocol.com
 DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,gateway.serph.network
@@ -2437,6 +2447,7 @@ DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,jinyingimage.com
 DOMAIN-SUFFIX,jisuimage.com
 DOMAIN-SUFFIX,jitpack.io
+DOMAIN-SUFFIX,jpgjingpinx.com
 DOMAIN-SUFFIX,js-eu1.hubspot.com
 DOMAIN-SUFFIX,js.hubspot.com
 DOMAIN-SUFFIX,js.hubspotfeedback.com
@@ -2459,6 +2470,8 @@ DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,kwcdn.com
 DOMAIN-SUFFIX,kym-cdn.com
 DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,lbpicpic.com
+DOMAIN-SUFFIX,lbpictupian.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,licensebuttons.net

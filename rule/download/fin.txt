@@ -1,4 +1,4 @@
-# Main total line 628
+# Main total line 629
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -172,6 +172,7 @@ DOMAIN,mirrors.xtom.us
 DOMAIN,nobara-images.nobaraproject.org
 DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN,officecdnmac.microsoft.com
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net
 DOMAIN,packagecloud.io

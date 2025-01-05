@@ -1,4 +1,4 @@
-# Main total line 2911
+# Main total line 2906
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -330,7 +330,6 @@ DOMAIN,cdn-uicons.flaticon.com
 DOMAIN,cdn-www.bluestacks.com
 DOMAIN,cdn-yotpo-images-production.yotpo.com
 DOMAIN,cdn.18jav.tv
-DOMAIN,cdn.9to5terminal.com
 DOMAIN,cdn.accounts.nintendo.com
 DOMAIN,cdn.adguard.com
 DOMAIN,cdn.adguard.info
@@ -666,7 +665,6 @@ DOMAIN,cms-assets.nodecraft.com
 DOMAIN,cms-assets.webediamovies.pro
 DOMAIN,cms-assets.xboxservices.com
 DOMAIN,cms-cdn.now.gg
-DOMAIN,cms.payloadcms.com
 DOMAIN,cms.typenetwork.com
 DOMAIN,code.benco.io
 DOMAIN,code.highcharts.com
@@ -1445,6 +1443,7 @@ DOMAIN,release.runcloud.io
 DOMAIN,renderer-assets.typeform.com
 DOMAIN,replicate.npmjs.com
 DOMAIN,repo.gradle.org
+DOMAIN,repo.hex.pm
 DOMAIN,repo.maven.apache.org
 DOMAIN,repo.nextdns.io
 DOMAIN,repo1.maven.org
@@ -2051,7 +2050,6 @@ DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,agechecker-northern-apps.com
 DOMAIN-SUFFIX,agechecker.northern-apps.com
 DOMAIN-SUFFIX,airio3.live
-DOMAIN-SUFFIX,akamai-content-delivery.com
 DOMAIN-SUFFIX,akamai-content-network.com
 DOMAIN-SUFFIX,alexdav.id
 DOMAIN-SUFFIX,alonestreaming.com
@@ -2652,7 +2650,6 @@ DOMAIN-SUFFIX,pxlecdn.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pztv.ca
-DOMAIN-SUFFIX,pzvcdn.com
 DOMAIN-SUFFIX,qooqlevideo.com
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,quip-cdn.com
@@ -2830,7 +2827,6 @@ DOMAIN-SUFFIX,ut-assets.com
 DOMAIN-SUFFIX,uvcdn.com
 DOMAIN-SUFFIX,v-cdn.net
 DOMAIN-SUFFIX,v2ex.co
-DOMAIN-SUFFIX,v82u1l.com
 DOMAIN-SUFFIX,vanillicon.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.dev
@@ -2858,7 +2854,6 @@ DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,webp.se
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,website-files.com
-DOMAIN-SUFFIX,whweitao.com
 DOMAIN-SUFFIX,widget.cluster.groovehq.com
 DOMAIN-SUFFIX,widget.clutch.co
 DOMAIN-SUFFIX,widgets.marketplace.aws.dev

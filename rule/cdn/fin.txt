@@ -1,4 +1,4 @@
-# Main total line 2911
+# Main total line 2912
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -24,6 +24,7 @@ DOMAIN,ak.sail-horizon.com
 DOMAIN,akidoo.top
 DOMAIN,alt.idgesg.net
 DOMAIN,amp.azure.net
+DOMAIN,analytics.twitter.com
 DOMAIN,analytics.welcomesoftware.com
 DOMAIN,anchor.digitalocean.com
 DOMAIN,android-safebrowsing.google.com

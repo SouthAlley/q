@@ -1,4 +1,4 @@
-# Main total line 2912
+# Main total line 2916
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -358,6 +358,7 @@ DOMAIN,cdn.branch.io
 DOMAIN,cdn.britannica.com
 DOMAIN,cdn.bsky.social
 DOMAIN,cdn.builder.io
+DOMAIN,cdn.bullwhip.cloud
 DOMAIN,cdn.buymeacoffee.com
 DOMAIN,cdn.c1.amplience.net
 DOMAIN,cdn.calibermind.com
@@ -1142,6 +1143,7 @@ DOMAIN,js.memberful.com
 DOMAIN,js.navattic.com
 DOMAIN,js.partnerstack.com
 DOMAIN,js.pusher.com
+DOMAIN,js.puter.com
 DOMAIN,js.qualified.com
 DOMAIN,js.recurly.com
 DOMAIN,js.short.io
@@ -1915,6 +1917,7 @@ DOMAIN,ton.local.twitter.com
 DOMAIN,tools-static.wmflabs.org
 DOMAIN,topbar-static.piano.io
 DOMAIN,torrindex.net
+DOMAIN,tracking.inflection.io
 DOMAIN,truth.bahamut.com.tw
 DOMAIN,tuf-repo-cdn.sigstore.dev
 DOMAIN,tuf-repo.github.com
@@ -2810,6 +2813,7 @@ DOMAIN-SUFFIX,trustless-gateway.link
 DOMAIN-SUFFIX,ttcache.com
 DOMAIN-SUFFIX,ttl.sh
 DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tunnels.api.visualstudio.com
 DOMAIN-SUFFIX,turboimg.net
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,typedoc.org

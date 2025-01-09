@@ -1,4 +1,4 @@
-# Main total line 6308
+# Main total line 6309
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -310,6 +310,7 @@ DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,androidplus.co
+DOMAIN-SUFFIX,androidpolice.com
 DOMAIN-SUFFIX,andygod.com
 DOMAIN-SUFFIX,angela-merkel.de
 DOMAIN-SUFFIX,angelfire.com

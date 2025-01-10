@@ -1,4 +1,4 @@
-# Main total line 2921
+# Main total line 2920
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1964,7 +1964,6 @@ DOMAIN,userimg-assets.customeriomail.com
 DOMAIN,userimg-bee.customeriomail.com
 DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
-DOMAIN,useruploads.socratic.org
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
 DOMAIN,v.hillwaver.com

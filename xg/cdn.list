@@ -1,4 +1,4 @@
-# Main total line 2916
+# Main total line 2920
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -229,7 +229,6 @@ DOMAIN,assets8.lottiefiles.com
 DOMAIN,assets9.lottiefiles.com
 DOMAIN,assetscdn-wchat.eu.freshchat.com
 DOMAIN,assetscdn.jable.tv
-DOMAIN,at.adtech.redventures.io
 DOMAIN,at.cbsi.com
 DOMAIN,atn.hitomi.la
 DOMAIN,attachments.office.net
@@ -594,6 +593,7 @@ DOMAIN,cdn.zapier.com
 DOMAIN,cdn.zeabur.com
 DOMAIN,cdn.zhujiwiki.com
 DOMAIN,cdn0.dan.com
+DOMAIN,cdn0.iconfinder.com
 DOMAIN,cdn01.jotfor.ms
 DOMAIN,cdn02.jotfor.ms
 DOMAIN,cdn03.jotfor.ms
@@ -601,6 +601,7 @@ DOMAIN,cdn1.airdroid.com
 DOMAIN,cdn1.dan.com
 DOMAIN,cdn1.edgedatg.com
 DOMAIN,cdn1.epicgames.com
+DOMAIN,cdn1.iconfinder.com
 DOMAIN,cdn1.identitymind.com
 DOMAIN,cdn1.plesk.com
 DOMAIN,cdn1.stamped.io
@@ -617,6 +618,7 @@ DOMAIN,cdn2.editmysite.com
 DOMAIN,cdn2.epicgames.com
 DOMAIN,cdn2.ettoday.net
 DOMAIN,cdn2.hextom.com
+DOMAIN,cdn2.iconfinder.com
 DOMAIN,cdn2.macpaw.com
 DOMAIN,cdn2.onlyfans.com
 DOMAIN,cdn2.stamped.io
@@ -626,14 +628,17 @@ DOMAIN,cdn2.unrealengine.com
 DOMAIN,cdn3.dan.com
 DOMAIN,cdn3.edgedatg.com
 DOMAIN,cdn3.hextom.com
+DOMAIN,cdn3.iconfinder.com
 DOMAIN,cdn3.onlyfans.com
 DOMAIN,cdn3.stamped.io
 DOMAIN,cdn3.sysgears.com
 DOMAIN,cdn3.unrealengine.com
 DOMAIN,cdn4.edgedatg.com
+DOMAIN,cdn4.iconfinder.com
 DOMAIN,cdn4.sysgears.com
 DOMAIN,cdn5.edgedatg.com
 DOMAIN,cdn5.hextom.com
+DOMAIN,cdn5.iconfinder.com
 DOMAIN,cdn6.aptoide.com
 DOMAIN,cdn6.edgedatg.com
 DOMAIN,cdn77.boyfriendtv.com
@@ -1362,7 +1367,6 @@ DOMAIN,pic-bstarstatic.akamaized.net
 DOMAIN,pic.7mmtv.me
 DOMAIN,pic.cangku.moe
 DOMAIN,pic.imge.cc
-DOMAIN,pic.libilibi.top
 DOMAIN,pic.macked.app
 DOMAIN,pic.onlinewebfonts.com
 DOMAIN,pic.skk.moe
@@ -1601,7 +1605,6 @@ DOMAIN,sp-spiegel-de.spiegel.de
 DOMAIN,sp.nba.com
 DOMAIN,sp.replit.com
 DOMAIN,spcdn.incartupsell.com
-DOMAIN,spoppe-b.azureedge.net
 DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,sprig.figma.com
 DOMAIN,st-eu.dynamicyield.com
@@ -1737,6 +1740,7 @@ DOMAIN,static.institution.grammarly.com
 DOMAIN,static.iris.informa.com
 DOMAIN,static.itch.io
 DOMAIN,static.j51.net
+DOMAIN,static.javatpoint.com
 DOMAIN,static.javcdn.info
 DOMAIN,static.javhd.com
 DOMAIN,static.jsbin.com
@@ -1793,7 +1797,6 @@ DOMAIN,static.skyassets.com
 DOMAIN,static.snapchat.com
 DOMAIN,static.snaptube.in
 DOMAIN,static.snyk.io
-DOMAIN,static.socratic.org
 DOMAIN,static.solarwinds.com
 DOMAIN,static.spankbang.com
 DOMAIN,static.srcspot.com
@@ -1960,7 +1963,6 @@ DOMAIN,userimg-assets.customeriomail.com
 DOMAIN,userimg-bee.customeriomail.com
 DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
-DOMAIN,useruploads.socratic.org
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
 DOMAIN,v.hillwaver.com
@@ -2072,6 +2074,7 @@ DOMAIN-SUFFIX,amaicdn.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anpoimages.com
 DOMAIN-SUFFIX,ant.design
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,api.loganalytics.io
 DOMAIN-SUFFIX,app-analytics-services.com
@@ -2542,6 +2545,7 @@ DOMAIN-SUFFIX,mlcdn.com
 DOMAIN-SUFFIX,mm.bing.net
 DOMAIN-SUFFIX,mmtcdn.com
 DOMAIN-SUFFIX,mngbcn.com
+DOMAIN-SUFFIX,monitor.azure.com
 DOMAIN-SUFFIX,motherlessmedia.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com

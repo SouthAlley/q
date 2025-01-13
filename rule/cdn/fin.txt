@@ -1,4 +1,4 @@
-# Main total line 2927
+# Main total line 2928
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -776,6 +776,7 @@ DOMAIN,edge-consumer-static.azureedge.net
 DOMAIN,edge-mobile-static.azureedge.net
 DOMAIN,edge.marker.io
 DOMAIN,edge.personalizer.io
+DOMAIN,edge.sitecorecloud.io
 DOMAIN,edge1.certona.net
 DOMAIN,edgeassetservice.azureedge.net
 DOMAIN,edgecdn-embza6g8cacagcbn.z01.azurefd.net

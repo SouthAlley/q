@@ -1,4 +1,4 @@
-# Main total line 2937
+# Main total line 2938
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -843,6 +843,7 @@ DOMAIN,files.jotform.com
 DOMAIN,files.mastodon.ktachibana.party
 DOMAIN,files.mastodon.online
 DOMAIN,files.mastodon.social
+DOMAIN,files.namecheap.com
 DOMAIN,files.readme.io
 DOMAIN,files.reg.ru
 DOMAIN,files.slack.com

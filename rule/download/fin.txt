@@ -50,7 +50,6 @@ DOMAIN,dl-portal.iina.io
 DOMAIN,dl.cleverfiles.com
 DOMAIN,dl.cloudsmith.io
 DOMAIN,dl.devmate.com
-DOMAIN,dl.discordapp.net
 DOMAIN,dl.flathub.org
 DOMAIN,dl.getaurora.dev
 DOMAIN,dl.google.com
@@ -261,6 +260,7 @@ DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,dl.dlsite.com
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,dl.playstation.net

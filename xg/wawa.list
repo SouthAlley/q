@@ -164,11 +164,7 @@ DOMAIN, www.googleadservices.com, REJECT
 # ======= H ======= #
 # 海尔智家
 DOMAIN-SUFFIX, ehaier.com, REJECT
-# 盒马
-AND, ((URL-REGEX, ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch), (USER-AGENT, Hema4iPhone*)), REJECT
 # httpdns
-DOMAIN-KEYWORD, httpdns., REJECT
-DOMAIN-KEYWORD, httpdns-, REJECT
 DOMAIN, hdns.ksyun.com, REJECT
 # ======= J ======= #
 # 建设银行

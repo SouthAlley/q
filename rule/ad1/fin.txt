@@ -1,4 +1,4 @@
-# Main total line 3504
+# Main total line 3505
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -200,6 +200,7 @@ DOMAIN,hbftgh.ibjkqnhjwd.xyz
 DOMAIN,hc-ssp.sm.cn
 DOMAIN,hdns.ksyun.com
 DOMAIN,hnrtg.iujkegbpo.xyz
+DOMAIN,httpdns.baidubce.com
 DOMAIN,hudong.alicdn.com
 DOMAIN,huichuan-mc.sm.cn
 DOMAIN,huodong.weibo.cn
@@ -1644,6 +1645,8 @@ DOMAIN-SUFFIX,hpd.baidu.cn
 DOMAIN-SUFFIX,hpd.baidu.com
 DOMAIN-SUFFIX,hpplay.cn
 DOMAIN-SUFFIX,hs-analytics.net
+DOMAIN-SUFFIX,httpdns.bcelive.com
+DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
 DOMAIN-SUFFIX,hub5btmain.sandai.net
 DOMAIN-SUFFIX,hub5emu.sandai.net
 DOMAIN-SUFFIX,hubcloud.com.cn
@@ -3307,8 +3310,6 @@ DOMAIN-KEYWORD,haowanyou
 DOMAIN-KEYWORD,histats
 DOMAIN-KEYWORD,hoisin.coocaa.com
 DOMAIN-KEYWORD,hoisin.coocaatv.com
-DOMAIN-KEYWORD,httpdns-
-DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,jads
 DOMAIN-KEYWORD,juruigj

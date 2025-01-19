@@ -1,4 +1,4 @@
-# Main total line 2943
+# Main total line 2944
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -419,6 +419,7 @@ DOMAIN,cdn.freecodecamp.org
 DOMAIN,cdn.freshdesk.com
 DOMAIN,cdn.gamemonkey.org
 DOMAIN,cdn.gdl.gg
+DOMAIN,cdn.geekzone.co.nz
 DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.gettr.com
 DOMAIN,cdn.ghostery.com

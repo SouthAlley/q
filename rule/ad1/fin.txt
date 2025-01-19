@@ -1,4 +1,4 @@
-# Main total line 3505
+# Main total line 3507
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -539,6 +539,7 @@ DOMAIN-SUFFIX,ad-imp.hismarttv.com
 DOMAIN-SUFFIX,ad-locus.com
 DOMAIN-SUFFIX,ad-maven.com
 DOMAIN-SUFFIX,ad-move.jp
+DOMAIN-SUFFIX,ad-nex.com
 DOMAIN-SUFFIX,ad-plus.cn
 DOMAIN-SUFFIX,ad-scope.com
 DOMAIN-SUFFIX,ad-scope.com.cn
@@ -3053,6 +3054,7 @@ DOMAIN-SUFFIX,wanproxy.127.net
 DOMAIN-SUFFIX,waps.cn
 DOMAIN-SUFFIX,wapstart.ru
 DOMAIN-SUFFIX,wapx.cn
+DOMAIN-SUFFIX,waqool.com
 DOMAIN-SUFFIX,watchingthat.net
 DOMAIN-SUFFIX,watson.microsoft.com
 DOMAIN-SUFFIX,watson.telemetry.microsoft.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-16T06:18:16.699Z
-# Size: 724
+# Last Updated: 2025-01-17T12:44:34.555Z
+# Size: 727
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -277,6 +277,7 @@ DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,workday.com
@@ -308,6 +309,7 @@ DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,iloveimg.com
+DOMAIN-SUFFIX,instatus.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,linecorp.com
@@ -641,6 +643,7 @@ DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,discourse.group
 DOMAIN-SUFFIX,smashing.media

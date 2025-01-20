@@ -1,4 +1,4 @@
-# Main total line 6333
+# Main total line 6334
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -2527,6 +2527,7 @@ DOMAIN-SUFFIX,hybrid-analysis.com
 DOMAIN-SUFFIX,hyper.is
 DOMAIN-SUFFIX,hyperrate.com
 DOMAIN-SUFFIX,hyperscan.io
+DOMAIN-SUFFIX,hysteria.network
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,i-scmp.com
 DOMAIN-SUFFIX,i2p2.de

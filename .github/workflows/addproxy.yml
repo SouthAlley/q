@@ -19,7 +19,7 @@ jobs:
     - name: Download rule file to Surge
       run: |
         mkdir -p q-repo/local
-        files=("global" "proxy" "china")
+        files=("proxy" "china")
         for file in "${files[@]}"; do
           curl -L -o "q-repo/local/${file}.list" "https://raw.githubusercontent.com/SouthAlley/q/main/rule/${file}/fin.txt"
           cd q-repo/local

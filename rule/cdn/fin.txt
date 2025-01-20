@@ -1,4 +1,4 @@
-# Main total line 2945
+# Main total line 2947
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -185,6 +185,7 @@ DOMAIN,assets.repair.org
 DOMAIN,assets.safing.io
 DOMAIN,assets.salesmartly.com
 DOMAIN,assets.scaleflex.com
+DOMAIN,assets.scaleway.com
 DOMAIN,assets.science.nasa.gov
 DOMAIN,assets.scroll.com
 DOMAIN,assets.sendinblue.com
@@ -1646,7 +1647,6 @@ DOMAIN,static-assets.mapbox.com
 DOMAIN,static-assets.npr.org
 DOMAIN,static-assets.vinted.com
 DOMAIN,static-beta.curseforge.com
-DOMAIN,static-ca-cdn.eporner.com
 DOMAIN,static-cache.fboom.me
 DOMAIN,static-cache.k2s.cc
 DOMAIN,static-cdn.123rf.com
@@ -1677,7 +1677,6 @@ DOMAIN,static-r.kamihimeproject.net
 DOMAIN,static-redesign.cnbcfm.com
 DOMAIN,static-resource.np.community.playstation.net
 DOMAIN,static-secure-uploads.ui.com
-DOMAIN,static-sg-cdn.eporner.com
 DOMAIN,static-staging.scroll.com
 DOMAIN,static-sv.fc2.com
 DOMAIN,static-web-prod.skillshare.com
@@ -2227,6 +2226,7 @@ DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudimg.io
+DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cmail20.com
 DOMAIN-SUFFIX,cms-cdn.linear.app
 DOMAIN-SUFFIX,cms.replit.com
@@ -2334,6 +2334,7 @@ DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,forbesimg.com
 DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,fourhoi.com
 DOMAIN-SUFFIX,framercdn.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,framerusercontent.com
@@ -2939,6 +2940,7 @@ DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohostatic.eu
 DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zorocdn.xyz
+DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,cdnstatic.

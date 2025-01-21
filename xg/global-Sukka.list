@@ -8,7 +8,6 @@
 #
 # This file contains rules for services that are not available inside the Mainland China.
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,at
 DOMAIN-SUFFIX,au
@@ -724,5 +723,4 @@ DOMAIN,media.steampowered.com
 DOMAIN-SUFFIX,dnsleak.asn247.net
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN,store.ui.com.cn
-USER-AGENT,Roam*
 ################## EOF ##################

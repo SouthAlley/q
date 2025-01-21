@@ -1,4 +1,4 @@
-# Main total line 19757
+# Main total line 19758
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -11183,6 +11183,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metalpha.finance
 DOMAIN-SUFFIX,metaporn.com

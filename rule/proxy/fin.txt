@@ -1,4 +1,4 @@
-# Main total line 6367
+# Main total line 6368
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -3341,6 +3341,7 @@ DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com

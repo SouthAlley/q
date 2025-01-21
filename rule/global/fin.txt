@@ -1,4 +1,4 @@
-# Main total line 19755
+# Main total line 19754
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -7535,7 +7535,6 @@ DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.cloud
 DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalspec.com
 DOMAIN-SUFFIX,globaltm.org
 DOMAIN-SUFFIX,globalvoices.org

@@ -1,4 +1,4 @@
-# Main total line 6368
+# Main total line 6367
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -5947,7 +5947,6 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,wqyd.org
-DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,wrchina.org
 DOMAIN-SUFFIX,wretch.cc
 DOMAIN-SUFFIX,writesonic.com

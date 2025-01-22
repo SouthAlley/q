@@ -1,4 +1,4 @@
-# Main total line 3508
+# Main total line 3507
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -909,7 +909,6 @@ DOMAIN-SUFFIX,analysis.yozocloud.cn
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
 DOMAIN-SUFFIX,analytics.126.net
-DOMAIN-SUFFIX,analytics.95516.com
 DOMAIN-SUFFIX,analytics.ganji.com
 DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,analytics.meituan.net

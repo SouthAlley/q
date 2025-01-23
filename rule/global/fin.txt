@@ -1,4 +1,4 @@
-# Main total line 19792
+# Main total line 19793
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -2877,6 +2877,7 @@ DOMAIN-SUFFIX,blacktowhite.net
 DOMAIN-SUFFIX,blackvpn.com
 DOMAIN-SUFFIX,blaoshi.cc
 DOMAIN-SUFFIX,blazor.net
+DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,blender.org
 DOMAIN-SUFFIX,blewpass.com
 DOMAIN-SUFFIX,blingblingsquad.net

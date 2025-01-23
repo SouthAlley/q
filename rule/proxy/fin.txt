@@ -1,4 +1,4 @@
-# Main total line 6381
+# Main total line 6382
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -640,6 +640,7 @@ DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,bl-doujinsouko.com
 DOMAIN-SUFFIX,blacklogic.com
 DOMAIN-SUFFIX,blackvpn.com
+DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,blewpass.com
 DOMAIN-SUFFIX,blingblingsquad.net
 DOMAIN-SUFFIX,blinkx.com

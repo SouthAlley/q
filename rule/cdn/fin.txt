@@ -1,4 +1,4 @@
-# Main total line 3061
+# Main total line 3062
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1545,6 +1545,7 @@ DOMAIN,resources.esportsinsider.com
 DOMAIN,resources.help.salesforce.com
 DOMAIN,rsi.grafana.com
 DOMAIN,rsms.me
+DOMAIN,rtcg-access.bytevcloud.com
 DOMAIN,rts-static-prod.freshworksapi.com
 DOMAIN,rules.ac
 DOMAIN,rules1.clearurls.xyz

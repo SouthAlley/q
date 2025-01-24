@@ -1,4 +1,4 @@
-# Main total line 3066
+# Main total line 3067
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2301,6 +2301,7 @@ DOMAIN-SUFFIX,chasecdn.com
 DOMAIN-SUFFIX,chcdn.xyz
 DOMAIN-SUFFIX,chesscomfiles.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,cldup.com
 DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
 DOMAIN-SUFFIX,cloud.influxdata.com
 DOMAIN-SUFFIX,cloud1.influxdata.com

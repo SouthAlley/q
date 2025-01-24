@@ -1,4 +1,4 @@
-# Main total line 6382
+# Main total line 6383
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -4173,6 +4173,7 @@ DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,procopytips.com
 DOMAIN-SUFFIX,producthunt.com
 DOMAIN-SUFFIX,project-syndicate.org
+DOMAIN-SUFFIX,prosettings.net
 DOMAIN-SUFFIX,prosiben.de
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonmail.ch

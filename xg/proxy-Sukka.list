@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-01-22T12:10:53.022Z
+# Last Updated: 2025-01-24T13:13:24.636Z
 # Size: 734
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,15 @@
 #
 # This file contains rules for services that are not available inside the Mainland China.
 #########################################
+DOMAIN-SUFFIX,ch
+DOMAIN-SUFFIX,cy
+DOMAIN-SUFFIX,cz
+DOMAIN-SUFFIX,de
+DOMAIN-SUFFIX,gg
 DOMAIN-SUFFIX,my
+DOMAIN-SUFFIX,tv
+DOMAIN-SUFFIX,vn
+DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,ipx.ac
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,ping0.cc
@@ -38,16 +46,6 @@ DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,jav.pw
-DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,muku.tv
-DOMAIN-SUFFIX,njav.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,iwara.tv
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,hanime.tv
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,cableav.tv
-DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,signal.art
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,x.com
@@ -325,6 +323,7 @@ DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nicehash.com
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,porntube.com

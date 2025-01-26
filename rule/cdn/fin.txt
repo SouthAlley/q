@@ -1,4 +1,4 @@
-# Main total line 3067
+# Main total line 3068
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2479,6 +2479,7 @@ DOMAIN-SUFFIX,hgagecdn.com
 DOMAIN-SUFFIX,hgasm1.com
 DOMAIN-SUFFIX,hgasm2.com
 DOMAIN-SUFFIX,hgasm3.com
+DOMAIN-SUFFIX,hgimg00.com
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,himg.nl
 DOMAIN-SUFFIX,hits.b3log.org

@@ -1,4 +1,4 @@
-# Main total line 3063
+# Main total line 3065
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -27,6 +27,7 @@ DOMAIN,analytics.twitter.com
 DOMAIN,analytics.welcomesoftware.com
 DOMAIN,anchor.digitalocean.com
 DOMAIN,android-safebrowsing.google.com
+DOMAIN,answers-afd.microsoft.com
 DOMAIN,api-esp-ap.piano.io
 DOMAIN,api-eu.mixpanel.com
 DOMAIN,api-frameworks.vercel.sh
@@ -882,6 +883,7 @@ DOMAIN,files.slack.com
 DOMAIN,files.smashing.media
 DOMAIN,files.writefreely.org
 DOMAIN,files.yande.re
+DOMAIN,filestore.community.support.microsoft.com
 DOMAIN,filestore.fortinet.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com

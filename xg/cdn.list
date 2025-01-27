@@ -1,4 +1,4 @@
-# Main total line 3067
+# Main total line 3063
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1578,10 +1578,8 @@ DOMAIN,s1.maxstream.org
 DOMAIN,s1.qwant.com
 DOMAIN,s10.maxstream.org
 DOMAIN,s11.maxstream.org
-DOMAIN,s12.maxstream.org
 DOMAIN,s13.maxstream.org
 DOMAIN,s2.coinmarketcap.com
-DOMAIN,s2.maxstream.org
 DOMAIN,s2.qwant.com
 DOMAIN,s3-alpha-sig.figma.com
 DOMAIN,s3-alpha.figma.com
@@ -2136,7 +2134,6 @@ DOMAIN,www.typescriptlang.org
 DOMAIN,wwwimages2.adobe.com
 DOMAIN,xpaywalletcdn.azureedge.net
 DOMAIN,yep.video.yahoo.com
-DOMAIN,yummlystatic.com
 DOMAIN,zephr-templates.cnbc.com
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,1passwordusercontent.com
@@ -2196,7 +2193,6 @@ DOMAIN-SUFFIX,assets.shortbread.aws.dev
 DOMAIN-SUFFIX,assets.tumblr.com
 DOMAIN-SUFFIX,assets.ubuntu.com
 DOMAIN-SUFFIX,assettype.com
-DOMAIN-SUFFIX,avdocker3.com
 DOMAIN-SUFFIX,avximg.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,ax1x.com
@@ -2285,9 +2281,7 @@ DOMAIN-SUFFIX,cdnfonts.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnjhd.com
 DOMAIN-SUFFIX,cdnjs.network
-DOMAIN-SUFFIX,cdnmania.org
 DOMAIN-SUFFIX,cdnpk.net
-DOMAIN-SUFFIX,cdnpm.net
 DOMAIN-SUFFIX,cdnppb.net
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,cdnst.net
@@ -2478,6 +2472,7 @@ DOMAIN-SUFFIX,hgagecdn.com
 DOMAIN-SUFFIX,hgasm1.com
 DOMAIN-SUFFIX,hgasm2.com
 DOMAIN-SUFFIX,hgasm3.com
+DOMAIN-SUFFIX,hgimg00.com
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,himg.nl
 DOMAIN-SUFFIX,hits.b3log.org
@@ -2707,6 +2702,7 @@ DOMAIN-SUFFIX,newscdn.com.au
 DOMAIN-SUFFIX,nextui.org
 DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ngfiles.com
+DOMAIN-SUFFIX,nhentaimg.com
 DOMAIN-SUFFIX,nincontent.com
 DOMAIN-SUFFIX,ninjastream.to
 DOMAIN-SUFFIX,nitrocdn.com

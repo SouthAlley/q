@@ -1,4 +1,4 @@
-# Main total line 3065
+# Main total line 3068
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -542,6 +542,7 @@ DOMAIN,cdn.royaleapi.com
 DOMAIN,cdn.safecharge.com
 DOMAIN,cdn.sanity.io
 DOMAIN,cdn.sc.gl
+DOMAIN,cdn.schemaapp.com
 DOMAIN,cdn.sciencecast.org
 DOMAIN,cdn.search.brave.com
 DOMAIN,cdn.sedo.com
@@ -1879,6 +1880,7 @@ DOMAIN,static.snyk.io
 DOMAIN,static.solarwinds.com
 DOMAIN,static.spankbang.com
 DOMAIN,static.srcspot.com
+DOMAIN,static.staff-start.com
 DOMAIN,static.start.me
 DOMAIN,static.status.io
 DOMAIN,static.telegraph.co.uk
@@ -2084,6 +2086,7 @@ DOMAIN,vz-c0fe498e-5ab.b-cdn.net
 DOMAIN,w.chatlio.com
 DOMAIN,w.soundcloud.com
 DOMAIN,w2.influxdata.com
+DOMAIN,wa.arounddeal.com
 DOMAIN,wac-cdn-2.atlassian.com
 DOMAIN,wac-cdn.atlassian.com
 DOMAIN,waitlisted.co

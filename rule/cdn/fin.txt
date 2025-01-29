@@ -1,4 +1,4 @@
-# Main total line 3068
+# Main total line 3069
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2232,6 +2232,7 @@ DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,bugly.qcloud.com
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,bytebucket.org
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,c-dn.net

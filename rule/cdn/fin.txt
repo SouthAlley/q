@@ -1,4 +1,4 @@
-# Main total line 3069
+# Main total line 3067
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1111,7 +1111,6 @@ DOMAIN,img.domaintools.com
 DOMAIN,img.foresightnews.pro
 DOMAIN,img.fortawesome.com
 DOMAIN,img.freepik.com
-DOMAIN,img.hcloud.lat
 DOMAIN,img.hellofresh.com
 DOMAIN,img.hentaihaven.xxx
 DOMAIN,img.icons8.com
@@ -2055,7 +2054,6 @@ DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
-DOMAIN,v.hillwaver.com
 DOMAIN,v.w-x.co
 DOMAIN,v2.listenloop.com
 DOMAIN,vanilla-extract.style

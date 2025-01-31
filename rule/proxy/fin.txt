@@ -1,4 +1,4 @@
-# Main total line 6270
+# Main total line 6271
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -1867,6 +1867,7 @@ DOMAIN-SUFFIX,freenewscn.com
 DOMAIN-SUFFIX,freeones.com
 DOMAIN-SUFFIX,freeopenvpn.com
 DOMAIN-SUFFIX,freeoz.org
+DOMAIN-SUFFIX,freepik.com
 DOMAIN-SUFFIX,freerk.com
 DOMAIN-SUFFIX,freetcp.com
 DOMAIN-SUFFIX,freetibet.net

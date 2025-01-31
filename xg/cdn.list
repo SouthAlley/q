@@ -1,4 +1,4 @@
-# Main total line 3068
+# Main total line 3070
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -313,6 +313,7 @@ DOMAIN,cdn-edge.karte.io
 DOMAIN,cdn-eu.dynamicyield.com
 DOMAIN,cdn-fck.tnaflix.com
 DOMAIN,cdn-forum.networklessons.com
+DOMAIN,cdn-front.freepik.com
 DOMAIN,cdn-images-1.medium.com
 DOMAIN,cdn-images.mailchimp.com
 DOMAIN,cdn-live.foreignaffairs.com
@@ -386,6 +387,7 @@ DOMAIN,cdn.concert.io
 DOMAIN,cdn.configcat.com
 DOMAIN,cdn.consentmanager.net
 DOMAIN,cdn.contentful.com
+DOMAIN,cdn.conveythis.com
 DOMAIN,cdn.credible.com
 DOMAIN,cdn.css.net
 DOMAIN,cdn.cxense.com
@@ -411,6 +413,7 @@ DOMAIN,cdn.equalweb.com
 DOMAIN,cdn.eu.contentful.com
 DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.faire.com
+DOMAIN,cdn.fastcomments.com
 DOMAIN,cdn.filen.io
 DOMAIN,cdn.firebase.com
 DOMAIN,cdn.fluidplayer.com
@@ -1110,7 +1113,6 @@ DOMAIN,img.domaintools.com
 DOMAIN,img.foresightnews.pro
 DOMAIN,img.fortawesome.com
 DOMAIN,img.freepik.com
-DOMAIN,img.hcloud.lat
 DOMAIN,img.hellofresh.com
 DOMAIN,img.hentaihaven.xxx
 DOMAIN,img.icons8.com
@@ -2054,7 +2056,6 @@ DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
-DOMAIN,v.hillwaver.com
 DOMAIN,v.w-x.co
 DOMAIN,v2.listenloop.com
 DOMAIN,vanilla-extract.style
@@ -2231,6 +2232,7 @@ DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,bugly.qcloud.com
 DOMAIN-SUFFIX,bundle.run
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,bytebucket.org
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,c-dn.net

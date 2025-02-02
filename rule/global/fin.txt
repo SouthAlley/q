@@ -1,4 +1,4 @@
-# Main total line 19510
+# Main total line 19511
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -363,6 +363,7 @@ DOMAIN-SUFFIX,52av.one
 DOMAIN-SUFFIX,52fuliji.cc
 DOMAIN-SUFFIX,52hyse.com
 DOMAIN-SUFFIX,52kmz.com
+DOMAIN-SUFFIX,52shuku.vip
 DOMAIN-SUFFIX,531tr.com
 DOMAIN-SUFFIX,53world.com
 DOMAIN-SUFFIX,53worldsweeps.com

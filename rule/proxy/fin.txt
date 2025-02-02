@@ -1,4 +1,4 @@
-# Main total line 6271
+# Main total line 6272
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,51jav.org
 DOMAIN-SUFFIX,51luoben.com
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,5278.cc
+DOMAIN-SUFFIX,52shuku.vip
 DOMAIN-SUFFIX,5aimiku.com
 DOMAIN-SUFFIX,5i01.com
 DOMAIN-SUFFIX,5isotoi5.org

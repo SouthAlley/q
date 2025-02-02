@@ -1,4 +1,4 @@
-# Main total line 3518
+# Main total line 3525
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -3345,16 +3345,26 @@ DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-KEYWORD,zjtoolbar
+IP-ASN,1012
 IP-ASN,140915
 IP-ASN,14651
+IP-ASN,18044
+IP-ASN,27523
+IP-ASN,401111
 IP-ASN,40115
 IP-ASN,44324
 IP-ASN,5111
 IP-ASN,53808
+IP-ASN,54625
 IP-ASN,60539
 IP-ASN,60842
 IP-ASN,61302
+IP-ASN,62489
+IP-ASN,62853
+IP-ASN,7257
 IP-ASN,7480
+IP-ASN,7719
+IP-ASN,945
 IP-CIDR,10.72.25.0/24,no-resolve
 IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR,101.226.10.8/32,no-resolve
@@ -3401,7 +3411,6 @@ IP-CIDR,125.211.213.130/31,no-resolve
 IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
-IP-CIDR,144.202.34.169/32,no-resolve
 IP-CIDR,169.254.169.254/32,no-resolve
 IP-CIDR,172.232.58.59/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
@@ -3415,7 +3424,6 @@ IP-CIDR,183.221.242.172/32,no-resolve
 IP-CIDR,183.221.250.11/32,no-resolve
 IP-CIDR,183.224.40.24/32,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
-IP-CIDR,185.77.174.191/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
 IP-CIDR,202.100.220.54/32,no-resolve
 IP-CIDR,202.100.68.117/32,no-resolve
@@ -3496,7 +3504,6 @@ IP-CIDR,23.202.231.167/32,no-resolve
 IP-CIDR,23.217.138.108/32,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,42.123.125.237/32,no-resolve
-IP-CIDR,45.76.181.158/32,no-resolve
 IP-CIDR,47.110.187.87/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
 IP-CIDR,5.253.59.162/32,no-resolve

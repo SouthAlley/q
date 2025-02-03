@@ -1,8 +1,9 @@
 name: make rules
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '10 */6 * * *'
+  workflow_run:
+    workflows: ["delproxy"]
+    types:
+      - completed
     
 env:
   TZ: Asia/Shanghai

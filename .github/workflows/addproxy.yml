@@ -1,9 +1,10 @@
 name: addproxy
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '20 */6 * * *'
+  workflow_run:
+    workflows: ["make rules"]
+    types:
+      - completed
 
 jobs:
   update-rule:

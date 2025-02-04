@@ -1,4 +1,4 @@
-# Main total line 1031
+# Main total line 1032
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -301,6 +301,7 @@ DOMAIN-SUFFIX,docer.com
 DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,dongchediapp.com
 DOMAIN-SUFFIX,douyin.com

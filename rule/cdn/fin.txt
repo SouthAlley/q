@@ -1,4 +1,4 @@
-# Main total line 3096
+# Main total line 3098
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -708,6 +708,7 @@ DOMAIN,cf.javfree.me
 DOMAIN,cf.shopee.tw
 DOMAIN,cfvod.kaltura.com
 DOMAIN,chart.googleapis.com
+DOMAIN,chat-content.beanfun.com
 DOMAIN,checkout-sdk.bigcommerce.com
 DOMAIN,checkout.stripe.com
 DOMAIN,ci.testling.com
@@ -1319,6 +1320,7 @@ DOMAIN,media.mas.to
 DOMAIN,media.masto.nu
 DOMAIN,media.mstdn.io
 DOMAIN,media.nationwide.com
+DOMAIN,media.nownews.com
 DOMAIN,media.npr.org
 DOMAIN,media.orz.uno
 DOMAIN,media.owcnow.com

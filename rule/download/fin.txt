@@ -1,4 +1,4 @@
-# Main total line 630
+# Main total line 631
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -111,6 +111,7 @@ DOMAIN,download4.epicgames.com
 DOMAIN,downloader.cursor.sh
 DOMAIN,downloadr2.apkmirror.com
 DOMAIN,downloads.1password.com
+DOMAIN,downloads.lemonsqueezy.com
 DOMAIN,downloads.openwrt.org
 DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net

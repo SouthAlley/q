@@ -1,4 +1,4 @@
-# Main total line 3525
+# Main total line 3527
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -29,6 +29,7 @@ DOMAIN,adashx.ut.fliggy.com
 DOMAIN,adbehavior.wsa.ximalaya.com
 DOMAIN,adbehavior.ximalaya.com
 DOMAIN,adbs.ximalaya.com
+DOMAIN,adcdn6.tencentmusic.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,adfile.wifi8.com
 DOMAIN,adgame.waimai.meituan.com
@@ -352,6 +353,7 @@ DOMAIN,tc.vpubmi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,timon.zijieapi.com
 DOMAIN,tmeadbak.y.qq.com
+DOMAIN,tmeadquic.y.qq.com
 DOMAIN,tnc11-alisc1.zijieapi.com
 DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tnc3-alisc1.snssdk.com

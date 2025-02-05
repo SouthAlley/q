@@ -1,4 +1,4 @@
-# Main total line 3093
+# Main total line 3096
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -736,6 +736,7 @@ DOMAIN,components.justanswer.com
 DOMAIN,config.extension.grammarly.com
 DOMAIN,connect-js.stripe.com
 DOMAIN,connect.facebook.net
+DOMAIN,connect.nosto.com
 DOMAIN,connectivitycheck.android.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,consent-manager.ft.com
@@ -1401,6 +1402,7 @@ DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp.godaddy.com
 DOMAIN,ocsp.sectigo.com
 DOMAIN,ocsp.usertrust.com
+DOMAIN,oct8neproxy.azurewebsites.net
 DOMAIN,ohttp-relay1.fastly-edge.com
 DOMAIN,ooo.0o0.ooo
 DOMAIN,open-vsx.org
@@ -1527,6 +1529,7 @@ DOMAIN,quriobot.com
 DOMAIN,r.r10s.jp
 DOMAIN,r2.1hanime.com
 DOMAIN,r2.leadsy.ai
+DOMAIN,r2cdn.perplexity.ai
 DOMAIN,rapid-cdn.yottaa.com
 DOMAIN,raw.github.com
 DOMAIN,rawmarkdown.cloudflareaccess.org

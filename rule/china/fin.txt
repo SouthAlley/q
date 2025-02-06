@@ -1,4 +1,4 @@
-# Main total line 1032
+# Main total line 1033
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -10,6 +10,7 @@ DOMAIN,ocsp2.globalsign.com
 DOMAIN,www.layuicdn.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,111.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net

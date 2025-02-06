@@ -1,4 +1,4 @@
-# Main total line 3527
+# Main total line 3526
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -1659,7 +1659,6 @@ DOMAIN-SUFFIX,huichuan.sm.cn
 DOMAIN-SUFFIX,huishenghuiying.com.cn
 DOMAIN-SUFFIX,huodonghezi.cn
 DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
-DOMAIN-SUFFIX,hw.zuimeitianqi.com
 DOMAIN-SUFFIX,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN-SUFFIX,hya.comp.360os.com
 DOMAIN-SUFFIX,hybrid.miniapp.taobao.com

@@ -158,6 +158,7 @@ DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,aboutgfw.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,abs.edu
+DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,acast.com
 DOMAIN-SUFFIX,accim.org
 DOMAIN-SUFFIX,accountkit.com
@@ -2761,7 +2762,6 @@ DOMAIN-SUFFIX,ippotv.com
 DOMAIN-SUFFIX,ipredator.se
 DOMAIN-SUFFIX,iptvbin.com
 DOMAIN-SUFFIX,ipvanish.com
-DOMAIN-SUFFIX,ipx.ac
 DOMAIN-SUFFIX,iredmail.org
 DOMAIN-SUFFIX,irib.ir
 DOMAIN-SUFFIX,ironpython.net
@@ -3892,6 +3892,7 @@ DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,open.firstory.me
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openamt.com
+DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,opendroneid.org
@@ -5092,6 +5093,7 @@ DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tfiflve.com
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thaicn.com
+DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,theatlantic.com
 DOMAIN-SUFFIX,theatrum-belli.com
@@ -5731,7 +5733,6 @@ DOMAIN-SUFFIX,voxmedia.com
 DOMAIN-SUFFIX,voxops.net
 DOMAIN-SUFFIX,voy.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
-DOMAIN-SUFFIX,vpn.ac
 DOMAIN-SUFFIX,vpn.net
 DOMAIN-SUFFIX,vpn4all.com
 DOMAIN-SUFFIX,vpnaccount.org

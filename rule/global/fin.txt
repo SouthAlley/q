@@ -1,4 +1,4 @@
-# Main total line 19834
+# Main total line 19835
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -16645,6 +16645,7 @@ DOMAIN-SUFFIX,thaicn.com
 DOMAIN-SUFFIX,thaicuties.com
 DOMAIN-SUFFIX,thaigirls.net
 DOMAIN-SUFFIX,thaigirls100.net
+DOMAIN-SUFFIX,thaiheadlines.com
 DOMAIN-SUFFIX,thanksloyalty.com
 DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,thd

@@ -1,5 +1,6 @@
-# Main total line 6427
+# Main total line 6430
 # ------------------------------------------
+DOMAIN,69shuba.cx
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,cdn.statically.io
@@ -4060,6 +4061,7 @@ DOMAIN-SUFFIX,photodharma.net
 DOMAIN-SUFFIX,photofocus.com
 DOMAIN-SUFFIX,photoshop.com
 DOMAIN-SUFFIX,phuquocservices.com
+DOMAIN-SUFFIX,piaotia.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,picacgy.com
@@ -5265,6 +5267,7 @@ DOMAIN-SUFFIX,tkcs-collins.com
 DOMAIN-SUFFIX,tl.gd
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tmdfish.com
 DOMAIN-SUFFIX,tmi.me
 DOMAIN-SUFFIX,tmpp.org

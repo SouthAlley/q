@@ -1,4 +1,4 @@
-# Main total line 19837
+# Main total line 19836
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -824,7 +824,6 @@ DOMAIN-SUFFIX,ahxxx.club
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org

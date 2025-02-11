@@ -1,4 +1,4 @@
-# Main total line 632
+# Main total line 633
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -202,6 +202,7 @@ DOMAIN,softwareupdate.pilotmoon.com
 DOMAIN,softwareupdate.vmware.com
 DOMAIN,static.adguard.com
 DOMAIN,static.adtidy.org
+DOMAIN,static.redox-os.org
 DOMAIN,stats.snipaste.com
 DOMAIN,steam.apac.qtlglb.com
 DOMAIN,steam.eca.qtlglb.com

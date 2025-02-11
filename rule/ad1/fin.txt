@@ -1,4 +1,4 @@
-# Main total line 3531
+# Main total line 3512
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -298,7 +298,6 @@ DOMAIN,p9.pstatp.com
 DOMAIN,pagead2.googlesyndication-cn.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin16.sgsnssdk.com
-DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pitaya.bytedance.com
 DOMAIN,pixel.facebook.com
@@ -411,6 +410,7 @@ DOMAIN-SUFFIX,123.sogou.com
 DOMAIN-SUFFIX,123.sogoucdn.com
 DOMAIN-SUFFIX,123juzi.net
 DOMAIN-SUFFIX,138lm.com
+DOMAIN-SUFFIX,1500020991.vodplayer.wxamedia.com
 DOMAIN-SUFFIX,168.it168.com
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,17un.com
@@ -1610,6 +1610,7 @@ DOMAIN-SUFFIX,gug.ku6cdn.com
 DOMAIN-SUFFIX,guitarpro.cc
 DOMAIN-SUFFIX,guohead.com
 DOMAIN-SUFFIX,guomob.com
+DOMAIN-SUFFIX,gvideo.qpic.cn
 DOMAIN-SUFFIX,gw5.push.mcp.weibo.cn
 DOMAIN-SUFFIX,gwp.xiaojukeji.com
 DOMAIN-SUFFIX,gz-data.com
@@ -2257,6 +2258,7 @@ DOMAIN-SUFFIX,pc.uf.ksosoft.com
 DOMAIN-SUFFIX,pc.videoclick.baidu.com
 DOMAIN-SUFFIX,pcd.autohome.com.cn
 DOMAIN-SUFFIX,pcfg.wps.cn
+DOMAIN-SUFFIX,pcm-img.zhls.qq.com
 DOMAIN-SUFFIX,pd.sogou.com
 DOMAIN-SUFFIX,pdbarea.com
 DOMAIN-SUFFIX,pdfexpert.cc
@@ -2267,6 +2269,7 @@ DOMAIN-SUFFIX,permutive.app
 DOMAIN-SUFFIX,permutive.com
 DOMAIN-SUFFIX,persona.ly
 DOMAIN-SUFFIX,petametrics.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,phloxsub73ulata.com
 DOMAIN-SUFFIX,phluant.com
 DOMAIN-SUFFIX,photozoomchina.com
@@ -2663,6 +2666,7 @@ DOMAIN-SUFFIX,static.app.m.letv.com
 DOMAIN-SUFFIX,static.duoshuo.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,static.ku6.com
+DOMAIN-SUFFIX,static.wxqcloud.qq.com.cn
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statics.woozooo.com
@@ -3018,31 +3022,8 @@ DOMAIN-SUFFIX,vv84.bj.bcebos.com
 DOMAIN-SUFFIX,w.gdown.baidu.com
 DOMAIN-SUFFIX,w.x.baidu.com
 DOMAIN-SUFFIX,w1.askwai.com
-DOMAIN-SUFFIX,w1.bskwai.com
-DOMAIN-SUFFIX,w1.cskwai.com
-DOMAIN-SUFFIX,w1.dskwai.com
-DOMAIN-SUFFIX,w1.eskwai.com
-DOMAIN-SUFFIX,w1.fskwai.com
 DOMAIN-SUFFIX,w1.gskwai.com
-DOMAIN-SUFFIX,w1.hskwai.com
-DOMAIN-SUFFIX,w1.iskwai.com
-DOMAIN-SUFFIX,w1.jskwai.com
 DOMAIN-SUFFIX,w1.kskwai.com
-DOMAIN-SUFFIX,w1.lskwai.com
-DOMAIN-SUFFIX,w1.mskwai.com
-DOMAIN-SUFFIX,w1.nskwai.com
-DOMAIN-SUFFIX,w1.oskwai.com
-DOMAIN-SUFFIX,w1.pskwai.com
-DOMAIN-SUFFIX,w1.qskwai.com
-DOMAIN-SUFFIX,w1.rskwai.com
-DOMAIN-SUFFIX,w1.sskwai.com
-DOMAIN-SUFFIX,w1.tskwai.com
-DOMAIN-SUFFIX,w1.uskwai.com
-DOMAIN-SUFFIX,w1.vskwai.com
-DOMAIN-SUFFIX,w1.wskwai.com
-DOMAIN-SUFFIX,w1.xskwai.com
-DOMAIN-SUFFIX,w1.yskwai.com
-DOMAIN-SUFFIX,w1.zskwai.com
 DOMAIN-SUFFIX,w55c.net
 DOMAIN-SUFFIX,wa.kuwo.cn
 DOMAIN-SUFFIX,wan.2345.cn

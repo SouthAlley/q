@@ -1,4 +1,4 @@
-# Main total line 3526
+# Main total line 3531
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -813,6 +813,8 @@ DOMAIN-SUFFIX,adss.yahoo.com
 DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adstore-1252524079.file.myqcloud.com
 DOMAIN-SUFFIX,adstore-index-1252524079.file.myqcloud.com
+DOMAIN-SUFFIX,adstudio-assets.scdn.co
+DOMAIN-SUFFIX,adstudio.spotify.com
 DOMAIN-SUFFIX,adsunflower.com
 DOMAIN-SUFFIX,adsunion.com
 DOMAIN-SUFFIX,adswizz.com
@@ -1625,6 +1627,8 @@ DOMAIN-SUFFIX,hbssjd.cn
 DOMAIN-SUFFIX,hc.baidu.cn
 DOMAIN-SUFFIX,hc.baidu.com
 DOMAIN-SUFFIX,hdswgc.com
+DOMAIN-SUFFIX,heads-ak.spotify.com.edgesuite.net
+DOMAIN-SUFFIX,heads-fa.spotify.com
 DOMAIN-SUFFIX,hexagon-analytics.com
 DOMAIN-SUFFIX,heyzap.com
 DOMAIN-SUFFIX,hitslink.com
@@ -3081,6 +3085,7 @@ DOMAIN-SUFFIX,widespace.com
 DOMAIN-SUFFIX,widgets.pinterest.com
 DOMAIN-SUFFIX,wifiapidd.51y5.net
 DOMAIN-SUFFIX,wigetmedia.com
+DOMAIN-SUFFIX,wildcard.moatads.com.edgekey.net
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,winads.cn
 DOMAIN-SUFFIX,winasdaq.com

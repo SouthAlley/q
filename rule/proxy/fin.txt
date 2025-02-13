@@ -1,4 +1,4 @@
-# Main total line 6432
+# Main total line 6434
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,api.waqi.info
@@ -3377,6 +3377,7 @@ DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
+DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
@@ -4444,6 +4445,7 @@ DOMAIN-SUFFIX,ronjoneswriter.com
 DOMAIN-SUFFIX,roodo.com
 DOMAIN-SUFFIX,rosechina.net
 DOMAIN-SUFFIX,rotten.com
+DOMAIN-SUFFIX,rottentomatoes.com
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,rsdlmonitor.com
 DOMAIN-SUFFIX,rsf-chinese.org

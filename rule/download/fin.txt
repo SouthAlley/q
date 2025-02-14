@@ -1,4 +1,4 @@
-# Main total line 633
+# Main total line 634
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -83,6 +83,7 @@ DOMAIN,download.cpuid.com
 DOMAIN,download.cypress.io
 DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
+DOMAIN,download.fydeos.io
 DOMAIN,download.gigabyte.com
 DOMAIN,download.gimp.org
 DOMAIN,download.hikarifield.co.jp

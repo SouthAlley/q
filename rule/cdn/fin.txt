@@ -1,4 +1,4 @@
-# Main total line 3137
+# Main total line 3144
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -290,6 +290,7 @@ DOMAIN,c.navattic.com
 DOMAIN,c.s-microsoft.com
 DOMAIN,c.speedtestcustom.com
 DOMAIN,c.start.me
+DOMAIN,c1.newegg.com
 DOMAIN,c1.patreon.com
 DOMAIN,c10.patreon.com
 DOMAIN,c11.patreon.com
@@ -341,6 +342,7 @@ DOMAIN,cdn-share-sprites.flaticon.com
 DOMAIN,cdn-static-1.medium.com
 DOMAIN,cdn-static.talent.com
 DOMAIN,cdn-uicons.flaticon.com
+DOMAIN,cdn-web.fydeos.io
 DOMAIN,cdn-www.bluestacks.com
 DOMAIN,cdn-yotpo-images-production.yotpo.com
 DOMAIN,cdn.17app.co
@@ -561,6 +563,7 @@ DOMAIN,cdn.sanity.io
 DOMAIN,cdn.sc.gl
 DOMAIN,cdn.schemaapp.com
 DOMAIN,cdn.sciencecast.org
+DOMAIN,cdn.scripts.wtwhmedia.com
 DOMAIN,cdn.search.brave.com
 DOMAIN,cdn.sedo.com
 DOMAIN,cdn.segment.com
@@ -629,14 +632,11 @@ DOMAIN,cdn.ywxi.net
 DOMAIN,cdn.zapier.com
 DOMAIN,cdn.zeabur.com
 DOMAIN,cdn.zhujiwiki.com
-DOMAIN,cdn0-thumbs.worldsex.com
 DOMAIN,cdn0.dan.com
 DOMAIN,cdn0.iconfinder.com
 DOMAIN,cdn01.jotfor.ms
 DOMAIN,cdn02.jotfor.ms
 DOMAIN,cdn03.jotfor.ms
-DOMAIN,cdn1-assets.worldsex.com
-DOMAIN,cdn1-thumbs.worldsex.com
 DOMAIN,cdn1.airdroid.com
 DOMAIN,cdn1.bigcommerce.com
 DOMAIN,cdn1.dan.com
@@ -1343,6 +1343,7 @@ DOMAIN,media.nownews.com
 DOMAIN,media.npr.org
 DOMAIN,media.orz.uno
 DOMAIN,media.owcnow.com
+DOMAIN,media.pointandplace.com
 DOMAIN,media.printables.com
 DOMAIN,media.pullopen.xyz
 DOMAIN,media.ra.kroll.com
@@ -1891,6 +1892,7 @@ DOMAIN,static.mysph.sph.com.sg
 DOMAIN,static.mytonwallet.io
 DOMAIN,static.na1.visioncritical.com
 DOMAIN,static.namebeta.com
+DOMAIN,static.narrativ.com
 DOMAIN,static.netify.ai
 DOMAIN,static.newmobilelife.com
 DOMAIN,static.news.bitcoin.com
@@ -2300,6 +2302,7 @@ DOMAIN-SUFFIX,cdn-uploads.huggingface.co
 DOMAIN-SUFFIX,cdn-website.com
 DOMAIN-SUFFIX,cdn-zlib.sk
 DOMAIN-SUFFIX,cdn.applicationinsights.io
+DOMAIN-SUFFIX,cdn.autoevolution.com
 DOMAIN-SUFFIX,cdn.bsky.app
 DOMAIN-SUFFIX,cdn.chrome.marketplace.aws.dev
 DOMAIN-SUFFIX,cdn.cookielaw.org
@@ -2764,6 +2767,7 @@ DOMAIN-SUFFIX,nest.land
 DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,netdna-ssl.com
 DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,neweggimages.com
 DOMAIN-SUFFIX,newscdn.com.au
 DOMAIN-SUFFIX,nextui.org
 DOMAIN-SUFFIX,nftstorage.link
@@ -3130,9 +3134,12 @@ DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohostatic.eu
 DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zorocdn.xyz
+DOMAIN-KEYWORD,-assets.worldsex.com
 DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,-res.cloudinary.com
+DOMAIN-KEYWORD,-thumbs.pornhost.com
+DOMAIN-KEYWORD,-thumbs.worldsex.com
 DOMAIN-KEYWORD,cdn.adultempire.com
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net

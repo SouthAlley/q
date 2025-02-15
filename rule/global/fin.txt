@@ -1,4 +1,4 @@
-# Main total line 19841
+# Main total line 19836
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -3386,7 +3386,6 @@ DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bs
 DOMAIN-SUFFIX,bs-adreview.com
 DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,bsxm1213.pro
 DOMAIN-SUFFIX,bt
@@ -3419,7 +3418,6 @@ DOMAIN-SUFFIX,buddymedia.com
 DOMAIN-SUFFIX,buffered.com
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,buhidoh.net
-DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,building3dcontent.com
 DOMAIN-SUFFIX,builtfromebay.com
 DOMAIN-SUFFIX,bukkake-jav.com
@@ -3863,7 +3861,6 @@ DOMAIN-SUFFIX,changsa.net
 DOMAIN-SUFFIX,channelnewsasia.com
 DOMAIN-SUFFIX,chanworld.org
 DOMAIN-SUFFIX,chaoex.com
-DOMAIN-SUFFIX,chaos.social
 DOMAIN-SUFFIX,chapm25.com
 DOMAIN-SUFFIX,chargenow.com
 DOMAIN-SUFFIX,chargenowusa.com
@@ -4471,7 +4468,6 @@ DOMAIN-SUFFIX,costcobusinessdelivery.com
 DOMAIN-SUFFIX,cotolia.com
 DOMAIN-SUFFIX,cotweet.com
 DOMAIN-SUFFIX,cougarsexmovies.com
-DOMAIN-SUFFIX,counter.social
 DOMAIN-SUFFIX,coupang.com
 DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,coursehero.com
@@ -7210,7 +7206,6 @@ DOMAIN-SUFFIX,g-tun.com
 DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,g-xxxhub.com
 DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,g0v.social
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,g6hentai.com
 DOMAIN-SUFFIX,ga
@@ -11035,7 +11030,6 @@ DOMAIN-SUFFIX,masterpassteststore.com
 DOMAIN-SUFFIX,masterwanker.com
 DOMAIN-SUFFIX,mastodon.cloud
 DOMAIN-SUFFIX,mastodon.host
-DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mastodon.xyz
 DOMAIN-SUFFIX,masturbate2gether.com
 DOMAIN-SUFFIX,mat6tube.com
@@ -15794,6 +15788,7 @@ DOMAIN-SUFFIX,sobees.com
 DOMAIN-SUFFIX,socailcam.com
 DOMAIN-SUFFIX,socalbmw.com
 DOMAIN-SUFFIX,soccermatchpass.com
+DOMAIN-SUFFIX,social
 DOMAIN-SUFFIX,social.com
 DOMAIN-SUFFIX,socialblade.com
 DOMAIN-SUFFIX,socialcam.com

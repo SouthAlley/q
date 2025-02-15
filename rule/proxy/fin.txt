@@ -1,4 +1,4 @@
-# Main total line 6434
+# Main total line 6432
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,api.waqi.info
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,177pic.info
 DOMAIN-SUFFIX,17t17p.com
 DOMAIN-SUFFIX,18board.com
 DOMAIN-SUFFIX,18board.info
+DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,18onlygirls.com
 DOMAIN-SUFFIX,18p2p.com
@@ -224,6 +225,7 @@ DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
+DOMAIN-SUFFIX,airav.cc
 DOMAIN-SUFFIX,airconsole.com
 DOMAIN-SUFFIX,aircrack-ng.org
 DOMAIN-SUFFIX,airhorn.solutions
@@ -748,7 +750,6 @@ DOMAIN-SUFFIX,brookings.edu
 DOMAIN-SUFFIX,brucewang.net
 DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bsky.app
-DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,bt2mag.com
 DOMAIN-SUFFIX,bt95.com
 DOMAIN-SUFFIX,btaia.com
@@ -919,7 +920,6 @@ DOMAIN-SUFFIX,changsa.net
 DOMAIN-SUFFIX,channelnewsasia.com
 DOMAIN-SUFFIX,chanworld.org
 DOMAIN-SUFFIX,chaoex.com
-DOMAIN-SUFFIX,chaos.social
 DOMAIN-SUFFIX,chapm25.com
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,chatnook.com
@@ -1159,7 +1159,6 @@ DOMAIN-SUFFIX,cosplay-jav.com
 DOMAIN-SUFFIX,cosplayjav.pl
 DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,cotweet.com
-DOMAIN-SUFFIX,counter.social
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,covid19-rx.org
 DOMAIN-SUFFIX,covid19rx.org
@@ -2009,7 +2008,6 @@ DOMAIN-SUFFIX,fzlm.com
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g-area.org
 DOMAIN-SUFFIX,g-queen.com
-DOMAIN-SUFFIX,g0v.social
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,g6hentai.com
 DOMAIN-SUFFIX,gab.com
@@ -3308,7 +3306,6 @@ DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,maskedip.com
 DOMAIN-SUFFIX,mastodon.cloud
 DOMAIN-SUFFIX,mastodon.host
-DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mastodon.xyz
 DOMAIN-SUFFIX,matainja.com
 DOMAIN-SUFFIX,material.io
@@ -4759,6 +4756,7 @@ DOMAIN-SUFFIX,sneakme.net
 DOMAIN-SUFFIX,snowlionpub.com
 DOMAIN-SUFFIX,sobees.com
 DOMAIN-SUFFIX,soc.mil
+DOMAIN-SUFFIX,social
 DOMAIN-SUFFIX,socialblade.com
 DOMAIN-SUFFIX,socialwhale.com
 DOMAIN-SUFFIX,socks-proxy.net

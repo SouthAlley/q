@@ -1,4 +1,4 @@
-# Main total line 634
+# Main total line 635
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,archive.ubuntu.com
 DOMAIN-SUFFIX,artifacts.ui.com
 DOMAIN-SUFFIX,autoupdatesvc.delivery.autodesk.com
 DOMAIN-SUFFIX,catbox.moe
+DOMAIN-SUFFIX,cdimage.debian.org
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,cdn.nintendo.net

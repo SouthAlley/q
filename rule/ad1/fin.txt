@@ -1,4 +1,4 @@
-# Main total line 3512
+# Main total line 3513
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -603,6 +603,7 @@ DOMAIN-SUFFIX,ad127m.com
 DOMAIN-SUFFIX,ad131m.com
 DOMAIN-SUFFIX,ad132m.com
 DOMAIN-SUFFIX,ad1data.com
+DOMAIN-SUFFIX,ad2.ettoday.net
 DOMAIN-SUFFIX,ad2games.com
 DOMAIN-SUFFIX,ad2iction.com
 DOMAIN-SUFFIX,ad4.com.cn
@@ -1732,6 +1733,7 @@ DOMAIN-SUFFIX,impactserving.com
 DOMAIN-SUFFIX,impolo.com
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,imtmp.net
+DOMAIN-SUFFIX,in.treasuredata.com
 DOMAIN-SUFFIX,inad.com
 DOMAIN-SUFFIX,info.wps.cn
 DOMAIN-SUFFIX,infocenter.meizu.com
@@ -2229,7 +2231,6 @@ DOMAIN-SUFFIX,p.vq6nsu.cn
 DOMAIN-SUFFIX,p0y.cn
 DOMAIN-SUFFIX,p2.hunantv.com
 DOMAIN-SUFFIX,p242.plainwrk.name
-DOMAIN-SUFFIX,p2p.huya.com
 DOMAIN-SUFFIX,p3-tt.byteimg.com
 DOMAIN-SUFFIX,p3p.yahoo.com
 DOMAIN-SUFFIX,pagead-tpc.l.google.com

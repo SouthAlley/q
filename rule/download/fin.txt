@@ -1,4 +1,4 @@
-# Main total line 639
+# Main total line 641
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -133,6 +133,8 @@ DOMAIN,ftp.gnu.org
 DOMAIN,ftp.gwdg.de
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,get.pixelexperience.org
+DOMAIN,ghfast.top
+DOMAIN,ghgo.xyz
 DOMAIN,ghp.ci
 DOMAIN,go-updater.brave.com
 DOMAIN,gog-cdn-fastly-cp77.gog.com

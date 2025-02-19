@@ -1,4 +1,4 @@
-# Main total line 1035
+# Main total line 1036
 # ------------------------------------------
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -515,6 +515,7 @@ DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,koyso.com
 DOMAIN-SUFFIX,ks-cdn.com
+DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,ksosoft.com

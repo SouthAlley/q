@@ -1,4 +1,4 @@
-# Main total line 637
+# Main total line 639
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -137,6 +137,7 @@ DOMAIN,ghp.ci
 DOMAIN,go-updater.brave.com
 DOMAIN,gog-cdn-fastly-cp77.gog.com
 DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,http.kali.org
 DOMAIN,install.virtfusion.net
 DOMAIN,invent.kde.org
 DOMAIN,iterm2.com
@@ -322,6 +323,7 @@ DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,pixeldrain.com
+DOMAIN-SUFFIX,ports.ubuntu.com
 DOMAIN-SUFFIX,public.blob.vercel-storage.com
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,releases.hashicorp.com

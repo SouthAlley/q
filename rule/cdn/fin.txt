@@ -1,4 +1,4 @@
-# Main total line 3171
+# Main total line 3170
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1607,7 +1607,6 @@ DOMAIN,resource.fs.com
 DOMAIN,resource.video.nimg.jp
 DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
-DOMAIN,resources.esportsinsider.com
 DOMAIN,resources.help.salesforce.com
 DOMAIN,rest.happierleads.com
 DOMAIN,rsi.grafana.com
@@ -2433,6 +2432,7 @@ DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,divio-media.net
+DOMAIN-SUFFIX,dlunar.net
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dogehls.xyz
@@ -2675,7 +2675,6 @@ DOMAIN-SUFFIX,ipfs.soul-network.com
 DOMAIN-SUFFIX,ipfs.telos.miami
 DOMAIN-SUFFIX,ipfs.tribecap.co
 DOMAIN-SUFFIX,ipfs.trusti.id
-DOMAIN-SUFFIX,ipfs.tubby.cloud
 DOMAIN-SUFFIX,ipfs.uploads.nu
 DOMAIN-SUFFIX,ipfs.xoqq.ch
 DOMAIN-SUFFIX,ipfs.yt

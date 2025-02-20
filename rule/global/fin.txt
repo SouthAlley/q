@@ -1,4 +1,4 @@
-# Main total line 19846
+# Main total line 19847
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -8160,6 +8160,7 @@ DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-SUFFIX,hentaivideos.net
 DOMAIN-SUFFIX,hentaivideoworld.com
 DOMAIN-SUFFIX,hentaivn.net
+DOMAIN-SUFFIX,hentaivox.com
 DOMAIN-SUFFIX,hentaivvz.com
 DOMAIN-SUFFIX,hentaiworld.tv
 DOMAIN-SUFFIX,hentaiworldporn.com

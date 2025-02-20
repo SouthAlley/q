@@ -1,4 +1,4 @@
-# Main total line 3168
+# Main total line 3171
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -430,6 +430,7 @@ DOMAIN,cdn.embed.ly
 DOMAIN,cdn.embedly.com
 DOMAIN,cdn.engagement.ai
 DOMAIN,cdn.equalweb.com
+DOMAIN,cdn.equinix.com
 DOMAIN,cdn.eu.contentful.com
 DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.evbstatic.com
@@ -520,6 +521,7 @@ DOMAIN,cdn.networklessons.com
 DOMAIN,cdn.neverbounce.com
 DOMAIN,cdn.nolt.io
 DOMAIN,cdn.now.gg
+DOMAIN,cdn.nperf.com
 DOMAIN,cdn.onesignal.com
 DOMAIN,cdn.onetime.dog
 DOMAIN,cdn.onlyhentaistuff.com
@@ -2204,6 +2206,7 @@ DOMAIN,wl-apps.yourwebsite.life
 DOMAIN,wp.salesforce.com
 DOMAIN,wpmedia.tealium.com
 DOMAIN,ws-assets.zoominfo.com
+DOMAIN,ws-cdn.nperf.com
 DOMAIN,ws2-cache.aptoide.com
 DOMAIN,ww2-secure.justanswer.com
 DOMAIN,ww2.justanswer.com

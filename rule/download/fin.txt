@@ -1,4 +1,4 @@
-# Main total line 648
+# Main total line 649
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -33,6 +33,7 @@ DOMAIN,cdn.fwupd.org
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
 DOMAIN,cdn.kde.org
+DOMAIN,cdn.opensuse.org
 DOMAIN,cdn.winget.microsoft.com
 DOMAIN,cdn.zoom.us
 DOMAIN,ciscobinary.openh264.org

@@ -1,4 +1,4 @@
-# Main total line 6436
+# Main total line 6437
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,api.waqi.info
@@ -2231,6 +2231,7 @@ DOMAIN-SUFFIX,greenreadings.com
 DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grindr.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,gs-discuss.com

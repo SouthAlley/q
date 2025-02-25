@@ -1,4 +1,4 @@
-# Main total line 6437
+# Main total line 6438
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,api.waqi.info
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,1984bbs.com
 DOMAIN-SUFFIX,1984bbs.org
 DOMAIN-SUFFIX,1991way.com
 DOMAIN-SUFFIX,1998cdp.org
+DOMAIN-SUFFIX,1anime.me
 DOMAIN-SUFFIX,1bao.org
 DOMAIN-SUFFIX,1dumb.com
 DOMAIN-SUFFIX,1eew.com

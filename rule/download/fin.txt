@@ -1,4 +1,4 @@
-# Main total line 649
+# Main total line 653
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -88,6 +88,7 @@ DOMAIN,download.cpuid.com
 DOMAIN,download.cypress.io
 DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
+DOMAIN,download.edovia.com
 DOMAIN,download.fydeos.io
 DOMAIN,download.gigabyte.com
 DOMAIN,download.gimp.org
@@ -231,6 +232,8 @@ DOMAIN,update.parallels.com
 DOMAIN,update.sleazyfork.org
 DOMAIN,updater.snipaste.com
 DOMAIN,updates-cdn.bravesoftware.com
+DOMAIN,updates.bravesoftware.com
+DOMAIN,updates.edovia.com
 DOMAIN,updates.istatmenus.app
 DOMAIN,versioncheck-bg.addons.mozilla.org
 DOMAIN,versioncheck.addons.mozilla.org
@@ -282,6 +285,7 @@ DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,dl.sourceforge.net
 DOMAIN-SUFFIX,dl.wireshark.org
+DOMAIN-SUFFIX,dl2.discordapp.net
 DOMAIN-SUFFIX,download.autodesk.com
 DOMAIN-SUFFIX,download.cdp.bethesda.net
 DOMAIN-SUFFIX,download.dm.origin.com

@@ -1,4 +1,4 @@
-# Main total line 19911
+# Main total line 19912
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,1984bbs.org
 DOMAIN-SUFFIX,1991way.com
 DOMAIN-SUFFIX,1992qq.xyz
 DOMAIN-SUFFIX,1998cdp.org
+DOMAIN-SUFFIX,1anime.me
 DOMAIN-SUFFIX,1bao.org
 DOMAIN-SUFFIX,1bigclub.com
 DOMAIN-SUFFIX,1bokeponline.top

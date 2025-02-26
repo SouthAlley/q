@@ -1,4 +1,4 @@
-# Main total line 653
+# Main total line 655
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -12,6 +12,7 @@ DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,aus2-community.mozilla.org
 DOMAIN,aus5.mozilla.org
+DOMAIN,autoupdate.termius.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
@@ -224,6 +225,7 @@ DOMAIN,steampipe.akamaized.net
 DOMAIN,store.setapp.com
 DOMAIN,store1.gofile.io
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,u.keka.io
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
 DOMAIN,update.greasyfork.org

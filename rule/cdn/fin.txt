@@ -1,4 +1,4 @@
-# Main total line 3184
+# Main total line 3186
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -417,6 +417,7 @@ DOMAIN,cdn.datdota.com
 DOMAIN,cdn.db-ip.com
 DOMAIN,cdn.decrypt.co
 DOMAIN,cdn.delight-vr.com
+DOMAIN,cdn.designsystem.arm.com
 DOMAIN,cdn.deta.space
 DOMAIN,cdn.devolutions.net
 DOMAIN,cdn.dnsimple.com
@@ -1062,6 +1063,7 @@ DOMAIN,images-eds-ssl.xboxlive.com
 DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
 DOMAIN,images.991.com
+DOMAIN,images.anandtech.com
 DOMAIN,images.arigatotravel.com
 DOMAIN,images.axios.com
 DOMAIN,images.bfmtv.com

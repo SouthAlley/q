@@ -1,4 +1,4 @@
-# Main total line 19962
+# Main total line 19964
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -4128,6 +4128,7 @@ DOMAIN-SUFFIX,cinepornogratis.com
 DOMAIN-SUFFIX,cios.org
 DOMAIN-SUFFIX,cipfg.org
 DOMAIN-SUFFIX,cipriani
+DOMAIN-SUFFIX,circleci.com
 DOMAIN-SUFFIX,circlethebayfortibet.org
 DOMAIN-SUFFIX,cirosantilli.com
 DOMAIN-SUFFIX,cisco
@@ -7596,6 +7597,7 @@ DOMAIN-SUFFIX,glamourtits.com
 DOMAIN-SUFFIX,glasamerike.net
 DOMAIN-SUFFIX,gle
 DOMAIN-SUFFIX,gleline.com
+DOMAIN-SUFFIX,glitch.com
 DOMAIN-SUFFIX,global-sci.org
 DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN-SUFFIX,globaledu.org

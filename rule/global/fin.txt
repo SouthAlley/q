@@ -1,4 +1,4 @@
-# Main total line 19964
+# Main total line 19966
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -12399,6 +12399,7 @@ DOMAIN-SUFFIX,netbank
 DOMAIN-SUFFIX,netbig.com
 DOMAIN-SUFFIX,netbirds.com
 DOMAIN-SUFFIX,netcolony.com
+DOMAIN-SUFFIX,netcup.cafe
 DOMAIN-SUFFIX,netcup.com
 DOMAIN-SUFFIX,netcup.net
 DOMAIN-SUFFIX,netdna-cdn.com
@@ -17387,6 +17388,7 @@ DOMAIN-SUFFIX,tubevintageporn.com
 DOMAIN-SUFFIX,tubewolf.com
 DOMAIN-SUFFIX,tubexclips.com
 DOMAIN-SUFFIX,tubinge.com
+DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,tubsexer.com
 DOMAIN-SUFFIX,tubxporn.com
 DOMAIN-SUFFIX,tug.org

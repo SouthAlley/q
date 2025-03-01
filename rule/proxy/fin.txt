@@ -1,4 +1,4 @@
-# Main total line 6440
+# Main total line 6441
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,api.waqi.info
@@ -752,6 +752,7 @@ DOMAIN-SUFFIX,brookings.edu
 DOMAIN-SUFFIX,brucewang.net
 DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bt2mag.com
 DOMAIN-SUFFIX,bt95.com
 DOMAIN-SUFFIX,btaia.com

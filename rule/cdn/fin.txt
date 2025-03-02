@@ -1,4 +1,4 @@
-# Main total line 3206
+# Main total line 3207
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -591,6 +591,7 @@ DOMAIN,cdn.smooch.io
 DOMAIN,cdn.softswiss.net
 DOMAIN,cdn.split.io
 DOMAIN,cdn.sprig.com
+DOMAIN,cdn.sso.mozilla.com
 DOMAIN,cdn.st-note.com
 DOMAIN,cdn.starapps.studio
 DOMAIN,cdn.stash.com

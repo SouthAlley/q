@@ -1,4 +1,4 @@
-# Main total line 3205
+# Main total line 3206
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2124,6 +2124,7 @@ DOMAIN,ubistatic-a.ubisoft.com
 DOMAIN,ubistatic2-a.akamaihd.net
 DOMAIN,ubistatic2-a.ubisoft.com
 DOMAIN,udata.namespace.so
+DOMAIN,uhf.microsoft.com
 DOMAIN,ui-cdn.digitalocean.com
 DOMAIN,ui.contentstack.com
 DOMAIN,ui.trailhead.com

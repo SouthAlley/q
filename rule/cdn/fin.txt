@@ -1,4 +1,4 @@
-# Main total line 3211
+# Main total line 3213
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -742,6 +742,7 @@ DOMAIN,cf.shopee.tw
 DOMAIN,cfvod.kaltura.com
 DOMAIN,chart.googleapis.com
 DOMAIN,chat-content.beanfun.com
+DOMAIN,chatwidgetmetrics-proxy.usepylon.com
 DOMAIN,checkout-sdk.bigcommerce.com
 DOMAIN,checkout.stripe.com
 DOMAIN,ci.testling.com
@@ -2881,6 +2882,7 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,photobucket.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pichost.top
+DOMAIN-SUFFIX,picjs.xyz
 DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pinimg.com

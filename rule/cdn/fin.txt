@@ -1,4 +1,4 @@
-# Main total line 3207
+# Main total line 3211
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -554,6 +554,7 @@ DOMAIN,cdn.privacy-mgmt.com
 DOMAIN,cdn.privacy.paramount.com
 DOMAIN,cdn.prod.ext.web.purview.azure.com
 DOMAIN,cdn.prod.www.spiegel.de
+DOMAIN,cdn.promotekit.com
 DOMAIN,cdn.prowritingaid.com
 DOMAIN,cdn.quadpay.com
 DOMAIN,cdn.quickemailverification.com
@@ -1832,6 +1833,7 @@ DOMAIN,static-staging.scroll.com
 DOMAIN,static-sv.fc2.com
 DOMAIN,static-web-prod.skillshare.com
 DOMAIN,static-web.grammarly.com
+DOMAIN,static-www.onlyoffice.com
 DOMAIN,static.4shared.com
 DOMAIN,static.ada.support
 DOMAIN,static.addtoany.com
@@ -2210,6 +2212,7 @@ DOMAIN,webcdn.17app.co
 DOMAIN,webfonts.zoho.com
 DOMAIN,webp.frostming.com
 DOMAIN,website-cdn.ipinfo.io
+DOMAIN,website-prod.cache.wpscdn.com
 DOMAIN,webstatic.chargebee.com
 DOMAIN,widget.docsbot.ai
 DOMAIN,widget.freshworks.com
@@ -2480,6 +2483,7 @@ DOMAIN-SUFFIX,dummyjson.com
 DOMAIN-SUFFIX,dwcdn.net
 DOMAIN-SUFFIX,dweb.eu.org
 DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,dynamic-static-assets.com
 DOMAIN-SUFFIX,e.crashlytics.com
 DOMAIN-SUFFIX,easylist.to
 DOMAIN-SUFFIX,ebayimg.com

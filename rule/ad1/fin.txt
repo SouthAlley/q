@@ -1,4 +1,4 @@
-# Main total line 3511
+# Main total line 3513
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -3411,6 +3411,7 @@ IP-CIDR,183.221.242.172/32,no-resolve
 IP-CIDR,183.221.250.11/32,no-resolve
 IP-CIDR,183.224.40.24/32,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
+IP-CIDR,193.238.227.136/32,no-resolve
 IP-CIDR,198.105.254.11/32,no-resolve
 IP-CIDR,202.100.220.54/32,no-resolve
 IP-CIDR,202.100.68.117/32,no-resolve
@@ -3509,5 +3510,6 @@ IP-CIDR,61.174.50.214/32,no-resolve
 IP-CIDR,61.183.1.186/32,no-resolve
 IP-CIDR,61.191.206.4/32,no-resolve
 IP-CIDR,79.137.13.24/32,no-resolve
+IP-CIDR,91.230.49.1/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve

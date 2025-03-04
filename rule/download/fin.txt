@@ -1,4 +1,4 @@
-# Main total line 655
+# Main total line 656
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -202,6 +202,7 @@ DOMAIN,registry.fedoraproject.org
 DOMAIN,releases.arc.net
 DOMAIN,releases.grapheneos.org
 DOMAIN,releases.obsidian.md
+DOMAIN,releases.warp.dev
 DOMAIN,releases.whatpulse.org
 DOMAIN,repo.carbon.sh
 DOMAIN,repo.debiancn.org

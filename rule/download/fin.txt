@@ -1,4 +1,4 @@
-# Main total line 656
+# Main total line 657
 # ------------------------------------------
 DOMAIN,amupdatedl.microsoft.com
 DOMAIN,amupdatedl2.microsoft.com
@@ -194,6 +194,7 @@ DOMAIN,packagespc.xboxlive.com
 DOMAIN,pf-cdn-content-prod.azureedge.net
 DOMAIN,pkg-containers.githubusercontent.com
 DOMAIN,pkgs.tailscale.com
+DOMAIN,playwright-akamai.azureedge.net
 DOMAIN,playwright.azureedge.net
 DOMAIN,ppa.launchpad.net
 DOMAIN,product-downloads.atlassian.com

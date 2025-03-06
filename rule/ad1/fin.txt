@@ -1,4 +1,4 @@
-# Main total line 3514
+# Main total line 3516
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -771,6 +771,7 @@ DOMAIN-SUFFIX,ads.v3mh.com
 DOMAIN-SUFFIX,ads.wasu.tv
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,ads.zhinengxiyifang.cn
 DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.msn.com
 DOMAIN-SUFFIX,ads3-normal-hl.zijieapi.com
@@ -960,6 +961,7 @@ DOMAIN-SUFFIX,api.mp.uc.cn
 DOMAIN-SUFFIX,api.newad.ifeng.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api.touch-moblie.com
+DOMAIN-SUFFIX,api.yfanads.com
 DOMAIN-SUFFIX,api5-normal-quic-lf.ixigua.com
 DOMAIN-SUFFIX,apiyd.my91app.com
 DOMAIN-SUFFIX,apk.shouji.koowo.com
@@ -1205,7 +1207,6 @@ DOMAIN-SUFFIX,clicks.beap.bc.yahoo.com
 DOMAIN-SUFFIX,clicktracks.com
 DOMAIN-SUFFIX,clickzs.com
 DOMAIN-SUFFIX,client-api.ele.me
-DOMAIN-SUFFIX,client.app.coc.10086.cn
 DOMAIN-SUFFIX,client.video.ucweb.com
 DOMAIN-SUFFIX,clkservice.youdao.com
 DOMAIN-SUFFIX,clog.miguvideo.com
@@ -3401,6 +3402,7 @@ IP-CIDR,125.211.213.132/31,no-resolve
 IP-CIDR,125.211.213.134/32,no-resolve
 IP-CIDR,125.76.239.244/31,no-resolve
 IP-CIDR,169.254.169.254/32,no-resolve
+IP-CIDR,172.232.58.237/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
 IP-CIDR,180.153.103.224/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve

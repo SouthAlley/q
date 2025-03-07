@@ -1,4 +1,4 @@
-# Main total line 20081
+# Main total line 20083
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -10897,6 +10897,7 @@ DOMAIN-SUFFIX,lwwcn.xyz
 DOMAIN-SUFFIX,lxxlxx.com
 DOMAIN-SUFFIX,ly
 DOMAIN-SUFFIX,lyfhk.net
+DOMAIN-SUFFIX,lynxjs.org
 DOMAIN-SUFFIX,lysol.com
 DOMAIN-SUFFIX,lysol.net
 DOMAIN-SUFFIX,lyzsxx.com
@@ -16631,6 +16632,7 @@ DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,tail-f.com
 DOMAIN-SUFFIX,tailf.com
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,taipei
 DOMAIN-SUFFIX,taipeisociety.org

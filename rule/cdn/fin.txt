@@ -1,4 +1,4 @@
-# Main total line 3232
+# Main total line 3235
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -819,6 +819,7 @@ DOMAIN,curl.se
 DOMAIN,cw-image-resizer.cwg.tw
 DOMAIN,d4.alternativeto.net
 DOMAIN,dam.freshworks.com
+DOMAIN,dassets.shimano.com
 DOMAIN,data.jsdelivr.com
 DOMAIN,data.web.clickup.com
 DOMAIN,david-dm.org
@@ -2102,6 +2103,7 @@ DOMAIN,telemetry.business.githubcopilot.com
 DOMAIN,telemetry.individual.githubcopilot.com
 DOMAIN,telemetry.nextjs.org
 DOMAIN,telemetry.split.io
+DOMAIN,telemetry.stepsecurity.io
 DOMAIN,telemetry.vercel.com
 DOMAIN,telemetry2.devolutions.net
 DOMAIN,th.bing.com
@@ -2123,6 +2125,7 @@ DOMAIN,tn.vjav.com
 DOMAIN,todoist.b-cdn.net
 DOMAIN,ton.local.twitter.com
 DOMAIN,tools-static.wmflabs.org
+DOMAIN,tools.refokus.com
 DOMAIN,topbar-static.piano.io
 DOMAIN,torrindex.net
 DOMAIN,touchgal-image.moyu.moe

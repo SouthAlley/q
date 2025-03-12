@@ -1,4 +1,4 @@
-# Main total line 997
+# Main total line 998
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -902,6 +902,7 @@ DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yhd.com
+DOMAIN-SUFFIX,yicai.com
 DOMAIN-SUFFIX,yiche.com
 DOMAIN-SUFFIX,yihaodianimg.com
 DOMAIN-SUFFIX,yinxiang.com

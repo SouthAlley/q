@@ -1,4 +1,4 @@
-# Main total line 658
+# Main total line 660
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -8,6 +8,7 @@ DOMAIN,amupdatedl4.microsoft.com
 DOMAIN,amupdatedl5.microsoft.com
 DOMAIN,api-updates.orbstack.dev
 DOMAIN,app-updates.agilebits.com
+DOMAIN,apt.xpipe.io
 DOMAIN,artifacts.electronjs.org
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
@@ -209,6 +210,7 @@ DOMAIN,releases.whatpulse.org
 DOMAIN,repo.carbon.sh
 DOMAIN,repo.debiancn.org
 DOMAIN,repo.powerdns.com
+DOMAIN,rpm.xpipe.io
 DOMAIN,security.debian.org
 DOMAIN,security.ubuntu.com
 DOMAIN,share.riseup.net

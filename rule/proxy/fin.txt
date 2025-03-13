@@ -1,4 +1,4 @@
-# Main total line 6603
+# Main total line 6604
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -5053,6 +5053,7 @@ DOMAIN-SUFFIX,stoweboyd.com
 DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,stranabg.com
 DOMAIN-SUFFIX,straplessdildo.com
+DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,streamate.com
 DOMAIN-SUFFIX,streamingthe.net

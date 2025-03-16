@@ -1,4 +1,4 @@
-# Main total line 3518
+# Main total line 3517
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -392,7 +392,6 @@ DOMAIN,ws.ksmobile.net
 DOMAIN,wxsmsdy.video.qq.com
 DOMAIN,wxsnsdy.video.qq.com
 DOMAIN,yandexmetrica.com
-DOMAIN,youhui.95516.com
 DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
 DOMAIN,zgsdk.zhugeio.com

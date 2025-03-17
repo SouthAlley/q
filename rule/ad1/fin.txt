@@ -591,7 +591,6 @@ DOMAIN-SUFFIX,ad.v3mh.com
 DOMAIN-SUFFIX,ad.vidverto.io
 DOMAIN-SUFFIX,ad.winrar.com.cn
 DOMAIN-SUFFIX,ad.wretch.cc
-DOMAIN-SUFFIX,ad.xelements.cn
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,ad.ximalaya.com
 DOMAIN-SUFFIX,ad.youku.com
@@ -752,7 +751,6 @@ DOMAIN-SUFFIX,ads.genieessp.com
 DOMAIN-SUFFIX,ads.gmodules.com
 DOMAIN-SUFFIX,ads.google.cn
 DOMAIN-SUFFIX,ads.google.com
-DOMAIN-SUFFIX,ads.heytapmobi.com
 DOMAIN-SUFFIX,ads.house365.com
 DOMAIN-SUFFIX,ads.huan.tv
 DOMAIN-SUFFIX,ads.huantest.com
@@ -847,7 +845,6 @@ DOMAIN-SUFFIX,adv.fjtv.net
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
 DOMAIN-SUFFIX,adv.sec.miui.com
 DOMAIN-SUFFIX,advert.api.thejoyrun.com
-DOMAIN-SUFFIX,advertiseonbing.azureedge.net
 DOMAIN-SUFFIX,advertising-api-eu.amazon.com
 DOMAIN-SUFFIX,advertising-api-fe.amazon.com
 DOMAIN-SUFFIX,advertising-api.amazon.com
@@ -863,6 +860,7 @@ DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,adwo.com
 DOMAIN-SUFFIX,adx-drcn.op.dbankcloud.cn
 DOMAIN-SUFFIX,adx-open-service.youku.com
+DOMAIN-SUFFIX,adx.ads.heytapmobi.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,adxadserv.com
 DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
@@ -1023,8 +1021,8 @@ DOMAIN-SUFFIX,awaitcola.com
 DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,axonix.com
 DOMAIN-SUFFIX,azabu-u.ac.jp
-DOMAIN-SUFFIX,azr.footprintdns.com
 DOMAIN-SUFFIX,b.smartvideo.youku.com
+DOMAIN-SUFFIX,b1-data.ads.heytapmobi.com
 DOMAIN-SUFFIX,b2pk.com
 DOMAIN-SUFFIX,badad.googleplex.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
@@ -2697,6 +2695,7 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,steelhouse.com
 DOMAIN-SUFFIX,steelhousemedia.com
 DOMAIN-SUFFIX,steepto.com
+DOMAIN-SUFFIX,stg-data.ads.heytapmobi.com
 DOMAIN-SUFFIX,stg8.com
 DOMAIN-SUFFIX,stickyadstv.com
 DOMAIN-SUFFIX,store.tv.api.3g.youku.com
@@ -2890,6 +2889,7 @@ DOMAIN-SUFFIX,u.uc123.com
 DOMAIN-SUFFIX,u.ucfly.com
 DOMAIN-SUFFIX,u1.img.mobile.sina.cn
 DOMAIN-SUFFIX,u3.ucweb.com
+DOMAIN-SUFFIX,uapi.ads.heytapmobi.com
 DOMAIN-SUFFIX,uberads.com
 DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,uc.ucweb.com

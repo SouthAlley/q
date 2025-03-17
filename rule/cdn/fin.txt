@@ -1,4 +1,4 @@
-# Main total line 3267
+# Main total line 3270
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -261,6 +261,7 @@ DOMAIN,axiecdn.axieinfinity.com
 DOMAIN,az700632.vo.msecnd.net
 DOMAIN,b.peatio.com
 DOMAIN,b.sf-syn.com
+DOMAIN,b5x-sentry.1passwordservices.com
 DOMAIN,badbits.dwebops.pub
 DOMAIN,badge.buildkite.com
 DOMAIN,badge.fury.io
@@ -1812,6 +1813,7 @@ DOMAIN,sp.replit.com
 DOMAIN,spcdn.incartupsell.com
 DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,sprig.figma.com
+DOMAIN,ssl.gstatic.com
 DOMAIN,st-eu.dynamicyield.com
 DOMAIN,st.agrd.eu
 DOMAIN,st.deviantart.net
@@ -2288,6 +2290,7 @@ DOMAIN,ww2.justanswer.com
 DOMAIN,www-static.ripe.net
 DOMAIN,www.10086.win
 DOMAIN,www.bbthat.com
+DOMAIN,www.gstatic.com
 DOMAIN,www.pngmart.com
 DOMAIN,www.tbstat.com
 DOMAIN,www.typescriptlang.org

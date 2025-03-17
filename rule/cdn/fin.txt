@@ -1,4 +1,4 @@
-# Main total line 3265
+# Main total line 3267
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -627,6 +627,7 @@ DOMAIN,cdn.tuk.dev
 DOMAIN,cdn.unrealengine.com
 DOMAIN,cdn.unwire.hk
 DOMAIN,cdn.up-timely.com
+DOMAIN,cdn.uptimia.com
 DOMAIN,cdn.usd.fan
 DOMAIN,cdn.userreport.com
 DOMAIN,cdn.v2ex.com
@@ -2034,6 +2035,7 @@ DOMAIN,static.twitchcdn.net
 DOMAIN,static.typingclub.com
 DOMAIN,static.ui.com
 DOMAIN,static.underhentai.net
+DOMAIN,static.uptimia.com
 DOMAIN,static.v2ex.com
 DOMAIN,static.vinted.com
 DOMAIN,static.vocadb.net

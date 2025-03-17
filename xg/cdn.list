@@ -1,4 +1,4 @@
-# Main total line 3259
+# Main total line 3265
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -141,6 +141,7 @@ DOMAIN,assets.foxdcg.com
 DOMAIN,assets.frontegg.com
 DOMAIN,assets.garr.it
 DOMAIN,assets.gcore.pro
+DOMAIN,assets.geeksforgeeks.org
 DOMAIN,assets.genius.com
 DOMAIN,assets.getkirby.com
 DOMAIN,assets.github.dev
@@ -829,6 +830,7 @@ DOMAIN,d4.alternativeto.net
 DOMAIN,dam.freshworks.com
 DOMAIN,dassets.shimano.com
 DOMAIN,data.jsdelivr.com
+DOMAIN,data.pendo.io
 DOMAIN,data.web.clickup.com
 DOMAIN,david-dm.org
 DOMAIN,db.onlinewebfonts.com
@@ -1385,6 +1387,7 @@ DOMAIN,media.evolv.ai
 DOMAIN,media.fc2.com
 DOMAIN,media.flaticon.com
 DOMAIN,media.fs.com
+DOMAIN,media.geeksforgeeks.org
 DOMAIN,media.gettr.com
 DOMAIN,media.gettyimages.com
 DOMAIN,media.giphy.com
@@ -2295,6 +2298,7 @@ DOMAIN-SUFFIX,1passwordusercontent.eu
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,666565.xyz
 DOMAIN-SUFFIX,7mmtv.tv
 DOMAIN-SUFFIX,91pic.org
 DOMAIN-SUFFIX,98avcdn.xyz
@@ -3140,6 +3144,7 @@ DOMAIN-SUFFIX,tpdfiles.com
 DOMAIN-SUFFIX,trackerslist.com
 DOMAIN-SUFFIX,trafficdeposit.com
 DOMAIN-SUFFIX,transcend-cdn.com
+DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,trustless-gateway.link
 DOMAIN-SUFFIX,ttcache.com
 DOMAIN-SUFFIX,ttl.sh

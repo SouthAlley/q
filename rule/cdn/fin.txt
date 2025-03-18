@@ -1,4 +1,4 @@
-# Main total line 3277
+# Main total line 3280
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -313,6 +313,7 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
+DOMAIN,cassette.sphdigital.com.sg
 DOMAIN,cc.boyfriendtv.com
 DOMAIN,cdn-1.ggjav.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
@@ -599,6 +600,7 @@ DOMAIN,cdn.sketch.com
 DOMAIN,cdn.skymavis.com
 DOMAIN,cdn.smooch.io
 DOMAIN,cdn.softswiss.net
+DOMAIN,cdn.sphlabs.com
 DOMAIN,cdn.split.io
 DOMAIN,cdn.sprig.com
 DOMAIN,cdn.sso.mozilla.com
@@ -740,6 +742,7 @@ DOMAIN,cdnstatic.w1mp.com
 DOMAIN,cdnstatic.w4nkr.com
 DOMAIN,cdntranscend.eventbrite.com
 DOMAIN,cdnweb.devolutions.net
+DOMAIN,cdp.sph.com.sg
 DOMAIN,cds.connatix.com
 DOMAIN,certificates.godaddy.com
 DOMAIN,certona.gap.com

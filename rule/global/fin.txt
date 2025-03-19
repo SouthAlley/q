@@ -1,4 +1,4 @@
-# Main total line 20093
+# Main total line 20094
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -11529,6 +11529,7 @@ DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mindrolling.org
+DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,minecraftservices.com

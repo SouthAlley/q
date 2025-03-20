@@ -1,4 +1,4 @@
-# Main total line 667
+# Main total line 668
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -104,6 +104,7 @@ DOMAIN,download.mersenne.ca
 DOMAIN,download.mikrotik.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.mozilla.org
+DOMAIN,download.mxfast.com
 DOMAIN,download.nektony.com
 DOMAIN,download.nodecdn.net
 DOMAIN,download.opensuse.org

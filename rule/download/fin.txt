@@ -1,4 +1,4 @@
-# Main total line 668
+# Main total line 669
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -251,6 +251,7 @@ DOMAIN,updates.edovia.com
 DOMAIN,updates.istatmenus.app
 DOMAIN,versioncheck-bg.addons.mozilla.org
 DOMAIN,versioncheck.addons.mozilla.org
+DOMAIN,vfat.classicreload.com
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com

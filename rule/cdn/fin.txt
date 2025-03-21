@@ -1,4 +1,4 @@
-# Main total line 3286
+# Main total line 3287
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -645,6 +645,7 @@ DOMAIN,cdn.vuukle.com
 DOMAIN,cdn.wccftech.com
 DOMAIN,cdn.webclicks24.com
 DOMAIN,cdn.weglot.com
+DOMAIN,cdn.wikimg.net
 DOMAIN,cdn.wikiwand.com
 DOMAIN,cdn.wikiwiki.jp
 DOMAIN,cdn.windowsreport.com

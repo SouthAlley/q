@@ -1,4 +1,4 @@
-# Main total line 20094
+# Main total line 20095
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -12554,6 +12554,7 @@ DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
 DOMAIN-SUFFIX,newmonsterbeatsheadphones.com
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,newrepublic.com
 DOMAIN-SUFFIX,newsamerica.com
 DOMAIN-SUFFIX,newsancai.com
 DOMAIN-SUFFIX,newsblur.com

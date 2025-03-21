@@ -1,4 +1,4 @@
-# Main total line 3287
+# Main total line 3288
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1691,6 +1691,7 @@ DOMAIN,s.abcnews.com
 DOMAIN,s.gishan.cc
 DOMAIN,s.imgflip.com
 DOMAIN,s.imgur.com
+DOMAIN,s.midishow.net
 DOMAIN,s.namemc.com
 DOMAIN,s.plurk.com
 DOMAIN,s.rfi.fr

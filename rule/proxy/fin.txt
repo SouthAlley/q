@@ -1,4 +1,4 @@
-# Main total line 6619
+# Main total line 6622
 # ------------------------------------------
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -2648,6 +2648,7 @@ DOMAIN-SUFFIX,i2runner.com
 DOMAIN-SUFFIX,i818hk.com
 DOMAIN-SUFFIX,iam.soy
 DOMAIN-SUFFIX,iamtopone.com
+DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,iask.bz
 DOMAIN-SUFFIX,iav19.com
 DOMAIN-SUFFIX,iavian.net
@@ -2663,6 +2664,7 @@ DOMAIN-SUFFIX,ibros.org
 DOMAIN-SUFFIX,ibtimes.com
 DOMAIN-SUFFIX,ibvpn.com
 DOMAIN-SUFFIX,icams.com
+DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,icedrive.net
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
@@ -4313,6 +4315,7 @@ DOMAIN-SUFFIX,prestige-av.com
 DOMAIN-SUFFIX,prfct.co
 DOMAIN-SUFFIX,printfriendly.com
 DOMAIN-SUFFIX,prism-break.org
+DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,prisoneralert.com
 DOMAIN-SUFFIX,pritunl.com
 DOMAIN-SUFFIX,privacy-center.org

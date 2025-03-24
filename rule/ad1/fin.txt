@@ -132,7 +132,6 @@ DOMAIN,apppv.zol.com.cn
 DOMAIN,at3.doubanio.com
 DOMAIN,at4.doubanio.com
 DOMAIN,atrace.chelaile.net.cn
-DOMAIN,badjs.weixinbridge.com
 DOMAIN,banners.itunes.apple.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,browser.sentry-cdn.com
@@ -1024,6 +1023,7 @@ DOMAIN-SUFFIX,b.smartvideo.youku.com
 DOMAIN-SUFFIX,b1-data.ads.heytapmobi.com
 DOMAIN-SUFFIX,b2pk.com
 DOMAIN-SUFFIX,badad.googleplex.com
+DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,baichuan-sdk.taobao.com
 DOMAIN-SUFFIX,baichuan.baidu.com
@@ -1153,7 +1153,6 @@ DOMAIN-SUFFIX,cbjslog.baidu.cn
 DOMAIN-SUFFIX,cbjslog.baidu.com
 DOMAIN-SUFFIX,ccc-x.jd.com
 DOMAIN-SUFFIX,cdj99d.cn
-DOMAIN-SUFFIX,cdn-ad.wtzw.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN-SUFFIX,cdn.hpplay.com.cn
@@ -1653,6 +1652,7 @@ DOMAIN-SUFFIX,houtai.2345.cn
 DOMAIN-SUFFIX,houyi.kkmh.com
 DOMAIN-SUFFIX,hpd.baidu.cn
 DOMAIN-SUFFIX,hpd.baidu.com
+DOMAIN-SUFFIX,hpplay.cdn.cibn.cc
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,httpdns.bcelive.com
 DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com

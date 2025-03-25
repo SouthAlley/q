@@ -1,4 +1,4 @@
-# Main total line 1001
+# Main total line 1002
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -820,6 +820,7 @@ DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uxengine.net
 DOMAIN-SUFFIX,v-56.com
+DOMAIN-SUFFIX,variflight.com
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,veryzhun.com
 DOMAIN-SUFFIX,videocc.net

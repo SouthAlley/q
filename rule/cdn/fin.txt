@@ -1,4 +1,4 @@
-# Main total line 3306
+# Main total line 3309
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -282,6 +282,7 @@ DOMAIN,bot.ivy.ai
 DOMAIN,brick.a.ssl.fastly.net
 DOMAIN,brick.freetls.fastly.net
 DOMAIN,bst.icons8.com
+DOMAIN,bucket1.notaku.so
 DOMAIN,bundle.dyn-rev.app
 DOMAIN,bundle.trysavvy.com
 DOMAIN,bundlephobia.com
@@ -1020,6 +1021,7 @@ DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,gopkg.in
 DOMAIN,graph.facebook.com
 DOMAIN,gravatar.cat.net
+DOMAIN,gstatic.com
 DOMAIN,gt1.onlyhentaistuff.com
 DOMAIN,gtranslate.io
 DOMAIN,hawk.tomsguide.com
@@ -1077,7 +1079,7 @@ DOMAIN,icons.llamao.fi
 DOMAIN,icons.ly
 DOMAIN,icons.zeabur.com
 DOMAIN,iframe.nbcnews.com
-DOMAIN,ik.imagekit.net
+DOMAIN,ik.imgkit.net
 DOMAIN,imag.malavida.com
 DOMAIN,image-forwarder.notaku.so
 DOMAIN,image.ap-mail.org
@@ -2062,6 +2064,7 @@ DOMAIN,static.ui.com
 DOMAIN,static.underhentai.net
 DOMAIN,static.uptimia.com
 DOMAIN,static.v2ex.com
+DOMAIN,static.vanta.com
 DOMAIN,static.vinted.com
 DOMAIN,static.vocadb.net
 DOMAIN,static.webclicks24.com

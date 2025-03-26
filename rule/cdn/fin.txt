@@ -1,4 +1,4 @@
-# Main total line 3309
+# Main total line 3312
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -777,6 +777,7 @@ DOMAIN,clickup.marketlinc.com
 DOMAIN,clientsdk.launchdarkly.com
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,clips-media-assets2.twitch.tv
+DOMAIN,clips.kick.com
 DOMAIN,cloud.redhat.com
 DOMAIN,cloud.typenetwork.com
 DOMAIN,cloudflare.tv
@@ -964,6 +965,7 @@ DOMAIN,file.izanmei.net
 DOMAIN,files.armorgames.com
 DOMAIN,files.buildwithfern.com
 DOMAIN,files.jotform.com
+DOMAIN,files.kick.com
 DOMAIN,files.mastodon.ktachibana.party
 DOMAIN,files.mastodon.online
 DOMAIN,files.mastodon.social
@@ -1139,6 +1141,7 @@ DOMAIN,images.flightradar24.com
 DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
 DOMAIN,images.idgesg.net
+DOMAIN,images.kick.com
 DOMAIN,images.macrumors.com
 DOMAIN,images.mattel.net
 DOMAIN,images.microcms-assets.io

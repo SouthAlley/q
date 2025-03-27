@@ -1,4 +1,4 @@
-# Main total line 3511
+# Main total line 3505
 # ------------------------------------------
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -186,8 +186,6 @@ DOMAIN,gecko-hl.snssdk.com
 DOMAIN,gecko-pangle-hl.snssdk.com
 DOMAIN,gecko-pangle-lf.snssdk.com
 DOMAIN,gecko-pangle-lq.snssdk.com
-DOMAIN,gecko3-lq.zijieapi.com
-DOMAIN,gecko5-lq.zijieapi.com
 DOMAIN,get.sogou.com
 DOMAIN,ggc.cmvideo.cn
 DOMAIN,ggic03.miguvideo.com
@@ -300,7 +298,6 @@ DOMAIN,pagead2.googlesyndication-cn.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin16.sgsnssdk.com
 DOMAIN,pgdt.gtimg.com
-DOMAIN,pitaya.bytedance.com
 DOMAIN,pixel.facebook.com
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,polaris5-normal-lf.zijieapi.com
@@ -356,7 +353,6 @@ DOMAIN,tempest.services.disqus.com
 DOMAIN,timon.zijieapi.com
 DOMAIN,tmeadbak.y.qq.com
 DOMAIN,tmeadquic.y.qq.com
-DOMAIN,tnc11-alisc1.zijieapi.com
 DOMAIN,tnc16-alisg.isnssdk.com
 DOMAIN,tnc3-alisc1.snssdk.com
 DOMAIN,tnc3-bjlgy.snssdk.com
@@ -367,7 +363,6 @@ DOMAIN,toots-a.akamaihd.net
 DOMAIN,tpns.qq.com
 DOMAIN,tpstelemetry.tencent.com
 DOMAIN,tpush.html5.qq.com
-DOMAIN,tr.byteurl.cn
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
 DOMAIN,track.tiara.daum.net
@@ -382,7 +377,6 @@ DOMAIN,vali-g1.cp31.ott.cibntv.net
 DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,vcl-brain.snssdk.com
-DOMAIN,vcs.zijieapi.com
 DOMAIN,vdapprecv.app.cntvwb.cn
 DOMAIN,videoads-cloud.rovio.com
 DOMAIN,view.zijieapi.com

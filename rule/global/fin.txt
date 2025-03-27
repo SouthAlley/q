@@ -1,4 +1,4 @@
-# Main total line 20099
+# Main total line 20104
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -8321,6 +8321,7 @@ DOMAIN-SUFFIX,heyuedi.com
 DOMAIN-SUFFIX,heywire.com
 DOMAIN-SUFFIX,heyzo.com
 DOMAIN-SUFFIX,hf-iphone.com
+DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hg.cool
 DOMAIN-SUFFIX,hgamer.pro
 DOMAIN-SUFFIX,hgseav.com
@@ -9623,6 +9624,7 @@ DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itau
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,itcfonts.com
+DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,itemdb.com
 DOMAIN-SUFFIX,itemfix.com
 DOMAIN-SUFFIX,itfromtheinside.com
@@ -13276,6 +13278,7 @@ DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendemocracy.net
 DOMAIN-SUFFIX,opendn.xyz
+DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,opengraphprotocol.com
 DOMAIN-SUFFIX,opengraphprotocol.org
@@ -17758,6 +17761,7 @@ DOMAIN-SUFFIX,ultradonkey.com
 DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,ulyssesapp.com
+DOMAIN-SUFFIX,umbrella.com
 DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblock.cn.com
@@ -18700,6 +18704,7 @@ DOMAIN-SUFFIX,whyiwantciscotelepresence.com
 DOMAIN-SUFFIX,whylover.com
 DOMAIN-SUFFIX,whynotbi.com
 DOMAIN-SUFFIX,whyx.org
+DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,wien
 DOMAIN-SUFFIX,wife-home-videos.com

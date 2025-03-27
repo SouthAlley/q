@@ -40,7 +40,7 @@ jobs:
 
                process_rules() {
                    sed -i '/\[Rewrite\]/,$d' "$original_file"
-                   sed -i '/\/\/\|,REJECT/d' "$original_file"
+                   sed -i 's/\/\/\|,REJECT//g' "$original_file"
                    # 删除注释
                    sed -i 's/#.*//' "$original_file"
                    # 删除空行

@@ -6,6 +6,13 @@ DOMAIN-SUFFIX,afdback.ppsimg.com
 
 DOMAIN, api.liquidlink.cn, REJECT
 
+#抖音
+AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,111.225.147.191/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,111.63.61.101/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,220.243.141.0/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((OR,((DOMAIN-SUFFIX,bytegecko.com),(DOMAIN-SUFFIX,byteeffecttos.com))),(DOMAIN-KEYWORD,ncdn)),REJECT
+
 # QQ音乐
 DOMAIN,adstats.tencentmusic.com,REJECT
 DOMAIN,ad.tencentmusic.com,REJECT

@@ -249,11 +249,3 @@ DOMAIN-SUFFIX,bridgeoos.com,REJECT
 DOMAIN,ad-evods.tianya.tv,REJECT
 DOMAIN,adx.tuia.cn,REJECT
 DOMAIN-SUFFIX,66mobi.com,REJECT
-[Rewrite]
-^https:\/\/video-dsp\.pddpic\.com\/market-dsp-video\/ reject
-^https:\/\/t-dsp\.pinduoduo\.com\/dspcb\/i\/mrk_union reject
-^https:\/\/images\.pinduoduo\.com\/mrk\/ reject
-^https:\/\/images\.pinduoduo\.com\/marketing_api\/ reject
-[Script]
-[MitM]
-hostname=video-dsp.pddpic.com,t-dsp.pinduoduo.com,images.pinduoduo.com

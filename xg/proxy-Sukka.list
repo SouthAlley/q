@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-03-22T16:30:01.569Z
-# Size: 769
+# Last Updated: 2025-03-26T15:40:35.087Z
+# Size: 805
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -116,6 +116,7 @@ DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraftforum.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -606,6 +607,7 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,ixxx.com
@@ -667,6 +669,7 @@ DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,jav.pw
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,hanimeone.me
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,binance.me
@@ -678,6 +681,40 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,azurecontainer.io
+DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,greenhouse.io
+DOMAIN-SUFFIX,globalping.io
+DOMAIN-SUFFIX,shattered.io
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,coveralls.io
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,urlscan.io
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,codecov.io
+DOMAIN-SUFFIX,apernet.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,short.io
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,cuty.io
+DOMAIN-SUFFIX,cdpn.io
+DOMAIN-SUFFIX,shw.io
+DOMAIN-SUFFIX,npm.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,imo.im
 DOMAIN-SUFFIX,huggingface.co

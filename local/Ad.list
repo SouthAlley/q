@@ -184,8 +184,6 @@ host, p1-dpa.byteimg.com, reject
 host-keyword, analytics.bytescm.com, reject
 host-suffix, tosv.boe.byted.org, reject
 host-suffix, tosv.byted.org, reject
-# 算法推荐监控
-host, pitaya.bytedance.com, reject
 
 #Bytedance-抖音
 host-keyword, tt.x.bsgslb.cn, reject

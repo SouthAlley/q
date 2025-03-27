@@ -47,9 +47,9 @@ if not exist "%%i" wget %wgetFix% -O 2.txt "%%i"
 if exist "%%i" copy /y "%%i" .\2.txt && echo Local "%%i"
 
 :: Keep AND, OR, and NOT rules, store them separately
-findstr /i "AND" 2.txt >> and_or_not_rules.txt
-findstr /i "OR" 2.txt >> and_or_not_rules.txt
-findstr /i "NOT" 2.txt >> and_or_not_rules.txt
+findstr /r "^AND" 2.txt >> and_or_not_rules.txt
+findstr /r "^OR" 2.txt >> and_or_not_rules.txt
+findstr /r "^NOT" 2.txt >> and_or_not_rules.txt
 
 busybox sed -i -E "/^$/d" 2.txt
 busybox sed -i -E "/\#/d" 2.txt
@@ -67,8 +67,8 @@ busybox sed -i -E "s/ //g" 2.txt
 busybox sed -i -E "s/^-//g" 2.txt
 busybox sed -i -E "s/,no-resolve$//g" 2.txt
 busybox sed -i -E "/^.*REGEX.*$/d" 2.txt
-::busybox sed -i -E "/^.*AND.*$/d" 2.txt
-::busybox sed -i -E "/^.*NOT.*$/d" 2.txt
+busybox sed -i -E "/^.*AND.*$/d" 2.txt
+busybox sed -i -E "/^.*NOT.*$/d" 2.txt
 findstr .*,.*,.* 2.txt>nul && busybox sed -i -E "/^[^,]*,[^,]*$/ s/$/,kkk/" 2.txt && busybox sed -i -E "s/,[^,]+$//g" 2.txt && echo %%i AS WITHSUFFIX
 findstr /b /c:"||" 2.txt>nul && busybox sed -i -E "s/\|\|/DOMAIN-SUFFIX,/g" 2.txt && busybox sed -i -E "s/\^.*$//g" 2.txt && busybox sed -i -E "/\@/d" 2.txt && echo %%i AS ADBLOCK
 findstr /b /c:"." /c:"b" /c:"c" /c:"e" /c:"f" /c:"j" /c:"k" /c:"l" /c:"o" /c:"q" /c:"t" /c:"v" 2.txt>nul && busybox sed -i -E "s/^/DOMAIN,/g" 2.txt && busybox sed -i -E "s/^DOMAIN,\./DOMAIN-SUFFIX,/g" 2.txt && echo %%i AS DOMAINSET

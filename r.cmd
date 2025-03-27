@@ -153,13 +153,16 @@ python del-file.py
 
 ::count
 echo ###Counting
-for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
-echo # Main total line %bnrnum%>bnr.txt
+for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt') do set /a bnrnum=%%a
+for /f "tokens=2 delims=:" %%b in ('find /c /v "" and_or_not_rules.txt') do set /a andorcount=%%b
+set /a totalLines=%bnrnum% + %andorcount%
+echo # Main total line %totalLines% > bnr.txt
 type bnr.txt
 echo # ------------------------------------------>>bnr.txt
 type and_or_not_rules.txt >> bnr.txt
 type bn.txt >> bnr.txt
 copy /y bnr.txt ..\fin.txt
+
 
 ::clean
 if %bnrnum% gtr 20 echo ### -*- -*- -*- -*- -*- -*- %MAINFOLD% File completely processed -*- -*- -*- -*- -*- -*-

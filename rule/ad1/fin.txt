@@ -1,5 +1,362 @@
 # Main total line 3508
 # ------------------------------------------
+DOMAIN-SUFFIX,yandui.com
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,adsensor
+DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,adsystem
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,applovin
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,domob
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,omgmta
+DOMAIN-KEYWORD,omniture
+DOMAIN-KEYWORD,openx
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,pingfore
+DOMAIN-KEYWORD,socdm
+DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,wlmonitor
+DOMAIN-KEYWORD,zjtoolbar
+DOMAIN-SUFFIX,adadvisor.net
+DOMAIN-SUFFIX,adform.net
+DOMAIN-SUFFIX,adsmogo.org
+DOMAIN-SUFFIX,anquan.org
+DOMAIN-SUFFIX,cmcore.com
+DOMAIN-SUFFIX,coremetrics.com
+DOMAIN-SUFFIX,domob.org
+DOMAIN-SUFFIX,dotmore.com.tw
+DOMAIN-SUFFIX,gridsumdissector.cn
+DOMAIN-SUFFIX,gridsumdissector.com
+DOMAIN-SUFFIX,networkbench.com
+DOMAIN-SUFFIX,sponsorpay.com
+DOMAIN-SUFFIX,acuityplatform.com
+DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,channeladvisor.com
+DOMAIN-SUFFIX,imrworldwide.com
+DOMAIN-SUFFIX,iskyworker.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,brandshow.58.com
+DOMAIN-SUFFIX,xiuxiu.android.dl.meitu.com
+DOMAIN-SUFFIX,bss.pandora.xiaomi.com
+DOMAIN-SUFFIX,de.pandora.xiaomi.com
+DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+DOMAIN-SUFFIX,brand.sogou.com
+DOMAIN-SUFFIX,hub5btmain.sandai.net
+DOMAIN-SUFFIX,hub5emu.sandai.net
+DOMAIN-SUFFIX,grand.ele.me
+DOMAIN-SUFFIX,push.wandoujia.com
+DOMAIN-SUFFIX,adgeo.corp.163.com
+DOMAIN-SUFFIX,bobo.corp.163.com
+DOMAIN-SUFFIX,fa.corp.163.com
+DOMAIN-SUFFIX,g.corp.163.com
+DOMAIN-SUFFIX,g1.corp.163.com
+DOMAIN-SUFFIX,gb.corp.163.com
+DOMAIN-SUFFIX,gorgon.youdao.com
+DOMAIN-SUFFIX,nc004x.corp.youdao.com
+DOMAIN-SUFFIX,nc045x.corp.youdao.com
+DOMAIN-SUFFIX,nex.corp.163.com
+DOMAIN-SUFFIX,qt002x.corp.youdao.com
+DOMAIN-SUFFIX,tb060x.corp.youdao.com
+DOMAIN-SUFFIX,tb104x.corp.youdao.com
+DOMAIN-SUFFIX,rtmonitor.kugou.com
+DOMAIN-SUFFIX,umid.orion.meizu.com
+DOMAIN-SUFFIX,corp.meitu.com
+DOMAIN-SUFFIX,bss.pandora.xiaomi.com
+DOMAIN-SUFFIX,de.pandora.xiaomi.com
+DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+DOMAIN-SUFFIX,migcreport.g.mi.com
+DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+DOMAIN-KEYWORD,omgmtaw
+DOMAIN-SUFFIX,monitor.qq.com
+DOMAIN-SUFFIX,report.qq.com
+DOMAIN-SUFFIX,ios-informationplatform.wps.cn
+DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
+DOMAIN-SUFFIX,cm.passport.iqiyi.com
+DOMAIN-SUFFIX,game.letvstore.com
+DOMAIN-SUFFIX,passport-log.youku.com
+DOMAIN-SUFFIX,store.tv.api.3g.youku.com
+DOMAIN-SUFFIX,store.xl.api.3g.youku.com
+DOMAIN-SUFFIX,nichibenren.or.jp
+DOMAIN-SUFFIX,nicorette.co.kr
+DOMAIN-SUFFIX,app-monitor.ele.me
+DOMAIN-SUFFIX,collector.githubapp.com
+DOMAIN-SUFFIX,its-dori.tumblr.com
+DOMAIN-SUFFIX,notice.game.xiaomi.com
+DOMAIN-SUFFIX,notify.wps.cn
+AND, ((OR,((DOMAIN-SUFFIX, amemv.com), (DOMAIN-SUFFIX, zijieapi.com))), (DOMAIN-KEYWORD,-misc-)), REJECT
+#DOMAIN, hub5btmain.v6.shub.sandai.net, REJECT
+#DOMAIN, hub5emu.v6.shub.sandai.net, REJECT
+#DOMAIN, hub5idx.v6.shub.sandai.net, REJECT
+AND, ((OR, ((DOMAIN-KEYWORD, kc.), (DOMAIN-KEYWORD, kcc.), (DOMAIN-KEYWORD, kg.))), (DEST-PORT, 8008)), REJECT
+# Yandex
+DOMAIN, yandexmetrica.com, REJECT
+DOMAIN, gather.colorfulclouds.net, REJECT
+DOMAIN, apple.comscoreresearch.com, REJECT
+DOMAIN, iadworkbench.apple.com, REJECT
+DOMAIN-KEYWORD, safebrowsing., REJECT
+DOMAIN, collector.clue.run, REJECT
+AND, ((OR,((DOMAIN-SUFFIX, amemv.com), (DOMAIN-SUFFIX, zijieapi.com))), (DOMAIN-KEYWORD,-misc-)), REJECT
+DOMAIN-KEYWORD, -ad-sign.byteimg.com, REJECT
+DOMAIN-KEYWORD, ads.g.doubleclick, REJECT
+DOMAIN-KEYWORD, asiad.byteactivity, REJECT
+DOMAIN-KEYWORD, pangolin-sdk-toutiao, REJECT
+DOMAIN-KEYWORD, pangolin.snssdk.com, REJECT
+DOMAIN-KEYWORD, pglstatp-toutiao, REJECT
+DOMAIN-KEYWORD, video-cn.snssdk.com, REJECT
+DOMAIN-KEYWORD, adv.ccb.com, REJECT
+DOMAIN, floor.bz.mgtv.com, REJECT
+DOMAIN-KEYWORD, -adsystem.com, REJECT
+DOMAIN-KEYWORD, trace.qq.com, REJECT
+DOMAIN-KEYWORD, trace.video.qq.com, REJECT
+AND, ((OR, ((DOMAIN-KEYWORD, kc.), (DOMAIN-KEYWORD, kcc.), (DOMAIN-KEYWORD, kg.))), (DEST-PORT, 8008)), REJECT
+DOMAIN-SUFFIX,yandexadexchange.net
+DOMAIN,adserver.pandora.com
+DOMAIN,adv.bandi.so
+DOMAIN,etl.xlmc.sandai.net
+DOMAIN-KEYWORD,adservice
+DOMAIN-SUFFIX,addealsnetwork.com
+DOMAIN-SUFFIX,adecorp.co.kr
+DOMAIN-SUFFIX,adfactor.nl
+DOMAIN-SUFFIX,adform.net
+DOMAIN-SUFFIX,adnetwork.vn
+DOMAIN-SUFFIX,ad-score.com
+DOMAIN-SUFFIX,adsensor.org
+DOMAIN-SUFFIX,adserve.work
+DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,adthor.com
+DOMAIN-SUFFIX,adtrace.org
+DOMAIN-SUFFIX,app-adforce.jp
+DOMAIN-SUFFIX,comscore.com
+DOMAIN-SUFFIX,digitalpimpnetwork.com
+DOMAIN-SUFFIX,go2cloud.org
+DOMAIN-SUFFIX,iskyworker.com
+DOMAIN-SUFFIX,networkad.net
+DOMAIN-SUFFIX,outbrain.org
+DOMAIN-SUFFIX,performancehorizon.com
+DOMAIN-SUFFIX,prebid.org
+DOMAIN-SUFFIX,proxistore.com
+DOMAIN-SUFFIX,reklamstore.com
+DOMAIN-SUFFIX,sponsorpay.com
+DOMAIN-SUFFIX,sunnyworks.co.kr
+DOMAIN-SUFFIX,taptapnetworks.com
+DOMAIN-SUFFIX,theoremreach.com
+DOMAIN-SUFFIX,tnkfactory.com
+DOMAIN-SUFFIX,tremorhub.com
+DOMAIN-SUFFIX,tremormedia.com
+DOMAIN-SUFFIX,tremorvideo.com
+DOMAIN-SUFFIX,wordstream.com
+DOMAIN-SUFFIX,yoc-performance.com
+DOMAIN-SUFFIX,zwaar.org
+DOMAIN,ads.storm8.com
+DOMAIN,adserver.pandora.com
+DOMAIN,advertise.baicizhan.org
+DOMAIN,adstore-index-1252524079.file.myqcloud.com
+DOMAIN,gorgon.youdao.com
+# > Skyworth
+DOMAIN-KEYWORD,hoisin.coocaa.com
+DOMAIN-KEYWORD,hoisin.coocaatv.com
+DOMAIN,admonitor.thepaper.cn
+DOMAIN-KEYWORD,stsdk.vivo.com.cn
+DOMAIN-KEYWORD,stsdk.vivoglobal.com
+DOMAIN,adbehavior.wsa.ximalaya.com
+DOMAIN,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,coreldrawchina.com
+DOMAIN-SUFFIX,formysql.com
+DOMAIN-SUFFIX,iconworkshop.cn
+DOMAIN-SUFFIX,ntfsformac.cc
+DOMAIN-SUFFIX,ntfsformac.cn
+DOMAIN-SUFFIX,passwordrecovery.cn
+DOMAIN-SUFFIX,tagcommander.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn // 甚至想 DOMAIN-KEYWORD,drcn.cloud.dbankcloud.cn
+# This file contains known addresses that are hijacking NXDOMAIN results returned by DNS servers, and botnet controller IPs.
+## Peter Lowe’s Ad and tracking server list: 3465 Domains/IP/Others From https://pgl.yoyo.org/adservers/serverlist.php
+DOMAIN-SUFFIX,tj.orlandowaggons.com
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,yandex.ru
+## Peter Lowe’s Ad and tracking server list: 3465 Domains/IP/Others From https://pgl.yoyo.org/adservers/serverlist.php
+##### www.hltv.org
+DOMAIN-SUFFIX,tj.orlandowaggons.com
+DOMAIN-SUFFIX,a.adforcast.com
+##### ww7.pornhoarder.tv
+#DOMAIN,delivery-node-aziz.voe-network.net
+DOMAIN-SUFFIX,son-in-lawmorbid.com
+DOMAIN-SUFFIX,trafforsrv.com
+DOMAIN-SUFFIX,trafficforce.com
+DOMAIN-SUFFIX,cashewsforlife208.com
+DOMAIN-SUFFIX,cashewsforlife208.com
+DOMAIN-KEYWORD,exosrv
+DOMAIN-KEYWORD,asewlfjqwlflkew
+DOMAIN-SUFFIX,adserve.work
+DOMAIN-KEYWORD,brushshopy
+DOMAIN-KEYWORD,onenews
+DOMAIN-KEYWORD,e2wysbacctt1
+DOMAIN-SUFFIX,ad.pornimg.xyz
+#DOMAIN-KEYWORD,wixsite.com
+DOMAIN-SUFFIX,unreshiramor.com
+##### www.porntrex.com/  
+DOMAIN-KEYWORD,dlads
+DOMAIN-KEYWORD,xxshuyuan
+DOMAIN-KEYWORD,haowanyou
+DOMAIN-KEYWORD,dat8
+DOMAIN-KEYWORD,112wan
+DOMAIN-KEYWORD,dfkj8
+DOMAIN-KEYWORD,mifengv
+DOMAIN-KEYWORD,lieyou
+DOMAIN-KEYWORD,789htbet
+DOMAIN-KEYWORD,mdapp09
+DOMAIN-KEYWORD,juruigj
+#DOMAIN-KEYWORD,mmiyue
+##### pornhub.com  
+DOMAIN-SUFFIX,jspassport.ssl.qhimg.com
+DOMAIN-KEYWORD,toateeli
+DOMAIN-KEYWORD,greenplasticdua
+DOMAIN-KEYWORD,bongacash
+DOMAIN-KEYWORD,bngpt
+DOMAIN-KEYWORD,stunninglover
+DOMAIN-KEYWORD,jads
+DOMAIN-KEYWORD,trwl1
+#DOMAIN-KEYWORD,vidoza
+DOMAIN-KEYWORD,o333o
+DOMAIN-SUFFIX,ad.pornimg.xyz
+DOMAIN-KEYWORD,histats
+DOMAIN-KEYWORD,dtscout
+DOMAIN-KEYWORD,adform
+DOMAIN-KEYWORD,mathtag
+DOMAIN-KEYWORD,pagespeed-mod
+DOMAIN-KEYWORD,in-page-push
+#### cn1.91short.com
+#### 91porn.com
+AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,111.225.147.191/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,111.63.61.101/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,220.243.141.0/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((OR,((DOMAIN-SUFFIX,bytegecko.com),(DOMAIN-SUFFIX,byteeffecttos.com))),(DOMAIN-KEYWORD,ncdn)),REJECT
+host, android.bugly.qq.com, reject
+host-suffix, ads-api-sandbox.twitter.com, reject
+host-keyword, adbrand.byteimg.com, reject
+DOMAIN-KEYWORD,ruleset.skk.moe
+AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,111.225.147.191/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,111.63.61.101/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((IP-CIDR,220.243.141.0/32,no-resolve),(DEST-PORT,6443)),REJECT
+AND,((OR,((DOMAIN-SUFFIX,bytegecko.com),(DOMAIN-SUFFIX,byteeffecttos.com))),(DOMAIN-KEYWORD,ncdn)),REJECT
+DOMAIN,monitor.music.qq.com,REJECT
+host, adbehavior.ximalaya.com, reject
+host, sensors.dewu.com, reject
+host, advertise.baicizhan.org, reject
+host, erebor.douban.com, reject
+host, doraemon.xiaojukeji.com, reject
+host-keyword, safebrowsing., reject
+host-keyword, adbrand.byteimg.com, reject
+host-keyword, ad-sign.byteimg.com, reject
+host-keyword, asiad.byteactivity, reject
+host-keyword, pangolin-sdk-toutiao, reject
+host-keyword, pangolin.snssdk.com, reject
+host-keyword, pglstatp-toutiao, reject
+host-keyword, video-cn.snssdk.com, reject
+host-keyword, analytics.bytescm.com, reject
+host-suffix, tosv.boe.byted.org, reject
+host-suffix, tosv.byted.org, reject
+host-keyword, tt.x.bsgslb.cn, reject
+host, log3-normal-lq.toutiaoapi.com, reject
+host, log3-normal.toutiaoapi.com, reject
+host-keyword, applog-hl.fqnovel.com, reject
+host-keyword, applog-lq.fqnovel.com, reject
+host-keyword, novelapp.fqnovelvod.com, reject
+host-keyword, applog-hl.novelfm.com, reject
+host-keyword, applog-lf.ixigua.com, reject
+host-keyword, applog-lq.ixigua.com, reject
+host, ads3-normal.zijieapi.com, reject
+host, ads5-normal.zijieapi.com, reject
+host, minigame3-normal.zijieapi.com, reject
+host, minigame5-normal.zijieapi.com, reject
+host, polaris5-normal-lf.zijieapi.com, reject
+DOMAIN,reporting.cdndex.io
+host-suffix, report.meituan.com, reject
+DOMAIN-KEYWORD, -ad-sign.byteimg.com, REJECT
+DOMAIN-KEYWORD, asiad.byteactivity, REJECT
+DOMAIN-KEYWORD, pangolin.snssdk.com, REJECT
+DOMAIN-KEYWORD, pangolin-sdk-toutiao, REJECT
+DOMAIN-KEYWORD, pglstatp-toutiao, REJECT
+DOMAIN-KEYWORD, video-cn.snssdk.com, REJECT
+DOMAIN, monitor.ssp.admobile.top, REJECT
+DOMAIN,tosv.byted.org
+||adfstat.yandex.ru^
+||advertising.yandex.ru^
+||android.bugly.qq.com^
+||andrqd.play.aiseet.atianqi.com^
+||metrika.yandex.ru^
+||offerwall.yandex.net^
+||ads3-normal-hl.zijieapi.com^
+||ads3-normal-lf.zijieapi.com^
+||ads3-normal-lq.zijieapi.com^
+||ads3-normal.zijieapi.com^
+||ads5-normal-hl.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||ads5-normal-lq.zijieapi.com^
+||ads5-normal.zijieapi.com^
+||adstore-1252524079.file.myqcloud.com^
+||adstore-index-1252524079.file.myqcloud.com^
+||api5-normal-quic-lf.ixigua.com^
+||cdn.ynuf.aliapp.org^
+||crashlyticsreports-pa.googleapis.com^
+||csjplatform.com^
+||g2.ganjing.world^
+||gorgon.youdao.com^
+||gromore.pangolin-sdk-toutiao.com^
+||iadworkbench.apple.com^
+||livemonitor.huan.tv^
+||log-report.com^
+||log.appstore3.huan.tv^
+||log1.cmpassport.com^
+||monitor-ads-test.huan.tv^
+||monitor-uu.play.aiseet.atianqi.com^
+||monitor.music.qq.com^
+||monitor.uu.qq.com^
+||oauth-login-drcn.platform.dbankcloud.com^
+||orbit.jd.com^
+||report.tv.kohesport.qq.com^
+||rms-drcn.platform.dbankcloud.cn^
+||sensors-log.dongqiudi.com^
+||terms-drcn.platform.dbankcloud.cn^
+/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
+/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
+||notes-analytics-events.apple.com^
+# Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services
+# --- Yandex
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 mediavisor.doubleclick.net
+# --- FreshWorks
+# --- Luckyorange
+0.0.0.0 luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+#======= Error Trackers =======
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 notes-analytics-events.apple.com
 AND,((OR,((DOMAIN-KEYWORD,kc.),(DOMAIN-KEYWORD,kcc.),(DOMAIN-KEYWORD,kg.))),(DEST-PORT,8008))
 AND,((OR,((DOMAIN-SUFFIX,amemv.com),(DOMAIN-SUFFIX,zijieapi.com))),(DOMAIN-KEYWORD,-misc-))
 AND,((OR,((DOMAIN-SUFFIX,bytegecko.com),(DOMAIN-SUFFIX,byteeffecttos.com))),(DOMAIN-KEYWORD,ncdn))

@@ -40,6 +40,8 @@ jobs:
 
                process_rules() {
                    sed -i '/^[Rewrite]/q' "$original_file"
+                   # 删除注释
+                   sed -i 's/#.*//' "$original_file"
                }
                    
                if [ -f "$original_file" ]; then

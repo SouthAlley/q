@@ -1,5 +1,8 @@
-# Main total line 3505
+# Main total line 3508
 # ------------------------------------------
+AND,((OR,((DOMAIN-KEYWORD,kc.),(DOMAIN-KEYWORD,kcc.),(DOMAIN-KEYWORD,kg.))),(DEST-PORT,8008))
+AND,((OR,((DOMAIN-SUFFIX,amemv.com),(DOMAIN-SUFFIX,zijieapi.com))),(DOMAIN-KEYWORD,-misc-))
+AND,((OR,((DOMAIN-SUFFIX,bytegecko.com),(DOMAIN-SUFFIX,byteeffecttos.com))),(DOMAIN-KEYWORD,ncdn))
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
 DOMAIN,abema-adx.ameba.jp

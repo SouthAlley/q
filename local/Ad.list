@@ -187,7 +187,6 @@ host-suffix, tosv.byted.org, reject
 
 #Bytedance-抖音
 host-keyword, tt.x.bsgslb.cn, reject
-host, tr.byteurl.cn, reject
 
 #Bytedance-TikTok
 host, analytics.tiktok.com, reject
@@ -274,12 +273,6 @@ host, ads5-normal.zijieapi.com, reject
 host, minigame3-normal.zijieapi.com, reject
 host, minigame5-normal.zijieapi.com, reject
 host, polaris5-normal-lf.zijieapi.com, reject
-# 影响番茄小说广告奖励
-host, vcs.zijieapi.com, reject
-# 番茄
-host, gecko3-lq.zijieapi.com, reject
-host, gecko5-lq.zijieapi.com, reject
-host, tnc11-alisc1.zijieapi.com, reject
 
 # twitch
 DOMAIN,reporting.cdndex.io

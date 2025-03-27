@@ -45,6 +45,12 @@ echo ###Start processing ordinary rules
 for /f "eol=# tokens=1,2 delims= " %%i in (rule-list.ini) do (
 if not exist "%%i" wget %wgetFix% -O 2.txt "%%i"
 if exist "%%i" copy /y "%%i" .\2.txt && echo Local "%%i"
+
+:: Keep AND, OR, and NOT rules, store them separately
+findstr /i "AND" 2.txt >> and_or_not_rules.txt
+findstr /i "OR" 2.txt >> and_or_not_rules.txt
+findstr /i "NOT" 2.txt >> and_or_not_rules.txt
+
 busybox sed -i -E "/^$/d" 2.txt
 busybox sed -i -E "/\#/d" 2.txt
 busybox sed -i -E "/</d" 2.txt
@@ -151,7 +157,8 @@ for /f "tokens=2 delims=:" %%a in ('find /c /v "" bn.txt')do set/a bnrnum=%%a
 echo # Main total line %bnrnum%>bnr.txt
 type bnr.txt
 echo # ------------------------------------------>>bnr.txt
-type bn.txt>>bnr.txt
+type and_or_not_rules.txt >> bnr.txt
+type bn.txt >> bnr.txt
 copy /y bnr.txt ..\fin.txt
 
 ::clean

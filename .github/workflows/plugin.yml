@@ -1,0 +1,80 @@
+name: plugin
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */2 * *"
+
+jobs:
+  Fork-Filter-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4.1.0
+        with:
+          repository: SouthAlley/q
+          path: q-repo
+          
+      - name: 下载文件
+        run: |
+           USER_AGENT="Surge iOS/3374"
+
+           declare -A file_path_url=(
+               ["keli.list"]="xg/keli.list https://kelee.one/Tool/Loon/Plugin/BlockAdvertisers.plugin"
+           )
+
+           download_file() {
+               curl -L -o "$1" -A "$USER_AGENT" "$2"
+           }
+
+           for file in "${!file_path_url[@]}"; do
+               IFS=' ' read -r path url <<< "${file_path_url[$file]}"
+               mkdir -p "q-repo/${path%/*}"
+               download_file "q-repo/$path" "$url"
+
+               IFS='/' read -r _ rule_type _ <<< "${path%.list}"
+               original_file="q-repo/$path"
+               del_file="q-repo/xg/del/${rule_type}.ini"
+               add_file="q-repo/xg/add/${rule_type}.ini"
+
+               process_rules() {
+                   sed -i '/^[Rewrite]/q' "$original_file"
+               }
+                   
+               if [ -f "$original_file" ]; then
+                   process_rules
+                   if [[ "$file" == china-GeQ1an.list ]]; then
+                       sed -i '1,/# > Mainland/d' "$original_file"
+                   fi
+               else
+                   echo "$original_file not found."
+               fi
+
+               if [ -f "$del_file" ]; then
+                    grep -vFf "$del_file" "$original_file" > "$original_file.tmp" && mv "$original_file.tmp" "$original_file"
+                    echo "删除${rule_type}操作完成。"
+               else
+                    echo "$del_file 不存在。跳过删除${rule_type}操作。"
+               fi
+               
+               if [ -f "$add_file" ]; then
+                   cat "$add_file" >> "$original_file"
+                   echo "添加${rule_type}操作完成。"
+               else
+                   echo "$add_file 不存在。跳过添加${rule_type}操作。"
+               fi
+           done
+
+      - name: Add and 提交更改
+        run: |
+          cd q-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add .
+            git commit -m "xg"
+            git push
+          else
+            echo "No changes to commit."
+          fi

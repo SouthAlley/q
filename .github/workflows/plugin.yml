@@ -39,7 +39,7 @@ jobs:
                add_file="q-repo/xg/add/${rule_type}.ini"
 
                process_rules() {
-                   sed -i '/^[Rewrite]/q' "$original_file"
+                   sed -i '/\[Rewrite\]/,$d' "$original_file"
                    # 删除注释
                    sed -i 's/#.*//' "$original_file"
                    # 删除空行

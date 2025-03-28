@@ -1,4 +1,4 @@
-# Main total line 20107 
+# Main total line 20118 
 # ------------------------------------------
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api.acaisbest.shop
@@ -583,6 +583,7 @@ DOMAIN-SUFFIX,aabb1802.com
 DOMAIN-SUFFIX,aabb1803.com
 DOMAIN-SUFFIX,aacrjournals.org
 DOMAIN-SUFFIX,aadmv.com
+DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,aalah.me
 DOMAIN-SUFFIX,aamacau.com
 DOMAIN-SUFFIX,aanaan.com
@@ -822,6 +823,7 @@ DOMAIN-SUFFIX,agedm.tv
 DOMAIN-SUFFIX,agefans.com
 DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,agendaweek.com
+DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,agu.org
 DOMAIN-SUFFIX,agzy1.com
 DOMAIN-SUFFIX,ah-me.com
@@ -5941,6 +5943,8 @@ DOMAIN-SUFFIX,entermediadb.net
 DOMAIN-SUFFIX,entermediadb.org
 DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,enterprisessl.com
+DOMAIN-SUFFIX,entrust.cn
+DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
 DOMAIN-SUFFIX,epicbrowser.com
@@ -9681,6 +9685,7 @@ DOMAIN-SUFFIX,iwork.wang
 DOMAIN-SUFFIX,iwyn138.com
 DOMAIN-SUFFIX,ixnxx.tv
 DOMAIN-SUFFIX,ixquick.com
+DOMAIN-SUFFIX,ixsystems.com
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,iyalc.com
 DOMAIN-SUFFIX,iyf.tv
@@ -11424,6 +11429,7 @@ DOMAIN-SUFFIX,microsoftadvertising.com
 DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
 DOMAIN-SUFFIX,microsoftaffiliates.com
 DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN-SUFFIX,microsoftazuread-sso.com
 DOMAIN-SUFFIX,microsoftazuresponsorships.com
 DOMAIN-SUFFIX,microsoftcloud.com
 DOMAIN-SUFFIX,microsoftcloudsummit.com
@@ -13455,6 +13461,7 @@ DOMAIN-SUFFIX,ozchinese.com
 DOMAIN-SUFFIX,ozeex.com
 DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,ozodlik.org
+DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,ozvoice.org
 DOMAIN-SUFFIX,ozxw.com
 DOMAIN-SUFFIX,ozyoyo.com
@@ -13827,6 +13834,8 @@ DOMAIN-SUFFIX,playbar.biz
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
 DOMAIN-SUFFIX,playbydurex.com
+DOMAIN-SUFFIX,playfab.com
+DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,playforceone.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playmation.com
@@ -17398,6 +17407,7 @@ DOMAIN-SUFFIX,truebim.com
 DOMAIN-SUFFIX,truebuddha-md.org
 DOMAIN-SUFFIX,truedepth3d.com
 DOMAIN-SUFFIX,truedwg.com
+DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,trunest.com
 DOMAIN-SUFFIX,trust-provider.com
@@ -18180,6 +18190,7 @@ DOMAIN-SUFFIX,visa.com.co
 DOMAIN-SUFFIX,visabank.org
 DOMAIN-SUFFIX,visabg.com
 DOMAIN-SUFFIX,visabusinessinsights.com
+DOMAIN-SUFFIX,visaca.com
 DOMAIN-SUFFIX,visacarddesignlab.com
 DOMAIN-SUFFIX,visacards.com
 DOMAIN-SUFFIX,visacheckout.net

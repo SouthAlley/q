@@ -1,4 +1,4 @@
-# Main total line 3314
+# Main total line 3318 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -491,6 +491,7 @@ DOMAIN,cdn.infoq.com
 DOMAIN,cdn.ionos.de
 DOMAIN,cdn.ip2location.io
 DOMAIN,cdn.ipregistry.co
+DOMAIN,cdn.javmg.com
 DOMAIN,cdn.javsts.com
 DOMAIN,cdn.jetboost.io
 DOMAIN,cdn.jetphotos.com
@@ -1009,6 +1010,7 @@ DOMAIN,g1.nyt.com
 DOMAIN,gearbox.imgix.com
 DOMAIN,genesis-cdn.ff.com
 DOMAIN,geoip-js.com
+DOMAIN,geojson.io
 DOMAIN,gfx-data.news-engineering.aws.wapo.pub
 DOMAIN,gitpkg-fork.vercel.sh
 DOMAIN,global.divhunt.com
@@ -1018,6 +1020,7 @@ DOMAIN,gn-web-assets.api.bbc.com
 DOMAIN,go.imperva.com
 DOMAIN,go.vercel.com
 DOMAIN,godoc.org
+DOMAIN,gohugo.io
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,gopkg.in
 DOMAIN,graph.facebook.com
@@ -2754,6 +2757,7 @@ DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,instant.page
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomcdn.io
 DOMAIN-SUFFIX,intuitcdn.net
 DOMAIN-SUFFIX,invisionapp-cdn.com
 DOMAIN-SUFFIX,ipfs-gateway.cloud

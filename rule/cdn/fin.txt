@@ -1,4 +1,4 @@
-# Main total line 3331 
+# Main total line 3332 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1604,6 +1604,7 @@ DOMAIN,pkgs.dev.azure.com
 DOMAIN,pl.ea.com
 DOMAIN,platform-assets.typekit.net
 DOMAIN,platform.instagram.com
+DOMAIN,platform.theverge.com
 DOMAIN,platform.twitter.com
 DOMAIN,platforms.makemytrip.com
 DOMAIN,play.gotolstoy.com

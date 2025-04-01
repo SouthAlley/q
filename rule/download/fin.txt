@@ -1,4 +1,4 @@
-# Main total line 1153 
+# Main total line 1154 
 # ------------------------------------------
 DOMAIN,1-mirrors.in.sahilister.net
 DOMAIN,2-mirrors.in.sahilister.net
@@ -225,6 +225,7 @@ DOMAIN,download.opensuse.org
 DOMAIN,download.parallels.com
 DOMAIN,download.pixelexperience.org
 DOMAIN,download.projectbluefin.io
+DOMAIN,download.proxyman.com
 DOMAIN,download.sketch.com
 DOMAIN,download.snipaste.com
 DOMAIN,download.tensorflow.google.com

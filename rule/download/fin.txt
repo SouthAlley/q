@@ -1,4 +1,4 @@
-# Main total line 1155 
+# Main total line 1156 
 # ------------------------------------------
 DOMAIN,1-mirrors.in.sahilister.net
 DOMAIN,2-mirrors.in.sahilister.net
@@ -668,6 +668,7 @@ DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,steampipe.akamaized.net
 DOMAIN,store.setapp.com
 DOMAIN,store1.gofile.io
+DOMAIN,su.virtualbuddy.app
 DOMAIN,sunsite.icm.edu.pl
 DOMAIN,sunsite.informatik.rwth-aachen.de
 DOMAIN,textures.minecraft.net

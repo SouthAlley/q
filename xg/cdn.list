@@ -1,4 +1,4 @@
-# Main total line 3326 
+# Main total line 3337 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -186,6 +186,7 @@ DOMAIN,assets.openshift.net
 DOMAIN,assets.orz.uno
 DOMAIN,assets.peatio.com
 DOMAIN,assets.pixlee.com
+DOMAIN,assets.play.xbox.com
 DOMAIN,assets.plurk.com
 DOMAIN,assets.poool.fr
 DOMAIN,assets.positional-bucket.com
@@ -210,6 +211,7 @@ DOMAIN,assets.stickpng.com
 DOMAIN,assets.swoogo.com
 DOMAIN,assets.the-independent.com
 DOMAIN,assets.time.com
+DOMAIN,assets.toiimg.com
 DOMAIN,assets.tokopedia.net
 DOMAIN,assets.toot.cafe
 DOMAIN,assets.twitch.tv
@@ -463,6 +465,7 @@ DOMAIN,cdn.freebiesupply.com
 DOMAIN,cdn.freecodecamp.org
 DOMAIN,cdn.freshdesk.com
 DOMAIN,cdn.gamemonkey.org
+DOMAIN,cdn.gatherings.franchise.minecraft-services.net
 DOMAIN,cdn.gdl.gg
 DOMAIN,cdn.geekzone.co.nz
 DOMAIN,cdn.getkoala.com
@@ -552,11 +555,13 @@ DOMAIN,cdn.paddle.com
 DOMAIN,cdn.pagefly.io
 DOMAIN,cdn.pagic.org
 DOMAIN,cdn.paidy.com
+DOMAIN,cdn.paritydeals.com
 DOMAIN,cdn.parsely.com
 DOMAIN,cdn.pathfactory.com
 DOMAIN,cdn.pendo.io
 DOMAIN,cdn.perfops.net
 DOMAIN,cdn.permutive.com
+DOMAIN,cdn.pgvt.io
 DOMAIN,cdn.piano.io
 DOMAIN,cdn.pickystory.com
 DOMAIN,cdn.picrew.me
@@ -875,6 +880,7 @@ DOMAIN,divhunt.b-cdn.net
 DOMAIN,dl.airdroid.com
 DOMAIN,dl.nwjs.io
 DOMAIN,dl2.nwjs.io
+DOMAIN,dlassets-ssl.xboxlive.com
 DOMAIN,do.featurebase.app
 DOMAIN,docker.cloudsmith.io
 DOMAIN,docs.rs
@@ -894,6 +900,7 @@ DOMAIN,ec-prod.scene7.com
 DOMAIN,ecommplugins-scripts.trustpilot.com
 DOMAIN,ecommplugins-trustboxsettings.trustpilot.com
 DOMAIN,edata.ndtv.com
+DOMAIN,edge-cloud-resource-static.azureedge.net
 DOMAIN,edge-consumer-static.azureedge.net
 DOMAIN,edge-mobile-static.azureedge.net
 DOMAIN,edge.marker.io
@@ -1346,6 +1353,7 @@ DOMAIN,jsdelivr.ioiox.net
 DOMAIN,jslibs.blackmagicdesign.com
 DOMAIN,jsonplaceholder.typicode.com
 DOMAIN,jssdk.opin.media
+DOMAIN,jssocdn.indiatimes.com
 DOMAIN,k-cdn.depot.dev
 DOMAIN,kdata1.com
 DOMAIN,keyframe-cdn.abcnews.com
@@ -1483,6 +1491,7 @@ DOMAIN,meta.prismlauncher.org
 DOMAIN,metrics.kapa.ai
 DOMAIN,micro.rubiconproject.com
 DOMAIN,minotar.net
+DOMAIN,mintlify.b-cdn.net
 DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN,miro.medium.com
 DOMAIN,mixin-images.zeromesh.net
@@ -1599,6 +1608,7 @@ DOMAIN,pkgs.dev.azure.com
 DOMAIN,pl.ea.com
 DOMAIN,platform-assets.typekit.net
 DOMAIN,platform.instagram.com
+DOMAIN,platform.theverge.com
 DOMAIN,platform.twitter.com
 DOMAIN,platforms.makemytrip.com
 DOMAIN,play.gotolstoy.com
@@ -1923,6 +1933,7 @@ DOMAIN,static.axios.com
 DOMAIN,static.bangumi.moe
 DOMAIN,static.bbc.co.uk
 DOMAIN,static.bbci.co.uk
+DOMAIN,static.beebom.com
 DOMAIN,static.bit.cloud
 DOMAIN,static.bit.dev
 DOMAIN,static.bitfinex.com
@@ -2064,6 +2075,7 @@ DOMAIN,static.telegraph.co.uk
 DOMAIN,static.tenki.jp
 DOMAIN,static.test-beta.com
 DOMAIN,static.theguardian.com
+DOMAIN,static.toiimg.com
 DOMAIN,static.tokenview.io
 DOMAIN,static.toss.im
 DOMAIN,static.tp-link.com
@@ -2237,9 +2249,6 @@ DOMAIN,user-images.trustpilot.com
 DOMAIN,user-uploads.perchance.org
 DOMAIN,usercontent.flodesk.com
 DOMAIN,userfiles.uptimerobot.com
-DOMAIN,userimg-assets.customeriomail.com
-DOMAIN,userimg-bee.customeriomail.com
-DOMAIN,userimg.customeriomail.com
 DOMAIN,userpic.redgifs.com
 DOMAIN,useruploads.visualwebsiteoptimizer.com
 DOMAIN,utteranc.es
@@ -2469,6 +2478,7 @@ DOMAIN-SUFFIX,cdn.medallia.com
 DOMAIN-SUFFIX,cdn.mozilla.net
 DOMAIN-SUFFIX,cdn.nimg.jp
 DOMAIN-SUFFIX,cdn.nintendo.net
+DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,cdn.pbs.org
 DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,cdn.prismic.io
@@ -2544,6 +2554,7 @@ DOMAIN-SUFFIX,csp.withgoogle.com
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,cthd.icu
 DOMAIN-SUFFIX,customerioforms.com
+DOMAIN-SUFFIX,customeriomail.com
 DOMAIN-SUFFIX,cwwcdn.com
 DOMAIN-SUFFIX,data.debugbear.com
 DOMAIN-SUFFIX,dataplane.rudderstack.com

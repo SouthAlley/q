@@ -1,4 +1,4 @@
-# Main total line 6621 
+# Main total line 6622 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -4011,6 +4011,7 @@ DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openamt.com
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opendemocracy.net
+DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,openervpn.in

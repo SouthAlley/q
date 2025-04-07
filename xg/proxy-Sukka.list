@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-01T09:14:47.298Z
-# Size: 828
+# Last Updated: 2025-04-06T09:30:17.400Z
+# Size: 835
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,astrill.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,schema.org
@@ -384,6 +385,7 @@ DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,instatus.com
 DOMAIN-SUFFIX,iloveimg.com
+DOMAIN-SUFFIX,iboysoft.com
 DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,ghostery.com
@@ -474,6 +476,9 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,yandex.com
+DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
+DOMAIN,sglong.wechat.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,vercel.com
@@ -538,6 +543,7 @@ DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aimoon.com
@@ -662,6 +668,7 @@ DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,g2.com

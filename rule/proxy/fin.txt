@@ -1,4 +1,4 @@
-# Main total line 6622 
+# Main total line 6629 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -8,6 +8,9 @@ DOMAIN,community.oneplus.com
 DOMAIN,ees.elsevier.com
 DOMAIN,ip-api.com
 DOMAIN,reddit.app.link
+DOMAIN,sglong.wechat.com
+DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,030buy.com
@@ -389,6 +392,7 @@ DOMAIN-SUFFIX,apkplz.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,aplusvpn.com
+DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appadvice.com
 DOMAIN-SUFFIX,appbrain.com
@@ -2662,6 +2666,7 @@ DOMAIN-SUFFIX,iblogserv-f.net
 DOMAIN-SUFFIX,ibm
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibm.net
+DOMAIN-SUFFIX,iboysoft.com
 DOMAIN-SUFFIX,ibros.org
 DOMAIN-SUFFIX,ibtimes.com
 DOMAIN-SUFFIX,ibvpn.com
@@ -3834,6 +3839,7 @@ DOMAIN-SUFFIX,nitter.cc
 DOMAIN-SUFFIX,nitter.net
 DOMAIN-SUFFIX,niu.moe
 DOMAIN-SUFFIX,niusnews.com
+DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njactb.org
 DOMAIN-SUFFIX,njuice.com
 DOMAIN-SUFFIX,nlfreevpn.com
@@ -6245,6 +6251,7 @@ DOMAIN-SUFFIX,xgroovy.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,xianba.net
 DOMAIN-SUFFIX,xianchawang.net
 DOMAIN-SUFFIX,xianqiao.net

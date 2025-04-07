@@ -1,4 +1,4 @@
-# Main total line 1002 
+# Main total line 1004 
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -124,6 +124,8 @@ DOMAIN-SUFFIX,babytree.com
 DOMAIN-SUFFIX,babytreeimg.com
 DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,baixing.com
+DOMAIN-SUFFIX,baixing.net
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bcebos.com

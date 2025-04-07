@@ -1,4 +1,4 @@
-# Main total line 20088 
+# Main total line 20094 
 # ------------------------------------------
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -40,6 +40,9 @@ DOMAIN,ntp7.ntp-servers.net
 DOMAIN,ood.opsource.net
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,sglong.wechat.com
+DOMAIN,sgminorshort.wechat.com
+DOMAIN,sgshort.wechat.com
 DOMAIN,tagcdnsub.work
 DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,vsmarketplacebadge.apphb.com
@@ -8972,6 +8975,7 @@ DOMAIN-SUFFIX,ibook.com
 DOMAIN-SUFFIX,ibook.net
 DOMAIN-SUFFIX,ibookpartner.com
 DOMAIN-SUFFIX,ibooksauthor.com
+DOMAIN-SUFFIX,iboysoft.com
 DOMAIN-SUFFIX,ibradome.com
 DOMAIN-SUFFIX,ibros.org
 DOMAIN-SUFFIX,ibtimes.com
@@ -12834,6 +12838,7 @@ DOMAIN-SUFFIX,nivodi.tv
 DOMAIN-SUFFIX,nivodz.com
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,niziero.info
+DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njactb.org
 DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,njuice.com
@@ -19069,6 +19074,7 @@ DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,xhot.pro
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,xhub.tv

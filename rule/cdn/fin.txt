@@ -1,4 +1,4 @@
-# Main total line 3355 
+# Main total line 3369 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -25,6 +25,7 @@ DOMAIN,ajax.microsoft.com
 DOMAIN,ak.sail-horizon.com
 DOMAIN,akamai-assets.squarespace.com
 DOMAIN,alt.idgesg.net
+DOMAIN,amazon-omni-cdn.com
 DOMAIN,amp.azure.net
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.welcomesoftware.com
@@ -39,6 +40,7 @@ DOMAIN,api.bintray.com
 DOMAIN,api.crashguard.me
 DOMAIN,api.dicebear.com
 DOMAIN,api.iconify.design
+DOMAIN,api.indexnow.org
 DOMAIN,api.instantly.ai
 DOMAIN,api.mintlify.com
 DOMAIN,api.mixpanel.com
@@ -294,6 +296,7 @@ DOMAIN,bundlephobia.com
 DOMAIN,bundler.nice-team.net
 DOMAIN,bundler.wix-code.com
 DOMAIN,bundles.npr.org
+DOMAIN,businessunitprofile-cdn.trustpilot.net
 DOMAIN,busuanzi.ibruce.info
 DOMAIN,c.1password.com
 DOMAIN,c.fantia.jp
@@ -321,6 +324,7 @@ DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
 DOMAIN,cassette.sphdigital.com.sg
+DOMAIN,cc-embed.adobe.com
 DOMAIN,cc.boyfriendtv.com
 DOMAIN,cdn-1.ggjav.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
@@ -391,6 +395,7 @@ DOMAIN,cdn.bigcloud.click
 DOMAIN,cdn.birdie.so
 DOMAIN,cdn.botframework.com
 DOMAIN,cdn.branch.io
+DOMAIN,cdn.brandfetch.io
 DOMAIN,cdn.britannica.com
 DOMAIN,cdn.bsky.social
 DOMAIN,cdn.builder.io
@@ -652,6 +657,7 @@ DOMAIN,cdn.unrealengine.com
 DOMAIN,cdn.unwire.hk
 DOMAIN,cdn.up-timely.com
 DOMAIN,cdn.uptimia.com
+DOMAIN,cdn.us-east-1.prod.moon.dubai.aws.dev
 DOMAIN,cdn.usd.fan
 DOMAIN,cdn.userreport.com
 DOMAIN,cdn.v2ex.com
@@ -803,6 +809,7 @@ DOMAIN,cms.recordedfuture.com
 DOMAIN,cms.therecord.media
 DOMAIN,cms.typenetwork.com
 DOMAIN,code.benco.io
+DOMAIN,code.buywithprime.amazon.com
 DOMAIN,code.highcharts.com
 DOMAIN,code.iconify.design
 DOMAIN,code.ionicframework.com
@@ -825,6 +832,7 @@ DOMAIN,consent-notice.ft.com
 DOMAIN,consent.dw.com
 DOMAIN,consentdeliveryfd.azurefd.net
 DOMAIN,consumersite-assets.trustpilot.net
+DOMAIN,consumersiteimages.trustpilot.net
 DOMAIN,content-management-files.canva.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,content.any.run
@@ -1009,6 +1017,7 @@ DOMAIN,fonts.codeberg.org
 DOMAIN,fonts.gishan.cc
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,fonts.loox.io
 DOMAIN,fonts.mailerlite.com
 DOMAIN,fonts.sony.net
 DOMAIN,fonts.svc.ui.com
@@ -1141,6 +1150,7 @@ DOMAIN,images-assets.nasa.gov
 DOMAIN,images-eds-ssl.xboxlive.com
 DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
+DOMAIN,images-static.trustpilot.com
 DOMAIN,images.991.com
 DOMAIN,images.anandtech.com
 DOMAIN,images.applegamingwiki.com
@@ -1165,6 +1175,7 @@ DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
 DOMAIN,images.idgesg.net
 DOMAIN,images.kick.com
+DOMAIN,images.loox.io
 DOMAIN,images.macrumors.com
 DOMAIN,images.mattel.net
 DOMAIN,images.microcms-assets.io
@@ -1540,6 +1551,7 @@ DOMAIN,nodei.co
 DOMAIN,npm.antfu.dev
 DOMAIN,npm.im
 DOMAIN,npm.jsr.io
+DOMAIN,ntp.api.bz
 DOMAIN,ntp.msn.com
 DOMAIN,null.jsbin.com
 DOMAIN,o.n1mp.org
@@ -1968,6 +1980,7 @@ DOMAIN,static.cohere.so
 DOMAIN,static.coinall.ltd
 DOMAIN,static.coingecko.com
 DOMAIN,static.community.workday.com
+DOMAIN,static.convertio.co
 DOMAIN,static.corp.google.com
 DOMAIN,static.cracked.io
 DOMAIN,static.cracked.to
@@ -3035,6 +3048,7 @@ DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,polyfill-fastly.io
+DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,porn-d.xyz
 DOMAIN-SUFFIX,porn5.asia
 DOMAIN-SUFFIX,porndudecdn.com

@@ -1118,6 +1118,8 @@ DOMAIN-SUFFIX,cmule.org
 DOMAIN-SUFFIX,cmx.im
 DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,cnabc.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnineu.com
@@ -1189,6 +1191,7 @@ DOMAIN-SUFFIX,constitutionalism.solutions
 DOMAIN-SUFFIX,contactmagazine.net
 DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,convio.net
 DOMAIN-SUFFIX,coobay.com
 DOMAIN-SUFFIX,cool18.com
@@ -3738,6 +3741,7 @@ DOMAIN-SUFFIX,navy.mil
 DOMAIN-SUFFIX,naweeklytimes.com
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
+DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,nbtvpn.com
 DOMAIN-SUFFIX,nchrd.org
 DOMAIN-SUFFIX,ncn.org
@@ -5523,6 +5527,8 @@ DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,trustedanalytics.com
 DOMAIN-SUFFIX,trustedanalytics.net
+DOMAIN-SUFFIX,trustpilot.com
+DOMAIN-SUFFIX,trustpilot.net
 DOMAIN-SUFFIX,truthontour.org
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,truveo.com

@@ -1,4 +1,4 @@
-# Main total line 3370 
+# Main total line 3371 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -979,6 +979,7 @@ DOMAIN,fast.wistia.com
 DOMAIN,fast.wistia.net
 DOMAIN,fastly-cloud.typenetwork.com
 DOMAIN,fastporndelivery.hqporner.com
+DOMAIN,favicon.pirsch.io
 DOMAIN,favicon.yandex.net
 DOMAIN,favicons.nextdns.io
 DOMAIN,favicons.teams.cloudflare.com

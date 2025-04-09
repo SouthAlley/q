@@ -1,4 +1,4 @@
-# Main total line 3345 
+# Main total line 3370 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -24,6 +24,7 @@ DOMAIN,ajax.microsoft.com
 DOMAIN,ak.sail-horizon.com
 DOMAIN,akamai-assets.squarespace.com
 DOMAIN,alt.idgesg.net
+DOMAIN,amazon-omni-cdn.com
 DOMAIN,amp.azure.net
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.welcomesoftware.com
@@ -38,6 +39,7 @@ DOMAIN,api.bintray.com
 DOMAIN,api.crashguard.me
 DOMAIN,api.dicebear.com
 DOMAIN,api.iconify.design
+DOMAIN,api.indexnow.org
 DOMAIN,api.instantly.ai
 DOMAIN,api.mintlify.com
 DOMAIN,api.mixpanel.com
@@ -162,6 +164,7 @@ DOMAIN,assets.ipstack.com
 DOMAIN,assets.jable.tv
 DOMAIN,assets.jolipage.co
 DOMAIN,assets.kagi.com
+DOMAIN,assets.keysquare.io
 DOMAIN,assets.kraken.com
 DOMAIN,assets.leetcode.com
 DOMAIN,assets.lemonsqueezy.com
@@ -189,6 +192,7 @@ DOMAIN,assets.peatio.com
 DOMAIN,assets.pixlee.com
 DOMAIN,assets.play.xbox.com
 DOMAIN,assets.plurk.com
+DOMAIN,assets.polarbyte.com
 DOMAIN,assets.poool.fr
 DOMAIN,assets.positional-bucket.com
 DOMAIN,assets.prowritingaid.com
@@ -291,6 +295,7 @@ DOMAIN,bundlephobia.com
 DOMAIN,bundler.nice-team.net
 DOMAIN,bundler.wix-code.com
 DOMAIN,bundles.npr.org
+DOMAIN,businessunitprofile-cdn.trustpilot.net
 DOMAIN,busuanzi.ibruce.info
 DOMAIN,c.1password.com
 DOMAIN,c.fantia.jp
@@ -318,6 +323,7 @@ DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
 DOMAIN,cassette.sphdigital.com.sg
+DOMAIN,cc-embed.adobe.com
 DOMAIN,cc.boyfriendtv.com
 DOMAIN,cdn-1.ggjav.com
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
@@ -388,6 +394,7 @@ DOMAIN,cdn.bigcloud.click
 DOMAIN,cdn.birdie.so
 DOMAIN,cdn.botframework.com
 DOMAIN,cdn.branch.io
+DOMAIN,cdn.brandfetch.io
 DOMAIN,cdn.britannica.com
 DOMAIN,cdn.bsky.social
 DOMAIN,cdn.builder.io
@@ -649,6 +656,7 @@ DOMAIN,cdn.unrealengine.com
 DOMAIN,cdn.unwire.hk
 DOMAIN,cdn.up-timely.com
 DOMAIN,cdn.uptimia.com
+DOMAIN,cdn.us-east-1.prod.moon.dubai.aws.dev
 DOMAIN,cdn.usd.fan
 DOMAIN,cdn.userreport.com
 DOMAIN,cdn.v2ex.com
@@ -800,6 +808,7 @@ DOMAIN,cms.recordedfuture.com
 DOMAIN,cms.therecord.media
 DOMAIN,cms.typenetwork.com
 DOMAIN,code.benco.io
+DOMAIN,code.buywithprime.amazon.com
 DOMAIN,code.highcharts.com
 DOMAIN,code.iconify.design
 DOMAIN,code.ionicframework.com
@@ -822,6 +831,7 @@ DOMAIN,consent-notice.ft.com
 DOMAIN,consent.dw.com
 DOMAIN,consentdeliveryfd.azurefd.net
 DOMAIN,consumersite-assets.trustpilot.net
+DOMAIN,consumersiteimages.trustpilot.net
 DOMAIN,content-management-files.canva.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN,content.any.run
@@ -938,6 +948,7 @@ DOMAIN,encrypted-vtbn2.gstatic.com
 DOMAIN,encrypted-vtbn3.gstatic.com
 DOMAIN,epic-social-social-modules-prod.ol.epicgames.com
 DOMAIN,error.rakuten.co.jp
+DOMAIN,eslint-react.xyz
 DOMAIN,eslint.org
 DOMAIN,eslint.style
 DOMAIN,eu-images.contentstack.com
@@ -1005,6 +1016,7 @@ DOMAIN,fonts.codeberg.org
 DOMAIN,fonts.gishan.cc
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,fonts.loox.io
 DOMAIN,fonts.mailerlite.com
 DOMAIN,fonts.sony.net
 DOMAIN,fonts.svc.ui.com
@@ -1046,6 +1058,7 @@ DOMAIN,hawk.tomsguide.com
 DOMAIN,headway-widget.net
 DOMAIN,heatmap-external-a.strava.com
 DOMAIN,hentaiworldtv.b-cdn.net
+DOMAIN,heroicons.com
 DOMAIN,hhhhhhome86227170.wordpress.com
 DOMAIN,hips.hearstapps.com
 DOMAIN,hls.hentaicity.com
@@ -1114,7 +1127,6 @@ DOMAIN,image.gyutto.jp
 DOMAIN,image.hkhl.hk
 DOMAIN,image.ibb.co
 DOMAIN,image.jnislniv.xyz
-DOMAIN,image.lichess1.org
 DOMAIN,image.mgstage.com
 DOMAIN,image.mux.com
 DOMAIN,image.nmb.best
@@ -1136,6 +1148,7 @@ DOMAIN,images-assets.nasa.gov
 DOMAIN,images-eds-ssl.xboxlive.com
 DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
+DOMAIN,images-static.trustpilot.com
 DOMAIN,images.991.com
 DOMAIN,images.anandtech.com
 DOMAIN,images.applegamingwiki.com
@@ -1160,6 +1173,7 @@ DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
 DOMAIN,images.idgesg.net
 DOMAIN,images.kick.com
+DOMAIN,images.loox.io
 DOMAIN,images.macrumors.com
 DOMAIN,images.mattel.net
 DOMAIN,images.microcms-assets.io
@@ -1170,6 +1184,7 @@ DOMAIN,images.now-tv.com
 DOMAIN,images.nvidia.com
 DOMAIN,images.opencollective.com
 DOMAIN,images.pexels.com
+DOMAIN,images.pling.com
 DOMAIN,images.plurk.com
 DOMAIN,images.pluto.tv
 DOMAIN,images.prismic.io
@@ -1534,6 +1549,7 @@ DOMAIN,nodei.co
 DOMAIN,npm.antfu.dev
 DOMAIN,npm.im
 DOMAIN,npm.jsr.io
+DOMAIN,ntp.api.bz
 DOMAIN,ntp.msn.com
 DOMAIN,null.jsbin.com
 DOMAIN,o.n1mp.org
@@ -1710,6 +1726,7 @@ DOMAIN,resource.fs.com
 DOMAIN,resource.video.nimg.jp
 DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
+DOMAIN,resources.chessbase.com
 DOMAIN,resources.help.salesforce.com
 DOMAIN,resources.whatwg.org
 DOMAIN,rest.happierleads.com
@@ -1766,6 +1783,7 @@ DOMAIN,s3.c.im
 DOMAIN,s3.coinmarketcap.com
 DOMAIN,s3.cointelegraph.com
 DOMAIN,s3.documentcloud.org
+DOMAIN,s3.doujin.sh
 DOMAIN,s3.dzeninfra.ru
 DOMAIN,s3.envato.com
 DOMAIN,s3.eu-central-003.backblazeb2.com
@@ -1879,6 +1897,7 @@ DOMAIN,staging-pubfeed.linkby.com
 DOMAIN,start-page.buffer.com
 DOMAIN,static-00.iconduck.com
 DOMAIN,static-act.imoim.net
+DOMAIN,static-assets-1.truthsocial.com
 DOMAIN,static-assets-prod.epicgames.com
 DOMAIN,static-assets-web.flixcart.com
 DOMAIN,static-assets.clubhouseapi.com
@@ -1951,6 +1970,7 @@ DOMAIN,static.canva.com
 DOMAIN,static.captcha-delivery.com
 DOMAIN,static.chaika.moe
 DOMAIN,static.change.org
+DOMAIN,static.chessarena.com
 DOMAIN,static.cloud.coveo.com
 DOMAIN,static.cloudcachetci.com
 DOMAIN,static.cnbeta.com.tw
@@ -1959,6 +1979,7 @@ DOMAIN,static.cohere.so
 DOMAIN,static.coinall.ltd
 DOMAIN,static.coingecko.com
 DOMAIN,static.community.workday.com
+DOMAIN,static.convertio.co
 DOMAIN,static.corp.google.com
 DOMAIN,static.cracked.io
 DOMAIN,static.cracked.to
@@ -2297,6 +2318,7 @@ DOMAIN,wac-cdn.atlassian.com
 DOMAIN,waitlisted.co
 DOMAIN,wandi-6402.kxcdn.com
 DOMAIN,wcpstatic.microsoft.com
+DOMAIN,wctour-images.worldchess.com
 DOMAIN,weather.istatmenus.app
 DOMAIN,web-assets.esetstatic.com
 DOMAIN,web-assets.ifttt.com
@@ -2383,6 +2405,7 @@ DOMAIN-SUFFIX,airio3.live
 DOMAIN-SUFFIX,akamai-content-network.com
 DOMAIN-SUFFIX,akidoo.top
 DOMAIN-SUFFIX,alexdav.id
+DOMAIN-SUFFIX,algolianet.com
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,alphafish.top
 DOMAIN-SUFFIX,amaicdn.com
@@ -2876,6 +2899,7 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,li-cdn.com
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,licensebuttons.net
+DOMAIN-SUFFIX,lichess1.org
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,local.webcontainer.io
@@ -3024,6 +3048,7 @@ DOMAIN-SUFFIX,pnpm.io
 DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,polyfill-fastly.io
+DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,porn-d.xyz
 DOMAIN-SUFFIX,porn5.asia
 DOMAIN-SUFFIX,porndudecdn.com

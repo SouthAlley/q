@@ -1,4 +1,4 @@
-# Main total line 3379 
+# Main total line 3380 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2176,6 +2176,7 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,storage-b.picacomic.com
 DOMAIN,storage.crisp.chat
+DOMAIN,storage.deepin.org
 DOMAIN,storage.gra.cloud.ovh.net
 DOMAIN,storage.ko-fi.com
 DOMAIN,storage.moegirl.tw

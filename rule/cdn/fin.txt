@@ -1518,7 +1518,6 @@ DOMAIN,megapx-assets.dcard.tw
 DOMAIN,meta.prismlauncher.org
 DOMAIN,metrics.kapa.ai
 DOMAIN,micro.rubiconproject.com
-DOMAIN,minotar.net
 DOMAIN,mintlify.b-cdn.net
 DOMAIN,mir-s3-cdn-cf.behance.net
 DOMAIN,miro.medium.com
@@ -2945,6 +2944,7 @@ DOMAIN-SUFFIX,meetupstatic.com
 DOMAIN-SUFFIX,mercdn.net
 DOMAIN-SUFFIX,metric.gstatic.com
 DOMAIN-SUFFIX,mfcimg.com
+DOMAIN-SUFFIX,minotar.net
 DOMAIN-SUFFIX,mirror-media.xyz
 DOMAIN-SUFFIX,mirrors.utermux.dev
 DOMAIN-SUFFIX,misskeyusercontent.com

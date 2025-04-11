@@ -1,4 +1,4 @@
-# Main total line 6635 
+# Main total line 6634 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -4488,6 +4488,7 @@ DOMAIN-SUFFIX,razerzone.com
 DOMAIN-SUFFIX,rd.com
 DOMAIN-SUFFIX,rdio.com
 DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,re
 DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,read01.com
 DOMAIN-SUFFIX,read100.com
@@ -4819,7 +4820,6 @@ DOMAIN-SUFFIX,simpleswap.io
 DOMAIN-SUFFIX,sinchew.com.my
 DOMAIN-SUFFIX,singfortibet.com
 DOMAIN-SUFFIX,singlelogin.me
-DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,singlelogin.rs
 DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,singtao.com
@@ -6345,7 +6345,6 @@ DOMAIN-SUFFIX,yakbutterblues.com
 DOMAIN-SUFFIX,yam.com
 DOMAIN-SUFFIX,yamaxun
 DOMAIN-SUFFIX,yamaxun.com
-DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org

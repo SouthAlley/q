@@ -1,4 +1,4 @@
-# Main total line 1157 
+# Main total line 1158 
 # ------------------------------------------
 DOMAIN,1-mirrors.in.sahilister.net
 DOMAIN,2-mirrors.in.sahilister.net
@@ -153,6 +153,7 @@ DOMAIN,ctan.uib.no
 DOMAIN,ctan.um.ac.ir
 DOMAIN,ctan.yazd.ac.ir
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN,d.myani.org
 DOMAIN,de.freedif.org
 DOMAIN,deb.nodesource.com
 DOMAIN,debian-archive.trafficmanager.net

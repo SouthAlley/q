@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-04-14T10:31:57.446Z
-# Size: 848
+# Last Updated: 2025-04-16T16:25:23.850Z
+# Size: 854
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,activated.win
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,freedownloadmanager.org
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,archiveofourown.org
@@ -262,6 +263,7 @@ DOMAIN-SUFFIX,usertesting.com
 DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,updownradar.com
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,thingiverse.com
 DOMAIN-SUFFIX,theregister.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,tailwindcss.com
@@ -356,6 +358,7 @@ DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,amplience.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,xhamster.com
@@ -415,6 +418,7 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,youtube.com
@@ -652,6 +656,7 @@ DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bang.com
+DOMAIN-SUFFIX,atom.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,xxx.com
 DOMAIN-SUFFIX,wsj.com

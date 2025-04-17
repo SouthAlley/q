@@ -1,4 +1,4 @@
-# Main total line 1098 
+# Main total line 1100 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -222,6 +222,7 @@ DOMAIN,downloads.openwrt.org
 DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net
 DOMAIN,downloads.wordpress.org
+DOMAIN,downloads.x-wrt.com
 DOMAIN,downloads.xiph.org
 DOMAIN,downloads.xrite.com
 DOMAIN,drive.massgrave.dev
@@ -565,6 +566,7 @@ DOMAIN,packagecloud.io
 DOMAIN,packages.linuxmint.com
 DOMAIN,packages.microsoft.com
 DOMAIN,packages.oth-regensburg.de
+DOMAIN,packages.termux.dev
 DOMAIN,packages.virtfusion.net
 DOMAIN,packagespc.xboxlive.com
 DOMAIN,pf-cdn-content-prod.azureedge.net

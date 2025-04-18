@@ -1,4 +1,4 @@
-# Main total line 3407 
+# Main total line 3410 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -326,6 +326,7 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
+DOMAIN,canny-assets.io
 DOMAIN,cassette.sphdigital.com.sg
 DOMAIN,cc-embed.adobe.com
 DOMAIN,cc.boyfriendtv.com
@@ -881,6 +882,7 @@ DOMAIN,damassets.autodesk.net
 DOMAIN,dassets.shimano.com
 DOMAIN,data.jsdelivr.com
 DOMAIN,data.pendo.io
+DOMAIN,data.schemaapp.com
 DOMAIN,data.web.clickup.com
 DOMAIN,david-dm.org
 DOMAIN,db.onlinewebfonts.com
@@ -2147,6 +2149,7 @@ DOMAIN,static.xns.one
 DOMAIN,static.xxxshake.com
 DOMAIN,static.zaobao.com
 DOMAIN,static.zaobao.com.sg
+DOMAIN,static.zuora.com
 DOMAIN,static01.nyt.com
 DOMAIN,static02.nyt.com
 DOMAIN,static1.lottiefiles.com

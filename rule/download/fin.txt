@@ -1,4 +1,4 @@
-# Main total line 1100 
+# Main total line 1093 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -430,7 +430,6 @@ DOMAIN,mirror.linux-ia64.org
 DOMAIN,mirror.liquidtelecom.com
 DOMAIN,mirror.low-orbit.net
 DOMAIN,mirror.lyrahosting.com
-DOMAIN,mirror.lzu.edu.cn
 DOMAIN,mirror.macomnet.net
 DOMAIN,mirror.marwan.ma
 DOMAIN,mirror.metanet.ch
@@ -495,7 +494,6 @@ DOMAIN,mirror.yannic-bonenberger.com
 DOMAIN,mirror.yer.az
 DOMAIN,mirror.za.web4africa.net
 DOMAIN,mirror2.evolution-host.com
-DOMAIN,mirrors.163.com
 DOMAIN,mirrors.advancedhosters.com
 DOMAIN,mirrors.ae-online.de
 DOMAIN,mirrors.aliyun.com
@@ -522,9 +520,7 @@ DOMAIN,mirrors.namecheap.com
 DOMAIN,mirrors.nav.ro
 DOMAIN,mirrors.neterra.net
 DOMAIN,mirrors.netix.net
-DOMAIN,mirrors.neusoft.edu.cn
 DOMAIN,mirrors.nic.cz
-DOMAIN,mirrors.nju.edu.cn
 DOMAIN,mirrors.nxthost.com
 DOMAIN,mirrors.ocf.berkeley.edu
 DOMAIN,mirrors.rackhosting.com
@@ -532,14 +528,11 @@ DOMAIN,mirrors.rit.edu
 DOMAIN,mirrors.rpmfusion.org
 DOMAIN,mirrors.sarata.com
 DOMAIN,mirrors.saswata.cc
-DOMAIN,mirrors.sjtug.sjtu.edu.cn
 DOMAIN,mirrors.sonic.net
 DOMAIN,mirrors.standaloneinstaller.com
-DOMAIN,mirrors.tuna.tsinghua.edu.cn
 DOMAIN,mirrors.ucr.ac.cr
 DOMAIN,mirrors.ukfast.co.uk
 DOMAIN,mirrors.up.pt
-DOMAIN,mirrors.ustc.edu.cn
 DOMAIN,mirrors.whoishostingthis.com
 DOMAIN,mirrors.xmissions.com
 DOMAIN,mirrors.xservers.ro

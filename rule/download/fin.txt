@@ -1,4 +1,4 @@
-# Main total line 1094 
+# Main total line 1096 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -176,6 +176,7 @@ DOMAIN,download-installer.cdn.mozilla.net
 DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
 DOMAIN,download.beeper.com
+DOMAIN,download.clashverge.dev
 DOMAIN,download.cpuid.com
 DOMAIN,download.cypress.io
 DOMAIN,download.dlsite.com
@@ -553,6 +554,7 @@ DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdnmac.microsoft.com
 DOMAIN,onepluscommunityserver.com
+DOMAIN,opfiles.b-cdn.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net
 DOMAIN,osl.ugr.es

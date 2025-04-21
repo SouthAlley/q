@@ -1,4 +1,4 @@
-# Main total line 1096 
+# Main total line 1097 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -181,6 +181,7 @@ DOMAIN,download.cpuid.com
 DOMAIN,download.cypress.io
 DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
+DOMAIN,download.eassos.com
 DOMAIN,download.edovia.com
 DOMAIN,download.fydeos.io
 DOMAIN,download.gigabyte.com

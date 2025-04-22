@@ -1,4 +1,4 @@
-# Main total line 3409 
+# Main total line 3411 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2326,6 +2326,7 @@ DOMAIN,videos.elephas.app
 DOMAIN,videos.ohentai.org
 DOMAIN,videos2-h.sendvid.com
 DOMAIN,videos2.edclub.com
+DOMAIN,vip.dytt-img.com
 DOMAIN,vir.wsj.net
 DOMAIN,viu-static.akamaized.net
 DOMAIN,vjs.zencdn.net
@@ -2583,7 +2584,6 @@ DOMAIN-SUFFIX,cloud1.influxdata.com
 DOMAIN-SUFFIX,cloud2.influxdata.com
 DOMAIN-SUFFIX,cloudatacdn.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
 DOMAIN-SUFFIX,cloudflare.docker.com
 DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,cloudflarestream.com
@@ -3163,6 +3163,7 @@ DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,sciencedirectassets.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,scribdassets.com
+DOMAIN-SUFFIX,scripts.gatorapi.com
 DOMAIN-SUFFIX,seadn.io
 DOMAIN-SUFFIX,sendspace.com
 DOMAIN-SUFFIX,senja.io
@@ -3212,6 +3213,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stack.imgur.com
 DOMAIN-SUFFIX,stackblitz.io
 DOMAIN-SUFFIX,stapecdn.com
+DOMAIN-SUFFIX,static-assets.photoshop.adobe.com
 DOMAIN-SUFFIX,static-prod-web.miniclip.com
 DOMAIN-SUFFIX,static.amplience.net
 DOMAIN-SUFFIX,static.chaosgroup.com

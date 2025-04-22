@@ -1,4 +1,4 @@
-# Main total line 6882 
+# Main total line 6885 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2378,6 +2378,7 @@ DOMAIN-SUFFIX,gospelherald.com
 DOMAIN-SUFFIX,got-game.org
 DOMAIN-SUFFIX,gotdns.ch
 DOMAIN-SUFFIX,gotgeeks.com
+DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotrusted.com
 DOMAIN-SUFFIX,gov.taipei
 DOMAIN-SUFFIX,gr8domain.biz
@@ -2804,6 +2805,7 @@ DOMAIN-SUFFIX,iddddg.com
 DOMAIN-SUFFIX,idemocracy.asia
 DOMAIN-SUFFIX,idiomconnection.com
 DOMAIN-SUFFIX,idlcoyote.com
+DOMAIN-SUFFIX,idope.se
 DOMAIN-SUFFIX,idouga.com
 DOMAIN-SUFFIX,idreamx.com
 DOMAIN-SUFFIX,idrive.com
@@ -5293,6 +5295,7 @@ DOMAIN-SUFFIX,studentsforafreetibet.org
 DOMAIN-SUFFIX,stumbleupon.com
 DOMAIN-SUFFIX,stupidvideos.com
 DOMAIN-SUFFIX,stweetly.com
+DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,sublimehq.com
 DOMAIN-SUFFIX,sublimemerge.com
 DOMAIN-SUFFIX,sublimetext.com

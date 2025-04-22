@@ -1,4 +1,4 @@
-# Main total line 20290 
+# Main total line 20299 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -26,6 +26,7 @@ DOMAIN,firstsearch.oclc.org
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
 DOMAIN,in.mesl.cloud
+DOMAIN,ingest.apple-studies.com
 DOMAIN,ip-api.com
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,link.theplatform.com
@@ -518,6 +519,7 @@ DOMAIN-SUFFIX,8z1.net
 DOMAIN-SUFFIX,9001700.com
 DOMAIN-SUFFIX,908taiwan.org
 DOMAIN-SUFFIX,90seconds.asia
+DOMAIN-SUFFIX,91-cg.com
 DOMAIN-SUFFIX,91av.one
 DOMAIN-SUFFIX,91avfuli.com
 DOMAIN-SUFFIX,91beiyong.com
@@ -528,6 +530,7 @@ DOMAIN-SUFFIX,91jinman.com
 DOMAIN-SUFFIX,91md.me
 DOMAIN-SUFFIX,91moxiong.com
 DOMAIN-SUFFIX,91oo.xyz
+DOMAIN-SUFFIX,91porn.best
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91pornplus.com
 DOMAIN-SUFFIX,91porny.com
@@ -541,6 +544,7 @@ DOMAIN-SUFFIX,91se.fun
 DOMAIN-SUFFIX,91sesex.xyz
 DOMAIN-SUFFIX,91sew.xyz
 DOMAIN-SUFFIX,91sew40.buzz
+DOMAIN-SUFFIX,91short.com
 DOMAIN-SUFFIX,91vhome.com
 DOMAIN-SUFFIX,91vps.club
 DOMAIN-SUFFIX,920share.com
@@ -5586,6 +5590,7 @@ DOMAIN-SUFFIX,dwnews.com
 DOMAIN-SUFFIX,dwnews.net
 DOMAIN-SUFFIX,dx9527.cc
 DOMAIN-SUFFIX,dxiong.com
+DOMAIN-SUFFIX,dxk4h.com
 DOMAIN-SUFFIX,dxyav.co
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,dyfl1.pw
@@ -7883,6 +7888,7 @@ DOMAIN-SUFFIX,gotgayporn.com
 DOMAIN-SUFFIX,gotgeeks.com
 DOMAIN-SUFFIX,gothdporn.com
 DOMAIN-SUFFIX,gotporn.com
+DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gotrusted.com
 DOMAIN-SUFFIX,gouri.xyz
@@ -8081,6 +8087,7 @@ DOMAIN-SUFFIX,handjobtube4free.com
 DOMAIN-SUFFIX,hangout
 DOMAIN-SUFFIX,hanime.me
 DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,hanime.xyz
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hanimeone.me
 DOMAIN-SUFFIX,hanminzu.org
@@ -14359,6 +14366,7 @@ DOMAIN-SUFFIX,pornvideotop.com
 DOMAIN-SUFFIX,pornvideotube.online
 DOMAIN-SUFFIX,pornvidhd.club
 DOMAIN-SUFFIX,pornvisit.com
+DOMAIN-SUFFIX,pornvr.me
 DOMAIN-SUFFIX,pornwatchers.com
 DOMAIN-SUFFIX,pornwebmasters.com
 DOMAIN-SUFFIX,pornwhite.com
@@ -16592,6 +16600,7 @@ DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,style
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,sub147.com
+DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,sublimedirectory.com
 DOMAIN-SUFFIX,sublimehq.com
 DOMAIN-SUFFIX,sublimemerge.com

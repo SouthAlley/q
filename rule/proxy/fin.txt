@@ -1,4 +1,4 @@
-# Main total line 6885 
+# Main total line 6888 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -360,6 +360,7 @@ DOMAIN-SUFFIX,angelfire.com
 DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,animecrazy.net
+DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,animeshippuuden.com
 DOMAIN-SUFFIX,aniscartujo.com
 DOMAIN-SUFFIX,annas-archive.org
@@ -1098,6 +1099,7 @@ DOMAIN-SUFFIX,chrdnet.com
 DOMAIN-SUFFIX,christianfreedom.org
 DOMAIN-SUFFIX,christianstudy.com
 DOMAIN-SUFFIX,christusrex.org
+DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,chuang-yen.org
@@ -1416,6 +1418,7 @@ DOMAIN-SUFFIX,ddns.mobi
 DOMAIN-SUFFIX,ddns.ms
 DOMAIN-SUFFIX,ddns.name
 DOMAIN-SUFFIX,ddns.net
+DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,de-sci.org
 DOMAIN-SUFFIX,de1lib.org
 DOMAIN-SUFFIX,deadhouse.org

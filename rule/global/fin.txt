@@ -1,4 +1,4 @@
-# Main total line 20299 
+# Main total line 20300 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -1280,6 +1280,7 @@ DOMAIN-SUFFIX,animegal.net
 DOMAIN-SUFFIX,animehentaihub.com
 DOMAIN-SUFFIX,animeidhentai.com
 DOMAIN-SUFFIX,animepornhd.com
+DOMAIN-SUFFIX,animes.garden
 DOMAIN-SUFFIX,animesex.me
 DOMAIN-SUFFIX,animesexhq.com
 DOMAIN-SUFFIX,animeshippuuden.com

@@ -1,4 +1,4 @@
-# Main total line 3538 
+# Main total line 3544 
 # ------------------------------------------
 AND,((IP-CIDR,101.126.58.201/32,no-resolve),(DEST-PORT,6443)),REJECT
 AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443))
@@ -10,6 +10,7 @@ DOMAIN,a.wkanx.com
 DOMAIN,abema-adx.ameba.jp
 DOMAIN,abyss.cyapi.cn
 DOMAIN,ad-analysis.pconline.com.cn
+DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-cn.jovcloud.com
 DOMAIN,ad-mediation.tuanguwen.com
 DOMAIN,ad-stat.ksosoft.com
@@ -305,7 +306,6 @@ DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin16.sgsnssdk.com
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pixel.facebook.com
-DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,polaris5-normal-lf.zijieapi.com
 DOMAIN,pp-cdnfile2pcdn.msstatic.com
 DOMAIN,pre-acs.youku.com
@@ -380,7 +380,6 @@ DOMAIN,union.macoms.la
 DOMAIN,upload.luckyorange.net
 DOMAIN,ups.ksmobile.net
 DOMAIN,vali-g1.cp31.ott.cibntv.net
-DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,vcl-brain.snssdk.com
 DOMAIN,vdapprecv.app.cntvwb.cn
@@ -532,7 +531,6 @@ DOMAIN-SUFFIX,acuityplatform.com
 DOMAIN-SUFFIX,acxiom-online.com
 DOMAIN-SUFFIX,ad-balancer.at
 DOMAIN-SUFFIX,ad-brix.com
-DOMAIN-SUFFIX,ad-cdn.qingting.fm
 DOMAIN-SUFFIX,ad-center.com
 DOMAIN-SUFFIX,ad-channel.wikawika.xyz
 DOMAIN-SUFFIX,ad-cloud.jp
@@ -2085,6 +2083,7 @@ DOMAIN-SUFFIX,mobads-logs.baidu.com
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
 DOMAIN-SUFFIX,mobads.baidu.cn
 DOMAIN-SUFFIX,mobads.baidu.com
+DOMAIN-SUFFIX,mobaliyun.res.mgtv.com
 DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mobfox.com
 DOMAIN-SUFFIX,mobgi.com
@@ -2317,6 +2316,7 @@ DOMAIN-SUFFIX,pixfuture.com
 DOMAIN-SUFFIX,pixfuture.net
 DOMAIN-SUFFIX,pixiu.shangshufang.ksosoft.com
 DOMAIN-SUFFIX,pkoplink.com
+DOMAIN-SUFFIX,pl.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,placeiq.com
 DOMAIN-SUFFIX,placelocal.com
 DOMAIN-SUFFIX,playersb.com
@@ -2485,6 +2485,7 @@ DOMAIN-SUFFIX,rp.baidu.cn
 DOMAIN-SUFFIX,rp.baidu.com
 DOMAIN-SUFFIX,rp.hpplay.cn
 DOMAIN-SUFFIX,rplog.baidu.com
+DOMAIN-SUFFIX,rps.hpplay.cn
 DOMAIN-SUFFIX,rqmob.com
 DOMAIN-SUFFIX,rtbapi.douyucdn.cn
 DOMAIN-SUFFIX,rtbasia.com
@@ -2507,6 +2508,7 @@ DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s1.cmfu.com
 DOMAIN-SUFFIX,s3a.pstatp.com
 DOMAIN-SUFFIX,saad.ms.zhangyue.net
+DOMAIN-SUFFIX,saas.hpplay.cn
 DOMAIN-SUFFIX,salmonads.com
 DOMAIN-SUFFIX,samba.tv
 DOMAIN-SUFFIX,samsung-com.112.2o7.net
@@ -2726,6 +2728,7 @@ DOMAIN-SUFFIX,superad2.com.sg
 DOMAIN-SUFFIX,superadbox.com
 DOMAIN-SUFFIX,superads.cn
 DOMAIN-SUFFIX,supersonic.com
+DOMAIN-SUFFIX,sv-video.play.aiseet.atianqi.com
 DOMAIN-SUFFIX,switchadhub.com
 DOMAIN-SUFFIX,sycbbs.com
 DOMAIN-SUFFIX,syh-imp.cdnjtzy.com
@@ -3004,6 +3007,7 @@ DOMAIN-SUFFIX,v3.fstats.xyz
 DOMAIN-SUFFIX,vads.net.vn
 DOMAIN-SUFFIX,vads.vn
 DOMAIN-SUFFIX,val.api.youku.com
+DOMAIN-SUFFIX,vali-ugc.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,vamaker.com
 DOMAIN-SUFFIX,vaserviece.10jqka.com.cn
 DOMAIN-SUFFIX,vcbn65.xyz
@@ -3021,6 +3025,7 @@ DOMAIN-SUFFIX,video-ad.sm.cn
 DOMAIN-SUFFIX,video-dsp.pddpic.com
 DOMAIN-SUFFIX,video.dispatch.tc.qq.com
 DOMAIN-SUFFIX,video.ktkjmp.com
+DOMAIN-SUFFIX,video.market.xiaomi.com
 DOMAIN-SUFFIX,videoadex.com
 DOMAIN-SUFFIX,videohub.tv
 DOMAIN-SUFFIX,videopush.baidu.cn
@@ -3030,6 +3035,7 @@ DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,viewdeos.com
 DOMAIN-SUFFIX,viglink.com
 DOMAIN-SUFFIX,vipauth.hpplay.cn
+DOMAIN-SUFFIX,vipgslb.hpplay.cn
 DOMAIN-SUFFIX,virusinfo-cloudscan-cn.heytapmobi.com
 DOMAIN-SUFFIX,vjugz.com
 DOMAIN-SUFFIX,vlion.cn

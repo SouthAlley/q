@@ -1,4 +1,4 @@
-# Main total line 1097 
+# Main total line 1098 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -220,6 +220,7 @@ DOMAIN,downloadr2.apkmirror.com
 DOMAIN,downloads.1password.com
 DOMAIN,downloads.cursor.com
 DOMAIN,downloads.lemonsqueezy.com
+DOMAIN,downloads.majestic.com
 DOMAIN,downloads.openwrt.org
 DOMAIN,downloads.raspberrypi.com
 DOMAIN,downloads.sourceforge.net

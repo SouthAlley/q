@@ -1,4 +1,4 @@
-# Main total line 20300 
+# Main total line 20307 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -2188,6 +2188,7 @@ DOMAIN-SUFFIX,badiucao.com
 DOMAIN-SUFFIX,badjojo.com
 DOMAIN-SUFFIX,badoinkvr.com
 DOMAIN-SUFFIX,badoo.com
+DOMAIN-SUFFIX,badoocdn.com
 DOMAIN-SUFFIX,badsexygirl.com
 DOMAIN-SUFFIX,badteenspunished.com
 DOMAIN-SUFFIX,badvirtue.com
@@ -4609,6 +4610,7 @@ DOMAIN-SUFFIX,crabporn.com
 DOMAIN-SUFFIX,crackle.com
 DOMAIN-SUFFIX,craigslist.org
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crazy-amateurs.com
 DOMAIN-SUFFIX,crazyav.xyz
 DOMAIN-SUFFIX,crazybook.xyz
@@ -5083,6 +5085,7 @@ DOMAIN-SUFFIX,dicela.com
 DOMAIN-SUFFIX,dicela.net
 DOMAIN-SUFFIX,dickeomas.com
 DOMAIN-SUFFIX,dickhardon.com
+DOMAIN-SUFFIX,dictionary.com
 DOMAIN-SUFFIX,didce.com
 DOMAIN-SUFFIX,diddykongracing.com
 DOMAIN-SUFFIX,didi-food.com
@@ -6742,7 +6745,6 @@ DOMAIN-SUFFIX,finlitsummit.org
 DOMAIN-SUFFIX,fiotolia.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
 DOMAIN-SUFFIX,firearmsworld.net
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
@@ -7889,7 +7891,6 @@ DOMAIN-SUFFIX,gotgayporn.com
 DOMAIN-SUFFIX,gotgeeks.com
 DOMAIN-SUFFIX,gothdporn.com
 DOMAIN-SUFFIX,gotporn.com
-DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gotrusted.com
 DOMAIN-SUFFIX,gouri.xyz
@@ -9123,6 +9124,7 @@ DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,icntv.xyz
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,iconfactory.net
+DOMAIN-SUFFIX,iconfinder.com
 DOMAIN-SUFFIX,iconpaper.org
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,icu-project.org
@@ -12220,6 +12222,7 @@ DOMAIN-SUFFIX,myaccountglobalcash.com
 DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,myamateurgirls.net
 DOMAIN-SUFFIX,myamateurtv.com
+DOMAIN-SUFFIX,myanimelist.net
 DOMAIN-SUFFIX,myanniu.com
 DOMAIN-SUFFIX,myappleid.com
 DOMAIN-SUFFIX,myatos.net
@@ -12536,6 +12539,7 @@ DOMAIN-SUFFIX,ncloud.com
 DOMAIN-SUFFIX,ncn.org
 DOMAIN-SUFFIX,ncol.com
 DOMAIN-SUFFIX,ndi.org
+DOMAIN-SUFFIX,ndtv.com
 DOMAIN-SUFFIX,ne
 DOMAIN-SUFFIX,nebay.net
 DOMAIN-SUFFIX,neborder.com
@@ -13193,6 +13197,7 @@ DOMAIN-SUFFIX,obi
 DOMAIN-SUFFIX,objectarx.com
 DOMAIN-SUFFIX,observable.net
 DOMAIN-SUFFIX,observechina.net
+DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,obsrvbl.com
 DOMAIN-SUFFIX,obutsumania.com
 DOMAIN-SUFFIX,obutu.com
@@ -13417,6 +13422,7 @@ DOMAIN-SUFFIX,openstreetmap.net
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,openstreetmaps.org
 DOMAIN-SUFFIX,opensuse.org
+DOMAIN-SUFFIX,opentable.com
 DOMAIN-SUFFIX,opentech.fund
 DOMAIN-SUFFIX,opentgc.com
 DOMAIN-SUFFIX,opentranslatorstothings.org
@@ -13537,6 +13543,7 @@ DOMAIN-SUFFIX,over-blog.com
 DOMAIN-SUFFIX,over18arcade.com
 DOMAIN-SUFFIX,overapple.com
 DOMAIN-SUFFIX,overdaily.org
+DOMAIN-SUFFIX,overdrive.com
 DOMAIN-SUFFIX,overleaf.com
 DOMAIN-SUFFIX,overplay.net
 DOMAIN-SUFFIX,overseas.weibo.com
@@ -16601,7 +16608,6 @@ DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,style
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,sub147.com
-DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,sublimedirectory.com
 DOMAIN-SUFFIX,sublimehq.com
 DOMAIN-SUFFIX,sublimemerge.com
@@ -17149,6 +17155,7 @@ DOMAIN-SUFFIX,theporny.com
 DOMAIN-SUFFIX,theportalwiki.com
 DOMAIN-SUFFIX,theregister.com
 DOMAIN-SUFFIX,thesafeporn.com
+DOMAIN-SUFFIX,thesaurus.com
 DOMAIN-SUFFIX,thesffblog.com
 DOMAIN-SUFFIX,theshoppingexpresslane.net
 DOMAIN-SUFFIX,thesims.com
@@ -17994,7 +18001,6 @@ DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uol
 DOMAIN-SUFFIX,up01.cc
 DOMAIN-SUFFIX,upbit.com
-DOMAIN-SUFFIX,update.crashlytics.com
 DOMAIN-SUFFIX,updatestar.com
 DOMAIN-SUFFIX,updatetube.com
 DOMAIN-SUFFIX,updownradar.com
@@ -18260,6 +18266,7 @@ DOMAIN-SUFFIX,viacomcbspressexpress.com
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vica.info
 DOMAIN-SUFFIX,victimsofcommunism.org
+DOMAIN-SUFFIX,victoriassecret.com
 DOMAIN-SUFFIX,vid.me
 DOMAIN-SUFFIX,vidble.com
 DOMAIN-SUFFIX,video-jav.net

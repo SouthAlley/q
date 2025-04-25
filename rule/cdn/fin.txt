@@ -1,4 +1,4 @@
-# Main total line 3484 
+# Main total line 3486 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -784,6 +784,7 @@ DOMAIN,cdn77.boyfriendtv.com
 DOMAIN,cdn8.bigcommerce.com
 DOMAIN,cdn9.bigcommerce.com
 DOMAIN,cdna.artstation.com
+DOMAIN,cdnapi.kaltura.com
 DOMAIN,cdnapisec.kaltura.com
 DOMAIN,cdnb.artstation.com
 DOMAIN,cdne-pics.youjizz.com
@@ -795,6 +796,7 @@ DOMAIN,cdnjs.cat.net
 DOMAIN,cdnjs.cloudflare.com
 DOMAIN,cdnl.tnaflix.com
 DOMAIN,cdns.gigya.com
+DOMAIN,cdnsecakmi.kaltura.com
 DOMAIN,cdnstatic.porno-cum.com
 DOMAIN,cdnstatic.tencentcs.com
 DOMAIN,cdnstatic.w1mp.com

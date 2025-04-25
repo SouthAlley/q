@@ -1,4 +1,4 @@
-# Main total line 3550 
+# Main total line 3555 
 # ------------------------------------------
 AND,((IP-CIDR,101.126.58.201/32,no-resolve),(DEST-PORT,6443)),REJECT
 AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443))
@@ -103,7 +103,6 @@ DOMAIN,adwbs.ximalaya.com
 DOMAIN,adx-api.hupu.com
 DOMAIN,adx.hupu.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
-DOMAIN,adx.sogaha.cn
 DOMAIN,adx.yiche.com
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,afdconf.baidu.com
@@ -861,6 +860,8 @@ DOMAIN-SUFFIX,adx-ad.smart-tv.cn
 DOMAIN-SUFFIX,adx-drcn.op.dbankcloud.cn
 DOMAIN-SUFFIX,adx-open-service.youku.com
 DOMAIN-SUFFIX,adx.ads.heytapmobi.com
+DOMAIN-SUFFIX,adx.appsdk.com.cn
+DOMAIN-SUFFIX,adx.sogaha.cn
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,adxadserv.com
 DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
@@ -955,6 +956,7 @@ DOMAIN-SUFFIX,api-game.meizu.com
 DOMAIN-SUFFIX,api-gd.hiaiabc.com
 DOMAIN-SUFFIX,api-push.meizu.com
 DOMAIN-SUFFIX,api-z.weidian.com
+DOMAIN-SUFFIX,api.fu.xcultur.com
 DOMAIN-SUFFIX,api.hzsanjiaomao.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
 DOMAIN-SUFFIX,api.itaoxiaoshuo.com
@@ -962,6 +964,7 @@ DOMAIN-SUFFIX,api.jietuhb.com
 DOMAIN-SUFFIX,api.kingdata.ksyun.com
 DOMAIN-SUFFIX,api.mp.uc.cn
 DOMAIN-SUFFIX,api.newad.ifeng.com
+DOMAIN-SUFFIX,api.ssp.xcultur.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api.touch-moblie.com
 DOMAIN-SUFFIX,api.yfanads.com
@@ -3003,6 +3006,7 @@ DOMAIN-SUFFIX,uus58.com
 DOMAIN-SUFFIX,uuzu.com
 DOMAIN-SUFFIX,uxip.meizu.com
 DOMAIN-SUFFIX,uyunad.com
+DOMAIN-SUFFIX,v.110route.cn
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,v1-ad.video.yximgs.com
 DOMAIN-SUFFIX,v2-ad.video.yximgs.com
@@ -3244,6 +3248,7 @@ DOMAIN-SUFFIX,yoyi.com.cn
 DOMAIN-SUFFIX,yoyi.tv
 DOMAIN-SUFFIX,yrxmr.com
 DOMAIN-SUFFIX,ysjwj.com
+DOMAIN-SUFFIX,ytx-file.110route.cn
 DOMAIN-SUFFIX,yuanchengxiezuo.com
 DOMAIN-SUFFIX,yuedu.iqiyi.com
 DOMAIN-SUFFIX,yukhj.com

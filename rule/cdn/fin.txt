@@ -1,4 +1,4 @@
-# Main total line 3486 
+# Main total line 3487 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2736,6 +2736,7 @@ DOMAIN-SUFFIX,eroimg.net
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,eth.sucks
 DOMAIN-SUFFIX,etsystatic.com
 DOMAIN-SUFFIX,eu-browse.startpage.com
 DOMAIN-SUFFIX,eu-proxy.startpage.com

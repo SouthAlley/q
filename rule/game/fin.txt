@@ -1,4 +1,4 @@
-# Main total line 173 
+# Main total line 175 
 # ------------------------------------------
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,gog.salesmanago.com
@@ -105,6 +105,8 @@ DOMAIN-SUFFIX,nintendo.jp
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendowifi.net
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,opgg-static.akamaized.net
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,origin.tv

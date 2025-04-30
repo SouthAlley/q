@@ -1,4 +1,4 @@
-# Main total line 1098 
+# Main total line 1100 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -177,6 +177,7 @@ DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
 DOMAIN,download.beeper.com
 DOMAIN,download.clashverge.dev
+DOMAIN,download.cnet.com
 DOMAIN,download.cpuid.com
 DOMAIN,download.cypress.io
 DOMAIN,download.dlsite.com
@@ -497,6 +498,7 @@ DOMAIN,mirror.yannic-bonenberger.com
 DOMAIN,mirror.yer.az
 DOMAIN,mirror.za.web4africa.net
 DOMAIN,mirror2.evolution-host.com
+DOMAIN,mirrorbits.lineageos.org
 DOMAIN,mirrors.advancedhosters.com
 DOMAIN,mirrors.ae-online.de
 DOMAIN,mirrors.aliyun.com

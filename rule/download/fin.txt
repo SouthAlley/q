@@ -1,4 +1,4 @@
-# Main total line 1100 
+# Main total line 1149 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -46,12 +46,14 @@ DOMAIN,app-updates.agilebits.com
 DOMAIN,apt.xpipe.io
 DOMAIN,archive.cs.uu.nl
 DOMAIN,artifacts.electronjs.org
+DOMAIN,assets-production.packagecloud.io
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,aus2-community.mozilla.org
 DOMAIN,aus5.mozilla.org
 DOMAIN,autoupdate.termius.com
 DOMAIN,az764295.vo.msecnd.net
+DOMAIN,binaries.prisma.sh
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddist2-a.akamaihd.net
@@ -67,6 +69,7 @@ DOMAIN,cdimage.kali.org
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-patch.swtor.com
 DOMAIN,cdn-updates.orbstack.dev
+DOMAIN,cdn.cocoapods.org
 DOMAIN,cdn.cypress.io
 DOMAIN,cdn.fwupd.org
 DOMAIN,cdn.hyperbeam.com
@@ -154,15 +157,18 @@ DOMAIN,dl.iina.io
 DOMAIN,dl.l.google.com
 DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
+DOMAIN,dl.nwjs.io
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
 DOMAIN,dl.tailscale.com
 DOMAIN,dl.ui.com
 DOMAIN,dl.wechat.com
+DOMAIN,dl2.nwjs.io
 DOMAIN,dl2.xmind.net
 DOMAIN,dl3.xmind.net
 DOMAIN,dlcdnets.asus.com
 DOMAIN,dlgarenanow-a.akamaihd.net
+DOMAIN,docker.cloudsmith.io
 DOMAIN,down.filen-1.net
 DOMAIN,down.filen-2.net
 DOMAIN,down.filen-3.net
@@ -219,6 +225,7 @@ DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
 DOMAIN,downloadr2.apkmirror.com
 DOMAIN,downloads.1password.com
+DOMAIN,downloads.cloudflareclient.com
 DOMAIN,downloads.cursor.com
 DOMAIN,downloads.lemonsqueezy.com
 DOMAIN,downloads.majestic.com
@@ -347,6 +354,7 @@ DOMAIN,gnuftp.uib.no
 DOMAIN,go-updater.brave.com
 DOMAIN,gog-cdn-fastly-cp77.gog.com
 DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gopkg.in
 DOMAIN,gwdg.de
 DOMAIN,http.kali.org
 DOMAIN,httpd-mirror.sergal.org
@@ -371,6 +379,7 @@ DOMAIN,lip6.fr
 DOMAIN,lysator.liu.se
 DOMAIN,mac-release-static.stash.ws
 DOMAIN,marwan.ma
+DOMAIN,maven.google.com
 DOMAIN,mirror-cdn.xtom.com
 DOMAIN,mirror-hk.koddos.net
 DOMAIN,mirror.0x.sg
@@ -554,6 +563,8 @@ DOMAIN,mirrors.xtom.us
 DOMAIN,msdl.microsoft.com
 DOMAIN,muug.ca
 DOMAIN,nobara-images.nobaraproject.org
+DOMAIN,npm.im
+DOMAIN,npm.jsr.io
 DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdnmac.microsoft.com
@@ -562,7 +573,10 @@ DOMAIN,opfiles.b-cdn.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net
 DOMAIN,osl.ugr.es
+DOMAIN,oss-binaries.phusionpassenger.com
 DOMAIN,packagecloud.io
+DOMAIN,packages-cf.termux.dev
+DOMAIN,packages.httpie.io
 DOMAIN,packages.linuxmint.com
 DOMAIN,packages.microsoft.com
 DOMAIN,packages.oth-regensburg.de
@@ -574,22 +588,38 @@ DOMAIN,piotrkosoft.net
 DOMAIN,piston-data.mojang.com
 DOMAIN,piston-meta.mojang.com
 DOMAIN,pkg-containers.githubusercontent.com
+DOMAIN,pkg.cloudflare.com
+DOMAIN,pkg.cloudflareclient.com
 DOMAIN,pkgs.tailscale.com
 DOMAIN,playwright-akamai.azureedge.net
 DOMAIN,playwright.azureedge.net
+DOMAIN,plugins-artifacts.gradle.org
 DOMAIN,ppa.launchpad.net
 DOMAIN,product-downloads.atlassian.com
+DOMAIN,proxy.golang.org
 DOMAIN,quantum-mirror.hu
 DOMAIN,redstone-launcher.mojang.com
+DOMAIN,registry-cdn.wapm.io
+DOMAIN,registry.bower.io
 DOMAIN,registry.fedoraproject.org
+DOMAIN,registry.npmjs.com
+DOMAIN,registry.npmjs.org
+DOMAIN,release.runcloud.io
 DOMAIN,releases.arc.net
 DOMAIN,releases.grapheneos.org
 DOMAIN,releases.obsidian.md
 DOMAIN,releases.warp.dev
 DOMAIN,releases.whatpulse.org
+DOMAIN,replicate.npmjs.com
 DOMAIN,repo.carbon.sh
 DOMAIN,repo.debiancn.org
+DOMAIN,repo.gradle.org
+DOMAIN,repo.hex.pm
+DOMAIN,repo.maven.apache.org
+DOMAIN,repo.nextdns.io
 DOMAIN,repo.powerdns.com
+DOMAIN,repo1.maven.org
+DOMAIN,repository.jboss.org
 DOMAIN,repository.su
 DOMAIN,rpm.xpipe.io
 DOMAIN,s3.teckids.org
@@ -598,12 +628,16 @@ DOMAIN,security.debian.org
 DOMAIN,security.ubuntu.com
 DOMAIN,sh.cvut.cz
 DOMAIN,share.riseup.net
+DOMAIN,skimdb.npmjs.com
 DOMAIN,snt.utwente.nl
 DOMAIN,softwareupdate.pilotmoon.com
 DOMAIN,sotirov-bg.net
+DOMAIN,static-production.npmjs.com
 DOMAIN,static.adguard.com
 DOMAIN,static.adtidy.org
+DOMAIN,static.npmjs.com
 DOMAIN,static.redox-os.org
+DOMAIN,static.rust-lang.org
 DOMAIN,stats.snipaste.com
 DOMAIN,steam.apac.qtlglb.com
 DOMAIN,steam.eca.qtlglb.com
@@ -661,6 +695,7 @@ DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,cdn77-storage.com
 DOMAIN-SUFFIX,circle-artifacts.com
 DOMAIN-SUFFIX,cloud-object-storage.appdomain.cloud
+DOMAIN-SUFFIX,cloudflare.docker.com
 DOMAIN-SUFFIX,cloudflaremirrors.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,content.cdp.bethesda.net
@@ -678,6 +713,7 @@ DOMAIN-SUFFIX,cos.na-ashburn.myqcloud.com
 DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
 DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
 DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
+DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,deb.debian.org
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
@@ -701,6 +737,7 @@ DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,epicgamescdn.com
+DOMAIN-SUFFIX,fastly.docker.com
 DOMAIN-SUFFIX,file.core.windows.net
 DOMAIN-SUFFIX,file.io
 DOMAIN-SUFFIX,filebin.net
@@ -711,8 +748,12 @@ DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,ftp2.de.debian.org
 DOMAIN-SUFFIX,fuwamofu.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,iso.reactos.org
+DOMAIN-SUFFIX,jitpack.io
+DOMAIN-SUFFIX,k8s.io
 DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
@@ -762,8 +803,10 @@ DOMAIN-SUFFIX,mirrors.spacedump.net
 DOMAIN-SUFFIX,mirrors.tds.net
 DOMAIN-SUFFIX,mirrors.tds.net.org
 DOMAIN-SUFFIX,mirrors.uk2.net
+DOMAIN-SUFFIX,mirrors.utermux.dev
 DOMAIN-SUFFIX,mirrorservice.org
 DOMAIN-SUFFIX,mm.fcix.net
+DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,nic.funet.fi
 DOMAIN-SUFFIX,nitro.download
 DOMAIN-SUFFIX,oss-accelerate-overseas.aliyuncs.com
@@ -782,11 +825,16 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,ports.ubuntu.com
 DOMAIN-SUFFIX,public.blob.vercel-storage.com
+DOMAIN-SUFFIX,public.ecr.aws
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,releases.hashicorp.com
+DOMAIN-SUFFIX,repo.anaconda.com
 DOMAIN-SUFFIX,repo.jing.rocks
 DOMAIN-SUFFIX,s3-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accelerate.amazonaws.com
@@ -1100,3 +1148,4 @@ DOMAIN-SUFFIX,tmpfiles.org
 DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,wup.eshop.nintendo.net
 DOMAIN-SUFFIX,wup.shop.nintendo.net
+DOMAIN-SUFFIX,yarnpkg.com

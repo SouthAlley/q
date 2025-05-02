@@ -1,4 +1,4 @@
-# Main total line 1007 
+# Main total line 1008 
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -374,6 +374,7 @@ DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,gorouter.info
 DOMAIN-SUFFIX,got001.com
 DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,greenmangaming.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,guazi.com
 DOMAIN-SUFFIX,guoguo-app.com

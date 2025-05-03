@@ -1,4 +1,4 @@
-# Main total line 1149 
+# Main total line 1150 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -721,6 +721,7 @@ DOMAIN-SUFFIX,desktop.docker.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,dl.discordapp.net
 DOMAIN-SUFFIX,dl.dlsite.com
+DOMAIN-SUFFIX,dl.dropboxusercontent.com
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,dl.sourceforge.net

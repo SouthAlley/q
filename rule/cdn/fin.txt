@@ -1,4 +1,4 @@
-# Main total line 3543 
+# Main total line 3548 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1560,6 +1560,7 @@ DOMAIN,media.kit.com
 DOMAIN,media.lantern.io
 DOMAIN,media.licdn.com
 DOMAIN,media.loom-app.com
+DOMAIN,media.maptiler.com
 DOMAIN,media.mas.to
 DOMAIN,media.masto.nu
 DOMAIN,media.minecraftforum.net
@@ -1815,6 +1816,7 @@ DOMAIN,resizing.flixster.com
 DOMAIN,resource-accel.fs.com
 DOMAIN,resource.akashic.coe.nicovideo.jp
 DOMAIN,resource.fs.com
+DOMAIN,resource.tnlmediagene.com
 DOMAIN,resource.video.nimg.jp
 DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
@@ -2189,6 +2191,7 @@ DOMAIN,static.parallels.com
 DOMAIN,static.peatio.com
 DOMAIN,static.pfrt.yna.co.kr
 DOMAIN,static.pingcap.com
+DOMAIN,static.planetminecraft.com
 DOMAIN,static.playstation.com
 DOMAIN,static.plus.net
 DOMAIN,static.politico.com
@@ -2220,6 +2223,7 @@ DOMAIN,static.telegraph.co.uk
 DOMAIN,static.tenki.jp
 DOMAIN,static.test-beta.com
 DOMAIN,static.theguardian.com
+DOMAIN,static.threatlocker.com
 DOMAIN,static.toiimg.com
 DOMAIN,static.tokenview.io
 DOMAIN,static.toss.im
@@ -2306,6 +2310,7 @@ DOMAIN,sts.online.visualstudio.com
 DOMAIN,sts3.wsj.net
 DOMAIN,stubdownloader.services.mozilla.com
 DOMAIN,support.content.office.net
+DOMAIN,sw.cool3c.com
 DOMAIN,sync.getpublica.com
 DOMAIN,t.betterstack.com
 DOMAIN,t.nhentai.net

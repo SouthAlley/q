@@ -1,4 +1,4 @@
-# Main total line 1150 
+# Main total line 1151 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -81,6 +81,7 @@ DOMAIN,cdn.zoom.us
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,clarkson.edu
 DOMAIN,client.hikarifield.co.jp
+DOMAIN,cloud.daporkchop.net
 DOMAIN,cloudfront.debian.net
 DOMAIN,codeload.github.com
 DOMAIN,componentupdater.brave.com

@@ -1,4 +1,4 @@
-# Main total line 1151 
+# Main total line 1149 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -27,7 +27,6 @@ DOMAIN,apache.mesi.com.ar
 DOMAIN,apache.miloslavbrada.cz
 DOMAIN,apache.mindstudios.com
 DOMAIN,apache.mivzakim.net
-DOMAIN,apache.osuosl.org
 DOMAIN,apache.otenet.gr
 DOMAIN,apache.proserve.nl
 DOMAIN,apache.rediris.es
@@ -660,7 +659,6 @@ DOMAIN,u.keka.io
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.googleapis.com
 DOMAIN,update.greasyfork.org
-DOMAIN,update.kiwibrowser.com
 DOMAIN,update.parallels.com
 DOMAIN,update.sleazyfork.org
 DOMAIN,updater.snipaste.com

@@ -1,4 +1,4 @@
-# Main total line 3558 
+# Main total line 3560 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1616,6 +1616,7 @@ DOMAIN,medias.meow.social
 DOMAIN,medium-media.vgm.io
 DOMAIN,megapx-assets.dcard.tw
 DOMAIN,meta.prismlauncher.org
+DOMAIN,meteorclient.com
 DOMAIN,metrics.kapa.ai
 DOMAIN,micro.rubiconproject.com
 DOMAIN,mintlify.b-cdn.net
@@ -2142,6 +2143,7 @@ DOMAIN,static.guim.co.uk
 DOMAIN,static.heavy-r.com
 DOMAIN,static.helpjuice.com
 DOMAIN,static.hotjar.com
+DOMAIN,static.hubspot.com
 DOMAIN,static.hugedomains.com
 DOMAIN,static.ietf.org
 DOMAIN,static.ifunny.co

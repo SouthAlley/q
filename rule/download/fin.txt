@@ -1,4 +1,4 @@
-# Main total line 1149 
+# Main total line 1150 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -161,6 +161,7 @@ DOMAIN,dl.nwjs.io
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
 DOMAIN,dl.tailscale.com
+DOMAIN,dl.thorium.rocks
 DOMAIN,dl.ui.com
 DOMAIN,dl.wechat.com
 DOMAIN,dl2.nwjs.io

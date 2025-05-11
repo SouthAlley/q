@@ -1,4 +1,4 @@
-# Main total line 3571 
+# Main total line 3572 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2243,6 +2243,7 @@ DOMAIN,static.threatlocker.com
 DOMAIN,static.toiimg.com
 DOMAIN,static.tokenview.io
 DOMAIN,static.toss.im
+DOMAIN,static.touhoudb.com
 DOMAIN,static.tp-link.com
 DOMAIN,static.tradingview.com
 DOMAIN,static.tronscan.org

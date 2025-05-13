@@ -249,3 +249,4 @@ DOMAIN-SUFFIX, bridgeoos.com, REJECT
 DOMAIN, ad-evods.tianya.tv, REJECT
 DOMAIN, adx.tuia.cn, REJECT
 DOMAIN-SUFFIX, 66mobi.com, REJECT
+DOMAIN, rpe.xdplt.com, REJECT

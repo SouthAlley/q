@@ -1,4 +1,4 @@
-# Main total line 3579 
+# Main total line 3577 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -560,7 +560,6 @@ DOMAIN,cdn.lemonsqueezy.com
 DOMAIN,cdn.libravatar.org
 DOMAIN,cdn.lihkg.com
 DOMAIN,cdn.linearicons.com
-DOMAIN,cdn.linux.do
 DOMAIN,cdn.livechatinc.com
 DOMAIN,cdn.loom.com
 DOMAIN,cdn.macstories.net
@@ -2566,7 +2565,6 @@ DOMAIN-SUFFIX,agechecker-northern-apps.com
 DOMAIN-SUFFIX,agechecker.northern-apps.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,airio3.live
-DOMAIN-SUFFIX,akamai-content-network.com
 DOMAIN-SUFFIX,akidoo.top
 DOMAIN-SUFFIX,alexdav.id
 DOMAIN-SUFFIX,algolianet.com

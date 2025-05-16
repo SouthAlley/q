@@ -1,4 +1,4 @@
-# Main total line 1150 
+# Main total line 1149 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -326,7 +326,6 @@ DOMAIN,ftp.task.gda.pl
 DOMAIN,ftp.tc.edu.tw
 DOMAIN,ftp.tsukuba.wide.ad.jp
 DOMAIN,ftp.tu-chemnitz.de
-DOMAIN,ftp.tudelft.nl
 DOMAIN,ftp.twaren.net
 DOMAIN,ftp.u-aizu.ac.jp
 DOMAIN,ftp.ubuntu-tw.org

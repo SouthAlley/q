@@ -1,4 +1,4 @@
-# Main total line 3576 
+# Main total line 3579 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -341,6 +341,7 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
+DOMAIN,cache.omnicalculator.com
 DOMAIN,canny-assets.io
 DOMAIN,cassette.sphdigital.com.sg
 DOMAIN,cc-embed.adobe.com
@@ -589,6 +590,7 @@ DOMAIN,cdn.neverbounce.com
 DOMAIN,cdn.nolt.io
 DOMAIN,cdn.now.gg
 DOMAIN,cdn.nperf.com
+DOMAIN,cdn.omnicalculator.com
 DOMAIN,cdn.one.store
 DOMAIN,cdn.onesignal.com
 DOMAIN,cdn.onetime.dog
@@ -2414,6 +2416,7 @@ DOMAIN,unsubscribe-imgs.leavemealone.com
 DOMAIN,updates.signal.org
 DOMAIN,updates2.signal.org
 DOMAIN,upload.wikimedia.org
+DOMAIN,uploads-cdn.omnicalculator.com
 DOMAIN,uploads.codesandbox.io
 DOMAIN,uploads.guim.co.uk
 DOMAIN,uploads.linear.app

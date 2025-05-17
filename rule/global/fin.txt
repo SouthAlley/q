@@ -1,4 +1,4 @@
-# Main total line 20340 
+# Main total line 20329 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -22,6 +22,7 @@ DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,dl.begellhouse.com
 DOMAIN,dy.tagsub.net
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
+DOMAIN,faronics.kayako.com
 DOMAIN,firstsearch.oclc.org
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
@@ -77,6 +78,7 @@ DOMAIN-SUFFIX,110xnxx.com
 DOMAIN-SUFFIX,1111mod-tube.buzz
 DOMAIN-SUFFIX,1111mode.xyz
 DOMAIN-SUFFIX,1111modpo.info
+DOMAIN-SUFFIX,111666.best
 DOMAIN-SUFFIX,112263.com
 DOMAIN-SUFFIX,114av.xyz
 DOMAIN-SUFFIX,119474.xyz
@@ -1805,7 +1807,6 @@ DOMAIN-SUFFIX,audiencenetwork.com
 DOMAIN-SUFFIX,audiencenetwork.tv
 DOMAIN-SUFFIX,audiobeatsau.com
 DOMAIN-SUFFIX,audiobeatsbydre.com
-DOMAIN-SUFFIX,audiomack.com
 DOMAIN-SUFFIX,audiomonsterbeatsonline.com
 DOMAIN-SUFFIX,audionow.com
 DOMAIN-SUFFIX,auntymaza.com
@@ -4437,7 +4438,6 @@ DOMAIN-SUFFIX,coedcherry.com
 DOMAIN-SUFFIX,coinalyze.net
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
-DOMAIN-SUFFIX,coincarp.com
 DOMAIN-SUFFIX,coindesk.com
 DOMAIN-SUFFIX,coinegg.com
 DOMAIN-SUFFIX,coinex.com
@@ -4476,7 +4476,6 @@ DOMAIN-SUFFIX,come29.xyz
 DOMAIN-SUFFIX,comedycentral.com
 DOMAIN-SUFFIX,comefromchina.com
 DOMAIN-SUFFIX,cometotheduckside.com
-DOMAIN-SUFFIX,comffvpn.com
 DOMAIN-SUFFIX,comic-mega.me
 DOMAIN-SUFFIX,comicbox.xyz
 DOMAIN-SUFFIX,comicscartoonporn.com
@@ -6468,7 +6467,6 @@ DOMAIN-SUFFIX,fanhaodang.com
 DOMAIN-SUFFIX,fanhaodian.com
 DOMAIN-SUFFIX,fanhaolou.com
 DOMAIN-SUFFIX,fanhowab.buzz
-DOMAIN-SUFFIX,fani.com
 DOMAIN-SUFFIX,fanleakstoday.com
 DOMAIN-SUFFIX,fanqiang.network
 DOMAIN-SUFFIX,fanqiangdang.com
@@ -6523,7 +6521,6 @@ DOMAIN-SUFFIX,farfetch.com
 DOMAIN-SUFFIX,farfetch.net
 DOMAIN-SUFFIX,farmers
 DOMAIN-SUFFIX,faronics.com
-DOMAIN-SUFFIX,faronics.kayako.com
 DOMAIN-SUFFIX,faronics.tech
 DOMAIN-SUFFIX,faronicslabs.com
 DOMAIN-SUFFIX,faronicswise.com
@@ -6553,7 +6550,6 @@ DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,fatakat-n.club
 DOMAIN-SUFFIX,fatbtc.com
 DOMAIN-SUFFIX,fatstube.com
-DOMAIN-SUFFIX,favcomic.com
 DOMAIN-SUFFIX,favebook.com
 DOMAIN-SUFFIX,favelaporno.com
 DOMAIN-SUFFIX,favepornmovs.com
@@ -8038,7 +8034,6 @@ DOMAIN-SUFFIX,gyutto.com
 DOMAIN-SUFFIX,gzm.tv
 DOMAIN-SUFFIX,gzone-anime.info
 DOMAIN-SUFFIX,h-china.org
-DOMAIN-SUFFIX,h-ciyuan.com
 DOMAIN-SUFFIX,h-doujinshi.xyz
 DOMAIN-SUFFIX,h-flash.com
 DOMAIN-SUFFIX,h-moe.com
@@ -9043,7 +9038,6 @@ DOMAIN-SUFFIX,i-book.net
 DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,i-o-u.info
 DOMAIN-SUFFIX,i-scmp.com
-DOMAIN-SUFFIX,i.111666.best
 DOMAIN-SUFFIX,i.org
 DOMAIN-SUFFIX,i2runner.com
 DOMAIN-SUFFIX,i818hk.com
@@ -11202,7 +11196,6 @@ DOMAIN-SUFFIX,mansurfer.com
 DOMAIN-SUFFIX,manta.com
 DOMAIN-SUFFIX,mantochichi.com
 DOMAIN-SUFFIX,manurefetish.com
-DOMAIN-SUFFIX,manwa.me
 DOMAIN-SUFFIX,manytoon.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,manyvoices.news
@@ -13424,7 +13417,6 @@ DOMAIN-SUFFIX,openbase.com
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opendemocracy.net
-DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,opendroneid.org
@@ -16282,7 +16274,6 @@ DOMAIN-SUFFIX,sosad.fun
 DOMAIN-SUFFIX,soso7778.com
 DOMAIN-SUFFIX,sosreader.com
 DOMAIN-SUFFIX,sostibet.org
-DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,sou-tong.org
 DOMAIN-SUFFIX,soubory.com
 DOMAIN-SUFFIX,souka.xyz
@@ -16412,7 +16403,6 @@ DOMAIN-SUFFIX,sshs.pw
 DOMAIN-SUFFIX,sshs.xyz
 DOMAIN-SUFFIX,ssl.com
 DOMAIN-SUFFIX,ssl443.org
-DOMAIN-SUFFIX,ssm.fun
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,sspanel.org
 DOMAIN-SUFFIX,ssplive.pw
@@ -17236,7 +17226,6 @@ DOMAIN-SUFFIX,thomsonreuters.com
 DOMAIN-SUFFIX,thomsonreutersmexico.com
 DOMAIN-SUFFIX,thongdreams.com
 DOMAIN-SUFFIX,thotbook.tv
-DOMAIN-SUFFIX,thotsbay.tv
 DOMAIN-SUFFIX,thottok.com
 DOMAIN-SUFFIX,thotvids.com
 DOMAIN-SUFFIX,threadreaderapp.com

@@ -1,4 +1,4 @@
-# Main total line 1149 
+# Main total line 1151 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -68,6 +68,7 @@ DOMAIN,cdimage.kali.org
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-patch.swtor.com
 DOMAIN,cdn-updates.orbstack.dev
+DOMAIN,cdn.azul.com
 DOMAIN,cdn.cocoapods.org
 DOMAIN,cdn.cypress.io
 DOMAIN,cdn.fwupd.org
@@ -371,6 +372,7 @@ DOMAIN,kde.c3sl.ufpr.br
 DOMAIN,kde.cu.be
 DOMAIN,kde.ip-connect.vn.ua
 DOMAIN,kr.freebsd.org
+DOMAIN,launcher.mojang.com
 DOMAIN,level3.blizzard.com
 DOMAIN,lib.ugent.be
 DOMAIN,libraries.minecraft.net

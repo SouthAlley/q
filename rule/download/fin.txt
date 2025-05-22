@@ -1,4 +1,4 @@
-# Main total line 1151 
+# Main total line 1153 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -52,6 +52,7 @@ DOMAIN,aus2-community.mozilla.org
 DOMAIN,aus5.mozilla.org
 DOMAIN,autoupdate.termius.com
 DOMAIN,az764295.vo.msecnd.net
+DOMAIN,b2.mcarchive.net
 DOMAIN,binaries.prisma.sh
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
@@ -135,6 +136,7 @@ DOMAIN,ctan.um.ac.ir
 DOMAIN,ctan.yazd.ac.ir
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,d.myani.org
+DOMAIN,data.gameflare.com
 DOMAIN,de.freedif.org
 DOMAIN,deb.nodesource.com
 DOMAIN,debian-archive.trafficmanager.net

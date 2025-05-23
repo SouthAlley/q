@@ -1,4 +1,4 @@
-# Main total line 6872 
+# Main total line 6873 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2154,6 +2154,7 @@ DOMAIN-SUFFIX,galaxymacau.com
 DOMAIN-SUFFIX,galenwu.com
 DOMAIN-SUFFIX,galstars.net
 DOMAIN-SUFFIX,game735.com
+DOMAIN-SUFFIX,gameflare.com
 DOMAIN-SUFFIX,gamejolt.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gameon-masters.com

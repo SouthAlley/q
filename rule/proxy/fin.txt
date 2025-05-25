@@ -1,4 +1,4 @@
-# Main total line 6873 
+# Main total line 6874 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -4683,6 +4683,7 @@ DOMAIN-SUFFIX,redbullracing.com
 DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,redchinacn.org
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,reddithelp.com
 DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,redditmail.com
 DOMAIN-SUFFIX,redditmedia.com

@@ -1,4 +1,4 @@
-# Main total line 3593 
+# Main total line 3594 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2193,6 +2193,7 @@ DOMAIN,static.missav.com
 DOMAIN,static.mocortech.com
 DOMAIN,static.moegoat.com
 DOMAIN,static.monei.net
+DOMAIN,static.moomoo.com
 DOMAIN,static.moonpay.com
 DOMAIN,static.music.com
 DOMAIN,static.mysph.sph.com.sg

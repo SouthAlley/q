@@ -1,4 +1,4 @@
-# Main total line 6874 
+# Main total line 6870 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -60,7 +60,6 @@ DOMAIN-SUFFIX,2000fun.com
 DOMAIN-SUFFIX,2008xianzhang.info
 DOMAIN-SUFFIX,2021hkcharter.com
 DOMAIN-SUFFIX,2047.name
-DOMAIN-SUFFIX,2047.one
 DOMAIN-SUFFIX,2049bbs.xyz
 DOMAIN-SUFFIX,21andy.com
 DOMAIN-SUFFIX,21join.com
@@ -642,7 +641,6 @@ DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,bic2011.org
 DOMAIN-SUFFIX,bidswitch.net
 DOMAIN-SUFFIX,biedian.me
-DOMAIN-SUFFIX,big.one
 DOMAIN-SUFFIX,bigbeans.solutions
 DOMAIN-SUFFIX,bigfools.com
 DOMAIN-SUFFIX,bigjapanesesex.com
@@ -3190,7 +3188,6 @@ DOMAIN-SUFFIX,kebrum.com
 DOMAIN-SUFFIX,kechara.com
 DOMAIN-SUFFIX,keepandshare.com
 DOMAIN-SUFFIX,keezmovies.com
-DOMAIN-SUFFIX,kelee.one
 DOMAIN-SUFFIX,kendatire.com
 DOMAIN-SUFFIX,kendincos.net
 DOMAIN-SUFFIX,kenengba.com
@@ -3594,7 +3591,6 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacritic.com
-DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,metart.com
@@ -3670,7 +3666,6 @@ DOMAIN-SUFFIX,mitbbsau.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mixer.com
 DOMAIN-SUFFIX,mixero.com
-DOMAIN-SUFFIX,mixin.one
 DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mixpod.com
 DOMAIN-SUFFIX,mixx.com
@@ -3718,6 +3713,7 @@ DOMAIN-SUFFIX,monlamit.org
 DOMAIN-SUFFIX,monocloud.me
 DOMAIN-SUFFIX,monster.com
 DOMAIN-SUFFIX,moodyz.com
+DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,moonbbs.com
 DOMAIN-SUFFIX,moonbbs.info
@@ -4135,8 +4131,8 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,one
 DOMAIN-SUFFIX,one.com
-DOMAIN-SUFFIX,one.one
 DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com

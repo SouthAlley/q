@@ -1,4 +1,4 @@
-# Main total line 6870 
+# Main total line 6872 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1415,6 +1415,7 @@ DOMAIN-SUFFIX,delicious.com
 DOMAIN-SUFFIX,demandbase.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,democrats.org
+DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,derekhsu.homeip.net
@@ -3126,6 +3127,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsfiddle.net
 DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com
+DOMAIN-SUFFIX,jsr.io
 DOMAIN-SUFFIX,jubushoushen.com
 DOMAIN-SUFFIX,juhuaren.com
 DOMAIN-SUFFIX,jukujo-club.com

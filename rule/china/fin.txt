@@ -1,4 +1,4 @@
-# Main total line 1012 
+# Main total line 1013 
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bokecc.com
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,bulicdn2.com
 DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,bytecdntp.com
 DOMAIN-SUFFIX,byted-static.com

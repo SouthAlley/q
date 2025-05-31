@@ -1,5 +1,8 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+host,api-dsp.8ziben.com, reject
+host,sdk.zhangyuyidong.cn,reject
+
 DOMAIN-SUFFIX,app-analytics-services.com
 
 DOMAIN-SUFFIX,afdback.ppsimg.com

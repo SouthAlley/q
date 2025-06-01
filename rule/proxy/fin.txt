@@ -1,4 +1,4 @@
-# Main total line 6875 
+# Main total line 6877 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -696,6 +696,7 @@ DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,bl-doujinsouko.com
 DOMAIN-SUFFIX,blacked.com
 DOMAIN-SUFFIX,blacklogic.com
+DOMAIN-SUFFIX,blackmagicdesign.com
 DOMAIN-SUFFIX,blackvpn.com
 DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,blewpass.com
@@ -5337,6 +5338,7 @@ DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,synapse.org
 DOMAIN-SUFFIX,syncback.com
 DOMAIN-SUFFIX,syosetu.com
+DOMAIN-SUFFIX,sysctl-explorer.net
 DOMAIN-SUFFIX,sysresccd.org
 DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com

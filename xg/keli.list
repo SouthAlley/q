@@ -8,7 +8,6 @@ AND, ((DOMAIN-KEYWORD, v), (DOMAIN-KEYWORD, -be-pack.pglstatp-toutiao.com)), REJ
 AND, ((DOMAIN-KEYWORD, sf), (DOMAIN-KEYWORD, -be-pack.pglstatp-toutiao.com)), REJECT
 AND, ((DOMAIN-KEYWORD, s), (DOMAIN-KEYWORD, -fe-scm.pglstatp-toutiao.com)), REJECT
 AND, ((DOMAIN-KEYWORD, sf), (DOMAIN-KEYWORD, -ttcdn-tos.pstatp.com)), REJECT
-AND, ((DOMAIN-KEYWORD, sf), (DOMAIN-KEYWORD, -fe-tos.pglstatp-toutiao.com)), REJECT
 AND, ((DOMAIN-KEYWORD, sf), (DOMAIN-KEYWORD, -static.i18n-pglstatp.com)), REJECT
 AND, ((DOMAIN-KEYWORD, if), (DOMAIN-KEYWORD, -cdn-tos.bytescm.com)), REJECT 
 AND, ((DOMAIN-KEYWORD, if), (DOMAIN-KEYWORD, -analytics.bytescm.com)), REJECT
@@ -42,6 +41,7 @@ DOMAIN, pangolin.snssdk.com, REJECT
 DOMAIN, lf-cdn-tos.bytescm.com, REJECT
 DOMAIN, gromore.pangolin-sdk-toutiao.com, REJECT
 DOMAIN, ether-pack.pangolin-sdk-toutiao.com, REJECT
+DOMAIN, sf3-fe-tos.pglstatp-toutiao.com, REJECT
 DOMAIN-KEYWORD, -ad-sign.byteimg.com, REJECT
 DOMAIN-KEYWORD, api-access.pangolin-sdk-toutiao, REJECT
 DOMAIN-KEYWORD, log-api.pangolin-sdk-toutiao, REJECT
@@ -63,6 +63,7 @@ DOMAIN, aaid.uyunad.com, REJECT
 DOMAIN, yumao.puata.info, REJECT
 DOMAIN, gdfp.gifshow.com, REJECT
 DOMAIN, open.e.kuaishou.com, REJECT
+DOMAIN, open.e.kuaishou.cn, REJECT
 DOMAIN, adtrack.e.kuaishou.com, REJECT
 DOMAIN-SUFFIX, adukwai.com, REJECT
 DOMAIN, init.supersonicads.com, REJECT
@@ -253,3 +254,8 @@ DOMAIN, ad-evods.tianya.tv, REJECT
 DOMAIN, adx.tuia.cn, REJECT
 DOMAIN-SUFFIX, 66mobi.com, REJECT
 DOMAIN, rpe.xdplt.com, REJECT
+DOMAIN-SUFFIX, adjust.com, REJECT
+DOMAIN-SUFFIX, adjust.net.in, REJECT
+DOMAIN, googleads.g.doubleclick-cn.net, REJECT
+DOMAIN-SUFFIX, doubleclick-cn.net, REJECT
+DOMAIN-SUFFIX, googlesyndication-cn.com, REJECT

@@ -1,4 +1,4 @@
-# Main total line 6877 
+# Main total line 6878 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1290,6 +1290,7 @@ DOMAIN-SUFFIX,csuchen.de
 DOMAIN-SUFFIX,ctao.org
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,ctfriend.net
+DOMAIN-SUFFIX,ctinews.com
 DOMAIN-SUFFIX,ctowc.org
 DOMAIN-SUFFIX,ctwant.com
 DOMAIN-SUFFIX,cuhkacs.org

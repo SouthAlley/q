@@ -1,4 +1,4 @@
-# Main total line 1156 
+# Main total line 1157 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -683,6 +683,7 @@ DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com
 DOMAIN-SUFFIX,1fichier.info
+DOMAIN-SUFFIX,allawnofs.com
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,apache.si
 DOMAIN-SUFFIX,archive.debian.org

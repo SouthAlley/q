@@ -1,4 +1,4 @@
-# Main total line 1155 
+# Main total line 1156 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -249,6 +249,7 @@ DOMAIN,espejito.fder.edu.uy
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
+DOMAIN,files2.freedownloadmanager.org
 DOMAIN,formulae.brew.sh
 DOMAIN,fr2.rpmfind.net
 DOMAIN,freedif.org

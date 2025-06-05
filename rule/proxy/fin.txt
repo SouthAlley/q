@@ -1,4 +1,4 @@
-# Main total line 6878 
+# Main total line 6882 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -945,6 +945,7 @@ DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdkworkshop.com
 DOMAIN-SUFFIX,cdn.angruo.com
+DOMAIN-SUFFIX,cdn.arstechnica.net
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,cdnpure.com
@@ -1085,6 +1086,7 @@ DOMAIN-SUFFIX,chubun.com
 DOMAIN-SUFFIX,chuizi.net
 DOMAIN-SUFFIX,churchinhongkong.org
 DOMAIN-SUFFIX,chushigangdrug.ch
+DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,cienen.com
 DOMAIN-SUFFIX,cilk.com
@@ -1551,6 +1553,7 @@ DOMAIN-SUFFIX,drepung.org
 DOMAIN-SUFFIX,drgan.net
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,drmingxia.org
+DOMAIN-SUFFIX,droidwin.com
 DOMAIN-SUFFIX,dronedj.com
 DOMAIN-SUFFIX,dropbooks.tv
 DOMAIN-SUFFIX,droplr.com
@@ -4141,6 +4144,7 @@ DOMAIN-SUFFIX,one.com
 DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
+DOMAIN-SUFFIX,onepluscommunityserver.com
 DOMAIN-SUFFIX,onevps.com
 DOMAIN-SUFFIX,onion.city
 DOMAIN-SUFFIX,onion.ly

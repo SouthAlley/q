@@ -1,4 +1,4 @@
-# Main total line 1157 
+# Main total line 1159 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -77,6 +77,7 @@ DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
 DOMAIN,cdn.kde.org
 DOMAIN,cdn.opensuse.org
+DOMAIN,cdn.organicmaps.app
 DOMAIN,cdn.winget.microsoft.com
 DOMAIN,cdn.zoom.us
 DOMAIN,ciscobinary.openh264.org
@@ -386,6 +387,7 @@ DOMAIN,lysator.liu.se
 DOMAIN,mac-release-static.stash.ws
 DOMAIN,marwan.ma
 DOMAIN,maven.google.com
+DOMAIN,meta.omaps.app
 DOMAIN,meta.prismlauncher.org
 DOMAIN,mirror-cdn.xtom.com
 DOMAIN,mirror-hk.koddos.net

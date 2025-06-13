@@ -1,4 +1,4 @@
-# Main total line 3613 
+# Main total line 3617 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -14,6 +14,7 @@ DOMAIN,account-cdn.svc.ui.com
 DOMAIN,accounts-cdn.9gag.com
 DOMAIN,adkit.9pub.io
 DOMAIN,aff.equalweb.com
+DOMAIN,affportal.bhphoto.com
 DOMAIN,agi.armorgames.com
 DOMAIN,aimg.fc2.com
 DOMAIN,ajax.cat.net
@@ -41,6 +42,7 @@ DOMAIN,api.allorigins.win
 DOMAIN,api.bintray.com
 DOMAIN,api.crashguard.me
 DOMAIN,api.dicebear.com
+DOMAIN,api.fontshare.com
 DOMAIN,api.iconify.design
 DOMAIN,api.indexnow.org
 DOMAIN,api.instantly.ai
@@ -945,6 +947,7 @@ DOMAIN,dam.freshworks.com
 DOMAIN,damassets.autodesk.net
 DOMAIN,dassets.shimano.com
 DOMAIN,data.jsdelivr.com
+DOMAIN,data.osmand.net
 DOMAIN,data.pendo.io
 DOMAIN,data.schemaapp.com
 DOMAIN,data.web.clickup.com
@@ -1544,6 +1547,7 @@ DOMAIN,mangaz-static.j-comi.jp
 DOMAIN,mantisloader.mantis-awx.com
 DOMAIN,maps.geoapify.com
 DOMAIN,maps.gstatic.com
+DOMAIN,maptile.osmand.net
 DOMAIN,marber-cdn.economist.com
 DOMAIN,marfeelexperimentsexperienceengine.mrf.io
 DOMAIN,marketing.figma.com

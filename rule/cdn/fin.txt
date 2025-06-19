@@ -1,4 +1,4 @@
-# Main total line 3634 
+# Main total line 3637 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1979,6 +1979,7 @@ DOMAIN,screenshots.debian.net
 DOMAIN,screenshots.downloadtorrentfile.com
 DOMAIN,screenshots.webflow.com
 DOMAIN,scripts.dailymail.co.uk
+DOMAIN,scripts.scriptwrapper.com
 DOMAIN,scripts.webeo.com
 DOMAIN,sdata.ndtv.com
 DOMAIN,sdk.customfit.ai
@@ -2264,6 +2265,7 @@ DOMAIN,static.redhat.com
 DOMAIN,static.registration.bluehost.com
 DOMAIN,static.reo.dev
 DOMAIN,static.replay.io
+DOMAIN,static.salidzini.lv
 DOMAIN,static.scarf.sh
 DOMAIN,static.seel.com
 DOMAIN,static.serverhunter.com
@@ -3107,6 +3109,7 @@ DOMAIN-SUFFIX,jbkcdn.io
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,jinyingimage.com
 DOMAIN-SUFFIX,jisuimage.com
+DOMAIN-SUFFIX,jotai.org
 DOMAIN-SUFFIX,jpg5.su
 DOMAIN-SUFFIX,jpgjingpinx.com
 DOMAIN-SUFFIX,js-eu1.hubspot.com

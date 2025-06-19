@@ -1,4 +1,4 @@
-# Main total line 6902 
+# Main total line 6905 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -3246,6 +3246,8 @@ DOMAIN-SUFFIX,ko-fi.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
 DOMAIN-SUFFIX,kodingen.com
+DOMAIN-SUFFIX,komoot.com
+DOMAIN-SUFFIX,komoot.net
 DOMAIN-SUFFIX,kompozer.net
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,kone.com
@@ -3998,6 +4000,7 @@ DOMAIN-SUFFIX,niu.moe
 DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njactb.org
+DOMAIN-SUFFIX,njav.com
 DOMAIN-SUFFIX,njuice.com
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,nlfreevpn.com

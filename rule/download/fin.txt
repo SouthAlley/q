@@ -1,4 +1,4 @@
-# Main total line 1167 
+# Main total line 1168 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -688,6 +688,7 @@ DOMAIN,versioncheck.addons.mozilla.org
 DOMAIN,vesta.informatik.rwth-aachen.de
 DOMAIN,vfat.classicreload.com
 DOMAIN,www-ftp.lip6.fr
+DOMAIN,www2.aomeisoftware.com
 DOMAIN,xenia.sote.hu
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com

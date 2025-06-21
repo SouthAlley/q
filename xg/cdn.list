@@ -1,4 +1,4 @@
-# Main total line 3634 
+# Main total line 3642 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -375,6 +375,7 @@ DOMAIN,cdn-img3.iporntv.net
 DOMAIN,cdn-live.foreignaffairs.com
 DOMAIN,cdn-longterm.mee6.xyz
 DOMAIN,cdn-main.plus500.com
+DOMAIN,cdn-media-0.freecodecamp.org
 DOMAIN,cdn-media-1.freecodecamp.org
 DOMAIN,cdn-media-2.freecodecamp.org
 DOMAIN,cdn-mobile.aptoide.com
@@ -873,6 +874,7 @@ DOMAIN,cloud.redhat.com
 DOMAIN,cloud.typenetwork.com
 DOMAIN,cloudflare.tv
 DOMAIN,cloudfront.barilliance.com
+DOMAIN,cloudfront.codeproject.com
 DOMAIN,cmp-cdn.p.aws.economist.com
 DOMAIN,cms-assets.nodecraft.com
 DOMAIN,cms-assets.webediamovies.pro
@@ -1742,6 +1744,7 @@ DOMAIN,pba.apple.com
 DOMAIN,pbc.nypost.com
 DOMAIN,pbc.wsj.com
 DOMAIN,pbcdn1.podbean.com
+DOMAIN,pbs-prod.linustechtips.com
 DOMAIN,pbs.floatplane.com
 DOMAIN,pcdn-my.pcloud.com
 DOMAIN,pcdn-www.pcloud.com
@@ -1978,6 +1981,7 @@ DOMAIN,screenshots.debian.net
 DOMAIN,screenshots.downloadtorrentfile.com
 DOMAIN,screenshots.webflow.com
 DOMAIN,scripts.dailymail.co.uk
+DOMAIN,scripts.scriptwrapper.com
 DOMAIN,scripts.webeo.com
 DOMAIN,sdata.ndtv.com
 DOMAIN,sdk.customfit.ai
@@ -2263,6 +2267,7 @@ DOMAIN,static.redhat.com
 DOMAIN,static.registration.bluehost.com
 DOMAIN,static.reo.dev
 DOMAIN,static.replay.io
+DOMAIN,static.salidzini.lv
 DOMAIN,static.scarf.sh
 DOMAIN,static.seel.com
 DOMAIN,static.serverhunter.com
@@ -2686,6 +2691,7 @@ DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,botsrv2.com
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,bp.blogspot.com
+DOMAIN-SUFFIX,brightspotcdn.com
 DOMAIN-SUFFIX,bstarstatic.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,bugly.qcloud.com
@@ -2846,6 +2852,7 @@ DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,drtst.com
 DOMAIN-SUFFIX,dsc.cloud
 DOMAIN-SUFFIX,dtci-pe-vp-image-resizer.platform.edgedatg.com
+DOMAIN-SUFFIX,dubcdn.com
 DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,dummyjson.com
 DOMAIN-SUFFIX,dwcdn.net
@@ -3106,6 +3113,7 @@ DOMAIN-SUFFIX,jbkcdn.io
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,jinyingimage.com
 DOMAIN-SUFFIX,jisuimage.com
+DOMAIN-SUFFIX,jotai.org
 DOMAIN-SUFFIX,jpg5.su
 DOMAIN-SUFFIX,jpgjingpinx.com
 DOMAIN-SUFFIX,js-eu1.hubspot.com

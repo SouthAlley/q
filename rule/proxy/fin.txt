@@ -1,4 +1,4 @@
-# Main total line 6905 
+# Main total line 6908 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -331,6 +331,7 @@ DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amtb-taipei.org
+DOMAIN-SUFFIX,amuletmc.com
 DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
@@ -1496,6 +1497,7 @@ DOMAIN-SUFFIX,dns-stuff.com
 DOMAIN-SUFFIX,dns04.com
 DOMAIN-SUFFIX,dns05.com
 DOMAIN-SUFFIX,dns2go.com
+DOMAIN-SUFFIX,dnschecker.org
 DOMAIN-SUFFIX,dnscrypt.org
 DOMAIN-SUFFIX,dnset.com
 DOMAIN-SUFFIX,dnsimple.com
@@ -3474,6 +3476,7 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,m8008.com
 DOMAIN-SUFFIX,ma.hao123.com
+DOMAIN-SUFFIX,macaddress.io
 DOMAIN-SUFFIX,macgamestore.com
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macpaw.com

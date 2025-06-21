@@ -1,4 +1,4 @@
-# Main total line 1168 
+# Main total line 1169 
 # ------------------------------------------
 DOMAIN,addins.deepl.com
 DOMAIN,amupdatedl.microsoft.com
@@ -189,6 +189,7 @@ DOMAIN,down.filen.net
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download-core.sys.truenas.net
 DOMAIN,download-installer.cdn.mozilla.net
+DOMAIN,download.ameliorated.io
 DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
 DOMAIN,download.beeper.com

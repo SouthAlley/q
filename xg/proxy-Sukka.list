@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2025-06-19T13:21:09.587Z
-# Size: 1050
+# Last Updated: 2025-06-22T09:13:38.400Z
+# Size: 1056
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,travis-ci.org
 DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,tronscan.org
@@ -95,6 +96,7 @@ DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,xquartz.org
 DOMAIN-SUFFIX,pornhub.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,mozilla.org
@@ -147,6 +149,7 @@ DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,tokyomotion.net
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,freemacsoft.net
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,trustpilot.net
 DOMAIN-SUFFIX,south-plus.net
@@ -410,6 +413,7 @@ DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,myipstack.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,macupdate.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,homedepot.com
@@ -912,6 +916,7 @@ DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,imagekit.io
+DOMAIN-SUFFIX,corecode.io
 DOMAIN-SUFFIX,urlscan.io
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,nextdns.io
@@ -936,6 +941,7 @@ DOMAIN-SUFFIX,logto.io
 DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,draw.io
 DOMAIN-SUFFIX,cuty.io
@@ -980,3 +986,4 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,ac
 USER-AGENT,Roam*
 ################## EOF ##################
+

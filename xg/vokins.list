@@ -1,4 +1,4 @@
-# Update > 0:34 2025/3/24
+# Update > 5:15 2025/6/27
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于Loon Shadowrocket Surge，不再适配 QX
@@ -8,6 +8,7 @@
 #Apple Ads
 DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN,securemetrics.apple.com
 DOMAIN,metrics.icloud.com
 #https://developer.apple.com/documentation/adservices/aaattribution/attributiontoken()
@@ -258,6 +259,8 @@ DOMAIN,adsdk.idmzj.com
 DOMAIN,ad-channel.diwodiwo.xyz
 DOMAIN,ad-channel.wikawika.xyz
 DOMAIN,ad-display.diwodiwo.xyz
+#Book-wenxuecity
+DOMAIN,adserver.wenxuecity.com
 #Buy-拼多多
 DOMAIN,adim.pinduoduo.com
 DOMAIN,t-dsp.pinduoduo.com
@@ -415,9 +418,11 @@ DOMAIN,bd2-china.xsfaya.com
 #News-鳳凰網
 DOMAIN-SUFFIX,deliver.ifeng.com
 DOMAIN-SUFFIX,newad.ifeng.com
+DOMAIN,9fum.ifeng.com
 DOMAIN,ax.ifeng.com
 DOMAIN,bd3rd.ifeng.com
 DOMAIN,bdmap1.ifeng.com
+DOMAIN,bm7c.ifeng.com
 DOMAIN,cvf.ifeng.com
 DOMAIN,err.ifengcloud.ifeng.com
 DOMAIN,ifengad.3g.ifeng.com
@@ -425,11 +430,12 @@ DOMAIN,noscreenplz2.ifeng.com
 DOMAIN,qcvf.ifeng.com
 DOMAIN,stadig.ifeng.com
 DOMAIN,stadig0.ifeng.com
+DOMAIN,uww6.ifeng.com
 DOMAIN,ztyumn.ifeng.com
-DOMAIN,support.iclient.ifeng.com
 DOMAIN,bdfpbimg.ifengimg.com
 DOMAIN,c0.ifengimg.com
 DOMAIN,c1.ifengimg.com
+DOMAIN,y1.ifengimg.com
 #News-ETtoday新聞雲
 DOMAIN,ad.ettoday.net
 DOMAIN,ad1.ettoday.net
@@ -617,6 +623,10 @@ DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-SUFFIX,ads.linkedin.com
 #SNS-LIHKG
 DOMAIN,adv.lihkg.com
+#SNS-pixiv
+DOMAIN,pixon.ads-pixiv.net
+DOMAIN,ad2.fivecdm.com
+DOMAIN,adchk.fivecdm.com
 #SNS-Snapchat
 DOMAIN,app-analytics-v2.snapchat.com
 #SNS-Twitter
@@ -1057,12 +1067,14 @@ DOMAIN,iadmat.nosdn.127.net
 DOMAIN,ads.music.126.net
 DOMAIN,h5.analytics.126.net
 DOMAIN,iadmusicmat.music.126.net
+DOMAIN,cms-bucket.ws.126.net
 DOMAIN,pg-ad-b1.ws.126.net
 DOMAIN,webstat.ws.126.net
 DOMAIN,yp.ws.126.net
 DOMAIN,yt-adp.ws.126.net
 DOMAIN-SUFFIX,da.netease.com
 DOMAIN,vmonitor.ws.netease.com
+DOMAIN,engine.tuifish.com
 #163-有道
 DOMAIN,ad-sdk-config.youdao.com
 DOMAIN,conv.youdao.com
@@ -1325,6 +1337,7 @@ DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,dsp.toutiao.com
 DOMAIN-SUFFIX,mon.toutiao.com
+DOMAIN,lf1-cdn-tos.bytegoofy.com
 DOMAIN,zhanzhang.toutiao.com
 DOMAIN,mon.toutiaocloud.com
 DOMAIN,mon.toutiaocloud.net
@@ -1426,6 +1439,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,adservice.google.co.jp
+DOMAIN,fundingchoicesmessages.google.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,ads.youtube.com
@@ -1477,6 +1491,7 @@ DOMAIN,qpb1.sohu.com
 DOMAIN,mb.hd.sohu.com.cn
 DOMAIN,vstat.v.blog.sohu.com
 DOMAIN,z.m.tv.sohu.com
+DOMAIN,vbng.at.sohu.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
@@ -1485,6 +1500,7 @@ DOMAIN-SUFFIX,go.sohu.com
 DOMAIN-SUFFIX,images.sohu.com
 DOMAIN-SUFFIX,qpb.sohu.com
 DOMAIN-SUFFIX,track.sohu.com
+DOMAIN,adv-sv-show.focus.cn
 #Sogou
 DOMAIN,apt2k.sogou.com
 DOMAIN,conv.k.sogou.com
@@ -1537,11 +1553,6 @@ DOMAIN,report.qqweb.qq.com
 DOMAIN,tdid.m.qq.com
 #DOMAIN,tmfmazu.m.qq.com
 #DOMAIN,tpush.html5.qq.com
-DOMAIN,wxa.wxs.qq.com
-DOMAIN,wxsnsdy.tc.qq.com
-DOMAIN,wxsnsdy.video.qq.com
-DOMAIN,wxsnsdy.wxs.qq.com
-DOMAIN,wxsnsdythumb.wxs.qq.com
 #Tencent-QQ-Upload
 DOMAIN,aeventlog.beacon.qq.com
 DOMAIN,android.bugly.qq.com
@@ -1571,6 +1582,14 @@ DOMAIN,report.idqqimg.com
 DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
 DOMAIN,apd-vodp2preport.teg.tencent-cloud.net
 DOMAIN,publiclog.zhiyan.tencent-cloud.net
+#Tencent-WeChat微信朋友圈公众号广告
+DOMAIN,wxa.wxs.qq.com
+DOMAIN,wximg.wxs.qq.com
+DOMAIN,wxsmw.wxs.qq.com
+DOMAIN,wxsnsdy.wxs.qq.com
+DOMAIN,wxsnsdythumb.wxs.qq.com
+DOMAIN,wxsnsdy.tc.qq.com
+DOMAIN,wxsnsdy.video.qq.com
 #Unity
 DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
@@ -1798,6 +1817,7 @@ DOMAIN-SUFFIX,agrantsem.com
 DOMAIN-SUFFIX,aiclk.com
 DOMAIN-SUFFIX,alexanberton.com
 DOMAIN-SUFFIX,alo15.com
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,analytics-data.io
 DOMAIN-SUFFIX,anythinktech.com
@@ -2184,6 +2204,7 @@ DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,social-touch.com
 DOMAIN-SUFFIX,sogowan.com
 DOMAIN-SUFFIX,solvemedia.com
+DOMAIN-SUFFIX,spadsync.com
 DOMAIN-SUFFIX,spotxchange.com
 DOMAIN-SUFFIX,springserve.com
 DOMAIN-SUFFIX,spush.com

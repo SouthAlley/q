@@ -1,4 +1,4 @@
-# Main total line 3711 
+# Main total line 3712 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2617,6 +2617,7 @@ DOMAIN,widgets.flickr.com
 DOMAIN,widgets.listenlive.co
 DOMAIN,widgets.media.weather.com
 DOMAIN,widgets.outbrain.com
+DOMAIN,widgets.pinterest.com
 DOMAIN,widgets.tree-nation.com
 DOMAIN,widgets.turnto.com
 DOMAIN,widgets.zohosalesiq.com

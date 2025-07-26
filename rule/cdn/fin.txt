@@ -1,4 +1,4 @@
-# Main total line 3712 
+# Main total line 3714 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2235,6 +2235,7 @@ DOMAIN,static.grammarly.com
 DOMAIN,static.guim.co.uk
 DOMAIN,static.heavy-r.com
 DOMAIN,static.helpjuice.com
+DOMAIN,static.hosting.com
 DOMAIN,static.hotjar.com
 DOMAIN,static.hubspot.com
 DOMAIN,static.hugedomains.com
@@ -3280,7 +3281,6 @@ DOMAIN-SUFFIX,nel.measure.office.net
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,nest.land
 DOMAIN-SUFFIX,net.anydesk.com
-DOMAIN-SUFFIX,netdna-ssl.com
 DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,neweggimages.com
 DOMAIN-SUFFIX,newscdn.com.au
@@ -3460,6 +3460,7 @@ DOMAIN-SUFFIX,sftcdn.net
 DOMAIN-SUFFIX,shgcdn.com
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shoppulse88.store
 DOMAIN-SUFFIX,shortpixel.ai
 DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,similarcdn.com
@@ -3539,6 +3540,7 @@ DOMAIN-SUFFIX,substackcdn.com
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,surrit.store
 DOMAIN-SUFFIX,susercontent.com
 DOMAIN-SUFFIX,svbtleusercontent.com
 DOMAIN-SUFFIX,sway-cdn.com

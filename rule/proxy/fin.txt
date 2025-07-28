@@ -1,4 +1,4 @@
-# Main total line 6940 
+# Main total line 6941 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -3474,6 +3474,7 @@ DOMAIN-SUFFIX,lsmradio.com
 DOMAIN-SUFFIX,lsmwebcast.com
 DOMAIN-SUFFIX,lsxszzg.com
 DOMAIN-SUFFIX,luckydesigner.space
+DOMAIN-SUFFIX,ludepress.com
 DOMAIN-SUFFIX,luke54.com
 DOMAIN-SUFFIX,luke54.org
 DOMAIN-SUFFIX,lupm.org

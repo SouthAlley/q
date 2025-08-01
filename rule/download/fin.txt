@@ -1,4 +1,4 @@
-# Main total line 1172 
+# Main total line 1173 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -203,6 +203,7 @@ DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
 DOMAIN,download.eassos.com
 DOMAIN,download.edovia.com
+DOMAIN,download.fosshub.com
 DOMAIN,download.fydeos.io
 DOMAIN,download.gigabyte.com
 DOMAIN,download.gimp.org

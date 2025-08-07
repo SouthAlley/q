@@ -1,4 +1,4 @@
-# Main total line 6954 
+# Main total line 6960 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -251,6 +251,7 @@ DOMAIN-SUFFIX,airhorn.solutions
 DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,airitilibrary.com
 DOMAIN-SUFFIX,airtable.com
+DOMAIN-SUFFIX,airtableusercontent.com
 DOMAIN-SUFFIX,airvpn.org
 DOMAIN-SUFFIX,aisex.com
 DOMAIN-SUFFIX,aiv-cdn.net.c.footprint.net
@@ -5483,6 +5484,7 @@ DOMAIN-SUFFIX,teamamericany.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technorati.com
+DOMAIN-SUFFIX,techpowerup.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techviz.net
@@ -6141,10 +6143,13 @@ DOMAIN-SUFFIX,vermonttibet.org
 DOMAIN-SUFFIX,vern.cc
 DOMAIN-SUFFIX,versavpn.com
 DOMAIN-SUFFIX,verybs.com
+DOMAIN-SUFFIX,vesselfinder.com
+DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,vevo.com
 DOMAIN-SUFFIX,vewas.net
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vica.info
+DOMAIN-SUFFIX,vice.com
 DOMAIN-SUFFIX,victimsofcommunism.org
 DOMAIN-SUFFIX,victoriassecret.com
 DOMAIN-SUFFIX,vid.me
@@ -6588,6 +6593,7 @@ DOMAIN-SUFFIX,xixicui.icu
 DOMAIN-SUFFIX,xizang-zhiye.org
 DOMAIN-SUFFIX,xjp.cc
 DOMAIN-SUFFIX,xjtravelguide.com
+DOMAIN-SUFFIX,xkcd.com
 DOMAIN-SUFFIX,xkiwi.tk
 DOMAIN-SUFFIX,xlfmtalk.com
 DOMAIN-SUFFIX,xlfmwz.info

@@ -1,4 +1,4 @@
-# Main total line 1173 
+# Main total line 1174 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -81,6 +81,7 @@ DOMAIN,cdn.opensuse.org
 DOMAIN,cdn.organicmaps.app
 DOMAIN,cdn.winget.microsoft.com
 DOMAIN,cdn.zoom.us
+DOMAIN,charts.verdaccio.org
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,clarkson.edu
 DOMAIN,client.hikarifield.co.jp

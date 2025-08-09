@@ -1,4 +1,4 @@
-# Main total line 1174 
+# Main total line 1176 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -255,6 +255,7 @@ DOMAIN,downloads.xrite.com
 DOMAIN,drive.massgrave.dev
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
+DOMAIN,edgeupdates.microsoft.com
 DOMAIN,enterprise.proxmox.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,espejito.fder.edu.uy
@@ -594,6 +595,7 @@ DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net
 DOMAIN,osl.ugr.es
 DOMAIN,oss-binaries.phusionpassenger.com
+DOMAIN,oss.ypt.com
 DOMAIN,ota-cache1.googlezip.net
 DOMAIN,ota.googlezip.net
 DOMAIN,packagecloud.io

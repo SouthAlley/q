@@ -1,4 +1,4 @@
-# Main total line 1176 
+# Main total line 1175 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -67,6 +67,7 @@ DOMAIN,c.1password.com
 DOMAIN,cache.agilebits.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cdimage.kali.org
+DOMAIN,cdn-builds.paw.cloud
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-patch.swtor.com
 DOMAIN,cdn-updates.orbstack.dev
@@ -658,10 +659,8 @@ DOMAIN,skimdb.npmjs.com
 DOMAIN,snt.utwente.nl
 DOMAIN,softwareupdate.pilotmoon.com
 DOMAIN,sotirov-bg.net
-DOMAIN,static-production.npmjs.com
 DOMAIN,static.adguard.com
 DOMAIN,static.adtidy.org
-DOMAIN,static.npmjs.com
 DOMAIN,static.redox-os.org
 DOMAIN,static.rust-lang.org
 DOMAIN,stats.snipaste.com

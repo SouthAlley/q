@@ -1,4 +1,4 @@
-# Main total line 6929 
+# Main total line 6931 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -666,6 +666,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binancezh.cc
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,binux.me
@@ -2881,6 +2882,7 @@ DOMAIN-SUFFIX,indiemerch.com
 DOMAIN-SUFFIX,influxdata.com
 DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,informer.com
+DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,inherit.live
 DOMAIN-SUFFIX,initiativesforchina.org

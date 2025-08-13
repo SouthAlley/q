@@ -1,4 +1,4 @@
-# Main total line 3780 
+# Main total line 3784 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -521,7 +521,6 @@ DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.evbstatic.com
 DOMAIN,cdn.faire.com
 DOMAIN,cdn.fastcomments.com
-DOMAIN,cdn.fastmediaing.com
 DOMAIN,cdn.fera.ai
 DOMAIN,cdn.filen.io
 DOMAIN,cdn.firebase.com
@@ -875,6 +874,7 @@ DOMAIN,cdnl.moviefap.com
 DOMAIN,cdnl.tnaflix.com
 DOMAIN,cdnmedia.ero-video.net
 DOMAIN,cdns.gigya.com
+DOMAIN,cdns.us.gigya.com
 DOMAIN,cdns.zbporn.com
 DOMAIN,cdnsecakmi.kaltura.com
 DOMAIN,cdnstatic.porno-cum.com
@@ -1175,6 +1175,7 @@ DOMAIN,frames-commandbar-prod.commandbar.com
 DOMAIN,freeshippingbar.herokuapp.com
 DOMAIN,front-resource.fs.com
 DOMAIN,frontend-apps.workos.com
+DOMAIN,frontend-assets.supabase.com
 DOMAIN,frontend.floatplane.com
 DOMAIN,fs2.onlyhentaistuff.com
 DOMAIN,fscdn.eppo.cloud
@@ -1630,6 +1631,7 @@ DOMAIN,mantisloader.mantis-awx.com
 DOMAIN,map.vesselfinder.net
 DOMAIN,maps.geoapify.com
 DOMAIN,maps.gstatic.com
+DOMAIN,maps.wplace.live
 DOMAIN,maptile.osmand.net
 DOMAIN,marber-cdn.economist.com
 DOMAIN,marfeelexperimentsexperienceengine.mrf.io
@@ -1764,6 +1766,7 @@ DOMAIN,newassets.hcaptcha.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-data.pts.org.tw
 DOMAIN,newsletter.postmarkapp.com
+DOMAIN,newsstatic.rthk.hk
 DOMAIN,next-images.123rf.com
 DOMAIN,next-images.opencollective.com
 DOMAIN,nextra.site
@@ -1823,7 +1826,6 @@ DOMAIN,pbs.floatplane.com
 DOMAIN,pcdn-my.pcloud.com
 DOMAIN,pcdn-www.pcloud.com
 DOMAIN,pcz.javidol.org
-DOMAIN,pengtu.cc
 DOMAIN,perf-na1.hsforms.com
 DOMAIN,perf.hsforms.com
 DOMAIN,pg2dhpc3p5ec22g3.jkforum.net
@@ -2188,6 +2190,7 @@ DOMAIN,static-main.moovit.com
 DOMAIN,static-media.fox.com
 DOMAIN,static-mh.content.disney.io
 DOMAIN,static-overlay.ubisoft.com
+DOMAIN,static-production.npmjs.com
 DOMAIN,static-r.kamihimeproject.net
 DOMAIN,static-redesign.cnbcfm.com
 DOMAIN,static-resource.np.community.playstation.net
@@ -2331,6 +2334,7 @@ DOMAIN,static.newmobilelife.com
 DOMAIN,static.news.bitcoin.com
 DOMAIN,static.nhentai.net
 DOMAIN,static.nicehash.com
+DOMAIN,static.npmjs.com
 DOMAIN,static.nrk.no
 DOMAIN,static.nyse.com
 DOMAIN,static.observablehq.com
@@ -2496,6 +2500,7 @@ DOMAIN,tags.news.com.au
 DOMAIN,talk.hyvor.com
 DOMAIN,talk.washingtonpost.com
 DOMAIN,talon-website-prod.ecosec.on.epicgames.com
+DOMAIN,tanju.vip
 DOMAIN,telemetry.1passwordservices.com
 DOMAIN,telemetry.business.githubcopilot.com
 DOMAIN,telemetry.individual.githubcopilot.com
@@ -2745,7 +2750,6 @@ DOMAIN-SUFFIX,anpustream.com
 DOMAIN-SUFFIX,ant.design
 DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,aolcdn.com
-DOMAIN-SUFFIX,aosikaimage.com
 DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,api.loganalytics.io
 DOMAIN-SUFFIX,app-analytics-services.com
@@ -3324,7 +3328,7 @@ DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftstatic.com
-DOMAIN-SUFFIX,mubicdn.com
+DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,mxmcdn.net
 DOMAIN-SUFFIX,myanalytics.cdn.office.net
@@ -3699,7 +3703,7 @@ DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,watchlycdn.com
 DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,web.app
-DOMAIN-SUFFIX,webinfcdn.com
+DOMAIN-SUFFIX,webinfcdn.net
 DOMAIN-SUFFIX,webp.se
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,website-files.com

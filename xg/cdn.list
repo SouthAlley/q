@@ -1,4 +1,4 @@
-# Main total line 3826 
+# Main total line 3833 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -54,6 +54,8 @@ DOMAIN,api.producthunt.com
 DOMAIN,api.pwnedpasswords.com
 DOMAIN,api.qrserver.com
 DOMAIN,api.roboflow.com
+DOMAIN,api.simplesvg.com
+DOMAIN,api.unisvg.com
 DOMAIN,api.weather.com
 DOMAIN,api.web3.storage
 DOMAIN,apichatwidget.usepylon.com
@@ -176,6 +178,7 @@ DOMAIN,assets.grooveapps.com
 DOMAIN,assets.guim.co.uk
 DOMAIN,assets.gumroad.com
 DOMAIN,assets.habr.com
+DOMAIN,assets.hackmd.io
 DOMAIN,assets.hearstapps.com
 DOMAIN,assets.holopin.io
 DOMAIN,assets.humix.com
@@ -1290,6 +1293,7 @@ DOMAIN,icons.internetbrands.com
 DOMAIN,icons.leavemealone.com
 DOMAIN,icons.llamao.fi
 DOMAIN,icons.ly
+DOMAIN,icons.simplesvg.com
 DOMAIN,icons.veryicon.com
 DOMAIN,icons.zeabur.com
 DOMAIN,iframe.nbcnews.com
@@ -1377,6 +1381,7 @@ DOMAIN,images.macrumors.com
 DOMAIN,images.mattel.net
 DOMAIN,images.microcms-assets.io
 DOMAIN,images.moegoat.com
+DOMAIN,images.mooncloud.top
 DOMAIN,images.moovitapp.com
 DOMAIN,images.newrepublic.com
 DOMAIN,images.now-tv.com
@@ -1906,6 +1911,7 @@ DOMAIN,players.brightcove.net
 DOMAIN,playgroundcdn.typescriptlang.org
 DOMAIN,plugins.dprint.dev
 DOMAIN,plus.unsplash.com
+DOMAIN,pmecdn.protonweb.com
 DOMAIN,polyfill-fe.toss.im
 DOMAIN,polyfill.bbhub.io
 DOMAIN,pomf2.lain.la
@@ -2584,6 +2590,7 @@ DOMAIN,tuf-repo.github.com
 DOMAIN,turbo.build
 DOMAIN,tvdownloaddw-a.akamaihd.net
 DOMAIN,twemoji.maxcdn.com
+DOMAIN,twenty-icons.com
 DOMAIN,typeface.nyt.com
 DOMAIN,typescript-eslint.io
 DOMAIN,typescript.azureedge.net

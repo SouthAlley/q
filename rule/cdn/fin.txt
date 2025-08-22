@@ -1,4 +1,4 @@
-# Main total line 3841 
+# Main total line 3843 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1818,6 +1818,7 @@ DOMAIN,node.green
 DOMAIN,nodeassets.nbcnews.com
 DOMAIN,nodei.co
 DOMAIN,npm.antfu.dev
+DOMAIN,ns-cdn.neustar.biz
 DOMAIN,ntp.msn.com
 DOMAIN,null.jsbin.com
 DOMAIN,o.n1mp.org
@@ -2903,6 +2904,7 @@ DOMAIN-SUFFIX,cdn.ipinfo.io
 DOMAIN-SUFFIX,cdn.manage.runcloud.io
 DOMAIN-SUFFIX,cdn.medallia.com
 DOMAIN-SUFFIX,cdn.mozilla.net
+DOMAIN-SUFFIX,cdn.neustar
 DOMAIN-SUFFIX,cdn.nimg.jp
 DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,cdn.optimizely.com

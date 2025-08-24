@@ -1,4 +1,4 @@
-# Main total line 1176 
+# Main total line 1178 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -45,6 +45,7 @@ DOMAIN,api-updates.orbstack.dev
 DOMAIN,app-updates.agilebits.com
 DOMAIN,apt.xpipe.io
 DOMAIN,archive.cs.uu.nl
+DOMAIN,archive.kali.org
 DOMAIN,artifacts.electronjs.org
 DOMAIN,assets-production.packagecloud.io
 DOMAIN,assets1.xboxlive.com
@@ -1172,6 +1173,7 @@ DOMAIN-SUFFIX,swupdate.chaosgroup.com
 DOMAIN-SUFFIX,swupdate.vray.com
 DOMAIN-SUFFIX,temp.sh
 DOMAIN-SUFFIX,tmpfiles.org
+DOMAIN-SUFFIX,update.microsoft.com
 DOMAIN-SUFFIX,vultrobjects.com
 DOMAIN-SUFFIX,wup.eshop.nintendo.net
 DOMAIN-SUFFIX,wup.shop.nintendo.net

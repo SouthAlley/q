@@ -1,4 +1,4 @@
-# Main total line 3812 
+# Main total line 3828 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -501,6 +501,7 @@ DOMAIN,cdn.cuty.io
 DOMAIN,cdn.cxense.com
 DOMAIN,cdn.daily.dev
 DOMAIN,cdn.dap.dmm.co.jp
+DOMAIN,cdn.daradara.me
 DOMAIN,cdn.datacamp.com
 DOMAIN,cdn.datatables.net
 DOMAIN,cdn.datdota.com
@@ -712,6 +713,7 @@ DOMAIN,cdn.scripts.wtwhmedia.com
 DOMAIN,cdn.search.brave.com
 DOMAIN,cdn.sedo.com
 DOMAIN,cdn.segment.com
+DOMAIN,cdn.seline.so
 DOMAIN,cdn.seondf.com
 DOMAIN,cdn.seonintelligence.com
 DOMAIN,cdn.servicebell.com
@@ -1035,6 +1037,7 @@ DOMAIN,denali-static.grammarly.com
 DOMAIN,design-assets.hubspot.com
 DOMAIN,design-system.yext.com
 DOMAIN,design.codeberg.org
+DOMAIN,design.keyoxide.org
 DOMAIN,design.mayoclinic.org
 DOMAIN,designsystem.brevo.com
 DOMAIN,detectportal.firefox.com
@@ -1266,6 +1269,7 @@ DOMAIN,i.jpg.dog
 DOMAIN,i.kickstarter.com
 DOMAIN,i.loli.best
 DOMAIN,i.mediatek.com
+DOMAIN,i.mij.rip
 DOMAIN,i.mt.lv
 DOMAIN,i.mydramalist.com
 DOMAIN,i.nhentai.net
@@ -1285,6 +1289,7 @@ DOMAIN,i2.nhentai.net
 DOMAIN,i3.anysex.com
 DOMAIN,i4.anysex.com
 DOMAIN,ias.r10s.jp
+DOMAIN,icdn.javxx.com
 DOMAIN,ichef.bbci.co.uk
 DOMAIN,icons.buffer.com
 DOMAIN,icons.duckduckgo.com
@@ -2162,8 +2167,10 @@ DOMAIN,ss7.vzw.com
 DOMAIN,ssl.gstatic.com
 DOMAIN,st-eu.dynamicyield.com
 DOMAIN,st.agrd.eu
+DOMAIN,st.codeforces.com
 DOMAIN,st.deviantart.net
 DOMAIN,st.dynamicyield.com
+DOMAIN,st.prntscr.com
 DOMAIN,st.transfer.it
 DOMAIN,st1.zoom.us
 DOMAIN,st2.zoom.us
@@ -2437,6 +2444,7 @@ DOMAIN,static.workday.com
 DOMAIN,static.xgroovy.com
 DOMAIN,static.xns.one
 DOMAIN,static.xxxshake.com
+DOMAIN,static.yfsp.tv
 DOMAIN,static.zaobao.com
 DOMAIN,static.zaobao.com.sg
 DOMAIN,static.zuora.com
@@ -2734,6 +2742,7 @@ DOMAIN-SUFFIX,2img.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,52netflix.com
 DOMAIN-SUFFIX,666565.xyz
 DOMAIN-SUFFIX,91pic.org
 DOMAIN-SUFFIX,98avcdn.xyz
@@ -2927,15 +2936,18 @@ DOMAIN-SUFFIX,cloudatacdn.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudforfun.vip
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfront.net.in
 DOMAIN-SUFFIX,cloudimg.io
+DOMAIN-SUFFIX,cloudlin.vip
 DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cmail20.com
 DOMAIN-SUFFIX,cms-cdn.linear.app
 DOMAIN-SUFFIX,cms.replit.com
 DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,codeberg.page
+DOMAIN-SUFFIX,codeforces.org
 DOMAIN-SUFFIX,codepenassets.com
 DOMAIN-SUFFIX,colliderimages.com
 DOMAIN-SUFFIX,combinatronics.io
@@ -3110,6 +3122,8 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,graphql.org
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gravity.jup.io
+DOMAIN-SUFFIX,gsuus.com
+DOMAIN-SUFFIX,gszyi.com
 DOMAIN-SUFFIX,gtranslate.net
 DOMAIN-SUFFIX,gw3.io
 DOMAIN-SUFFIX,h-cdn.co
@@ -3301,6 +3315,7 @@ DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,livemediahost.com
 DOMAIN-SUFFIX,local.webcontainer.io
 DOMAIN-SUFFIX,localizecdn.com
+DOMAIN-SUFFIX,locimg.com
 DOMAIN-SUFFIX,lodash.com
 DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,logz.io
@@ -3782,6 +3797,7 @@ DOMAIN-SUFFIX,yygimg.im
 DOMAIN-SUFFIX,z4a.net
 DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zenwave56.site
 DOMAIN-SUFFIX,zi-scripts.com
 DOMAIN-SUFFIX,ziffstatic.com
 DOMAIN-SUFFIX,ziglang.org

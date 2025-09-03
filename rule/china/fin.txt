@@ -1,4 +1,4 @@
-# Main total line 1030 
+# Main total line 1031 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,cn.download.nvidia.com
@@ -800,6 +800,7 @@ DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,taopiaopiao.com
+DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tawk.link
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tbcache.com

@@ -1,4 +1,4 @@
-# Main total line 6959 
+# Main total line 6960 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -4519,6 +4519,7 @@ DOMAIN-SUFFIX,post76.com
 DOMAIN-SUFFIX,post852.com
 DOMAIN-SUFFIX,postadult.com
 DOMAIN-SUFFIX,postimg.org
+DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,potatso.com
 DOMAIN-SUFFIX,potplayer.tv

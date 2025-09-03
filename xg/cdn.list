@@ -1,4 +1,4 @@
-# Main total line 3828 
+# Main total line 3832 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -512,6 +512,7 @@ DOMAIN,cdn.delight-vr.com
 DOMAIN,cdn.designerapp.osi.office.net
 DOMAIN,cdn.designsystem.arm.com
 DOMAIN,cdn.deta.space
+DOMAIN,cdn.devdojo.com
 DOMAIN,cdn.devolutions.net
 DOMAIN,cdn.dexscreener.com
 DOMAIN,cdn.dnsimple.com
@@ -1941,6 +1942,7 @@ DOMAIN,proxy.spigotmc.org
 DOMAIN,ps.w.org
 DOMAIN,psp-logos.uptimerobot.com
 DOMAIN,pub.creaders.net
+DOMAIN,public-assets.postmarkapp.com
 DOMAIN,public-assets.typeform.com
 DOMAIN,public-cdn.bblmw.com
 DOMAIN,public-files.gumroad.com
@@ -2719,6 +2721,7 @@ DOMAIN,ws-cdn.nperf.com
 DOMAIN,ws2-cache.aptoide.com
 DOMAIN,ww2-secure.justanswer.com
 DOMAIN,ww2.justanswer.com
+DOMAIN,www-cdn.uscardforum.com
 DOMAIN,www-res.cablelabs.com
 DOMAIN,www-static.ripe.net
 DOMAIN,www.10086.win
@@ -3647,6 +3650,7 @@ DOMAIN-SUFFIX,stripst.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,stylexjs.com
 DOMAIN-SUFFIX,substackcdn.com
+DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,superfiliate-cdn.com
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,surrit.com

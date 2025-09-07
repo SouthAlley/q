@@ -1,4 +1,4 @@
-# Main total line 3845 
+# Main total line 3846 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -2486,6 +2486,7 @@ DOMAIN,statics.erothots.co
 DOMAIN,statics.goorm.io
 DOMAIN,statics.simpshub.com
 DOMAIN,statics.streamable.com
+DOMAIN,staticsource1.redotpay.com
 DOMAIN,staticw2.yotpo.com
 DOMAIN,stats.codesandbox.io
 DOMAIN,stats.setapp.com
@@ -2567,6 +2568,7 @@ DOMAIN,tiles.versatiles.org
 DOMAIN,tiles.windy.com
 DOMAIN,time-a.nist.gov
 DOMAIN,time.akamai.com
+DOMAIN,time.apple.com
 DOMAIN,time.cloudflare.com
 DOMAIN,time.google.com
 DOMAIN,time.windows.com
@@ -3553,7 +3555,6 @@ DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,rsb.net
 DOMAIN-SUFFIX,rspcdn.net
 DOMAIN-SUFFIX,rss3.dev
-DOMAIN-SUFFIX,ruleset.skk.moe
 DOMAIN-SUFFIX,rum.cronitor.io
 DOMAIN-SUFFIX,runkit-packages.com
 DOMAIN-SUFFIX,runkitcdn.com

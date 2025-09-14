@@ -1,4 +1,4 @@
-# Main total line 1178 
+# Main total line 1177 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -94,7 +94,6 @@ DOMAIN,codeload.github.com
 DOMAIN,componentupdater.brave.com
 DOMAIN,content-origin.steampowered.com
 DOMAIN,cpan-mirror.rbc.ru
-DOMAIN,cpan.catalyst.net.nz
 DOMAIN,cpan.cpantesters.org
 DOMAIN,cpan.cs.utah.edu
 DOMAIN,cpan.dcc.uchile.cl

@@ -1,4 +1,4 @@
-# Main total line 3897 
+# Main total line 3900 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -605,7 +605,7 @@ DOMAIN,cdn.iporntv.net
 DOMAIN,cdn.ipregistry.co
 DOMAIN,cdn.jamieoliver.com
 DOMAIN,cdn.javmg.com
-DOMAIN,cdn.javsts.com
+DOMAIN,cdn.javmiku.com
 DOMAIN,cdn.jetboost.io
 DOMAIN,cdn.jetphotos.com
 DOMAIN,cdn.jitbit.com
@@ -903,6 +903,7 @@ DOMAIN,cdn8.bigcommerce.com
 DOMAIN,cdn9.bigcommerce.com
 DOMAIN,cdna.artstation.com
 DOMAIN,cdnapi.kaltura.com
+DOMAIN,cdnassets.roboflow.com
 DOMAIN,cdnb.artstation.com
 DOMAIN,cdnc.imagefap.com
 DOMAIN,cdne-pics.youjizz.com
@@ -1193,7 +1194,6 @@ DOMAIN,files.scamadviser.com
 DOMAIN,files.slack.com
 DOMAIN,files.smashing.media
 DOMAIN,files.svc.ui.com
-DOMAIN,files.webfe.shopee.io
 DOMAIN,files.writefreely.org
 DOMAIN,files.yande.re
 DOMAIN,filestore.fortinet.com
@@ -2144,6 +2144,7 @@ DOMAIN,scripts.scriptwrapper.com
 DOMAIN,scripts.webeo.com
 DOMAIN,sdata.ndtv.com
 DOMAIN,sdk.customfit.ai
+DOMAIN,sdk.gleap.io
 DOMAIN,sdk.listenlive.co
 DOMAIN,sdk.loyaltylion.net
 DOMAIN,sdk.privacy-center.org
@@ -2200,7 +2201,6 @@ DOMAIN,socialpic.video.friday.tw
 DOMAIN,solve-widget.forethought.ai
 DOMAIN,source.domaintools.com
 DOMAIN,source.unsplash.com
-DOMAIN,sourcemap.webfe.shopeemobile.com
 DOMAIN,sourcemaps.squarespace.net
 DOMAIN,sourcepoint.theguardian.com
 DOMAIN,sp-spiegel-de.spiegel.de
@@ -2448,6 +2448,7 @@ DOMAIN,static.redhat.com
 DOMAIN,static.registration.bluehost.com
 DOMAIN,static.reo.dev
 DOMAIN,static.replay.io
+DOMAIN,static.roboflow.com
 DOMAIN,static.salidzini.lv
 DOMAIN,static.scarf.sh
 DOMAIN,static.seel.com
@@ -3790,6 +3791,7 @@ DOMAIN-SUFFIX,uvcdn.com
 DOMAIN-SUFFIX,v-cdn.net
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,valnetcdn.com
+DOMAIN-SUFFIX,vancdn.com
 DOMAIN-SUFFIX,vanillicon.com
 DOMAIN-SUFFIX,vcmdiawe.com
 DOMAIN-SUFFIX,vercel.app
@@ -3815,6 +3817,7 @@ DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,watchlycdn.com
 DOMAIN-SUFFIX,wdfiles.com
 DOMAIN-SUFFIX,web.app
+DOMAIN-SUFFIX,webfe.shopee.io
 DOMAIN-SUFFIX,webinfcdn.net
 DOMAIN-SUFFIX,webp.se
 DOMAIN-SUFFIX,webpkgcache.com

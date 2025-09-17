@@ -1,4 +1,4 @@
-# Main total line 3900 
+# Main total line 3903 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -372,6 +372,7 @@ DOMAIN,c7.patreon.com
 DOMAIN,c8.patreon.com
 DOMAIN,ca.nfs.pub
 DOMAIN,cacerts.digicert.com
+DOMAIN,cacerts.rapidssl.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
@@ -763,6 +764,7 @@ DOMAIN,cdn.streamlabs.com
 DOMAIN,cdn.substack.com
 DOMAIN,cdn.sunofbeaches.com
 DOMAIN,cdn.svgator.com
+DOMAIN,cdn.syftdata.com
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.techcommunity.microsoft.com
 DOMAIN,cdn.termius.com
@@ -2360,6 +2362,7 @@ DOMAIN,static.freeimages.com
 DOMAIN,static.getbutton.io
 DOMAIN,static.gettyimages.com
 DOMAIN,static.giant-bicycles.com
+DOMAIN,static.gigabyte.com
 DOMAIN,static.gitbook.com
 DOMAIN,static.gl-inet.com
 DOMAIN,static.global.visioncritical.com

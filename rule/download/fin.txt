@@ -1,4 +1,4 @@
-# Main total line 1177 
+# Main total line 1178 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -256,6 +256,7 @@ DOMAIN,downloads.xiph.org
 DOMAIN,downloads.xrite.com
 DOMAIN,downloads2.broadcom.com
 DOMAIN,drive.massgrave.dev
+DOMAIN,dw.uptodown.net
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgeupdates.microsoft.com

@@ -1,4 +1,4 @@
-# Main total line 1178 
+# Main total line 1181 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -401,6 +401,8 @@ DOMAIN,lysator.liu.se
 DOMAIN,mac-release-static.stash.ws
 DOMAIN,marwan.ma
 DOMAIN,maven.google.com
+DOMAIN,maven.is-quite.gay
+DOMAIN,maven.neoforged.net
 DOMAIN,meta.omaps.app
 DOMAIN,meta.prismlauncher.org
 DOMAIN,mirror-cdn.xtom.com
@@ -645,6 +647,7 @@ DOMAIN,repo.hex.pm
 DOMAIN,repo.maven.apache.org
 DOMAIN,repo.nextdns.io
 DOMAIN,repo.powerdns.com
+DOMAIN,repo.sleeping.town
 DOMAIN,repo1.maven.org
 DOMAIN,repository.jboss.org
 DOMAIN,repository.su

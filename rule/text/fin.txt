@@ -1,5 +1,7 @@
-# Main total line 18 
+# Main total line 23 
 # ------------------------------------------
+DOMAIN,spotify.map.fastly.net
+DOMAIN,spotify.map.fastlylb.net
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
@@ -13,8 +15,11 @@ DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotifynewsroom.jp
+DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,spotify.com
+IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
 PROCESS-NAME,com.spotify.music
 USER-AGENT,Spotify*

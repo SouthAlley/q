@@ -1,4 +1,4 @@
-# Main total line 6978 
+# Main total line 6965 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2693,11 +2693,7 @@ DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,hoxx.com
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,hoyolab.com
-DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,hpjav.com
-DOMAIN-SUFFIX,hpstore-china.com
-DOMAIN-SUFFIX,hpstore.com
-DOMAIN-SUFFIX,hpstore.corpmerchandise.com
 DOMAIN-SUFFIX,hqcdp.org
 DOMAIN-SUFFIX,hqjapanesesex.com
 DOMAIN-SUFFIX,hqmovies.com
@@ -4021,10 +4017,6 @@ DOMAIN-SUFFIX,nighost.org
 DOMAIN-SUFFIX,nightlife141.com
 DOMAIN-SUFFIX,nightswatch.top
 DOMAIN-SUFFIX,nike.com
-DOMAIN-SUFFIX,nike.com.br
-DOMAIN-SUFFIX,nikecdn.com
-DOMAIN-SUFFIX,nikecloud.com
-DOMAIN-SUFFIX,niketracking.com
 DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,nikke-jp.com
 DOMAIN-SUFFIX,nikke-kr.com
@@ -4722,8 +4714,6 @@ DOMAIN-SUFFIX,raspberrypi.com
 DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,rationalwiki.org
 DOMAIN-SUFFIX,rawgit.com
-DOMAIN-SUFFIX,razer.com
-DOMAIN-SUFFIX,razerzone.com
 DOMAIN-SUFFIX,razyboard.com
 DOMAIN-SUFFIX,rd.com
 DOMAIN-SUFFIX,rdtcdn.com
@@ -5309,7 +5299,6 @@ DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,startuplivingchina.com
 DOMAIN-SUFFIX,static-economist.com
-DOMAIN-SUFFIX,static-nike.com
 DOMAIN-SUFFIX,static.fun
 DOMAIN-SUFFIX,statically.io
 DOMAIN-SUFFIX,staticflickr.com
@@ -5406,8 +5395,6 @@ DOMAIN-SUFFIX,swapspace.co
 DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,swissvpn.net
 DOMAIN-SUFFIX,switchvpn.net
-DOMAIN-SUFFIX,swoo.sh
-DOMAIN-SUFFIX,swoosh.com
 DOMAIN-SUFFIX,sydneytoday.com
 DOMAIN-SUFFIX,sylfoundation.org
 DOMAIN-SUFFIX,symantec.com

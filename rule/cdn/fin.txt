@@ -1,4 +1,4 @@
-# Main total line 3937 
+# Main total line 3936 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2581,7 +2581,6 @@ DOMAIN,storage.gra.cloud.ovh.net
 DOMAIN,storage.ko-fi.com
 DOMAIN,storage.moegirl.tw
 DOMAIN,storage.sciencecast.org
-DOMAIN,storage.tally.so
 DOMAIN,storage.windiscover.com
 DOMAIN,storage.withfabric.xyz
 DOMAIN,storageapi.fleek.co

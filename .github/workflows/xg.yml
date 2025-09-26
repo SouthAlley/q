@@ -34,6 +34,7 @@ jobs:
                ["cdn.list"]="xg/cdn.list https://raw.githubusercontent.com/SouthAlley/q/main/rule/cdn/fin.txt"
                ["tld-not-cn.list"]="xg/tld-not-cn.list https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt"
                ["global-Sukka.list"]="xg/global-Sukka.list https://ruleset.skk.moe/List/non_ip/global.conf"
+               ["ad-ACL4SSR.list"]="xg/ad-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
                )
 
            # 循环处理每个文件

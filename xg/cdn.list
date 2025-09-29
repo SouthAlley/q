@@ -1,4 +1,4 @@
-# Main total line 3937 
+# Main total line 3941 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -154,6 +154,7 @@ DOMAIN,assets.dictionary.com
 DOMAIN,assets.dify.ai
 DOMAIN,assets.dnsfilter.com
 DOMAIN,assets.documentcloud.org
+DOMAIN,assets.dub.co
 DOMAIN,assets.dwncdn.net
 DOMAIN,assets.ecomm.ui.com
 DOMAIN,assets.embeddables.com
@@ -1312,6 +1313,7 @@ DOMAIN,i.iwara.tv
 DOMAIN,i.jpg.dog
 DOMAIN,i.kickstarter.com
 DOMAIN,i.loli.best
+DOMAIN,i.magecdn.com
 DOMAIN,i.mediatek.com
 DOMAIN,i.mij.rip
 DOMAIN,i.mt.lv
@@ -2065,6 +2067,7 @@ DOMAIN,resources.digital-cloud.medallia.com
 DOMAIN,resources.help.salesforce.com
 DOMAIN,resources.whatwg.org
 DOMAIN,rest.happierleads.com
+DOMAIN,reviews-badge.capterra.com
 DOMAIN,rs-cdn.splashtop.com
 DOMAIN,rsi.grafana.com
 DOMAIN,rsms.me
@@ -2765,6 +2768,7 @@ DOMAIN,web-assets.otogi-frontier.com
 DOMAIN,web-assets.strava.com
 DOMAIN,web-assets.waze.com
 DOMAIN,web-cdn.bitrise.io
+DOMAIN,web-cdn.bsky.app
 DOMAIN,web-sdk-cdn.eyefitu.com
 DOMAIN,web-sdk.eyefitu.com
 DOMAIN,web-static.archive.org

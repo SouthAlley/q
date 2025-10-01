@@ -1,4 +1,4 @@
-# Main total line 6965 
+# Main total line 6966 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2401,6 +2401,7 @@ DOMAIN-SUFFIX,gotgeeks.com
 DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotrusted.com
 DOMAIN-SUFFIX,gov.ir
+DOMAIN-SUFFIX,gqhongkong.com
 DOMAIN-SUFFIX,gr8domain.biz
 DOMAIN-SUFFIX,gr8name.biz
 DOMAIN-SUFFIX,gradconnection.com

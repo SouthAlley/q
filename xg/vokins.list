@@ -1,4 +1,4 @@
-# Update > 5:15 2025/6/27
+# Update > 19:08 2025/9/30
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于Loon Shadowrocket Surge，不再适配 QX
@@ -705,6 +705,8 @@ DOMAIN,v1.log.moji.com
 DOMAIN,ad.cyapi.cn
 DOMAIN,ad.caiyunapp.com
 DOMAIN,bcd.caiyunapp.com
+#Tool-华风爱科
+DOMAIN,stqt.weathercn.com
 #Tool-万年历
 DOMAIN,ad.51wnl-cq.com
 DOMAIN,adextra.51wnl-cq.com
@@ -1128,7 +1130,7 @@ DOMAIN,wgo.mmstat.com
 DOMAIN,yt.mmstat.com
 #Ali-淘宝
 DOMAIN,ifs.tanx.com
-DOMAIN,h-adashx.ut.taobao.com
+#DOMAIN,h-adashx.ut.taobao.com
 #DOMAIN,acs.m.taobao.com
 DOMAIN,trade-acs.m.taobao.com
 DOMAIN,adashx.m.taobao.com
@@ -1294,9 +1296,7 @@ DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,video-cn.snssdk.com
-DOMAIN,p1-dpa.byteimg.com
 DOMAIN-KEYWORD,analytics.bytescm.com
-DOMAIN,lf-cdn-tos.bytescm.com
 DOMAIN-SUFFIX,tosv.boe.byted.org
 DOMAIN-SUFFIX,tosv.byted.org
 DOMAIN-SUFFIX,csjplatform.com
@@ -1309,11 +1309,6 @@ DOMAIN-SUFFIX,volcsiriusbd.com
 #Bytedance-TikTok
 DOMAIN,analytics.tiktok.com
 DOMAIN,pangolin16.sgsnssdk.com
-DOMAIN,tnc16-alisg.isnssdk.com
-DOMAIN,toblog.tobsnssdk.com
-DOMAIN,sf-tb-sg.ibytedtos.com
-DOMAIN,sf16-static.i18n-pglstatp.com
-DOMAIN,sf19-fe-tos-sg.i18n-pglstatp.com
 #Bytedance-pstatp
 DOMAIN-SUFFIX,dm.pstatp.com
 DOMAIN-SUFFIX,pb3.pstatp.com
@@ -1353,56 +1348,14 @@ DOMAIN-KEYWORD,applog-hl.novelfm.com
 #Bytedance-西瓜视频
 DOMAIN-KEYWORD,applog-lf.ixigua.com
 DOMAIN-KEYWORD,applog-lq.ixigua.com
-#Bytedance-抖音月付/随心借
-DOMAIN-SUFFIX,f-cashloan.snssdk.com
-DOMAIN-SUFFIX,f-cpay.snssdk.com
-DOMAIN-SUFFIX,tp-pay.snssdk.com
-DOMAIN-SUFFIX,bytefae.com
-DOMAIN-SUFFIX,doupay.com
-DOMAIN-KEYWORD,-infras.bytetos.com
-DOMAIN-KEYWORD,-insurance.byteimg.com
-DOMAIN-KEYWORD,-infras.byteimg.com
-DOMAIN-SUFFIX,baohuaxia.com
 #Bytedance-snssdk
 DOMAIN-SUFFIX,applog.snssdk.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,ctobsnssdk.com
-DOMAIN,toblog.ctobsnssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,sdfp.snssdk.com
 DOMAIN-SUFFIX,toblog.snssdk.com
-DOMAIN,analytics.snssdk.com
-DOMAIN,aweme.snssdk.com
-DOMAIN,haohuo.snssdk.com
-DOMAIN,i-lq.snssdk.com
-DOMAIN,lf.snssdk.com
-DOMAIN,log.snssdk.com
-DOMAIN,mcs.snssdk.com
-DOMAIN,mon.snssdk.com
-DOMAIN,mssdk.snssdk.com
-DOMAIN,smr.snssdk.com
-DOMAIN,tbm.snssdk.com
-DOMAIN,vcs.snssdk.com
-DOMAIN,abtest-ch.snssdk.com
-DOMAIN,aweme-hl.snssdk.com
-DOMAIN,gecko-hl.snssdk.com
-DOMAIN,gecko-pangle-hl.snssdk.com
-DOMAIN,gecko-pangle-lf.snssdk.com
-DOMAIN,gecko-pangle-lq.snssdk.com
-DOMAIN,log-hl.snssdk.com
-DOMAIN,mssdk-bu.snssdk.com
-DOMAIN,tnc3-aliec2.snssdk.com
-DOMAIN,tnc3-alisc1.snssdk.com
-DOMAIN,tnc3-bjlgy.snssdk.com
-DOMAIN,vas-lf-x.snssdk.com
-DOMAIN,vcl-brain.snssdk.com
-DOMAIN,i.snssdk.com
-DOMAIN,is.snssdk.com
-DOMAIN,ichannel.snssdk.com
-DOMAIN,effect.snssdk.com
-DOMAIN,is-lq.snssdk.com
-DOMAIN,reading-lq.snssdk.com
 #Bytedance-zijieapi
 DOMAIN,ad.zijieapi.com
 DOMAIN,applog.zijieapi.com
@@ -1590,6 +1543,9 @@ DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.video.qq.com
+#Tencent-腾讯视频
+DOMAIN,sq.bls.mdt.qq.com
+DOMAIN,finderhy.video.qq.com
 #Unity
 DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
@@ -1610,6 +1566,8 @@ DOMAIN,ad.sitemaji.com
 DOMAIN,analytics.query.yahoo.com
 DOMAIN,beap.gemini.yahoo.com
 DOMAIN,yads.c.yimg.jp
+#Reddit
+DOMAIN,ads.reddit.com
 #Others
 DOMAIN,dn-growing.qbox.me
 DOMAIN,lkme.cc
@@ -1716,6 +1674,7 @@ DOMAIN,s.u7u9.com
 DOMAIN,pb1.jiayongluyou.com
 DOMAIN,pb2.jiayongluyou.com
 #Union-Ads
+
 DOMAIN-SUFFIX,051091.com
 DOMAIN-SUFFIX,123zn.cn
 DOMAIN-SUFFIX,186078.com
@@ -1809,6 +1768,7 @@ DOMAIN-SUFFIX,adultfriendfinder.com
 DOMAIN-SUFFIX,adutp.com
 DOMAIN-SUFFIX,advertserve.com
 DOMAIN-SUFFIX,adview.cn
+DOMAIN-SUFFIX,advlion.com
 DOMAIN-SUFFIX,adwo.com
 DOMAIN-SUFFIX,adxadserv.com
 DOMAIN-SUFFIX,adxadtracker.com
@@ -1817,8 +1777,8 @@ DOMAIN-SUFFIX,agrantsem.com
 DOMAIN-SUFFIX,aiclk.com
 DOMAIN-SUFFIX,alexanberton.com
 DOMAIN-SUFFIX,alo15.com
-DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,analytics-data.io
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,app-analytics-services.com
@@ -1966,6 +1926,7 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,ffllff.com
 DOMAIN-SUFFIX,flnet.com
 DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,flysleep.cn
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fraudmetrix.cn
 DOMAIN-SUFFIX,fyber.com
@@ -2028,6 +1989,7 @@ DOMAIN-SUFFIX,inmobi.cn
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,innoads.cn
 DOMAIN-SUFFIX,innotechx.com
 DOMAIN-SUFFIX,innovid.com
 DOMAIN-SUFFIX,instabug.com
@@ -2070,7 +2032,6 @@ DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,linezing.com
 DOMAIN-SUFFIX,lkhihfkds.cn
 DOMAIN-SUFFIX,lkqd.net
-DOMAIN-SUFFIX,lnk0.com
 DOMAIN-SUFFIX,luoaxw.com
 DOMAIN-SUFFIX,lwmbc.cn
 DOMAIN-SUFFIX,lywdoo.cn
@@ -2170,6 +2131,7 @@ DOMAIN-SUFFIX,ranfenghd.com
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,reachmax.cn
 DOMAIN-SUFFIX,realsrv.com
+DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rtbasia.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,ryjoin.com

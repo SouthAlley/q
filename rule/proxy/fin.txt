@@ -1,4 +1,4 @@
-# Main total line 6966 
+# Main total line 6967 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -5458,6 +5458,7 @@ DOMAIN-SUFFIX,tapanwap.com
 DOMAIN-SUFFIX,tapatalk.com
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
+DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taragana.com
 DOMAIN-SUFFIX,tardigrade.io
 DOMAIN-SUFFIX,target.com

@@ -1,4 +1,4 @@
-# Main total line 1183 
+# Main total line 1184 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -627,6 +627,7 @@ DOMAIN,product-downloads.atlassian.com
 DOMAIN,proxy.golang.org
 DOMAIN,quantum-mirror.hu
 DOMAIN,redstone-launcher.mojang.com
+DOMAIN,registry-1.docker.io
 DOMAIN,registry-cdn.wapm.io
 DOMAIN,registry.bower.io
 DOMAIN,registry.fedoraproject.org

@@ -1,4 +1,4 @@
-# Main total line 6971 
+# Main total line 6970 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -419,7 +419,6 @@ DOMAIN-SUFFIX,appadvice.com
 DOMAIN-SUFFIX,appbrain.com
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,appdownloader.net
-DOMAIN-SUFFIX,apple-cdn.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,applovin.com

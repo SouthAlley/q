@@ -1,4 +1,4 @@
-# Main total line 3988 
+# Main total line 3992 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -975,6 +975,7 @@ DOMAIN,chat.digitalgenius.com
 DOMAIN,chatwidgetmetrics-proxy.usepylon.com
 DOMAIN,checkout-sdk.bigcommerce.com
 DOMAIN,checkout.stripe.com
+DOMAIN,chunk-composing.canva.com
 DOMAIN,ci.testling.com
 DOMAIN,cimg.cnyes.cool
 DOMAIN,claritystatic.azureedge.net
@@ -1237,6 +1238,7 @@ DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,firefox.settings.services.mozilla.com
 DOMAIN,flo.uri.sh
 DOMAIN,flows.trysavvy.com
+DOMAIN,font-public.canva.com
 DOMAIN,fonts.bunny.net
 DOMAIN,fonts.cat.net
 DOMAIN,fonts.codeberg.org
@@ -1774,6 +1776,7 @@ DOMAIN,media-s3-us-east-1.ceros.com
 DOMAIN,media.beehiiv.com
 DOMAIN,media.breitbart.com
 DOMAIN,media.bundlehunt.com
+DOMAIN,media.canva.com
 DOMAIN,media.cleanshot.cloud
 DOMAIN,media.cmx.edu.kg
 DOMAIN,media.cnn.com
@@ -2649,6 +2652,7 @@ DOMAIN,t3.gstatic.com
 DOMAIN,t3.picb.cc
 DOMAIN,t4.picb.cc
 DOMAIN,tag.trovo-tag.com
+DOMAIN,tag.tvads.ai
 DOMAIN,tag.unifyintent.com
 DOMAIN,tags.nationwide.com
 DOMAIN,tags.nba.com

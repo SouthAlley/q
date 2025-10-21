@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,ruleset.skk.moe
 
 host,api-dsp.8ziben.com, reject
 host,sdk.zhangyuyidong.cn,reject
+DOMAIN, ad.cyapi.cn, REJECT
 
 DOMAIN,api.xsj.wasu.tv
 

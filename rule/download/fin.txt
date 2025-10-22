@@ -1,4 +1,4 @@
-# Main total line 1188 
+# Main total line 1189 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -621,6 +621,7 @@ DOMAIN,piston-meta.mojang.com
 DOMAIN,pkg-containers.githubusercontent.com
 DOMAIN,pkg.cloudflare.com
 DOMAIN,pkg.cloudflareclient.com
+DOMAIN,pkgs.netbird.io
 DOMAIN,pkgs.tailscale.com
 DOMAIN,playwright-akamai.azureedge.net
 DOMAIN,playwright.azureedge.net

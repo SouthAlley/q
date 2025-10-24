@@ -1,4 +1,4 @@
-# Main total line 1189 
+# Main total line 1190 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -201,6 +201,7 @@ DOMAIN,download.clashverge.dev
 DOMAIN,download.cnet.com
 DOMAIN,download.cpuid.com
 DOMAIN,download.cypress.io
+DOMAIN,download.delta.chat
 DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
 DOMAIN,download.eassos.com

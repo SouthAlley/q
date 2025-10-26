@@ -1,4 +1,4 @@
-# Main total line 6980 
+# Main total line 6983 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -877,9 +877,12 @@ DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bx.in.th
 DOMAIN-SUFFIX,bx.tl
 DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybits.org
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bydiscourse.com
 DOMAIN-SUFFIX,bynet.co.il

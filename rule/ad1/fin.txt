@@ -1,4 +1,4 @@
-# Main total line 3914 
+# Main total line 3915 
 # ------------------------------------------
 AND,((IP-CIDR,101.126.58.201/32,no-resolve),(DEST-PORT,6443))
 AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443))
@@ -617,6 +617,7 @@ DOMAIN-SUFFIX,adap.tv
 DOMAIN-SUFFIX,adapi.izuiyou.com
 DOMAIN-SUFFIX,adapi.yynetwk.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
+DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
 DOMAIN-SUFFIX,adasiaholdings.com
 DOMAIN-SUFFIX,adatrix.com

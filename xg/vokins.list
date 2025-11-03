@@ -1,4 +1,4 @@
-# Update > 0:13 2025/10/2
+# Update > 1:57 2025/11/3
 # https://github.com/vokins/ad/blob/main/ad.list
 # https://raw.githubusercontent.com/vokins/ad/main/ad.list
 # 此文件适用于Loon Shadowrocket Surge，不再适配 QX
@@ -972,6 +972,8 @@ DOMAIN,tx-kmpaudio.pull.yximgs.com
 DOMAIN,v1-ad.video.yximgs.com
 DOMAIN,v2-ad.video.yximgs.com
 DOMAIN,v3-ad.video.yximgs.com
+#Pic-lensa
+DOMAIN,telemetry.lensa.paltabrain.com
 #Site-https://www.lanzou.com/
 DOMAIN,d.woozooo.com
 DOMAIN,hm.woozooo.com
@@ -1131,7 +1133,6 @@ DOMAIN,log.mmstat.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,yt.mmstat.com
 #Ali-淘宝
-DOMAIN,ifs.tanx.com
 #DOMAIN,h-adashx.ut.taobao.com
 #DOMAIN,acs.m.taobao.com
 DOMAIN,trade-acs.m.taobao.com
@@ -1385,6 +1386,7 @@ DOMAIN,polaris3-normal-hl.zijieapi.com
 DOMAIN,polaris3-normal-lq.zijieapi.com
 DOMAIN,polaris5-normal-lf.zijieapi.com
 #Google
+DOMAIN-KEYWORD,adservice.google
 DOMAIN,analyticsmobile-pa.googleapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,device-provisioning.googleapis.com
@@ -1393,15 +1395,14 @@ DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
-DOMAIN,adservice.google.co.jp
 DOMAIN,fundingchoicesmessages.google.com
+DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
-DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,advertiserscommunity.com
@@ -1411,6 +1412,7 @@ DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadapis.com
 DOMAIN-SUFFIX,googleads.com
@@ -1424,7 +1426,6 @@ DOMAIN-SUFFIX,urchin.com
 #GoogleCN
 DOMAIN-SUFFIX,ads.google.cn
 DOMAIN-SUFFIX,adsense.google.cn
-DOMAIN-SUFFIX,adservice.google.cn
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,googleadservices-cn.com
 DOMAIN-SUFFIX,googletagservices-cn.com
@@ -1552,7 +1553,9 @@ DOMAIN,finderhy.video.qq.com
 DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,iads.unitychina.cn
 #Yandex
 DOMAIN,yandexmetrica.com
 DOMAIN,mc.yandex.com
@@ -1573,6 +1576,9 @@ DOMAIN,ads.reddit.com
 #Others
 DOMAIN,dn-growing.qbox.me
 DOMAIN,lkme.cc
+#ETtoday
+DOMAIN,ad.ettoday.net
+DOMAIN,ad2.ettoday.net
 #Union-BD-Site
 DOMAIN,b1.027art.com
 DOMAIN,b2.027art.com
@@ -1676,7 +1682,6 @@ DOMAIN,s.u7u9.com
 DOMAIN,pb1.jiayongluyou.com
 DOMAIN,pb2.jiayongluyou.com
 #Union-Ads
-
 DOMAIN-SUFFIX,051091.com
 DOMAIN-SUFFIX,123zn.cn
 DOMAIN-SUFFIX,186078.com
@@ -1716,6 +1721,7 @@ DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,ad-survey.com
 DOMAIN-SUFFIX,ad.daum.net
 DOMAIN-SUFFIX,ad4game.com
+DOMAIN-SUFFIX,adapty.io
 DOMAIN-SUFFIX,adblockanalytics.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adeaz.com
@@ -1771,6 +1777,7 @@ DOMAIN-SUFFIX,adutp.com
 DOMAIN-SUFFIX,advertserve.com
 DOMAIN-SUFFIX,adview.cn
 DOMAIN-SUFFIX,advlion.com
+DOMAIN-SUFFIX,adwangmai.com
 DOMAIN-SUFFIX,adwo.com
 DOMAIN-SUFFIX,adxadserv.com
 DOMAIN-SUFFIX,adxadtracker.com
@@ -1783,6 +1790,7 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,analytics-data.io
 DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,appadhoc.com
 DOMAIN-SUFFIX,appboy.com
@@ -2118,6 +2126,7 @@ DOMAIN-SUFFIX,propellerads.com
 DOMAIN-SUFFIX,ptengine.cn
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,qa-analytics.com
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qchannel03.cn
 DOMAIN-SUFFIX,qchannel04.cn

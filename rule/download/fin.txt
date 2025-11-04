@@ -1,4 +1,4 @@
-# Main total line 1190 
+# Main total line 1192 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -383,6 +383,7 @@ DOMAIN,http.kali.org
 DOMAIN,httpd-mirror.sergal.org
 DOMAIN,i18n.prismlauncher.org
 DOMAIN,icm.edu.pl
+DOMAIN,index.rubygems.org
 DOMAIN,install.virtfusion.net
 DOMAIN,invent.kde.org
 DOMAIN,it.apache.contactlab.it
@@ -660,6 +661,7 @@ DOMAIN,repo1.maven.org
 DOMAIN,repository.jboss.org
 DOMAIN,repository.su
 DOMAIN,rpm.xpipe.io
+DOMAIN,rubygems.org
 DOMAIN,ruleset.skk.moe
 DOMAIN,s3.teckids.org
 DOMAIN,searchcpan.org

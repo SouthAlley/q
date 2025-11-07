@@ -1,4 +1,4 @@
-# Main total line 6986 
+# Main total line 6987 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2007,6 +2007,7 @@ DOMAIN-SUFFIX,fixvx.com
 DOMAIN-SUFFIX,fizzik.com
 DOMAIN-SUFFIX,fleshbot.com
 DOMAIN-SUFFIX,fleursdeslettres.com
+DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flexpool.io
 DOMAIN-SUFFIX,flgjustice.org

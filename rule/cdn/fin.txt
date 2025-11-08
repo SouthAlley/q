@@ -1,4 +1,4 @@
-# Main total line 4005 
+# Main total line 4006 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1223,6 +1223,7 @@ DOMAIN,files.reg.ru
 DOMAIN,files.scamadviser.com
 DOMAIN,files.slack.com
 DOMAIN,files.smashing.media
+DOMAIN,files.stripe.com
 DOMAIN,files.svc.ui.com
 DOMAIN,files.writefreely.org
 DOMAIN,files.yande.re

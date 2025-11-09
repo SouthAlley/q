@@ -1,4 +1,4 @@
-# Main total line 4025 
+# Main total line 4026 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3025,6 +3025,7 @@ DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,bytebucket.org
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,c-dn.net
+DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,cartocdn.com
 DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
 DOMAIN-SUFFIX,cbsnewsstatic.com

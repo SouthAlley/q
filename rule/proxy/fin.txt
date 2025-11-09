@@ -1,4 +1,4 @@
-# Main total line 6988 
+# Main total line 6993 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,233v2.com
 DOMAIN-SUFFIX,24.com
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,25u.com
+DOMAIN-SUFFIX,2ch.sc
 DOMAIN-SUFFIX,2du5.com
 DOMAIN-SUFFIX,2lipstube.com
 DOMAIN-SUFFIX,2mdn.net
@@ -503,6 +504,7 @@ DOMAIN-SUFFIX,av-e-body.com
 DOMAIN-SUFFIX,av.com
 DOMAIN-SUFFIX,av.movie
 DOMAIN-SUFFIX,av01.tv
+DOMAIN-SUFFIX,av28.com
 DOMAIN-SUFFIX,avaaz.org
 DOMAIN-SUFFIX,avbody.tv
 DOMAIN-SUFFIX,avcity.tv
@@ -918,6 +920,7 @@ DOMAIN-SUFFIX,camsoda.com
 DOMAIN-SUFFIX,canadameet.com
 DOMAIN-SUFFIX,canalporno.com
 DOMAIN-SUFFIX,canarymail.io
+DOMAIN-SUFFIX,cangku.moe
 DOMAIN-SUFFIX,canon.com
 DOMAIN-SUFFIX,canonfoundation.org
 DOMAIN-SUFFIX,canonproprinters.com
@@ -4499,6 +4502,7 @@ DOMAIN-SUFFIX,polygon.com
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerhk.com
+DOMAIN-SUFFIX,pomf.cat
 DOMAIN-SUFFIX,poolbinance.com
 DOMAIN-SUFFIX,poolin.com
 DOMAIN-SUFFIX,popai.pro
@@ -6792,6 +6796,7 @@ DOMAIN-SUFFIX,zattoo.com
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zbporn.com
 DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zeit-world.com
 DOMAIN-SUFFIX,zeit-world.net

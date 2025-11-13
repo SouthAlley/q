@@ -1,5 +1,8 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+DOMAIN, analytics.umetrip.com, REJECT
+DOMAIN, sensors.umetrip.com.cn, REJECT
+
 host,api-dsp.8ziben.com, reject
 host,sdk.zhangyuyidong.cn,reject
 DOMAIN, ad.cyapi.cn, REJECT

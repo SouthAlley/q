@@ -1,4 +1,4 @@
-# Main total line 3927 
+# Main total line 3937 
 # ------------------------------------------
 AND,((IP-CIDR,101.126.58.201/32,no-resolve),(DEST-PORT,6443))
 AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443))
@@ -116,6 +116,7 @@ DOMAIN,analytics-sg.tiktok.com
 DOMAIN,analytics.google.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,analytics.snssdk.com
+DOMAIN,analytics.umetrip.com
 DOMAIN,api-ad.kajicam.com
 DOMAIN,api-dsp.8ziben.com
 DOMAIN,api.adnet.mob.com
@@ -335,6 +336,7 @@ DOMAIN,saxs.sina.com.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
 DOMAIN,sdk.qzbonline.com
 DOMAIN,sensors.dewu.com
+DOMAIN,sensors.umetrip.com.cn
 DOMAIN,sessions.bugsnag.com
 DOMAIN,settings.luckyorange.net
 DOMAIN,sf-tb-sg.ibytedtos.com
@@ -580,6 +582,7 @@ DOMAIN-SUFFIX,ad.qingting.fm
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,ad.richmob.cn
+DOMAIN-SUFFIX,ad.shunchangzhixing.com
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ad.tencentmusic.com
@@ -974,6 +977,7 @@ DOMAIN-SUFFIX,api.jietuhb.com
 DOMAIN-SUFFIX,api.kingdata.ksyun.com
 DOMAIN-SUFFIX,api.mp.uc.cn
 DOMAIN-SUFFIX,api.newad.ifeng.com
+DOMAIN-SUFFIX,api.shanghailingye.cn
 DOMAIN-SUFFIX,api.ssp.xcultur.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api5-normal-quic-lf.ixigua.com
@@ -1009,6 +1013,7 @@ DOMAIN-SUFFIX,appuu.cn
 DOMAIN-SUFFIX,appversion.115.com
 DOMAIN-SUFFIX,apsalar.com
 DOMAIN-SUFFIX,apxadtracking.net
+DOMAIN-SUFFIX,aqyad.com
 DOMAIN-SUFFIX,aralego.com
 DOMAIN-SUFFIX,ard.yahoo.co.jp
 DOMAIN-SUFFIX,aries.mzres.com
@@ -1238,6 +1243,7 @@ DOMAIN-SUFFIX,client-api.ele.me
 DOMAIN-SUFFIX,client.video.ucweb.com
 DOMAIN-SUFFIX,clkservice.youdao.com
 DOMAIN-SUFFIX,clog.miguvideo.com
+DOMAIN-SUFFIX,cloooud.com
 DOMAIN-SUFFIX,clotfun.mobi
 DOMAIN-SUFFIX,clotfun.online
 DOMAIN-SUFFIX,cloudmobi.net
@@ -1512,6 +1518,7 @@ DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com
 DOMAIN-SUFFIX,fclick.baidu.com
 DOMAIN-SUFFIX,fclog.baidu.com
 DOMAIN-SUFFIX,fds.api.moji.com
+DOMAIN-SUFFIX,feed-image.baidu.com
 DOMAIN-SUFFIX,feih.com.cn
 DOMAIN-SUFFIX,feitian001.com
 DOMAIN-SUFFIX,feixin2.com
@@ -2255,6 +2262,7 @@ DOMAIN-SUFFIX,onetad.com
 DOMAIN-SUFFIX,open-adx.com
 DOMAIN-SUFFIX,open.kwaizt.com
 DOMAIN-SUFFIX,open.snssdk.com
+DOMAIN-SUFFIX,openadapi.fancydsp.com
 DOMAIN-SUFFIX,openapi-news.meizu.com
 DOMAIN-SUFFIX,openrcv.baidu.com
 DOMAIN-SUFFIX,optaim.com
@@ -2734,6 +2742,7 @@ DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,static.ku6.com
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,statichf.shihuocdn.cn
 DOMAIN-SUFFIX,statics.woozooo.com
 DOMAIN-SUFFIX,staticxx.facebook.com
 DOMAIN-SUFFIX,stats-locations.com
@@ -2861,6 +2870,7 @@ DOMAIN-SUFFIX,tnc3-aliec1.toutiaoapi.com
 DOMAIN-SUFFIX,tnc3-aliec2.bytedance.com
 DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
 DOMAIN-SUFFIX,tnc3-aliec2.toutiaoapi.com
+DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
 DOMAIN-SUFFIX,tnc3-alisc1.bytedance.com
 DOMAIN-SUFFIX,tnc3-alisc1.snssdk.com
 DOMAIN-SUFFIX,tnc3-alisc1.toutiaoapi.com

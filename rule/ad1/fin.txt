@@ -862,6 +862,7 @@ DOMAIN-SUFFIX,advp.apple.com
 DOMAIN-SUFFIX,adwetec.com
 DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,adwo.com
+DOMAIN-SUFFIX,adx-ad.smart-tv.cn
 DOMAIN-SUFFIX,adx-drcn.op.dbankcloud.cn
 DOMAIN-SUFFIX,adx-open-service.youku.com
 DOMAIN-SUFFIX,adx.ads.heytapmobi.com
@@ -1315,7 +1316,6 @@ DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,cudaojia.com
 DOMAIN-SUFFIX,customer-security.online
 DOMAIN-SUFFIX,cvda.17173.com
-DOMAIN-SUFFIX,cws-cctv.conviva.com
 DOMAIN-SUFFIX,d.g.mi.com
 DOMAIN-SUFFIX,d.kugou.com
 DOMAIN-SUFFIX,d.meituan.net
@@ -1338,6 +1338,7 @@ DOMAIN-SUFFIX,datax.baidu.com
 DOMAIN-SUFFIX,datouniao.com
 DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,dc.meitustat.com
+DOMAIN-SUFFIX,dc.sigmob.cn
 DOMAIN-SUFFIX,dcads.sina.com.cn
 DOMAIN-SUFFIX,dd.sina.com.cn
 DOMAIN-SUFFIX,ddapp.cn
@@ -1511,7 +1512,6 @@ DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com
 DOMAIN-SUFFIX,fclick.baidu.com
 DOMAIN-SUFFIX,fclog.baidu.com
 DOMAIN-SUFFIX,fds.api.moji.com
-DOMAIN-SUFFIX,feed-image.baidu.com
 DOMAIN-SUFFIX,feih.com.cn
 DOMAIN-SUFFIX,feitian001.com
 DOMAIN-SUFFIX,feixin2.com
@@ -1822,7 +1822,6 @@ DOMAIN-SUFFIX,itnuzleafan.com
 DOMAIN-SUFFIX,its-dori.tumblr.com
 DOMAIN-SUFFIX,itsdata.map.baidu.com
 DOMAIN-SUFFIX,ituibei.cn
-DOMAIN-SUFFIX,itv2-up.openspeech.cn
 DOMAIN-SUFFIX,iwan.sogou.com
 DOMAIN-SUFFIX,iwstat.tudou.com
 DOMAIN-SUFFIX,ixav-cse.avlyun.com
@@ -1913,6 +1912,8 @@ DOMAIN-SUFFIX,kwmsg.kuwo.cn
 DOMAIN-SUFFIX,l.qq.com
 DOMAIN-SUFFIX,l.ykimg.com
 DOMAIN-SUFFIX,l.youku.com
+DOMAIN-SUFFIX,launcher.smart-tv.cn
+DOMAIN-SUFFIX,launcherimg.smart-tv.cn
 DOMAIN-SUFFIX,leadbolt.com
 DOMAIN-SUFFIX,leadbolt.net
 DOMAIN-SUFFIX,leadboltads.net
@@ -2091,6 +2092,7 @@ DOMAIN-SUFFIX,minipage.2345.cn
 DOMAIN-SUFFIX,minisite.letv.com
 DOMAIN-SUFFIX,minisplat.cn
 DOMAIN-SUFFIX,mipcache.bdstatic.com
+DOMAIN-SUFFIX,mission-pub.smart-tv.cn
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mjmobi.com
@@ -2201,6 +2203,7 @@ DOMAIN-SUFFIX,news.docer.com
 DOMAIN-SUFFIX,newscgp.com
 DOMAIN-SUFFIX,newspush.sinajs.cn
 DOMAIN-SUFFIX,newton-api.ele.me
+DOMAIN-SUFFIX,newvoice.chiq5.smart-tv.cn
 DOMAIN-SUFFIX,nex.163.com
 DOMAIN-SUFFIX,nex.corp.163.com
 DOMAIN-SUFFIX,nex8.net
@@ -2546,7 +2549,6 @@ DOMAIN-SUFFIX,salmonads.com
 DOMAIN-SUFFIX,samba.tv
 DOMAIN-SUFFIX,samsung-com.112.2o7.net
 DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,sanme2.taisantech.com
 DOMAIN-SUFFIX,sanya1.com
 DOMAIN-SUFFIX,sape.ru
 DOMAIN-SUFFIX,sax.mobile.sina.cn
@@ -2637,7 +2639,6 @@ DOMAIN-SUFFIX,sifuhe.cn
 DOMAIN-SUFFIX,sifuhu.cn
 DOMAIN-SUFFIX,sifuji.cn
 DOMAIN-SUFFIX,sifuka.cn
-DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,sigmob.com
 DOMAIN-SUFFIX,silvermob.com
 DOMAIN-SUFFIX,simaba.m.taobao.com
@@ -2664,7 +2665,6 @@ DOMAIN-SUFFIX,smac-ad.com
 DOMAIN-SUFFIX,smad.ms.zhangyue.net
 DOMAIN-SUFFIX,smadex.com
 DOMAIN-SUFFIX,smart-c.jp
-DOMAIN-SUFFIX,smart-tv.cn
 DOMAIN-SUFFIX,smartad.10010.com
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartclip.net

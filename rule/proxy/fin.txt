@@ -1,4 +1,4 @@
-# Main total line 6993 
+# Main total line 7003 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2434,6 +2434,7 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
 DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,greatfirewall.biz
 DOMAIN-SUFFIX,greatfirewallofchina.net
 DOMAIN-SUFFIX,greatfirewallofchina.org
@@ -2551,6 +2552,7 @@ DOMAIN-SUFFIX,hentai.to
 DOMAIN-SUFFIX,hentaifox.com
 DOMAIN-SUFFIX,hentaipaw.com
 DOMAIN-SUFFIX,hentaiplay.net
+DOMAIN-SUFFIX,hentaistream.com
 DOMAIN-SUFFIX,hentaitube.tv
 DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-SUFFIX,hentaivideoworld.com
@@ -3125,6 +3127,7 @@ DOMAIN-SUFFIX,javtag.com
 DOMAIN-SUFFIX,javtrailers.com
 DOMAIN-SUFFIX,javtsunami.com
 DOMAIN-SUFFIX,javwind.com
+DOMAIN-SUFFIX,javynow.com
 DOMAIN-SUFFIX,javzoo.com
 DOMAIN-SUFFIX,javzz.com
 DOMAIN-SUFFIX,jbtalks.cc
@@ -3775,6 +3778,7 @@ DOMAIN-SUFFIX,modmyi.com
 DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,moeerolibrary.com
 DOMAIN-SUFFIX,moegirl.org
+DOMAIN-SUFFIX,moeload.com
 DOMAIN-SUFFIX,moeshare.cc
 DOMAIN-SUFFIX,mofaxiehui.com
 DOMAIN-SUFFIX,mofoprod.net
@@ -3861,6 +3865,7 @@ DOMAIN-SUFFIX,my03.com
 DOMAIN-SUFFIX,my903.com
 DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,myanimeshelf.com
 DOMAIN-SUFFIX,myanniu.com
 DOMAIN-SUFFIX,myatos.net
 DOMAIN-SUFFIX,myaudiocast.com
@@ -4512,8 +4517,10 @@ DOMAIN-SUFFIX,popyard.org
 DOMAIN-SUFFIX,porn.com
 DOMAIN-SUFFIX,porn2.com
 DOMAIN-SUFFIX,porn5.com
+DOMAIN-SUFFIX,porn87.com
 DOMAIN-SUFFIX,pornbase.org
 DOMAIN-SUFFIX,pornbest.org
+DOMAIN-SUFFIX,porndig.com
 DOMAIN-SUFFIX,pornerbros.com
 DOMAIN-SUFFIX,porngo.com
 DOMAIN-SUFFIX,pornhd.com
@@ -6026,6 +6033,7 @@ DOMAIN-SUFFIX,ulop.net
 DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,ulyssesapp.com
+DOMAIN-SUFFIX,umblr.com
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblock.cn.com
@@ -6063,6 +6071,7 @@ DOMAIN-SUFFIX,updatestar.com
 DOMAIN-SUFFIX,updownradar.com
 DOMAIN-SUFFIX,upghsbc.com
 DOMAIN-SUFFIX,upholdjustice.org
+DOMAIN-SUFFIX,upjav.org
 DOMAIN-SUFFIX,upload4u.info
 DOMAIN-SUFFIX,uploaded.net
 DOMAIN-SUFFIX,uploaded.to
@@ -6451,6 +6460,7 @@ DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikidot.com
+DOMAIN-SUFFIX,wikifunctions.org
 DOMAIN-SUFFIX,wikihow.com
 DOMAIN-SUFFIX,wikilivres.info
 DOMAIN-SUFFIX,wikimapia.org

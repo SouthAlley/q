@@ -1,4 +1,4 @@
-# Main total line 23079 
+# Main total line 23086 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -907,6 +907,8 @@ DOMAIN-SUFFIX,afantibbs.com
 DOMAIN-SUFFIX,afappyending.com
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,affect3dstore.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity.studio
 DOMAIN-SUFFIX,affirmtrust.com
 DOMAIN-SUFFIX,afkv28.com
 DOMAIN-SUFFIX,aflamporn.com
@@ -3067,6 +3069,7 @@ DOMAIN-SUFFIX,beyondcore.com
 DOMAIN-SUFFIX,beyondfirewall.com
 DOMAIN-SUFFIX,bffshd.com
 DOMAIN-SUFFIX,bfnn.org
+DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgme.me
 DOMAIN-SUFFIX,bgov.com
@@ -4308,6 +4311,7 @@ DOMAIN-SUFFIX,canonfoundation.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,canonproprinters.com
 DOMAIN-SUFFIX,cantonese.asia
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canyu.org
 DOMAIN-SUFFIX,cao.im
 DOMAIN-SUFFIX,caobian.info
@@ -9075,6 +9079,7 @@ DOMAIN-SUFFIX,great-firewall.com
 DOMAIN-SUFFIX,great-roc.org
 DOMAIN-SUFFIX,greatergothammini.com
 DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,greatfirewall.biz
 DOMAIN-SUFFIX,greatfirewallofchina.net
 DOMAIN-SUFFIX,greatfirewallofchina.org
@@ -14380,6 +14385,7 @@ DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,neo-miracle.com
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neotokyo.supertop-100.com
+DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,neow.in
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,nerdnudes.com
@@ -22793,6 +22799,7 @@ DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,zeitworld.com
 DOMAIN-SUFFIX,zello.com
+DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,zen8ok.xyz
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,zencoder.com

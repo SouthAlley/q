@@ -1,4 +1,4 @@
-# Main total line 4038 
+# Main total line 4045 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -391,6 +391,7 @@ DOMAIN,cache.industry.siemens.com
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cached.rebuyengine.com
 DOMAIN,canny-assets.io
+DOMAIN,canvas-lb.tubitv.com
 DOMAIN,cassette.sphdigital.com.sg
 DOMAIN,cc-embed.adobe.com
 DOMAIN,cc.boyfriendtv.com
@@ -1466,6 +1467,7 @@ DOMAIN,images.hothardware.com
 DOMAIN,images.icon-icons.com
 DOMAIN,images.idgesg.net
 DOMAIN,images.indianexpress.com
+DOMAIN,images.justwatch.com
 DOMAIN,images.kick.com
 DOMAIN,images.loox.io
 DOMAIN,images.macrumors.com
@@ -1499,6 +1501,7 @@ DOMAIN,images.tokopedia.net
 DOMAIN,images.typeform.com
 DOMAIN,images.unsplash.com
 DOMAIN,images.videolan.org
+DOMAIN,images.vudu.com
 DOMAIN,images.web3.storage
 DOMAIN,images.weserv.nl
 DOMAIN,images.whoer.com
@@ -1511,6 +1514,7 @@ DOMAIN,images1.vinted.net
 DOMAIN,images1.welcomesoftware.com
 DOMAIN,images2.cmp.optimizely.com
 DOMAIN,images2.giant-bicycles.com
+DOMAIN,images2.vudu.com
 DOMAIN,images2.welcomesoftware.com
 DOMAIN,images3.cmp.optimizely.com
 DOMAIN,images3.welcomesoftware.com
@@ -1786,6 +1790,7 @@ DOMAIN,marfeelexperimentsexperienceengine.mrf.io
 DOMAIN,marketing.figma.com
 DOMAIN,marketing.thingiverse.com
 DOMAIN,marketplace-web-assets.vinted.com
+DOMAIN,mcdn.tubi.tv
 DOMAIN,mcdn.vrporn.com
 DOMAIN,mcdnds.vrporn.com
 DOMAIN,mcdns.vrporn.com
@@ -2355,6 +2360,7 @@ DOMAIN,static-exp3.licdn.com
 DOMAIN,static-files.bitchute.com
 DOMAIN,static-forms.klaviyo.com
 DOMAIN,static-gcp.freepikcompany.com
+DOMAIN,static-homepage-en.pluto.tv
 DOMAIN,static-id.fc2.com
 DOMAIN,static-images.remax.com
 DOMAIN,static-landing.probiplacehold.cot.com
@@ -2742,6 +2748,7 @@ DOMAIN,townsquare.media
 DOMAIN,tracking.inflection.io
 DOMAIN,trekcdnprod.azureedge.net
 DOMAIN,truth.bahamut.com.tw
+DOMAIN,tubi.video
 DOMAIN,tuf-repo-cdn.sigstore.dev
 DOMAIN,tuf-repo.github.com
 DOMAIN,turbo.build

@@ -1,4 +1,4 @@
-# Main total line 4054 
+# Main total line 4061 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1017,6 +1017,7 @@ DOMAIN,cms-assets.xboxservices.com
 DOMAIN,cms-cdn.goat.com
 DOMAIN,cms-cdn.now.gg
 DOMAIN,cms.blavity.com
+DOMAIN,cms.myfonts.com
 DOMAIN,cms.recordedfuture.com
 DOMAIN,cms.therecord.media
 DOMAIN,cms.typenetwork.com
@@ -1319,6 +1320,7 @@ DOMAIN,heroicons.com
 DOMAIN,hhhhhhome86227170.wordpress.com
 DOMAIN,himeko.iwara.tv
 DOMAIN,hips.hearstapps.com
+DOMAIN,hiveplayer-static.bamgrid.com
 DOMAIN,hls.hentaicity.com
 DOMAIN,home.integrate.com
 DOMAIN,hp.foxnews.com
@@ -2049,6 +2051,7 @@ DOMAIN,polyfill-fe.toss.im
 DOMAIN,polyfill.bbhub.io
 DOMAIN,pomf2.lain.la
 DOMAIN,pool.jortage.com
+DOMAIN,pp-static.monotype.com
 DOMAIN,pplx-next-static-public.perplexity.ai
 DOMAIN,pptstatic.iyf.tv
 DOMAIN,practicaldev-herokuapp-com.freetls.fastly.net
@@ -2385,6 +2388,7 @@ DOMAIN,static-sv.fc2.com
 DOMAIN,static-us.afterpay.com
 DOMAIN,static-web-prod.skillshare.com
 DOMAIN,static-web.grammarly.com
+DOMAIN,static-webfonts.myfonts.com
 DOMAIN,static-www.onlyoffice.com
 DOMAIN,static.3dporndude.com
 DOMAIN,static.4shared.com
@@ -2543,6 +2547,7 @@ DOMAIN,static.onlyfans.com
 DOMAIN,static.oomol.com
 DOMAIN,static.openreplay.com
 DOMAIN,static.opensea.io
+DOMAIN,static.opensuse.org
 DOMAIN,static.oracle.com
 DOMAIN,static.parallels.com
 DOMAIN,static.peatio.com
@@ -3377,6 +3382,7 @@ DOMAIN-SUFFIX,i-dont-care-about-cookies.eu
 DOMAIN-SUFFIX,i.optimole.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,icfcdn.com
 DOMAIN-SUFFIX,icon.horse
 DOMAIN-SUFFIX,iframe.ly
 DOMAIN-SUFFIX,iggcdn.com
@@ -3622,6 +3628,7 @@ DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,npmcdn.com
 DOMAIN-SUFFIX,npmfs.com
 DOMAIN-SUFFIX,npms.io
+DOMAIN-SUFFIX,nsimg.net
 DOMAIN-SUFFIX,nv7s.com
 DOMAIN-SUFFIX,nxcli.io
 DOMAIN-SUFFIX,nxedge.io

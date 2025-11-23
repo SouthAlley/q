@@ -1,4 +1,4 @@
-# Main total line 7032 
+# Main total line 7034 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -3955,6 +3955,7 @@ DOMAIN-SUFFIX,nalandawest.org
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,namgyal.org
 DOMAIN-SUFFIX,namgyalmonastery.org
+DOMAIN-SUFFIX,namu.wiki
 DOMAIN-SUFFIX,nanopool.org
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,nanyangpost.com
@@ -4456,6 +4457,7 @@ DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,picgo.net
 DOMAIN-SUFFIX,picidae.net
 DOMAIN-SUFFIX,picjs.xyz
+DOMAIN-SUFFIX,picsart.com
 DOMAIN-SUFFIX,picturedip.com
 DOMAIN-SUFFIX,picturesocial.com
 DOMAIN-SUFFIX,picuki.com

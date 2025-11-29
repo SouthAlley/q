@@ -1,4 +1,4 @@
-# Main total line 1859 
+# Main total line 1861 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -352,6 +352,7 @@ DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,espejito.fder.edu.uy
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fdisk.5play.app
+DOMAIN,fdroid.tetaneutral.net
 DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
 DOMAIN,files2.freedownloadmanager.org
@@ -809,6 +810,7 @@ DOMAIN,mirror.las.iastate.edu
 DOMAIN,mirror.lc
 DOMAIN,mirror.lchost.net
 DOMAIN,mirror.leitecastro.com
+DOMAIN,mirror.level66.network
 DOMAIN,mirror.library.ucy.ac.cy
 DOMAIN,mirror.limda.net
 DOMAIN,mirror.linkdata.com

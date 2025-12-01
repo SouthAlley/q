@@ -1,4 +1,4 @@
-# Main total line 7035 
+# Main total line 7036 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -6832,6 +6832,7 @@ DOMAIN-SUFFIX,zaloapp.com
 DOMAIN-SUFFIX,zamimg.com
 DOMAIN-SUFFIX,zannel.com
 DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaochenbao.com
 DOMAIN-SUFFIX,zaozon.com
 DOMAIN-SUFFIX,zapto.org
 DOMAIN-SUFFIX,zattoo.com

@@ -1,4 +1,4 @@
-# Main total line 1861 
+# Main total line 1867 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -563,14 +563,19 @@ DOMAIN,gnu.freemirror.org
 DOMAIN,gnualpha.uib.no
 DOMAIN,gnuftp.uib.no
 DOMAIN,go-updater.brave.com
+DOMAIN,go.opentelemetry.io
+DOMAIN,go.yaml.in
 DOMAIN,gog-cdn-fastly-cp77.gog.com
 DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,google.golang.org
 DOMAIN,gopkg.in
+DOMAIN,gotest.tools
 DOMAIN,gpl.savoirfairelinux.net
 DOMAIN,http.kali.org
 DOMAIN,http.krfoss.org
 DOMAIN,httpd-mirror.sergal.org
 DOMAIN,i18n.prismlauncher.org
+DOMAIN,index.golang.org
 DOMAIN,index.rubygems.org
 DOMAIN,install.virtfusion.net
 DOMAIN,invent.kde.org
@@ -1241,6 +1246,7 @@ DOMAIN,steampipe.akamaized.net
 DOMAIN,store.setapp.com
 DOMAIN,store1.gofile.io
 DOMAIN,su.virtualbuddy.app
+DOMAIN,sum.golang.org
 DOMAIN,sunsite.icm.edu.pl
 DOMAIN,sunsite.informatik.rwth-aachen.de
 DOMAIN,suro.ubaya.ac.id

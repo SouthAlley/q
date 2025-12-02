@@ -1,4 +1,4 @@
-# Main total line 4110 
+# Main total line 4111 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2826,6 +2826,7 @@ DOMAIN,uos-support-files.svc.ui.com
 DOMAIN,updates.signal.org
 DOMAIN,updates2.signal.org
 DOMAIN,upload.movim.eu
+DOMAIN,upload.teftera.com
 DOMAIN,upload.wikimedia.org
 DOMAIN,uploads-cdn.omnicalculator.com
 DOMAIN,uploads.codesandbox.io

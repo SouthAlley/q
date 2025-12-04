@@ -1,4 +1,4 @@
-# Main total line 4114 
+# Main total line 4115 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2921,6 +2921,7 @@ DOMAIN,webfonts.zoho.com
 DOMAIN,webobjects2.cdw.com
 DOMAIN,webp.frostming.com
 DOMAIN,website-cdn.ipinfo.io
+DOMAIN,website-media.deel.com
 DOMAIN,website-prod.cache.wpscdn.com
 DOMAIN,webstatic.chargebee.com
 DOMAIN,widget.automizely.com

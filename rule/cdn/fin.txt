@@ -1,4 +1,4 @@
-# Main total line 4115 
+# Main total line 4117 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -609,6 +609,7 @@ DOMAIN,cdn.gofundme.com
 DOMAIN,cdn.googlesource.com
 DOMAIN,cdn.graph.office.net
 DOMAIN,cdn.growthbook.io
+DOMAIN,cdn.hackaday.io
 DOMAIN,cdn.hackernoon.com
 DOMAIN,cdn.hashnode.com
 DOMAIN,cdn.headwayapp.co
@@ -1329,6 +1330,7 @@ DOMAIN,gstatic.olympics.com
 DOMAIN,gt1.onlyhentaistuff.com
 DOMAIN,gtranslate.io
 DOMAIN,hawk.tomsguide.com
+DOMAIN,hawky.pcgamer.com
 DOMAIN,headway-widget.net
 DOMAIN,heatmap-external-a.strava.com
 DOMAIN,hello.zonos.com

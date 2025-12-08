@@ -1,4 +1,4 @@
-# Main total line 1867 
+# Main total line 1866 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -141,7 +141,6 @@ DOMAIN,ctan.crest.fr
 DOMAIN,ctan.dcc.uchile.cl
 DOMAIN,ctan.ebinger.cc
 DOMAIN,ctan.gutenberg.eu.org
-DOMAIN,ctan.imsc.res.in
 DOMAIN,ctan.math.ca
 DOMAIN,ctan.math.illinois.edu
 DOMAIN,ctan.math.utah.edu
@@ -559,7 +558,6 @@ DOMAIN,gimp.ip-connect.vn.ua
 DOMAIN,glua.ua.pt
 DOMAIN,gnu.askapache.com
 DOMAIN,gnu.c3sl.ufpr.br
-DOMAIN,gnu.freemirror.org
 DOMAIN,gnualpha.uib.no
 DOMAIN,gnuftp.uib.no
 DOMAIN,go-updater.brave.com
@@ -1423,6 +1421,7 @@ DOMAIN-SUFFIX,filebin.net
 DOMAIN-SUFFIX,files.1drv.com
 DOMAIN-SUFFIX,finkmirrors.net
 DOMAIN-SUFFIX,fnbuilds.services
+DOMAIN-SUFFIX,freemirror.org
 DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,ftp2.de.debian.org

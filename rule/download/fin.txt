@@ -1,4 +1,4 @@
-# Main total line 1866 
+# Main total line 1871 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -106,6 +106,7 @@ DOMAIN,cisco.yuntu.com.tw
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,client.hikarifield.co.jp
 DOMAIN,cloud.daporkchop.net
+DOMAIN,cloudflare.f-droid.org
 DOMAIN,cloudfront.debian.net
 DOMAIN,codeload.github.com
 DOMAIN,componentupdater.brave.com
@@ -162,6 +163,7 @@ DOMAIN,deb.bbxnet.sk
 DOMAIN,deb.campolargo.pr.gov.br
 DOMAIN,deb.nextgen.ch
 DOMAIN,deb.nodesource.com
+DOMAIN,deb.torproject.org
 DOMAIN,debian-archive.trafficmanager.net
 DOMAIN,debian-mirror.behostings.net
 DOMAIN,debian-mirror.puq.apoapsis.cl
@@ -349,6 +351,7 @@ DOMAIN,elmirror.cl
 DOMAIN,enterprise.proxmox.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,espejito.fder.edu.uy
+DOMAIN,f-droid.org
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fdisk.5play.app
 DOMAIN,fdroid.tetaneutral.net
@@ -725,6 +728,7 @@ DOMAIN,mirror.eu-lo.kamatera.com
 DOMAIN,mirror.eu.4psacloud.com
 DOMAIN,mirror.eu.kamatera.com
 DOMAIN,mirror.eu.oneandone.net
+DOMAIN,mirror.eu.ossplanet.net
 DOMAIN,mirror.evowise.com
 DOMAIN,mirror.facebook.net
 DOMAIN,mirror.faraso.org
@@ -1233,6 +1237,7 @@ DOMAIN,static.adguard.com
 DOMAIN,static.adtidy.org
 DOMAIN,static.redox-os.org
 DOMAIN,static.rust-lang.org
+DOMAIN,static.torproject.org
 DOMAIN,stats.snipaste.com
 DOMAIN,steam.apac.qtlglb.com
 DOMAIN,steam.eca.qtlglb.com

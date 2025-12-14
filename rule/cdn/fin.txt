@@ -1,4 +1,4 @@
-# Main total line 4136 
+# Main total line 4137 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1555,6 +1555,7 @@ DOMAIN,images.youracclaim.com
 DOMAIN,images1.cmp.optimizely.com
 DOMAIN,images1.vinted.net
 DOMAIN,images1.welcomesoftware.com
+DOMAIN,images10.newegg.com
 DOMAIN,images2.cmp.optimizely.com
 DOMAIN,images2.giant-bicycles.com
 DOMAIN,images2.vudu.com

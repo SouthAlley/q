@@ -1,4 +1,4 @@
-# Main total line 1871 
+# Main total line 1873 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -81,6 +81,7 @@ DOMAIN,cdn-updates.orbstack.dev
 DOMAIN,cdn.azul.com
 DOMAIN,cdn.cocoapods.org
 DOMAIN,cdn.cypress.io
+DOMAIN,cdn.electronic.us
 DOMAIN,cdn.fwupd.org
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com
@@ -245,6 +246,7 @@ DOMAIN,dl.flathub.org
 DOMAIN,dl.getaurora.dev
 DOMAIN,dl.google.com
 DOMAIN,dl.iina.io
+DOMAIN,dl.imobie.com
 DOMAIN,dl.l.google.com
 DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com

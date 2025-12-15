@@ -1,4 +1,4 @@
-# Main total line 7040 
+# Main total line 7041 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -3766,6 +3766,7 @@ DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,missav123.com
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,mist.vip
 DOMAIN-SUFFIX,mit.edu

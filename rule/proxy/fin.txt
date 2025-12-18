@@ -1,4 +1,4 @@
-# Main total line 7041 
+# Main total line 7043 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -699,6 +699,7 @@ DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bit.no.com
+DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bitbay.net
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitbucket.org
@@ -2850,6 +2851,7 @@ DOMAIN-SUFFIX,icu-project.org
 DOMAIN-SUFFIX,id
 DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,idaiwan.com
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,iddddg.com
 DOMAIN-SUFFIX,idemocracy.asia
 DOMAIN-SUFFIX,idiomconnection.com

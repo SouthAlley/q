@@ -1,4 +1,4 @@
-# Main total line 4157 
+# Main total line 4161 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -796,6 +796,7 @@ DOMAIN,cdn.shoppinggives.com
 DOMAIN,cdn.sift.com
 DOMAIN,cdn.simpleicons.org
 DOMAIN,cdn.simplelocalize.io
+DOMAIN,cdn.simplesat.io
 DOMAIN,cdn.sitesearch360.com
 DOMAIN,cdn.sketch.com
 DOMAIN,cdn.skymavis.com
@@ -1400,6 +1401,7 @@ DOMAIN,i.pcmag.com
 DOMAIN,i.rtings.com
 DOMAIN,i.servimg.com
 DOMAIN,i.snap.as
+DOMAIN,i.typlog.com
 DOMAIN,i.vgy.me
 DOMAIN,i.xgroovy.com
 DOMAIN,i.xozilla.xxx
@@ -1618,6 +1620,7 @@ DOMAIN,img.fastcybers.com
 DOMAIN,img.foresightnews.pro
 DOMAIN,img.fortawesome.com
 DOMAIN,img.freepik.com
+DOMAIN,img.fzf404.art
 DOMAIN,img.gs
 DOMAIN,img.hellofresh.com
 DOMAIN,img.hentaihaven.xxx
@@ -2109,6 +2112,7 @@ DOMAIN,pp-static.monotype.com
 DOMAIN,pplx-next-static-public.perplexity.ai
 DOMAIN,pptstatic.iyf.tv
 DOMAIN,practicaldev-herokuapp-com.freetls.fastly.net
+DOMAIN,prd-www-cdn.ubnt.com
 DOMAIN,prego-cache.prod.sketch.com
 DOMAIN,prettier.io
 DOMAIN,preview.anysex.com

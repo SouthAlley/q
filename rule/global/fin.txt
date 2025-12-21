@@ -1,4 +1,4 @@
-# Main total line 23146 
+# Main total line 23154 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -6122,6 +6122,8 @@ DOMAIN-SUFFIX,dma.mil
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmed.technology
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,dmit.sh
 DOMAIN-SUFFIX,dml-lang.org
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.com
@@ -6518,6 +6520,7 @@ DOMAIN-SUFFIX,dynssl.com
 DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,dynu.net
 DOMAIN-SUFFIX,dysfz.cc
+DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,dzze.com
 DOMAIN-SUFFIX,e-bay.com
 DOMAIN-SUFFIX,e-bay.net
@@ -6950,6 +6953,7 @@ DOMAIN-SUFFIX,entrust.cn
 DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,eotarchive.org
 DOMAIN-SUFFIX,epac.to
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,epicgames.com
@@ -8759,6 +8763,7 @@ DOMAIN-SUFFIX,ghanely.me
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,ghettotube.com
 DOMAIN-SUFFIX,ghidra-sre.org
+DOMAIN-SUFFIX,ghostarchive.org
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,ghostgames.com
 DOMAIN-SUFFIX,ghostnoteapp.com
@@ -13118,6 +13123,7 @@ DOMAIN-SUFFIX,meltoday.com
 DOMAIN-SUFFIX,meme111.com
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,memehk.com
+DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,memorybbs.com
 DOMAIN-SUFFIX,memri.org
 DOMAIN-SUFFIX,memrijttm.org
@@ -15753,6 +15759,7 @@ DOMAIN-SUFFIX,perfecttitspics.com
 DOMAIN-SUFFIX,perfectvpn.net
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perl.org
+DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,persagg.com
@@ -21435,6 +21442,7 @@ DOMAIN-SUFFIX,webcamjackers.com
 DOMAIN-SUFFIX,webcammedellin.co
 DOMAIN-SUFFIX,webcams.tv
 DOMAIN-SUFFIX,webcamtubexxx.com
+DOMAIN-SUFFIX,webcitation.org
 DOMAIN-SUFFIX,webevader.org
 DOMAIN-SUFFIX,webex.co.in
 DOMAIN-SUFFIX,webex.co.nz

@@ -1,4 +1,4 @@
-# Main total line 1874 
+# Main total line 1877 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -279,6 +279,7 @@ DOMAIN,down.filen.net
 DOMAIN,download-cdn.jetbrains.com
 DOMAIN,download-core.sys.truenas.net
 DOMAIN,download-installer.cdn.mozilla.net
+DOMAIN,download.amelabs.net
 DOMAIN,download.ameliorated.io
 DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
@@ -320,6 +321,7 @@ DOMAIN,download.proxyman.com
 DOMAIN,download.savannah.gnu.org
 DOMAIN,download.sketch.com
 DOMAIN,download.snipaste.com
+DOMAIN,download.sysinternals.com
 DOMAIN,download.tensorflow.google.com
 DOMAIN,download.todesktop.com
 DOMAIN,download.typora.io
@@ -1337,6 +1339,7 @@ DOMAIN,update.parallels.com
 DOMAIN,update.sleazyfork.org
 DOMAIN,updater.snipaste.com
 DOMAIN,updates-cdn.bravesoftware.com
+DOMAIN,updates.64gr.am
 DOMAIN,updates.bravesoftware.com
 DOMAIN,updates.edovia.com
 DOMAIN,updates.istatmenus.app

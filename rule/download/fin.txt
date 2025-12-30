@@ -1,4 +1,4 @@
-# Main total line 1877 
+# Main total line 1892 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -164,6 +164,7 @@ DOMAIN,deb.bbxnet.sk
 DOMAIN,deb.campolargo.pr.gov.br
 DOMAIN,deb.nextgen.ch
 DOMAIN,deb.nodesource.com
+DOMAIN,deb.sury.org
 DOMAIN,deb.torproject.org
 DOMAIN,debian-archive.trafficmanager.net
 DOMAIN,debian-mirror.behostings.net
@@ -349,6 +350,7 @@ DOMAIN,downloads2.broadcom.com
 DOMAIN,drive.massgrave.dev
 DOMAIN,drmirror.physi.uni-heidelberg.de
 DOMAIN,dw.uptodown.net
+DOMAIN,eclats.crans.org
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgeupdates.microsoft.com
@@ -356,6 +358,7 @@ DOMAIN,elmirror.cl
 DOMAIN,enterprise.proxmox.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,espejito.fder.edu.uy
+DOMAIN,eu.edge.kernel.org
 DOMAIN,f-droid.org
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fdisk.5play.app
@@ -394,6 +397,7 @@ DOMAIN,ftp.ca.debian.org
 DOMAIN,ftp.caliu.cat
 DOMAIN,ftp.carnet.hr
 DOMAIN,ftp.cc.uoc.gr
+DOMAIN,ftp.cc.uoc.grs
 DOMAIN,ftp.ch.debian.org
 DOMAIN,ftp.cica.es
 DOMAIN,ftp.cixug.es
@@ -401,6 +405,7 @@ DOMAIN,ftp.cl.debian.org
 DOMAIN,ftp.cn.debian.org
 DOMAIN,ftp.corbina.net
 DOMAIN,ftp.cpan.org
+DOMAIN,ftp.crihan.fr
 DOMAIN,ftp.cs.uu.nl
 DOMAIN,ftp.cse.buffalo.edu
 DOMAIN,ftp.csuc.cat
@@ -604,9 +609,11 @@ DOMAIN,libraries.minecraft.net
 DOMAIN,lidsol.fi-b.unam.mx
 DOMAIN,linorg.usp.br
 DOMAIN,linux-mirrors.fnal.gov
+DOMAIN,linux.cs.nctu.edu.tw
 DOMAIN,linux.domainesia.com
 DOMAIN,linux.purple-cat.net
 DOMAIN,linux.yz.yamagata-u.ac.jp
+DOMAIN,linux2.yz.yamagata-u.ac.jp
 DOMAIN,linuxsoft.cern.ch
 DOMAIN,lug.mines.edu
 DOMAIN,lzip.nongnu.org
@@ -703,6 +710,7 @@ DOMAIN,mirror.datacenter.az
 DOMAIN,mirror.datacenter.by
 DOMAIN,mirror.datacenter.mn
 DOMAIN,mirror.datamossa.io
+DOMAIN,mirror.datapacket.com
 DOMAIN,mirror.datapipe.net
 DOMAIN,mirror.dc.uz
 DOMAIN,mirror.de.leaseweb.net
@@ -710,6 +718,7 @@ DOMAIN,mirror.debian.ikoula.com
 DOMAIN,mirror.del.albony.in
 DOMAIN,mirror.dewabiz.com
 DOMAIN,mirror.digitaloceans.dev
+DOMAIN,mirror.dimensiondata.com
 DOMAIN,mirror.djvg.sg
 DOMAIN,mirror.dkm.cz
 DOMAIN,mirror.docker.ru
@@ -728,6 +737,7 @@ DOMAIN,mirror.eliv.digital
 DOMAIN,mirror.enzu.com
 DOMAIN,mirror.esecuredata.com
 DOMAIN,mirror.estone.ca
+DOMAIN,mirror.ethz.ch
 DOMAIN,mirror.eu-fr.kamatera.com
 DOMAIN,mirror.eu-lo.kamatera.com
 DOMAIN,mirror.eu.4psacloud.com
@@ -893,6 +903,7 @@ DOMAIN,mirror.positive-internet.com
 DOMAIN,mirror.pregi.net
 DOMAIN,mirror.previder.nl
 DOMAIN,mirror.ps.kz
+DOMAIN,mirror.quickhost.uk
 DOMAIN,mirror.raiolanetworks.com
 DOMAIN,mirror.rcg.sfu.ca
 DOMAIN,mirror.realcompute.io
@@ -924,6 +935,7 @@ DOMAIN,mirror.solnode.io
 DOMAIN,mirror.soonkeat.sg
 DOMAIN,mirror.sov.uk.goscomb.net
 DOMAIN,mirror.squ.edu.om
+DOMAIN,mirror.steadfast.net
 DOMAIN,mirror.stjschools.org
 DOMAIN,mirror.switch.ch
 DOMAIN,mirror.szerverem.hu
@@ -1045,6 +1057,7 @@ DOMAIN,mirrors.egr.msu.edu
 DOMAIN,mirrors.esto.network
 DOMAIN,mirrors.evoluso.com
 DOMAIN,mirrors.evowise.com
+DOMAIN,mirrors.eze.sysarmy.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrors.fibianet.dk
 DOMAIN,mirrors.gbnetwork.com
@@ -1098,6 +1111,7 @@ DOMAIN,mirrors.saswata.cc
 DOMAIN,mirrors.sonic.net
 DOMAIN,mirrors.standaloneinstaller.com
 DOMAIN,mirrors.storpool.com
+DOMAIN,mirrors.switch.ca
 DOMAIN,mirrors.teamcloud.am
 DOMAIN,mirrors.tino.org
 DOMAIN,mirrors.ubuntu.dimit.cloud
@@ -1153,6 +1167,7 @@ DOMAIN,packages.httpie.io
 DOMAIN,packages.linuxmint.com
 DOMAIN,packages.microsoft.com
 DOMAIN,packages.oth-regensburg.de
+DOMAIN,packages.sury.org
 DOMAIN,packages.termux.dev
 DOMAIN,packages.virtfusion.net
 DOMAIN,packagespc.xboxlive.com

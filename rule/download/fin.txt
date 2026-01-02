@@ -1,4 +1,4 @@
-# Main total line 1892 
+# Main total line 1888 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -19,7 +19,6 @@ DOMAIN,apache.crihan.fr
 DOMAIN,apache.cs.utah.edu
 DOMAIN,apache.cs.utah.edu.org
 DOMAIN,apache.cs.uu.nl
-DOMAIN,apache.cu.be
 DOMAIN,apache.forthnet.gr
 DOMAIN,apache.hippo.nl
 DOMAIN,apache.ip-connect.vn.ua
@@ -397,7 +396,6 @@ DOMAIN,ftp.ca.debian.org
 DOMAIN,ftp.caliu.cat
 DOMAIN,ftp.carnet.hr
 DOMAIN,ftp.cc.uoc.gr
-DOMAIN,ftp.cc.uoc.grs
 DOMAIN,ftp.ch.debian.org
 DOMAIN,ftp.cica.es
 DOMAIN,ftp.cixug.es
@@ -596,7 +594,6 @@ DOMAIN,jing.rocks
 DOMAIN,kambing.uu.sg
 DOMAIN,kartolo.sby.datautama.net.id
 DOMAIN,kde.c3sl.ufpr.br
-DOMAIN,kde.cu.be
 DOMAIN,kde.ip-connect.vn.ua
 DOMAIN,kebo.pens.ac.id
 DOMAIN,kebo.vlsm.org
@@ -1050,14 +1047,12 @@ DOMAIN,mirrors.codec-cluster.org
 DOMAIN,mirrors.concertpass.com
 DOMAIN,mirrors.coreix.net
 DOMAIN,mirrors.datapark.ro
-DOMAIN,mirrors.dc.clear.net.ar
 DOMAIN,mirrors.de.sahilister.net
 DOMAIN,mirrors.edge.kernel.org
 DOMAIN,mirrors.egr.msu.edu
 DOMAIN,mirrors.esto.network
 DOMAIN,mirrors.evoluso.com
 DOMAIN,mirrors.evowise.com
-DOMAIN,mirrors.eze.sysarmy.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrors.fibianet.dk
 DOMAIN,mirrors.gbnetwork.com
@@ -1525,6 +1520,7 @@ DOMAIN-SUFFIX,mirror.zzunipark.com
 DOMAIN-SUFFIX,mirrors.blix.com
 DOMAIN-SUFFIX,mirrors.cicku.me
 DOMAIN-SUFFIX,mirrors.clouvider.net
+DOMAIN-SUFFIX,mirrors.cu.be
 DOMAIN-SUFFIX,mirrors.dotsrc.org
 DOMAIN-SUFFIX,mirrors.hoobly.com
 DOMAIN-SUFFIX,mirrors.ionfish.org

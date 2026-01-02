@@ -1,4 +1,4 @@
-# Main total line 7058 
+# Main total line 7060 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -4419,6 +4419,7 @@ DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,pdetails.com
 DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,pdproxy.com
+DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,peacefire.org
 DOMAIN-SUFFIX,peacehall.com
 DOMAIN-SUFFIX,peeasian.com
@@ -6117,6 +6118,7 @@ DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,unstable.icu
 DOMAIN-SUFFIX,uocn.org
+DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,upcitemdb.com
 DOMAIN-SUFFIX,updatestar.com

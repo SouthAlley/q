@@ -1,4 +1,4 @@
-# Main total line 4193 
+# Main total line 4194 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1967,6 +1967,7 @@ DOMAIN,mixin-images.zeromesh.net
 DOMAIN,mkt-site-asset.crypto.com
 DOMAIN,mobilecenter.azureedge.net
 DOMAIN,moderate.cleantalk.org
+DOMAIN,modules.kernelsu.org
 DOMAIN,modulous.huffpost.com
 DOMAIN,momentjs.com
 DOMAIN,moodular.jotform.com

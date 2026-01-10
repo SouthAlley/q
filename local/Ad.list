@@ -1,5 +1,7 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+DOMAIN,msmp.abchina.com.cn,REJECT
+
 DOMAIN, analytics.umetrip.com, REJECT
 DOMAIN, sensors.umetrip.com.cn, REJECT
 

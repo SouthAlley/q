@@ -1,4 +1,4 @@
-# Main total line 1889 
+# Main total line 1890 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1559,6 +1559,7 @@ DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pixeldrain.com
+DOMAIN-SUFFIX,pkg.dev
 DOMAIN-SUFFIX,ports.ubuntu.com
 DOMAIN-SUFFIX,public.blob.vercel-storage.com
 DOMAIN-SUFFIX,public.ecr.aws

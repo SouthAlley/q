@@ -1,4 +1,4 @@
-# Main total line 1890 
+# Main total line 1880 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -152,8 +152,6 @@ DOMAIN,ctan.net
 DOMAIN,ctan.space-pro.be
 DOMAIN,ctan.tetaneutral.net
 DOMAIN,ctan.uib.no
-DOMAIN,ctan.um.ac.ir
-DOMAIN,ctan.yazd.ac.ir
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,d.myani.org
 DOMAIN,dafi.inf.um.es
@@ -629,7 +627,6 @@ DOMAIN,mirror-cdn.xtom.com
 DOMAIN,mirror-gw.elastis.id
 DOMAIN,mirror-hk.koddos.net
 DOMAIN,mirror-mk.interspace.com
-DOMAIN,mirror.0-1.cloud
 DOMAIN,mirror.01link.hk
 DOMAIN,mirror.0x.sg
 DOMAIN,mirror.0x626b.com
@@ -644,7 +641,6 @@ DOMAIN,mirror.aktkn.sg
 DOMAIN,mirror.alastyr.com
 DOMAIN,mirror.alwyzon.net
 DOMAIN,mirror.amberit.com.bd
-DOMAIN,mirror.aminidc.com
 DOMAIN,mirror.ams.macarne.com
 DOMAIN,mirror.amscloud.co.id
 DOMAIN,mirror.anigil.com
@@ -655,7 +651,6 @@ DOMAIN,mirror.aptus.co.tz
 DOMAIN,mirror.arizona.edu
 DOMAIN,mirror.arvancloud.ir
 DOMAIN,mirror.as.kamatera.com
-DOMAIN,mirror.as24220.net
 DOMAIN,mirror.as29550.net
 DOMAIN,mirror.as35701.net
 DOMAIN,mirror.as43289.net
@@ -953,7 +948,6 @@ DOMAIN,mirror.twds.com.tw
 DOMAIN,mirror.ubuntu.ikoula.com
 DOMAIN,mirror.ubuntu.serverforge.org
 DOMAIN,mirror.uchile.cl
-DOMAIN,mirror.ucu.ac.ug
 DOMAIN,mirror.uepg.br
 DOMAIN,mirror.ufam.edu.br
 DOMAIN,mirror.ufro.cl
@@ -1106,7 +1100,6 @@ DOMAIN,mirrors.saswata.cc
 DOMAIN,mirrors.sonic.net
 DOMAIN,mirrors.standaloneinstaller.com
 DOMAIN,mirrors.storpool.com
-DOMAIN,mirrors.switch.ca
 DOMAIN,mirrors.teamcloud.am
 DOMAIN,mirrors.tino.org
 DOMAIN,mirrors.ubuntu.dimit.cloud
@@ -1211,7 +1204,6 @@ DOMAIN,repo.gradle.org
 DOMAIN,repo.hex.pm
 DOMAIN,repo.ialab.dsu.edu
 DOMAIN,repo.ifca.es
-DOMAIN,repo.iut.ac.ir
 DOMAIN,repo.jztkft.hu
 DOMAIN,repo.linuxmirrors.ir
 DOMAIN,repo.maven.apache.org
@@ -1279,7 +1271,6 @@ DOMAIN,ubuntu-archive.interhost.co.il
 DOMAIN,ubuntu-archive.locaweb.com.br
 DOMAIN,ubuntu-mirror.ati.tn
 DOMAIN,ubuntu-mirror.bhtelecom.ba
-DOMAIN,ubuntu-mirror.kimiahost.com
 DOMAIN,ubuntu-mirror.puq.apoapsis.cl
 DOMAIN,ubuntu-mirror.snu.edu.in
 DOMAIN,ubuntu.anexia.at
@@ -1318,7 +1309,6 @@ DOMAIN,ubuntu.otenet.gr
 DOMAIN,ubuntu.pars.host
 DOMAIN,ubuntu.parsvds.com
 DOMAIN,ubuntu.phoenixnap.com
-DOMAIN,ubuntu.pishgaman.net
 DOMAIN,ubuntu.repo.cure.edu.uy
 DOMAIN,ubuntu.rootlicense.com
 DOMAIN,ubuntu.securedservers.com

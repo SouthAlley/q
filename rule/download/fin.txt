@@ -1,4 +1,4 @@
-# Main total line 1880 
+# Main total line 1881 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -81,6 +81,7 @@ DOMAIN,cdn.azul.com
 DOMAIN,cdn.cocoapods.org
 DOMAIN,cdn.cypress.io
 DOMAIN,cdn.electronic.us
+DOMAIN,cdn.evolution-x.org
 DOMAIN,cdn.fwupd.org
 DOMAIN,cdn.hyperbeam.com
 DOMAIN,cdn.kagi.com

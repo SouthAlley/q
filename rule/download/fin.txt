@@ -1,4 +1,4 @@
-# Main total line 1881 
+# Main total line 1883 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1768,6 +1768,8 @@ DOMAIN-SUFFIX,s3-website.dualstack.me-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.sa-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-east-2.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.us-gov-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.eu-central-1.amazonaws.com

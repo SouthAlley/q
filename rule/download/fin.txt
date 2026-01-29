@@ -1,4 +1,4 @@
-# Main total line 1883 
+# Main total line 1885 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -72,6 +72,7 @@ DOMAIN,c.1password.com
 DOMAIN,ca.dyi.ng
 DOMAIN,cache.agilebits.com
 DOMAIN,cache.pack.google.com
+DOMAIN,cas-bridge.xethub.hf.co
 DOMAIN,cdimage.kali.org
 DOMAIN,cdn-builds.paw.cloud
 DOMAIN,cdn-images.orbstack.dev
@@ -1345,6 +1346,7 @@ DOMAIN,updates.bravesoftware.com
 DOMAIN,updates.edovia.com
 DOMAIN,updates.istatmenus.app
 DOMAIN,us.dyi.ng
+DOMAIN,version.cyberduck.io
 DOMAIN,versioncheck-bg.addons.mozilla.org
 DOMAIN,versioncheck.addons.mozilla.org
 DOMAIN,vesta.informatik.rwth-aachen.de

@@ -1,4 +1,4 @@
-# Main total line 1885 
+# Main total line 1888 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -156,6 +156,7 @@ DOMAIN,ctan.tetaneutral.net
 DOMAIN,ctan.uib.no
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,d.myani.org
+DOMAIN,d2.myani.org
 DOMAIN,dafi.inf.um.es
 DOMAIN,data.gameflare.com
 DOMAIN,deb-mir1.naitways.net
@@ -1231,6 +1232,8 @@ DOMAIN,rsync.uni-bayreuth.de
 DOMAIN,rsync.yuki.net.uk
 DOMAIN,rubygems.org
 DOMAIN,ruleset.skk.moe
+DOMAIN,s1.animeko.openani.org
+DOMAIN,s2.animeko.openani.org
 DOMAIN,s3.teckids.org
 DOMAIN,searchcpan.org
 DOMAIN,security.debian.org

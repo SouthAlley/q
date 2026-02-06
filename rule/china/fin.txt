@@ -1,4 +1,4 @@
-# Main total line 1051 
+# Main total line 1052 
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -381,6 +381,7 @@ DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
+DOMAIN-SUFFIX,geovisearth.com
 DOMAIN-SUFFIX,ghpym.com
 DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,gifshow.com

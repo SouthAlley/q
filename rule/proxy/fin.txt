@@ -1,4 +1,4 @@
-# Main total line 7070 
+# Main total line 7074 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -657,6 +657,7 @@ DOMAIN-SUFFIX,bewww.net
 DOMAIN-SUFFIX,beyondfirewall.com
 DOMAIN-SUFFIX,bfnn.org
 DOMAIN-SUFFIX,bg
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgme.me
 DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bgvpn.com
@@ -1174,6 +1175,7 @@ DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareapps.com
 DOMAIN-SUFFIX,cloudflarepreview.com
@@ -3873,6 +3875,7 @@ DOMAIN-SUFFIX,mthruf.com
 DOMAIN-SUFFIX,mtw.tl
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,muchosucko.com
+DOMAIN-SUFFIX,muku.tv
 DOMAIN-SUFFIX,mulesoft.com
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,multiply.com
@@ -4093,6 +4096,7 @@ DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,nj.com
 DOMAIN-SUFFIX,njactb.org
 DOMAIN-SUFFIX,njav.com
+DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,njuice.com
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,nlfreevpn.com

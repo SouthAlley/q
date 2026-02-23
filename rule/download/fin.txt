@@ -1,4 +1,4 @@
-# Main total line 1888 
+# Main total line 1889 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -592,6 +592,7 @@ DOMAIN,invent.kde.org
 DOMAIN,ir.ubuntu.sindad.cloud
 DOMAIN,iterm2.com
 DOMAIN,jing.rocks
+DOMAIN,kali.cs.nycu.edu.tw
 DOMAIN,kambing.uu.sg
 DOMAIN,kartolo.sby.datautama.net.id
 DOMAIN,kde.c3sl.ufpr.br

@@ -1,4 +1,4 @@
-# Main total line 1889 
+# Main total line 1890 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1134,6 +1134,7 @@ DOMAIN,mirrors.yuntu.com.tw
 DOMAIN,mr.heru.id
 DOMAIN,msdl.microsoft.com
 DOMAIN,muug.ca
+DOMAIN,mx-app-blob-prod.maxon.net
 DOMAIN,nobara-images.nobaraproject.org
 DOMAIN,npm.im
 DOMAIN,npm.jsr.io

@@ -1,4 +1,4 @@
-# Main total line 4356 
+# Main total line 4359 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -214,6 +214,7 @@ DOMAIN,assets.mailgun.com
 DOMAIN,assets.map.brightcove.com
 DOMAIN,assets.mastercard.com
 DOMAIN,assets.matters.news
+DOMAIN,assets.maxon.net
 DOMAIN,assets.mayoclinic.org
 DOMAIN,assets.mcp.corespeed.io
 DOMAIN,assets.media-platform.com
@@ -565,6 +566,7 @@ DOMAIN,cdn.concert.io
 DOMAIN,cdn.configcat.com
 DOMAIN,cdn.consentmanager.net
 DOMAIN,cdn.contentful.com
+DOMAIN,cdn.convertbox.com
 DOMAIN,cdn.conveythis.com
 DOMAIN,cdn.corso.com
 DOMAIN,cdn.cracked.sh
@@ -2239,6 +2241,7 @@ DOMAIN,public.saasexch.com
 DOMAIN,public.zoorix.com
 DOMAIN,publicsuffix.org
 DOMAIN,puku-dist.4gamers.com.tw
+DOMAIN,purehalo.logto.io
 DOMAIN,pytorch.org
 DOMAIN,qmod.quotemedia.com
 DOMAIN,quests.armorgames.com

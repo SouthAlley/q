@@ -1,4 +1,4 @@
-# Main total line 1890 
+# Main total line 1891 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1144,6 +1144,7 @@ DOMAIN,officecdnmac.microsoft.com
 DOMAIN,onepluscommunityserver.com
 DOMAIN,opensource.nchc.org.tw
 DOMAIN,opensource.xtdv.net
+DOMAIN,openvsx.eclipsecontent.org
 DOMAIN,opfiles.b-cdn.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,os-cdn.virtfusion.net

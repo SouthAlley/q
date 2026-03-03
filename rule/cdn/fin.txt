@@ -1,4 +1,4 @@
-# Main total line 4389 
+# Main total line 4390 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2593,6 +2593,7 @@ DOMAIN,static.ahrefs.com
 DOMAIN,static.ahu.moe
 DOMAIN,static.airtable.com
 DOMAIN,static.aizanmei.org
+DOMAIN,static.ampcode.com
 DOMAIN,static.animaapp.com
 DOMAIN,static.aninoapps.com
 DOMAIN,static.anyporn.com

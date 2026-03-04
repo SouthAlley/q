@@ -1,4 +1,4 @@
-# Main total line 7080 
+# Main total line 7083 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -448,6 +448,7 @@ DOMAIN-SUFFIX,archiveofourown.com
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,areca-backup.org
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arethusa.su
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,arlingtoncemetery.mil
@@ -461,6 +462,7 @@ DOMAIN-SUFFIX,artofpeacefoundation.org
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artsy.net
 DOMAIN-SUFFIX,arunachalforests.gov.in
+DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,asacp.org
 DOMAIN-SUFFIX,asg.to
 DOMAIN-SUFFIX,ashemaletube.com
@@ -6570,6 +6572,7 @@ DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,wisdompubs.org
 DOMAIN-SUFFIX,wise-research.com
 DOMAIN-SUFFIX,wisevid.com
+DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,witnessleeteaching.com
 DOMAIN-SUFFIX,witopia.net

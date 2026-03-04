@@ -1,4 +1,4 @@
-# Main total line 4390 
+# Main total line 4391 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -592,6 +592,7 @@ DOMAIN,cdn.db.io
 DOMAIN,cdn.decrypt.co
 DOMAIN,cdn.decrypt.day
 DOMAIN,cdn.delight-vr.com
+DOMAIN,cdn.delve.co
 DOMAIN,cdn.designerapp.osi.office.net
 DOMAIN,cdn.designsystem.arm.com
 DOMAIN,cdn.deta.space

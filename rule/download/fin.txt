@@ -1,4 +1,4 @@
-# Main total line 1891 
+# Main total line 1893 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -326,6 +326,7 @@ DOMAIN,download.sysinternals.com
 DOMAIN,download.tensorflow.google.com
 DOMAIN,download.todesktop.com
 DOMAIN,download.typora.io
+DOMAIN,download.umbrel.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,download.xbox.com
 DOMAIN,download2.epicgames.com
@@ -1274,6 +1275,7 @@ DOMAIN,tug.ctan.org
 DOMAIN,tug.org
 DOMAIN,tukaani.org
 DOMAIN,tux.rainside.sk
+DOMAIN,typeless-static.com
 DOMAIN,u.keka.io
 DOMAIN,ubuntu-archive.interhost.co.il
 DOMAIN,ubuntu-archive.locaweb.com.br

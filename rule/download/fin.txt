@@ -1,4 +1,4 @@
-# Main total line 1893 
+# Main total line 1895 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -78,6 +78,7 @@ DOMAIN,cdn-builds.paw.cloud
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-patch.swtor.com
 DOMAIN,cdn-updates.orbstack.dev
+DOMAIN,cdn.affonso.io
 DOMAIN,cdn.azul.com
 DOMAIN,cdn.cocoapods.org
 DOMAIN,cdn.cypress.io
@@ -93,6 +94,7 @@ DOMAIN,cdn.organicmaps.app
 DOMAIN,cdn.powershellgallery.com
 DOMAIN,cdn.repo.cloudeka.id
 DOMAIN,cdn.ubuntu.repo.cloudeka.id
+DOMAIN,cdn.vemetric.com
 DOMAIN,cdn.winget.microsoft.com
 DOMAIN,cdn.zoom.us
 DOMAIN,cdnorg.d.miui.com

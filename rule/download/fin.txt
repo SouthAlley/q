@@ -1,4 +1,4 @@
-# Main total line 1895 
+# Main total line 1894 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1879,7 +1879,6 @@ DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,swupdate.chaos.com
 DOMAIN-SUFFIX,swupdate.chaosgroup.com
 DOMAIN-SUFFIX,swupdate.vray.com

@@ -1,4 +1,4 @@
-# Main total line 1052 
+# Main total line 1053 
 # ------------------------------------------
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
@@ -235,6 +235,7 @@ DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudglab.com
 DOMAIN-SUFFIX,cloudsigma.com
 DOMAIN-SUFFIX,cloudxns.net
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmct.tv

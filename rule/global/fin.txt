@@ -1,4 +1,4 @@
-# Main total line 23348 
+# Main total line 23350 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -17568,6 +17568,7 @@ DOMAIN-SUFFIX,samsungdm.com
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
+DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
@@ -18411,6 +18412,7 @@ DOMAIN-SUFFIX,smartnastran.com
 DOMAIN-SUFFIX,smartone.com
 DOMAIN-SUFFIX,smartoneholdings.com
 DOMAIN-SUFFIX,smartonerobotics.com
+DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,smashed.xxx
 DOMAIN-SUFFIX,smashing.media
 DOMAIN-SUFFIX,smashingmagazine.com

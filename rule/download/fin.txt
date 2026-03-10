@@ -1,4 +1,4 @@
-# Main total line 1894 
+# Main total line 1895 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1200,6 +1200,7 @@ DOMAIN,release-assets.githubusercontent.com
 DOMAIN,release.runcloud.io
 DOMAIN,releases.arc.net
 DOMAIN,releases.grapheneos.org
+DOMAIN,releases.landrop.app
 DOMAIN,releases.obsidian.md
 DOMAIN,releases.stash.ws
 DOMAIN,releases.warp.dev

@@ -1,4 +1,4 @@
-# Main total line 23353 
+# Main total line 23354 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -5505,6 +5505,7 @@ DOMAIN-SUFFIX,cutout.pro
 DOMAIN-SUFFIX,cutscenes.net
 DOMAIN-SUFFIX,cutt.ly
 DOMAIN-SUFFIX,cuty.io
+DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cwcams.com
 DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN-SUFFIX,cx

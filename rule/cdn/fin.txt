@@ -1,4 +1,4 @@
-# Main total line 4411 
+# Main total line 4412 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -69,6 +69,7 @@ DOMAIN,apim.m3pd.com
 DOMAIN,app-api.vidjet.io
 DOMAIN,app-cdn.logo.com
 DOMAIN,app-spm.com
+DOMAIN,app-static-prod.posthog.com
 DOMAIN,app-static.eu.posthog.com
 DOMAIN,app-static.turtl.co
 DOMAIN,app.1password.com

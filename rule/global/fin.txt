@@ -1,4 +1,4 @@
-# Main total line 23362 
+# Main total line 23363 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -21928,6 +21928,7 @@ DOMAIN-SUFFIX,woopie.tv
 DOMAIN-SUFFIX,wootility.io
 DOMAIN-SUFFIX,wooting.io
 DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.net
 DOMAIN-SUFFIX,wordpress.org
 DOMAIN-SUFFIX,wordpress.tv
 DOMAIN-SUFFIX,wordtune.com

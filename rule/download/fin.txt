@@ -1,4 +1,4 @@
-# Main total line 1899 
+# Main total line 1901 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -141,6 +141,7 @@ DOMAIN,cpan.ulak.net.tr
 DOMAIN,cpan.uni-altai.ru
 DOMAIN,cpan.webdesk.ru
 DOMAIN,cpan.zbr.pt
+DOMAIN,cr.yandex
 DOMAIN,crysys.hit.bme.hu
 DOMAIN,ctan.altspu.ru
 DOMAIN,ctan.crest.fr
@@ -627,6 +628,7 @@ DOMAIN,maven.fabricmc.net
 DOMAIN,maven.google.com
 DOMAIN,maven.is-quite.gay
 DOMAIN,maven.neoforged.net
+DOMAIN,mcr.microsoft.com
 DOMAIN,mediafilez.forgecdn.net
 DOMAIN,merlin.fit.vutbr.cz
 DOMAIN,meta.omaps.app

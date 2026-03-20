@@ -1,4 +1,4 @@
-# Main total line 1901 
+# Main total line 1902 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -65,6 +65,7 @@ DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddist2-a.akamaihd.net
 DOMAIN,blzddist3-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,boot.arcboxcdn.com
 DOMAIN,boot.netboot.xyz
 DOMAIN,builds.paranoidandroid.co
 DOMAIN,builds.parsec.app

@@ -1,4 +1,4 @@
-# Main total line 23368 
+# Main total line 23370 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -3092,6 +3092,7 @@ DOMAIN-SUFFIX,bestbuytradein.com
 DOMAIN-SUFFIX,bestbuyus.com
 DOMAIN-SUFFIX,bestcamsites.net
 DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,bestdori.com
 DOMAIN-SUFFIX,besterpornos.com
 DOMAIN-SUFFIX,bestforchina.org
 DOMAIN-SUFFIX,bestfreecams.club
@@ -23121,6 +23122,7 @@ DOMAIN-SUFFIX,zi.media
 DOMAIN-SUFFIX,zi5.me
 DOMAIN-SUFFIX,zibacity.com
 DOMAIN-SUFFIX,ziddu.com
+DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zillionk.com
 DOMAIN-SUFFIX,zim.vn
 DOMAIN-SUFFIX,zind.cloud

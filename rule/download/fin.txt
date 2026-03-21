@@ -1,4 +1,4 @@
-# Main total line 1903 
+# Main total line 1904 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -254,6 +254,7 @@ DOMAIN,dl.google.com
 DOMAIN,dl.iina.io
 DOMAIN,dl.imobie.com
 DOMAIN,dl.l.google.com
+DOMAIN,dl.min.io
 DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.nwjs.io

@@ -1,4 +1,4 @@
-# Main total line 4412 
+# Main total line 4416 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -40,6 +40,7 @@ DOMAIN,analytics.twitter.com
 DOMAIN,analytics.welcomesoftware.com
 DOMAIN,anchor.digitalocean.com
 DOMAIN,android-safebrowsing.google.com
+DOMAIN,antiqua-ux-cdn.monotype.com
 DOMAIN,api-cdn.shutterstock.com
 DOMAIN,api-esp-ap.piano.io
 DOMAIN,api-eu.mixpanel.com
@@ -1203,6 +1204,7 @@ DOMAIN,design.keyoxide.org
 DOMAIN,design.mayoclinic.org
 DOMAIN,designsystem.brevo.com
 DOMAIN,detectportal.firefox.com
+DOMAIN,dev.visualwebsiteoptimizer.com
 DOMAIN,devicons.railway.com
 DOMAIN,devnull.perfops.net
 DOMAIN,dh-site.b-cdn.net
@@ -2432,6 +2434,7 @@ DOMAIN,screenshots.webflow.com
 DOMAIN,script.custobar.com
 DOMAIN,scripts.dailymail.co.uk
 DOMAIN,scripts.scriptwrapper.com
+DOMAIN,scripts.tabler.io
 DOMAIN,scripts.webeo.com
 DOMAIN,sdata.ndtv.com
 DOMAIN,sdk-cdn.fun.xyz
@@ -2737,6 +2740,7 @@ DOMAIN,static.missav.com
 DOMAIN,static.mocortech.com
 DOMAIN,static.moegoat.com
 DOMAIN,static.monei.net
+DOMAIN,static.monotype.com
 DOMAIN,static.moomoo.com
 DOMAIN,static.moonpay.com
 DOMAIN,static.music.com

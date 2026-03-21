@@ -1,4 +1,4 @@
-# Main total line 1902 
+# Main total line 1903 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -345,6 +345,7 @@ DOMAIN,downloads.cloudflareclient.com
 DOMAIN,downloads.cursor.com
 DOMAIN,downloads.lemonsqueezy.com
 DOMAIN,downloads.majestic.com
+DOMAIN,downloads.marketplace.jetbrains.com
 DOMAIN,downloads.openwrt.org
 DOMAIN,downloads.portainer.io
 DOMAIN,downloads.raspberrypi.com

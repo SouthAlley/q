@@ -1,4 +1,4 @@
-# Main total line 4415 
+# Main total line 4416 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3213,6 +3213,7 @@ DOMAIN,www.10086.win
 DOMAIN,www.acgpix.de
 DOMAIN,www.bbthat.com
 DOMAIN,www.envoyproxy.io
+DOMAIN,www.fumadocs.dev
 DOMAIN,www.gstatic.com
 DOMAIN,www.pngmart.com
 DOMAIN,www.tbstat.com

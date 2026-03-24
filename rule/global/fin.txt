@@ -1,4 +1,4 @@
-# Main total line 23370 
+# Main total line 23372 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -15465,6 +15465,7 @@ DOMAIN-SUFFIX,openleaks.org
 DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openreality.com
+DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,openrouter.ai
@@ -17522,6 +17523,7 @@ DOMAIN-SUFFIX,s-msft.com
 DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,s-nbcnews.com
 DOMAIN-SUFFIX,s-xoom.com
+DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,s1heng.com
 DOMAIN-SUFFIX,s1s1s1.com

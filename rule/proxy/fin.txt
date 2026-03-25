@@ -1,4 +1,4 @@
-# Main total line 7088 
+# Main total line 7089 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -6727,6 +6727,7 @@ DOMAIN-SUFFIX,xm.com
 DOMAIN-SUFFIX,xml-training-guide.com
 DOMAIN-SUFFIX,xmovies.com
 DOMAIN-SUFFIX,xn--11xs86f.icu
+DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
 DOMAIN-SUFFIX,xn--4gq171p.com
 DOMAIN-SUFFIX,xn--90wwvt03e.com
 DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com

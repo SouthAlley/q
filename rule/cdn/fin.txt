@@ -1,4 +1,4 @@
-# Main total line 4421 
+# Main total line 4422 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -3527,6 +3527,7 @@ DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,drtst.com
 DOMAIN-SUFFIX,dsc.cloud
 DOMAIN-SUFFIX,dtci-pe-vp-image-resizer.platform.edgedatg.com
+DOMAIN-SUFFIX,dubassets.com
 DOMAIN-SUFFIX,dubcdn.com
 DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,dummyjson.com

@@ -1,4 +1,4 @@
-# Main total line 7089 
+# Main total line 7069 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -344,9 +344,7 @@ DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,amznl.com
-DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
-DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,anchorfree.com
 DOMAIN-SUFFIX,ancsconf.org
@@ -429,8 +427,6 @@ DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,appdownloader.net
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,appledaily.com
-DOMAIN-SUFFIX,applovin.com
-DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,appspot-preview.com
@@ -1273,11 +1269,9 @@ DOMAIN-SUFFIX,comparitech.com
 DOMAIN-SUFFIX,compileheart.com
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,compress.to
-DOMAIN-SUFFIX,conda.io
 DOMAIN-SUFFIX,constitutionalism.solutions
 DOMAIN-SUFFIX,contactmagazine.net
 DOMAIN-SUFFIX,containersonaws.com
-DOMAIN-SUFFIX,contentful.com
 DOMAIN-SUFFIX,convertio.co
 DOMAIN-SUFFIX,convio.net
 DOMAIN-SUFFIX,coobay.com
@@ -1343,7 +1337,6 @@ DOMAIN-SUFFIX,csmonitor.com
 DOMAIN-SUFFIX,cstatic.net
 DOMAIN-SUFFIX,csuchen.de
 DOMAIN-SUFFIX,ctao.org
-DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,ctfriend.net
 DOMAIN-SUFFIX,ctinets.com
 DOMAIN-SUFFIX,ctinews.com
@@ -1505,7 +1498,6 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digisfera.com
 DOMAIN-SUFFIX,digitalnomadsproject.org
 DOMAIN-SUFFIX,digitalocean.com
-DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,diigo.com
 DOMAIN-SUFFIX,dilber.se
@@ -1563,7 +1555,6 @@ DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,dnsrd.com
 DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnvod.tv
-DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,doceapower.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
@@ -2066,7 +2057,6 @@ DOMAIN-SUFFIX,foolsmountain.com
 DOMAIN-SUFFIX,fooooo.com
 DOMAIN-SUFFIX,footwiball.com
 DOMAIN-SUFFIX,forbes.com
-DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
@@ -3884,7 +3874,6 @@ DOMAIN-SUFFIX,mtw.tl
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,muchosucko.com
 DOMAIN-SUFFIX,muku.tv
-DOMAIN-SUFFIX,mulesoft.com
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,multiply.com
 DOMAIN-SUFFIX,multiproxy.org
@@ -4075,7 +4064,6 @@ DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ng.mil
 DOMAIN-SUFFIX,nga.mil
 DOMAIN-SUFFIX,ngensis.com
-DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,nhentai.com
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nianticlabs.com
@@ -4967,9 +4955,6 @@ DOMAIN-SUFFIX,saintyculture.com
 DOMAIN-SUFFIX,saiq.me
 DOMAIN-SUFFIX,sakuralive.com
 DOMAIN-SUFFIX,sakya.org
-DOMAIN-SUFFIX,salesforce.com
-DOMAIN-SUFFIX,salesforce.org
-DOMAIN-SUFFIX,salesforceliveagent.com
 DOMAIN-SUFFIX,sambhota.org
 DOMAIN-SUFFIX,sandisk.com
 DOMAIN-SUFFIX,sandscotaicentral.com
@@ -5069,8 +5054,6 @@ DOMAIN-SUFFIX,sexidude.com
 DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,sextvx.com
 DOMAIN-SUFFIX,sf.net
-DOMAIN-SUFFIX,sfdcdigital.com
-DOMAIN-SUFFIX,sfdcstatic.com
 DOMAIN-SUFFIX,sfileydy.com
 DOMAIN-SUFFIX,sfmcompile.club
 DOMAIN-SUFFIX,sfshibao.com
@@ -5514,7 +5497,6 @@ DOMAIN-SUFFIX,t35.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,t91y.com
 DOMAIN-SUFFIX,taa-usa.org
-DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,tablesgenerator.com
 DOMAIN-SUFFIX,tacem.org
 DOMAIN-SUFFIX,tafm.org
@@ -5882,8 +5864,6 @@ DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,trackjs.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
-DOMAIN-SUFFIX,trailblazer.me
-DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,travelinkcard.com

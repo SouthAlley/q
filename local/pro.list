@@ -1,1 +1,139 @@
+DOMAIN-SUFFIX,cn
+# ip检测
+DOMAIN-SUFFIX,ipstack.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,db-ip.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,ipgeolocation.io
+DOMAIN-SUFFIX,nextdns.io
+DOMAIN-SUFFIX,ipregistry.co
+DOMAIN-SUFFIX,ipdata.co
 
+DOMAIN-SUFFIX, dnsleaktest.com, PROXY
+DOMAIN-SUFFIX, dnsleak.com, PROXY
+DOMAIN-SUFFIX, surfshark.com, PROXY
+DOMAIN-SUFFIX, ipleak.net, PROXY
+DOMAIN-SUFFIX, perfect-privacy.com, PROXY
+DOMAIN-SUFFIX, browserleaks.com, PROXY
+DOMAIN-SUFFIX, browserleaks.org, PROXY
+DOMAIN-SUFFIX, whoer.net, PROXY
+DOMAIN-SUFFIX, whrq.net, PROXY
+# Surfshark
+DOMAIN-SUFFIX, surfshark.com, PROXY
+DOMAIN-SUFFIX, surfsharkdns.com, PROXY
+# Pixelscan
+DOMAIN-SUFFIX, pixelscan.net, PROXY
+# IPAPI.CO
+DOMAIN-SUFFIX, ipapi.co, PROXY
+
+
+# 关键词
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gitlab
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,sci-hub
+
+# 常见后缀
+DOMAIN-SUFFIX,community
+DOMAIN-SUFFIX,network
+DOMAIN-SUFFIX,xxx
+DOMAIN-SUFFIX,au
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,fr
+DOMAIN-SUFFIX,it
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,ru
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,goog
+
+# 代理域名
+DOMAIN,69shuba.cx
+DOMAIN-SUFFIX,kelee.one
+DOMAIN-SUFFIX,bybits.org
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,wooting.io
+DOMAIN-SUFFIX,wootility.io
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,hysteria.network
+DOMAIN-SUFFIX,racknerd.com
+DOMAIN-SUFFIX,surge.community
+DOMAIN-SUFFIX,steamdb.info
+DOMAIN-SUFFIX,hltv.org
+DOMAIN-SUFFIX,boxjs.app
+DOMAIN,reddit.app.link
+
+# 谷歌
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,androidtv.com
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-SUFFIX,app-measurement.net
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,blogblog.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,chromestatus.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.com
+DOMAIN-SUFFIX,golang.net
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,goog
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,xn--9kr7l.com
+DOMAIN-SUFFIX,xn--9trs65b.com
+DOMAIN-SUFFIX,xn--flw351e.com
+DOMAIN-SUFFIX,xn--ggle-55da.com
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com

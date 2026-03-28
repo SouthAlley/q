@@ -1,17 +1,10 @@
-# Main total line 293 
+# Main total line 281 
 # ------------------------------------------
 DOMAIN,69shuba.cx
-DOMAIN,chatgpt.livekit.cloud
 DOMAIN,copilot.microsoft.com
-DOMAIN,deepmind.com
-DOMAIN,host.livekit.cloud
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,imagine.meta.com
-DOMAIN,openai.com.cdn.cloudflare.net
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,pplx-res.cloudinary.com
-DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,reddit.app.link
 DOMAIN,sub.store
 DOMAIN,sydney.bing.com
@@ -138,8 +131,6 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
@@ -182,7 +173,6 @@ DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.co
@@ -267,7 +257,6 @@ IP-CIDR,125.6.190.0/24,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
-IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,18.208.0.0/13,no-resolve
@@ -292,4 +281,3 @@ IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
 IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,69.195.160.0/19,no-resolve
-IP-CIDR6,2607:6bc0::/48,no-resolve

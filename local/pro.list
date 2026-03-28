@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,git.io
 
 # ip检测
 DOMAIN-SUFFIX,ipstack.com

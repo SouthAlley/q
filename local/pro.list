@@ -1,4 +1,24 @@
 DOMAIN-SUFFIX,cn
+# 代理域名
+DOMAIN,69shuba.cx
+DOMAIN-SUFFIX,kelee.one
+DOMAIN-SUFFIX,bybits.org
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,wooting.io
+DOMAIN-SUFFIX,wootility.io
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,hysteria.network
+DOMAIN-SUFFIX,racknerd.com
+DOMAIN-SUFFIX,surge.community
+DOMAIN-SUFFIX,steamdb.info
+DOMAIN-SUFFIX,hltv.org
+DOMAIN-SUFFIX,boxjs.app
+DOMAIN,reddit.app.link
+DOMAIN,sub.store
+
 # ip检测
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,ip-api.com
@@ -55,25 +75,6 @@ DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,goog
-
-# 代理域名
-DOMAIN,69shuba.cx
-DOMAIN-SUFFIX,kelee.one
-DOMAIN-SUFFIX,bybits.org
-DOMAIN-SUFFIX,bycsi.com
-DOMAIN-SUFFIX,byapps.net
-DOMAIN-SUFFIX,bybit.biz
-DOMAIN-SUFFIX,wooting.io
-DOMAIN-SUFFIX,wootility.io
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,hysteria.network
-DOMAIN-SUFFIX,racknerd.com
-DOMAIN-SUFFIX,surge.community
-DOMAIN-SUFFIX,steamdb.info
-DOMAIN-SUFFIX,hltv.org
-DOMAIN-SUFFIX,boxjs.app
-DOMAIN,reddit.app.link
 
 # ChatGPT
 DOMAIN-SUFFIX,us.sentry.io

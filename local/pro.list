@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitter.im
+DOMAIN-SUFFIX,amazonaws.com
 
 # ip检测
 DOMAIN-SUFFIX,ipstack.com
@@ -250,3 +251,20 @@ DOMAIN-SUFFIX,vercel.store
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
+
+# Mozilla
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,mofoprod.net
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+
+# Facebook
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net

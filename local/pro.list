@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,cn
 # 代理域名
+DOMAIN,in.mesl.cloud
 DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,kelee.one
 DOMAIN-SUFFIX,bybits.org
@@ -26,6 +27,15 @@ DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gamma.app
+DOMAIN-SUFFIX,netify.ai
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,kindleoasis.org
+DOMAIN-SUFFIX,kindleoasisnews.com
+DOMAIN-SUFFIX,kindleproject.com
+DOMAIN-SUFFIX,kindleoasis.com
+DOMAIN-SUFFIX,kindle.com
 
 # ip检测
 DOMAIN-SUFFIX,ipstack.com

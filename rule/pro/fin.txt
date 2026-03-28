@@ -1,9 +1,10 @@
-# Main total line 281 
+# Main total line 292 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,imagine.meta.com
+DOMAIN,in.mesl.cloud
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN,reddit.app.link
 DOMAIN,sub.store
@@ -39,6 +40,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,db-ip.com
@@ -78,8 +80,11 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,fr
+DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,goog
@@ -105,6 +110,11 @@ DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kelee.one
+DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,kindleoasis.com
+DOMAIN-SUFFIX,kindleoasis.org
+DOMAIN-SUFFIX,kindleoasisnews.com
+DOMAIN-SUFFIX,kindleproject.com
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
@@ -124,6 +134,7 @@ DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,notion-static.com

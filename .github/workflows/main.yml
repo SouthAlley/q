@@ -32,6 +32,7 @@ jobs:
           .\r.cmd rule/download
           .\r.cmd rule/telegram
           .\r.cmd rule/pro
+          .\r.cmd rule/direct
       - name: 提交
         continue-on-error: false
         timeout-minutes: 10

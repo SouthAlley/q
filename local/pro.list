@@ -45,6 +45,7 @@ DOMAIN,vps.hosting
 DOMAIN-SUFFIX,qingr.moe
 DOMAIN,sakuracat.link
 DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,workers.dev
 
 # ip检测
 DOMAIN-SUFFIX,ipstack.com

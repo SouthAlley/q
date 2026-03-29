@@ -1,14 +1,17 @@
-# Main total line 315 
+# Main total line 321 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,imagine.meta.com
 DOMAIN,in.mesl.cloud
+DOMAIN,javday.app
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN,reddit.app.link
+DOMAIN,sakuracat.link
 DOMAIN,sub.store
 DOMAIN,sydney.bing.com
+DOMAIN,vps.hosting
 DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,aiv-cdn.net
@@ -118,6 +121,7 @@ DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,ipstack.com
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,it
+DOMAIN-SUFFIX,javrate.com
 DOMAIN-SUFFIX,jitpack.io
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,kelee.one
@@ -156,6 +160,7 @@ DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
@@ -182,6 +187,7 @@ DOMAIN-SUFFIX,pypi.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,qingr.moe
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,readdle.com

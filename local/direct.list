@@ -30,13 +30,25 @@ DOMAIN-SUFFIX,youpinimg.com
 DOMAIN-SUFFIX,youpin898.com
 DOMAIN-SUFFIX,ghxi.com
 
+# 抖音
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+
 # 携程
 DOMAIN-SUFFIX,toursbms.com
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,vipdlt.com
 DOMAIN-SUFFIX,ctrip.com
-
 
 ## >> 懂车帝
 DOMAIN-SUFFIX,dcarapi.com
@@ -81,3 +93,21 @@ HOST-SUFFIX,mbcloud.com
 
 # > Ping An Bank
 HOST-SUFFIX,pingan.com
+
+# bili
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,bstarstatic.com

@@ -1,4 +1,0 @@
-DOMAIN-SUFFIX,immersivetranslate.com
-DOMAIN-SUFFIX,lenovo.com
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,rapidssl.com

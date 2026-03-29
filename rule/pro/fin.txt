@@ -1,4 +1,4 @@
-# Main total line 321 
+# Main total line 322 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,boxofficemojo.com

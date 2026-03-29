@@ -1,4 +1,4 @@
-# Main total line 621 
+# Main total line 625 
 # ------------------------------------------
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com
@@ -167,6 +167,7 @@ DOMAIN-SUFFIX,dcarlive.com
 DOMAIN-SUFFIX,dcarstatic.com
 DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcdapp.com
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dewucdn.com
 DOMAIN-SUFFIX,dfcfw.com
@@ -280,6 +281,7 @@ DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,img4399.com
+DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,infzm.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iqiyi.com
@@ -326,6 +328,7 @@ DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,lemicp.com
+DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,letitfly.me
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcloud.com
@@ -431,6 +434,7 @@ DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,realme.com
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,rrys.tv

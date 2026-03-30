@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,immersivetranslate.com
-DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,rapidssl.com
+
+DOMAIN-SUFFIX,lenovo.com
+DOMAIN,long.weixin.qq.com // Added for: long.weixin.qq.com:443

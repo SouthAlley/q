@@ -8,4 +8,3 @@ DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,workers.dev
 
 DOMAIN,69shuba.cx
-DOMAIN,github.com // Added for: github.com:443

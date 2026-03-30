@@ -7,9 +7,3 @@ DOMAIN-SUFFIX,qingr.moe
 DOMAIN,sakuracat.link
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,workers.dev
-
-DOMAIN,69shuba.cx
-DOMAIN-SUFFIX,sssjdj.ciom
-DOMAIN,69shuba.cx
-DOMAIN-SUFFIX,sssjdj.ciom
-DOMAIN-SUFFIX,sssjdj.njnn

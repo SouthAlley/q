@@ -1,3 +1,4 @@
+DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN,javday.app
 DOMAIN-SUFFIX,javrate.com
@@ -6,8 +7,3 @@ DOMAIN-SUFFIX,qingr.moe
 DOMAIN,sakuracat.link
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,workers.dev
-
-DOMAIN,69shuba.cx
-DOMAIN-SUFFIX,sssjdj.ciom
-DOMAIN-SUFFIX,你好.com
-DOMAIN-SUFFIX,baiu.com

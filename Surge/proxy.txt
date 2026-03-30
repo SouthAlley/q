@@ -1,4 +1,3 @@
-Cg==
 DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN,javday.app

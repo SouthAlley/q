@@ -1,3 +1,10 @@
-RE9NQUlOLVNVRkZJWCxuc2xvb24uY29tCkRPTUFJTixqYXZkYXkuYXBwCkRP
 DOMAIN,69shuba.cx
-DOMAIN-SUFFIX,sssjdj.ciom
+DOMAIN-SUFFIX,nsloon.com
+DOMAIN,javday.app
+DOMAIN-SUFFIX,javrate.com
+DOMAIN,vps.hosting
+DOMAIN-SUFFIX,qingr.moe
+DOMAIN,sakuracat.link
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,workers.com

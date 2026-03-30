@@ -1,3 +1,4 @@
+RE9NQUlOLDY5c2h1YmEuY3gKRE9NQUlOLVNVRkZJWCxuc2xvb24uY29tCkRP
 DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN,javday.app
@@ -7,3 +8,5 @@ DOMAIN-SUFFIX,qingr.moe
 DOMAIN,sakuracat.link
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,nihai.com
+DOMAIN-SUFFIX,hilh.tl

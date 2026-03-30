@@ -1,4 +1,4 @@
-# Main total line 323 
+# Main total line 324 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
@@ -275,6 +275,7 @@ DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wootility.io
 DOMAIN-SUFFIX,wooting.io
+DOMAIN-SUFFIX,workers.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com

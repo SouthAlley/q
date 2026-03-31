@@ -35,6 +35,7 @@ jobs:
                ["tld-not-cn.list"]="xg/tld-not-cn.list https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/tld-not-cn.txt"
                ["global-Sukka.list"]="xg/global-Sukka.list https://ruleset.skk.moe/List/non_ip/global.conf"
                ["ad-ACL4SSR.list"]="xg/ad-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
+               ["my-china-ACL4SSR.list"]="xg/my-china-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
                )
 
            # 循环处理每个文件
@@ -123,6 +124,10 @@ jobs:
                         if [[ "$file" == china-sve1r.list ]]; then
                             # 查找指定行并保留该行以下的所有内容
                             sed -i '1,/# 京东/d' "$original_file"
+                        fi
+                        if [[ "$file" == my-china-ACL4SSR.list ]]; then
+                            # 查找指定行并保留该行以下的所有内容
+                            sed -i '1,/# AccelerateDirectSites/d' "$original_file"
                         fi
                         # 其他规则处理代码（如果有）
                         echo "运行其他规则处理（示例）"

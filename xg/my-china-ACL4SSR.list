@@ -26,22 +26,6 @@ DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--io0a7i
 
 # 中国国内常见域名关键词直连
-DOMAIN-KEYWORD,360buy
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alimama
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,appzapp
-DOMAIN-KEYWORD,baidupcs
-DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,ccgslb
-DOMAIN-KEYWORD,chinacache
-DOMAIN-KEYWORD,duobao
-DOMAIN-KEYWORD,jdpay
-DOMAIN-KEYWORD,moke
-DOMAIN-KEYWORD,qhimg
-DOMAIN-KEYWORD,vpimg
-DOMAIN-KEYWORD,xiami
-DOMAIN-KEYWORD,xiaomi
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -97,7 +81,6 @@ DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
@@ -225,11 +208,6 @@ DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
 
 # Epic
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,epicgames.dev
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,unrealengine.com
 
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
@@ -368,29 +346,8 @@ DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
 # Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # SteamCN
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamchina.com
-DOMAIN,csgo.wmsj.cn
-DOMAIN,dota2.wmsj.cn
-DOMAIN,wmsjsteam.com
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
@@ -437,15 +394,9 @@ DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,got001.com
 DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,rrys.tv
-DOMAIN-SUFFIX,rrys2020.com
 DOMAIN-SUFFIX,yyets.com
 DOMAIN-SUFFIX,zimuzu.io
 DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmz001.com
-DOMAIN-SUFFIX,zmz002.com
-DOMAIN-SUFFIX,zmz003.com
-DOMAIN-SUFFIX,zmz004.com
-DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
@@ -466,11 +417,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 #DOMAIN-SUFFIX,ajax.cloudflare.com
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
 #DOMAIN-SUFFIX,code.jquery.com
-DOMAIN-SUFFIX,baomitu.com
-DOMAIN-SUFFIX,bootcss.com
-DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,staticfile.org
-DOMAIN-SUFFIX,upaiyun.com
 
 # China DNS
 DOMAIN-SUFFIX,doh.pub

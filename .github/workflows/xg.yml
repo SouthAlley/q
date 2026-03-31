@@ -127,7 +127,7 @@ jobs:
                         fi
                         if [[ "$file" == my-china-ACL4SSR.list ]]; then
                             # 查找指定行并保留该行以下的所有内容
-                            sed -i '1,/# AccelerateDirectSites/d' "$original_file"
+                            sed -i '/# AccelerateDirectSites/,$d' "$original_file"
                         fi
                         # 其他规则处理代码（如果有）
                         echo "运行其他规则处理（示例）"

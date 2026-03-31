@@ -1,4 +1,4 @@
-# Main total line 625 
+# Main total line 618 
 # ------------------------------------------
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com
@@ -438,7 +438,6 @@ DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,realme.com
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,rrys.tv
-DOMAIN-SUFFIX,rrys2020.com
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,runoob.com
 DOMAIN-SUFFIX,sandai.net
@@ -497,7 +496,6 @@ DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tiexue.net
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tmiaoo.com
 DOMAIN-SUFFIX,toursbms.com
 DOMAIN-SUFFIX,toutiao.com
@@ -608,11 +606,6 @@ DOMAIN-SUFFIX,zimuzu.io
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
-DOMAIN-SUFFIX,zmz001.com
-DOMAIN-SUFFIX,zmz002.com
-DOMAIN-SUFFIX,zmz003.com
-DOMAIN-SUFFIX,zmz004.com
-DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com

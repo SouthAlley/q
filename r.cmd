@@ -52,7 +52,7 @@ findstr /r "^OR" 2.txt >> and_or_not_rules.txt
 findstr /r "^NOT" 2.txt >> and_or_not_rules.txt
 
 busybox sed -i -E "/^$/d" 2.txt
-busybox sed -i '/^#/d; s/#.*//; /^$/d' 2.txt
+busybox sed -i -E "/\#/d" 2.txt
 busybox sed -i -E "/</d" 2.txt
 busybox sed -i -E "/^;/d" 2.txt
 busybox sed -i -E "/^\@/d" 2.txt

@@ -8,5 +8,5 @@ DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,workers.dev
 
 DOMAIN,69shuba.cx
-IP-CIDR,88.212.7.11/32 // Added for: http://88.212.7.11/live/test_eroxxx_hd_hevc/1775104176.ts,no-resolve
-DOMAIN,v1.gyks.cf // Added for: v1.gyks.cf:443
+IP-CIDR,88.212.7.11/32
+DOMAIN,v1.gyks.cf

@@ -1,10 +1,10 @@
 name: xg
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 */2 * *"
-
+  workflow_run:
+    workflows: ["delproxy"]
+    types:
+      - completed
 
 jobs:
   Fork-Filter-list:

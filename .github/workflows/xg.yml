@@ -74,6 +74,7 @@ jobs:
                    sed -i '/IP-CIDR/ {/no-resolve/! s/$/,no-resolve/}; /IP-CIDR6/ {/no-resolve/! s/$/,no-resolve/}' "$original_file"
                    # 修改;为#
                    sed -i 's/;/# /g' "$original_file"
+                   sed -i 's#//.*##; s/[ \t]*$//' "$original_file"
                    # 查找指定行并删除该行以下的所有内容
                    sed -i '/^#### Guard Advertising\.list 神机规则/q' "$original_file"
                    sed -i '/^#New-Test-一个月没发现问题会并入/q' "$original_file"

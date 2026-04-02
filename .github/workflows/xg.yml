@@ -36,6 +36,8 @@ jobs:
                ["global-Sukka.list"]="xg/global-Sukka.list https://ruleset.skk.moe/List/non_ip/global.conf"
                ["ad-ACL4SSR.list"]="xg/ad-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
                ["my-china-ACL4SSR.list"]="xg/my-china-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+               ["my-proxy.list"]="xg/my-proxy.list https://raw.githubusercontent.com/SouthAlley/q/refs/heads/main/Surge/proxy.txt"
+               ["my-direct.list"]="xg/my-direct.list https://raw.githubusercontent.com/SouthAlley/q/refs/heads/main/Surge/direct.txt"
                )
 
            # 循环处理每个文件

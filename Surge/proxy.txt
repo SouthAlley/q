@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,workers.dev
 
 DOMAIN,69shuba.cx
+IP-CIDR,88.212.7.11/32 // Added for: http://88.212.7.11/live/test_eroxxx_hd_hevc/1775104176.ts

@@ -1,27 +1,5 @@
-# Main total line 345 
+# Main total line 323 
 # ------------------------------------------
-##>Pixiv
-##>Python
-##>Twitter
-#ChatGPT
-#Claude
-#Copilot
-#Docker
-#Dropbox
-#Facebook
-#GrokAI
-#IPAPI.CO
-#Instagram
-#MetaAI
-#Mozilla
-#Perplexity
-#PikPak
-#Pixelscan
-#Playstation
-#Surfshark
-#Vercel
-#Whatsapp
-#paypal
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
 DOMAIN,http-inputs-notion.splunkcloud.com

@@ -1,4 +1,4 @@
-# Main total line 7068 
+# Main total line 7089 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -863,6 +863,7 @@ DOMAIN-SUFFIX,btsynckeys.com
 DOMAIN-SUFFIX,budaedu.org
 DOMAIN-SUFFIX,buddhistchannel.tv
 DOMAIN-SUFFIX,buffered.com
+DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,bullguard.com
 DOMAIN-SUFFIX,bullog.org
 DOMAIN-SUFFIX,bullogger.com
@@ -1305,6 +1306,7 @@ DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,crackle.com
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,crazypool.org
 DOMAIN-SUFFIX,crazys.cc
 DOMAIN-SUFFIX,crazyshit.com
@@ -1568,6 +1570,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,dockerstatus.com
 DOMAIN-SUFFIX,docs.cfw.lbyczf.com
+DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentingreality.com
 DOMAIN-SUFFIX,dogfartnetwork.com
@@ -1860,6 +1863,7 @@ DOMAIN-SUFFIX,exploreintel.com
 DOMAIN-SUFFIX,expofutures.com
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,exrates.me
+DOMAIN-SUFFIX,extensionworkshop.com
 DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,extremetube.com
@@ -2012,6 +2016,7 @@ DOMAIN-SUFFIX,firearmsworld.net
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,fireofliberty.info
 DOMAIN-SUFFIX,fireofliberty.org
 DOMAIN-SUFFIX,firetweet.io
@@ -2302,6 +2307,7 @@ DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,getsession.org
 DOMAIN-SUFFIX,getsocialscope.com
@@ -3257,7 +3263,11 @@ DOMAIN-SUFFIX,justtristan.com
 DOMAIN-SUFFIX,juyuange.org
 DOMAIN-SUFFIX,juziyue.com
 DOMAIN-SUFFIX,jwmusic.org
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
 DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,jyxf.net
 DOMAIN-SUFFIX,k-doujin.net
 DOMAIN-SUFFIX,ka-wai.com
@@ -3653,10 +3663,12 @@ DOMAIN-SUFFIX,mcreasite.com
 DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,md
 DOMAIN-SUFFIX,md-t.org
+DOMAIN-SUFFIX,mdn.mozillademos.org
 DOMAIN-SUFFIX,me.me
 DOMAIN-SUFFIX,meansys.com
 DOMAIN-SUFFIX,medallia.com
 DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
 DOMAIN-SUFFIX,mediachinese.com
 DOMAIN-SUFFIX,mediafire.com
 DOMAIN-SUFFIX,mediafreakcity.com
@@ -3810,6 +3822,7 @@ DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moeload.com
 DOMAIN-SUFFIX,moeshare.cc
 DOMAIN-SUFFIX,mofaxiehui.com
+DOMAIN-SUFFIX,mofoprod.net
 DOMAIN-SUFFIX,mofos.com
 DOMAIN-SUFFIX,mog.com
 DOMAIN-SUFFIX,mohu.club
@@ -3849,6 +3862,8 @@ DOMAIN-SUFFIX,movidius.com
 DOMAIN-SUFFIX,movidius.net
 DOMAIN-SUFFIX,moviefap.com
 DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.community
+DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,moztw.org
 DOMAIN-SUFFIX,mp3buscador.com
@@ -4528,6 +4543,7 @@ DOMAIN-SUFFIX,pmatehunter.com
 DOMAIN-SUFFIX,pmates.com
 DOMAIN-SUFFIX,po2b.com
 DOMAIN-SUFFIX,pobieramy.top
+DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,podcast.co
@@ -4918,7 +4934,9 @@ DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
+DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustdesk.com
+DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,rusvpn.com
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.org
@@ -4989,6 +5007,7 @@ DOMAIN-SUFFIX,scpwiki.com
 DOMAIN-SUFFIX,scramble.io
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,scriptspot.com
+DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,seapuff.com
 DOMAIN-SUFFIX,search.com
 DOMAIN-SUFFIX,search.xxx
@@ -5022,6 +5041,7 @@ DOMAIN-SUFFIX,sensortower.com
 DOMAIN-SUFFIX,sensorynetworks.com
 DOMAIN-SUFFIX,sentry.dev
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry.prod.mozaws.net
 DOMAIN-SUFFIX,seraph.me
 DOMAIN-SUFFIX,servebom.com
 DOMAIN-SUFFIX,servehttp.com
@@ -5682,6 +5702,7 @@ DOMAIN-SUFFIX,throughnightsfire.com
 DOMAIN-SUFFIX,thu.monster
 DOMAIN-SUFFIX,thuhole.com
 DOMAIN-SUFFIX,thumbzilla.com
+DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,thunderbolttechnology.net
 DOMAIN-SUFFIX,thywords.com
 DOMAIN-SUFFIX,tiananmenduizhi.com

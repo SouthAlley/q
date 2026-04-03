@@ -192,6 +192,19 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 
+# Threads
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threadsapp.net
+
+# Messenger
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,msngr.com
+
+# Canva
+DOMAIN-SUFFIX,canva.com
+
 # Playstation
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,playstation.com
@@ -293,3 +306,50 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
+
+# Microsoft-Azure
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,azureedge.net
+
+# Amazon-AWS
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awswaf.com
+
+# Pinterest
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+
+# pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+
+# plex
+DOMAIN-SUFFIX,plex.tv
+
+# Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
+
+# Cloudflare
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.tv
+DOMAIN-SUFFIX,workers.dev
+
+# linux.do
+DOMAIN-SUFFIX,linux.do
+
+# NodeSeek
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,nodeimage.com
+
+# TMDB
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org

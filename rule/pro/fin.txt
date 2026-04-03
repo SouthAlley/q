@@ -1,4 +1,4 @@
-# Main total line 323 
+# Main total line 349 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
@@ -21,12 +21,18 @@ DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazontools.com
 DOMAIN-SUFFIX,amazontours.com
+DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amazonuniversity.jobs
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,au
+DOMAIN-SUFFIX,awswaf.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,binance.org
@@ -41,13 +47,17 @@ DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybits.org
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,compose-spec.io
@@ -137,6 +147,8 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,media-imdb.com
@@ -145,17 +157,21 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,mofoprod.net
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,msngr.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,network
 DOMAIN-SUFFIX,nextdns.io
+DOMAIN-SUFFIX,nodeimage.com
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
@@ -170,6 +186,8 @@ DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pixelscan.net
 DOMAIN-SUFFIX,pixiv.cat
 DOMAIN-SUFFIX,pixiv.me
@@ -178,6 +196,7 @@ DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,pv-cdn.net
@@ -193,6 +212,9 @@ DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redhat.com
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,sandai.net
@@ -212,6 +234,10 @@ DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threadsapp.net
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,tweetdeck.com

@@ -1,4 +1,4 @@
-# Main total line 1907 
+# Main total line 1910 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -330,6 +330,7 @@ DOMAIN,download.savannah.gnu.org
 DOMAIN,download.sketch.com
 DOMAIN,download.snipaste.com
 DOMAIN,download.sysinternals.com
+DOMAIN,download.technitium.com
 DOMAIN,download.tensorflow.google.com
 DOMAIN,download.todesktop.com
 DOMAIN,download.typora.io
@@ -370,6 +371,7 @@ DOMAIN,enterprise.proxmox.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,espejito.fder.edu.uy
 DOMAIN,eu.edge.kernel.org
+DOMAIN,extensionupdater.brave.com
 DOMAIN,f-droid.org
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fdisk.5play.app
@@ -1473,6 +1475,7 @@ DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
+DOMAIN-SUFFIX,launchpadcontent.net
 DOMAIN-SUFFIX,launchpadlibrarian.net
 DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,mega.co.nz

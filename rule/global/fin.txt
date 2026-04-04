@@ -1,4 +1,4 @@
-# Main total line 23469 
+# Main total line 23509 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -2340,6 +2340,8 @@ DOMAIN-SUFFIX,autodeskviewer.com
 DOMAIN-SUFFIX,autodeskworkshop.com
 DOMAIN-SUFFIX,autodeskworkshop.net
 DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,autoesporte.com
+DOMAIN-SUFFIX,autoesporte.com.br
 DOMAIN-SUFFIX,automaton-media.com
 DOMAIN-SUFFIX,automotive-cadcam.com
 DOMAIN-SUFFIX,autosketch.com
@@ -3171,6 +3173,7 @@ DOMAIN-SUFFIX,bgov.com
 DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bgr.in
 DOMAIN-SUFFIX,bgvpn.com
+DOMAIN-SUFFIX,bhfm.com.br
 DOMAIN-SUFFIX,bhggn.xyz
 DOMAIN-SUFFIX,bhzyk.buzz
 DOMAIN-SUFFIX,bhzyw2.top
@@ -4433,6 +4436,7 @@ DOMAIN-SUFFIX,carmotorshow.com
 DOMAIN-SUFFIX,carrd.co
 DOMAIN-SUFFIX,carryzhou.com
 DOMAIN-SUFFIX,carstagram.com
+DOMAIN-SUFFIX,cartola.com.br
 DOMAIN-SUFFIX,cartoon-sex.tv
 DOMAIN-SUFFIX,cartoon18.com
 DOMAIN-SUFFIX,cartoon3thumbs.com
@@ -4498,6 +4502,7 @@ DOMAIN-SUFFIX,cavporn.com
 DOMAIN-SUFFIX,cbart.net
 DOMAIN-SUFFIX,cbbank.com.mm
 DOMAIN-SUFFIX,cbm.com.mm
+DOMAIN-SUFFIX,cbn.com.br
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
@@ -4565,6 +4570,7 @@ DOMAIN-SUFFIX,cdnmhwscc.vip
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cdnuc.vip
+DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,cdnxxx-proxy.co
 DOMAIN-SUFFIX,cdnxxx-proxy.xyz
 DOMAIN-SUFFIX,cdp1989.org
@@ -7083,6 +7089,8 @@ DOMAIN-SUFFIX,epikporn.com
 DOMAIN-SUFFIX,epinions.com
 DOMAIN-SUFFIX,episcopalchurch.org
 DOMAIN-SUFFIX,episodic.com
+DOMAIN-SUFFIX,epoca.com.br
+DOMAIN-SUFFIX,epocanegocios.com.br
 DOMAIN-SUFFIX,epoch.cloud
 DOMAIN-SUFFIX,epochbase.com
 DOMAIN-SUFFIX,epochbuy.com
@@ -8575,6 +8583,7 @@ DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.kfd.me
 DOMAIN-SUFFIX,g.page
+DOMAIN-SUFFIX,g1.com.br
 DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,g6hentai.com
 DOMAIN-SUFFIX,gab.com
@@ -8985,6 +8994,12 @@ DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,globalvoicesonline.org
 DOMAIN-SUFFIX,globalvpn.net
 DOMAIN-SUFFIX,globo.com
+DOMAIN-SUFFIX,globo.com.br
+DOMAIN-SUFFIX,globoplay.com
+DOMAIN-SUFFIX,globoplay.com.br
+DOMAIN-SUFFIX,globoradio.com.br
+DOMAIN-SUFFIX,globoreporter.com.br
+DOMAIN-SUFFIX,globorural.com.br
 DOMAIN-SUFFIX,glock.com
 DOMAIN-SUFFIX,gloporn.com
 DOMAIN-SUFFIX,gloryhole.com
@@ -9263,6 +9278,8 @@ DOMAIN-SUFFIX,gs-discuss.com
 DOMAIN-SUFFIX,gscanada.info
 DOMAIN-SUFFIX,gsccdn.com
 DOMAIN-SUFFIX,gsearch.media
+DOMAIN-SUFFIX,gshow.com
+DOMAIN-SUFFIX,gshow.com.br
 DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,gstatic-cn.com
 DOMAIN-SUFFIX,gstatic.com
@@ -10886,6 +10903,7 @@ DOMAIN-SUFFIX,infinitetube.com
 DOMAIN-SUFFIX,influencersgonewild.com
 DOMAIN-SUFFIX,influxdata.com
 DOMAIN-SUFFIX,infocert.digital
+DOMAIN-SUFFIX,infoglobo.com.br
 DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,informer.com
 DOMAIN-SUFFIX,informs.org
@@ -15325,6 +15343,8 @@ DOMAIN-SUFFIX,ofile.org
 DOMAIN-SUFFIX,ogameblog.com
 DOMAIN-SUFFIX,ogaoga.org
 DOMAIN-SUFFIX,ogate.org
+DOMAIN-SUFFIX,oghost.com.br
+DOMAIN-SUFFIX,oglobo.com.br
 DOMAIN-SUFFIX,ogp.me
 DOMAIN-SUFFIX,ohchr.org
 DOMAIN-SUFFIX,ohentai.org
@@ -15912,6 +15932,8 @@ DOMAIN-SUFFIX,peekvids.com
 DOMAIN-SUFFIX,peepholecam.com
 DOMAIN-SUFFIX,peeringdb.com
 DOMAIN-SUFFIX,peerj.com
+DOMAIN-SUFFIX,pegn.com
+DOMAIN-SUFFIX,pegn.com.br
 DOMAIN-SUFFIX,peing.net
 DOMAIN-SUFFIX,pekingduck.org
 DOMAIN-SUFFIX,pelvicexam.info
@@ -17069,6 +17091,7 @@ DOMAIN-SUFFIX,radiko-cf.com
 DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,radio.garden
 DOMAIN-SUFFIX,radiofarda.com
+DOMAIN-SUFFIX,radioglobo.com.br
 DOMAIN-SUFFIX,radiohilight.net
 DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,radioline.co
@@ -17377,6 +17400,13 @@ DOMAIN-SUFFIX,reutersagency.cn
 DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,revenue-performance-management.com
 DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,revistaepoca.com
+DOMAIN-SUFFIX,revistaepoca.com.br
+DOMAIN-SUFFIX,revistagalileu.com.br
+DOMAIN-SUFFIX,revistapegn.com
+DOMAIN-SUFFIX,revistapegn.com.br
+DOMAIN-SUFFIX,revistaquem.com.br
+DOMAIN-SUFFIX,revistavalor.com.br
 DOMAIN-SUFFIX,revit.com
 DOMAIN-SUFFIX,revitcc.com
 DOMAIN-SUFFIX,revitsucks.net
@@ -18097,6 +18127,7 @@ DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,sg120.me
 DOMAIN-SUFFIX,sg1lib.org
 DOMAIN-SUFFIX,sgp1.fun
+DOMAIN-SUFFIX,sgr.com.br
 DOMAIN-SUFFIX,sgspe.de
 DOMAIN-SUFFIX,sgspt.buzz
 DOMAIN-SUFFIX,sgwritings.com
@@ -19474,6 +19505,8 @@ DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techstreet.com
 DOMAIN-SUFFIX,techtimes.com
+DOMAIN-SUFFIX,techtudo.com
+DOMAIN-SUFFIX,techtudo.com.br
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
 DOMAIN-SUFFIX,teco-hk.org
@@ -20598,6 +20631,8 @@ DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,umblr.com
 DOMAIN-SUFFIX,umbrella.com
 DOMAIN-SUFFIX,umich.edu
+DOMAIN-SUFFIX,umsoplaneta.com
+DOMAIN-SUFFIX,umsoplaneta.com.br
 DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblock.cn.com
@@ -20797,6 +20832,10 @@ DOMAIN-SUFFIX,vaginapics.pro
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vagrantup.com
 DOMAIN-SUFFIX,valeursactuelles.com
+DOMAIN-SUFFIX,valor.com.br
+DOMAIN-SUFFIX,valoreconomico.com.br
+DOMAIN-SUFFIX,valorinveste.com
+DOMAIN-SUFFIX,valorinveste.com.br
 DOMAIN-SUFFIX,valoryirene.com
 DOMAIN-SUFFIX,value-domain.com
 DOMAIN-SUFFIX,value-server.com
@@ -22523,6 +22562,7 @@ DOMAIN-SUFFIX,xuchao.net
 DOMAIN-SUFFIX,xuchao.org
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xujan.com
+DOMAIN-SUFFIX,xuxaverso.com.br
 DOMAIN-SUFFIX,xuzhiyong.net
 DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,xv1.monster

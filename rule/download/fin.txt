@@ -1,4 +1,4 @@
-# Main total line 1910 
+# Main total line 1911 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1209,6 +1209,7 @@ DOMAIN,registry.npmjs.com
 DOMAIN,registry.npmjs.org
 DOMAIN,registry.terraform.io
 DOMAIN,release-assets.githubusercontent.com
+DOMAIN,release.arcboxcdn.com
 DOMAIN,release.runcloud.io
 DOMAIN,releases.arc.net
 DOMAIN,releases.grapheneos.org

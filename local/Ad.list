@@ -1,5 +1,7 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+DOMAIN,mssdk.bytedance.com
+
 DOMAIN,msmp.abchina.com.cn,REJECT
 
 DOMAIN, analytics.umetrip.com, REJECT

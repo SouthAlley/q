@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,workers.dev
 
 
 DOMAIN,69shuba.cx
+DOMAIN-SUFFIX,evoxt.com // Added for: console.evoxt.com:443
+DOMAIN-SUFFIX,stripe.com // Added for: q.stripe.com:443

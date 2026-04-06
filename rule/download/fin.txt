@@ -1,4 +1,4 @@
-# Main total line 1911 
+# Main total line 1913 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -264,6 +264,7 @@ DOMAIN,dl.tailscale.com
 DOMAIN,dl.thorium.rocks
 DOMAIN,dl.ui.com
 DOMAIN,dl.vanadium.app
+DOMAIN,dl.vibeisland.app
 DOMAIN,dl.wechat.com
 DOMAIN,dl2.nwjs.io
 DOMAIN,dl2.osmand.net
@@ -344,6 +345,7 @@ DOMAIN,download4.epicgames.com
 DOMAIN,downloadr2.apkmirror.com
 DOMAIN,downloads.1password.com
 DOMAIN,downloads.broadcom.com
+DOMAIN,downloads.claude.ai
 DOMAIN,downloads.cloudflareclient.com
 DOMAIN,downloads.cursor.com
 DOMAIN,downloads.lemonsqueezy.com

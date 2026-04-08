@@ -1,4 +1,4 @@
-# Main total line 7092 
+# Main total line 7094 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2254,6 +2254,7 @@ DOMAIN-SUFFIX,gaozhisheng.net
 DOMAIN-SUFFIX,gaozhisheng.org
 DOMAIN-SUFFIX,gardennetworks.com
 DOMAIN-SUFFIX,gardennetworks.org
+DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,gartlive.com
 DOMAIN-SUFFIX,gartner.com
 DOMAIN-SUFFIX,garudalinux.org
@@ -3026,6 +3027,7 @@ DOMAIN-SUFFIX,internetdefenseleague.org
 DOMAIN-SUFFIX,internetfreedom.org
 DOMAIN-SUFFIX,internetpopculture.com
 DOMAIN-SUFFIX,interseclab.org
+DOMAIN-SUFFIX,intervals.icu
 DOMAIN-SUFFIX,inthenameofconfuciusmovie.com
 DOMAIN-SUFFIX,intodns.com
 DOMAIN-SUFFIX,investing.com

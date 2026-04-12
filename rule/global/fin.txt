@@ -1,4 +1,4 @@
-# Main total line 23689 
+# Main total line 23690 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -12940,6 +12940,7 @@ DOMAIN-SUFFIX,magentoliveconference.com
 DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,magestic.com
 DOMAIN-SUFFIX,magic-net.info
+DOMAIN-SUFFIX,magic.link
 DOMAIN-SUFFIX,magicalmirai.com
 DOMAIN-SUFFIX,magicmovies.com
 DOMAIN-SUFFIX,mahabodhi.org

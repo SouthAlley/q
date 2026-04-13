@@ -1,4 +1,4 @@
-# Main total line 1913 
+# Main total line 1916 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -76,6 +76,7 @@ DOMAIN,cache.agilebits.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cas-bridge.xethub.hf.co
 DOMAIN,cdimage.kali.org
+DOMAIN,cdimage.ubuntu.com
 DOMAIN,cdn-builds.paw.cloud
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-patch.swtor.com
@@ -964,6 +965,7 @@ DOMAIN,mirror.tngnet.com
 DOMAIN,mirror.tochlab.net
 DOMAIN,mirror.transip.net
 DOMAIN,mirror.truenetwork.ru
+DOMAIN,mirror.tw.ossplanet.net
 DOMAIN,mirror.twds.com.tw
 DOMAIN,mirror.ubuntu.ikoula.com
 DOMAIN,mirror.ubuntu.serverforge.org
@@ -1579,6 +1581,7 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,ossplanet.org
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pixeldrain.com
 DOMAIN-SUFFIX,pkg.dev

@@ -1,4 +1,4 @@
-# Main total line 1916 
+# Main total line 1915 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -36,7 +36,6 @@ DOMAIN,apache.redkiwi.nl
 DOMAIN,apache.saix.net
 DOMAIN,apache.spd.co.il
 DOMAIN,apache.stu.edu.tw
-DOMAIN,apache.tt.co.kr
 DOMAIN,apache.uib.no
 DOMAIN,apache.uniminuto.edu
 DOMAIN,apache.uvigo.es
@@ -50,6 +49,7 @@ DOMAIN,archive.g4t1.pro
 DOMAIN,archive.kali.org
 DOMAIN,archive.linux.duke.edu
 DOMAIN,archive.raspberrypi.com
+DOMAIN,archlinux.nic.cz
 DOMAIN,artifacts.electronjs.org
 DOMAIN,assets-production.packagecloud.io
 DOMAIN,assets1.xboxlive.com
@@ -106,12 +106,12 @@ DOMAIN,centos-stream.ip-connect.info
 DOMAIN,centos-stream.koyanet.lv
 DOMAIN,centos.anexia.at
 DOMAIN,centos.is
+DOMAIN,centos.nic.cz
 DOMAIN,cesium.di.uminho.pt
 DOMAIN,charts.verdaccio.org
 DOMAIN,chnroutes2.cdn.skk.moe
 DOMAIN,cisco.yuntu.com.tw
 DOMAIN,ciscobinary.openh264.org
-DOMAIN,client.hikarifield.co.jp
 DOMAIN,cloud.daporkchop.net
 DOMAIN,cloudflare.f-droid.org
 DOMAIN,cloudfront.debian.net
@@ -137,13 +137,13 @@ DOMAIN,cpan.pesat.net.id
 DOMAIN,cpan.rinet.ru
 DOMAIN,cpan.saix.net
 DOMAIN,cpan.stu.edu.tw
-DOMAIN,cpan.tetaneutral.net
 DOMAIN,cpan.uib.no
 DOMAIN,cpan.ulak.net.tr
 DOMAIN,cpan.uni-altai.ru
 DOMAIN,cpan.webdesk.ru
 DOMAIN,cpan.zbr.pt
 DOMAIN,cr.yandex
+DOMAIN,cran.nic.cz
 DOMAIN,crysys.hit.bme.hu
 DOMAIN,ctan.altspu.ru
 DOMAIN,ctan.crest.fr
@@ -362,7 +362,6 @@ DOMAIN,downloads.x-wrt.com
 DOMAIN,downloads.xiph.org
 DOMAIN,downloads.xrite.com
 DOMAIN,downloads2.broadcom.com
-DOMAIN,drive.massgrave.dev
 DOMAIN,drmirror.physi.uni-heidelberg.de
 DOMAIN,dw.uptodown.net
 DOMAIN,eclats.crans.org
@@ -379,6 +378,7 @@ DOMAIN,f-droid.org
 DOMAIN,fastly-download.epicgames.com
 DOMAIN,fdisk.5play.app
 DOMAIN,fdroid.tetaneutral.net
+DOMAIN,fedora.nic.cz
 DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
 DOMAIN,files2.freedownloadmanager.org
@@ -573,6 +573,7 @@ DOMAIN,ftpmirror.gnu.org
 DOMAIN,ftpmirror.your.org
 DOMAIN,ftpmirror1.infania.net
 DOMAIN,ftpserv.tudelft.nl
+DOMAIN,fw.gl-inet.com
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,get.pixelexperience.org
 DOMAIN,ghfast.top
@@ -664,7 +665,6 @@ DOMAIN,mirror.alwyzon.net
 DOMAIN,mirror.amberit.com.bd
 DOMAIN,mirror.ams.macarne.com
 DOMAIN,mirror.amscloud.co.id
-DOMAIN,mirror.anigil.com
 DOMAIN,mirror.apache-kr.org
 DOMAIN,mirror.apad.pro
 DOMAIN,mirror.applebred.net
@@ -723,7 +723,6 @@ DOMAIN,mirror.datacenter.az
 DOMAIN,mirror.datacenter.by
 DOMAIN,mirror.datacenter.mn
 DOMAIN,mirror.datamossa.io
-DOMAIN,mirror.datapacket.com
 DOMAIN,mirror.datapipe.net
 DOMAIN,mirror.dc.uz
 DOMAIN,mirror.de.leaseweb.net
@@ -769,7 +768,6 @@ DOMAIN,mirror.freethought-internet.co.uk
 DOMAIN,mirror.fsmg.org.nz
 DOMAIN,mirror.fst.kz
 DOMAIN,mirror.funkfreundelandshut.de
-DOMAIN,mirror.ghproxy.com
 DOMAIN,mirror.gi.co.id
 DOMAIN,mirror.gofoss.xyz
 DOMAIN,mirror.gotmyhost.com
@@ -891,12 +889,10 @@ DOMAIN,mirror.nitc.ac.in
 DOMAIN,mirror.nl.altushost.com
 DOMAIN,mirror.nl.as215296.net
 DOMAIN,mirror.nl.cdn-perfprod.com
-DOMAIN,mirror.nl.datapacket.com
 DOMAIN,mirror.nl.leaseweb.net
 DOMAIN,mirror.nodesdirect.com
 DOMAIN,mirror.nohup.it
 DOMAIN,mirror.novg.net
-DOMAIN,mirror.nus.edu.sg
 DOMAIN,mirror.nyi.net
 DOMAIN,mirror.olnevhost.net
 DOMAIN,mirror.one.com
@@ -960,7 +956,6 @@ DOMAIN,mirror.techlabs.co.kr
 DOMAIN,mirror.telepoint.bg
 DOMAIN,mirror.thunderhosting.cloud
 DOMAIN,mirror.timeweb.ru
-DOMAIN,mirror.timkevin.us
 DOMAIN,mirror.tngnet.com
 DOMAIN,mirror.tochlab.net
 DOMAIN,mirror.transip.net
@@ -1038,6 +1033,8 @@ DOMAIN,mirror1.totbb.net
 DOMAIN,mirror2.evolution-host.com
 DOMAIN,mirror2.infomaniak.com
 DOMAIN,mirror2.tuxinator.org
+DOMAIN,mirror4.twds.com.tw
+DOMAIN,mirror6.twds.com.tw
 DOMAIN,mirrorbits.lineageos.org
 DOMAIN,mirrors-ubuntu.behostings.com
 DOMAIN,mirrors.accretive-networks.net
@@ -1104,7 +1101,6 @@ DOMAIN,mirrors.nepalicloud.com
 DOMAIN,mirrors.neterra.net
 DOMAIN,mirrors.netix.net
 DOMAIN,mirrors.nhanhoa.com
-DOMAIN,mirrors.nic.cz
 DOMAIN,mirrors.nxtgen.com
 DOMAIN,mirrors.nxthost.com
 DOMAIN,mirrors.ocf.berkeley.edu
@@ -1163,6 +1159,7 @@ DOMAIN,omtmapupdate.garmin.com
 DOMAIN,onepluscommunityserver.com
 DOMAIN,opensource.nchc.org.tw
 DOMAIN,opensource.xtdv.net
+DOMAIN,opensuse.nic.cz
 DOMAIN,openvsx.eclipsecontent.org
 DOMAIN,opfiles.b-cdn.net
 DOMAIN,origin-a.akamaihd.net
@@ -1271,6 +1268,7 @@ DOMAIN,softwareupdate.pilotmoon.com
 DOMAIN,speedtest-net-servers.cdn.skk.moe
 DOMAIN,static.adguard.com
 DOMAIN,static.adtidy.org
+DOMAIN,static.hikarifield.co.jp
 DOMAIN,static.redox-os.org
 DOMAIN,static.rust-lang.org
 DOMAIN,static.torproject.org
@@ -1333,6 +1331,7 @@ DOMAIN,ubuntu.man.lodz.pl
 DOMAIN,ubuntu.mobinhost.com
 DOMAIN,ubuntu.mti.mt.gov.br
 DOMAIN,ubuntu.netforce.hosting
+DOMAIN,ubuntu.nic.cz
 DOMAIN,ubuntu.org.ua
 DOMAIN,ubuntu.osuosl.org
 DOMAIN,ubuntu.otenet.gr

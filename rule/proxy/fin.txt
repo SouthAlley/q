@@ -1,4 +1,4 @@
-# Main total line 7100 
+# Main total line 7101 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -522,6 +522,7 @@ DOMAIN-SUFFIX,avfantasy.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avidemux.org
+DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,avmo.pw
 DOMAIN-SUFFIX,avmoo.com
 DOMAIN-SUFFIX,avmoo.net

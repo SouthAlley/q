@@ -14,3 +14,7 @@ DOMAIN-SUFFIX,stripe.com // Added for: q.stripe.com:443
 DOMAIN-SUFFIX,okx.com // Added for: static.okx.com:443
 DOMAIN-SUFFIX,nssurge.com // Added for: community.nssurge.com:443
 DOMAIN-SUFFIX,trakt.tv // Added for: api.trakt.tv:443
+DOMAIN-SUFFIX,tubex.app // Added for: api.tubex.app:443
+DOMAIN-SUFFIX,91porn.com // Added for: 91porn.com:443
+DOMAIN-SUFFIX,jable.tv // Added for: jable.tv:443
+DOMAIN-SUFFIX,missav.ai // Added for: missav.ai:443

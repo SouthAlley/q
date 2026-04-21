@@ -1,4 +1,4 @@
-# Main total line 1915 
+# Main total line 1918 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -292,6 +292,7 @@ DOMAIN,download.amelabs.net
 DOMAIN,download.ameliorated.io
 DOMAIN,download.anydesk.com
 DOMAIN,download.bazzite.gg
+DOMAIN,download.bbbike.org
 DOMAIN,download.beeper.com
 DOMAIN,download.clashverge.dev
 DOMAIN,download.cnet.com
@@ -305,6 +306,7 @@ DOMAIN,download.edovia.com
 DOMAIN,download.fosshub.com
 DOMAIN,download.fydeos.io
 DOMAIN,download.garmin.com
+DOMAIN,download.geofabrik.de
 DOMAIN,download.gigabyte.com
 DOMAIN,download.gimp.org
 DOMAIN,download.hikarifield.co.jp
@@ -1191,6 +1193,7 @@ DOMAIN,pkg.cloudflare.com
 DOMAIN,pkg.cloudflareclient.com
 DOMAIN,pkgs.netbird.io
 DOMAIN,pkgs.tailscale.com
+DOMAIN,planet.openstreetmap.org
 DOMAIN,playwright-akamai.azureedge.net
 DOMAIN,playwright.azureedge.net
 DOMAIN,plug-mirror.rcac.purdue.edu

@@ -17,10 +17,11 @@ DOMAIN-SUFFIX,tubex.app // Added for: api.tubex.app:443
 DOMAIN-SUFFIX,91porn.com // Added for: 91porn.com:443
 DOMAIN-SUFFIX,jable.tv // Added for: jable.tv:443
 DOMAIN-SUFFIX,missav.ai // Added for: missav.ai:443
+DOMAIN-SUFFIX,greasyfork.org // Added for: greasyfork.org:443
 DOMAIN,69shuba.cx
 DOMAIN,hanime1.me // Added for: hanime1.me:443
 DOMAIN,surrit.com // Added for: surrit.com:443
 DOMAIN-SUFFIX,mushroomtrack.com // Added for: akuma-trstin.mushroomtrack.com:443
 DOMAIN-SUFFIX,91porny.com // Added for: 91porny.com:443
 DOMAIN-SUFFIX,javday.homes // Added for: 8bnuuk.javday.homes:443
-DOMAIN-SUFFIX,greasyfork.org // Added for: greasyfork.org:443
+DOMAIN-SUFFIX,greasyfork.org

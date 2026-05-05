@@ -1,4 +1,4 @@
-# Main total line 4463 
+# Main total line 4466 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1409,6 +1409,7 @@ DOMAIN,freeshippingbar.herokuapp.com
 DOMAIN,front-resource.fs.com
 DOMAIN,frontend-apps.workos.com
 DOMAIN,frontend-assets.supabase.com
+DOMAIN,frontend-cdn.perplexity.ai
 DOMAIN,frontend.floatplane.com
 DOMAIN,fs.mingpao.com
 DOMAIN,fscdn.eppo.cloud
@@ -1423,6 +1424,7 @@ DOMAIN,genesis-cdn.ff.com
 DOMAIN,geoip-js.com
 DOMAIN,geojson.io
 DOMAIN,geoserveis.icgc.cat
+DOMAIN,get-it-on.codeberg.org
 DOMAIN,gfx-data.news-engineering.aws.wapo.pub
 DOMAIN,gibs-c.earthdata.nasa.gov
 DOMAIN,gis.pinkbike.org
@@ -2508,6 +2510,7 @@ DOMAIN,sg-thumbnail-drive.mypikpak.com
 DOMAIN,share-assets.fe.garmin.com
 DOMAIN,share.chessbase.com
 DOMAIN,shell.cdn.office.net
+DOMAIN,shields.rbtlog.dev
 DOMAIN,shots.codepen.io
 DOMAIN,showcase.abovemarket.com
 DOMAIN,sig.grumpybumpers.com

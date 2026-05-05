@@ -1,4 +1,4 @@
-# Main total line 7110 
+# Main total line 7111 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1232,6 +1232,7 @@ DOMAIN-SUFFIX,cochina.co
 DOMAIN-SUFFIX,cochina.org
 DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,code1984.com
+DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codecov.io
 DOMAIN-SUFFIX,codeforaliving.io
 DOMAIN-SUFFIX,codeforces.com

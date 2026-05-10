@@ -26,3 +26,4 @@ DOMAIN-SUFFIX,javday.homes // Added for: 8bnuuk.javday.homes:443
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,youmind.com // Added for: youmind.com:443
+DOMAIN-SUFFIX,gyks.cf // Added for: v3.gyks.cf:443

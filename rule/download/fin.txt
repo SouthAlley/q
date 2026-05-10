@@ -1,4 +1,4 @@
-# Main total line 1919 
+# Main total line 1939 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -44,6 +44,7 @@ DOMAIN,api-updates.orbstack.dev
 DOMAIN,app-updates.agilebits.com
 DOMAIN,apt.tetaneutral.net
 DOMAIN,apt.xpipe.io
+DOMAIN,archive-4.kali.org
 DOMAIN,archive.cs.uu.nl
 DOMAIN,archive.g4t1.pro
 DOMAIN,archive.kali.org
@@ -374,7 +375,6 @@ DOMAIN,elmirror.cl
 DOMAIN,enterprise.proxmox.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,espejito.fder.edu.uy
-DOMAIN,eu.edge.kernel.org
 DOMAIN,extensionupdater.brave.com
 DOMAIN,f-droid.org
 DOMAIN,fastly-download.epicgames.com
@@ -445,6 +445,7 @@ DOMAIN,ftp.fi.debian.org
 DOMAIN,ftp.fi.muni.cz
 DOMAIN,ftp.forthnet.gr
 DOMAIN,ftp.fr.debian.org
+DOMAIN,ftp.free.fr
 DOMAIN,ftp.fu-berlin.de
 DOMAIN,ftp.funet.fi
 DOMAIN,ftp.gnome.org
@@ -612,6 +613,9 @@ DOMAIN,ir.ubuntu.sindad.cloud
 DOMAIN,iterm2.com
 DOMAIN,jing.rocks
 DOMAIN,kali.cs.nycu.edu.tw
+DOMAIN,kali.darklab.sh
+DOMAIN,kali.itsec.am
+DOMAIN,kali.koyanet.lv
 DOMAIN,kambing.uu.sg
 DOMAIN,kartolo.sby.datautama.net.id
 DOMAIN,kde.c3sl.ufpr.br
@@ -661,6 +665,7 @@ DOMAIN,mirror.5i.fi
 DOMAIN,mirror.a1.mk
 DOMAIN,mirror.aarnet.edu.au
 DOMAIN,mirror.accum.se
+DOMAIN,mirror.africloud.com
 DOMAIN,mirror.aktkn.sg
 DOMAIN,mirror.alastyr.com
 DOMAIN,mirror.alwyzon.net
@@ -715,6 +720,7 @@ DOMAIN,mirror.cs.jmu.edu
 DOMAIN,mirror.cs.odu.edu
 DOMAIN,mirror.csclub.uwaterloo.ca
 DOMAIN,mirror.cse.iitk.ac.in
+DOMAIN,mirror.cspacehostings.com
 DOMAIN,mirror.cyberbits.asia
 DOMAIN,mirror.cyberbits.eu
 DOMAIN,mirror.cyberchains.org
@@ -749,6 +755,7 @@ DOMAIN,mirror.ekiphost.com
 DOMAIN,mirror.elice.io
 DOMAIN,mirror.eliv.digital
 DOMAIN,mirror.enzu.com
+DOMAIN,mirror.es.cdn-perfprod.com
 DOMAIN,mirror.esecuredata.com
 DOMAIN,mirror.estone.ca
 DOMAIN,mirror.ethz.ch
@@ -765,9 +772,9 @@ DOMAIN,mirror.fcix.net
 DOMAIN,mirror.fi.ossplanet.net
 DOMAIN,mirror.fjordos.com
 DOMAIN,mirror.flo.c-f.ro
+DOMAIN,mirror.fr.cdn-perfprod.com
 DOMAIN,mirror.freedif.org
 DOMAIN,mirror.freethought-internet.co.uk
-DOMAIN,mirror.fsmg.org.nz
 DOMAIN,mirror.fst.kz
 DOMAIN,mirror.funkfreundelandshut.de
 DOMAIN,mirror.gi.co.id
@@ -778,6 +785,7 @@ DOMAIN,mirror.grid.uchicago.edu
 DOMAIN,mirror.group.one
 DOMAIN,mirror.gsl.icu
 DOMAIN,mirror.hashy0917.net
+DOMAIN,mirror.hemino.net
 DOMAIN,mirror.hep.gg
 DOMAIN,mirror.hnd.cl
 DOMAIN,mirror.hoobly.com
@@ -913,7 +921,9 @@ DOMAIN,mirror.pop-sc.rnp.br
 DOMAIN,mirror.positive-internet.com
 DOMAIN,mirror.pregi.net
 DOMAIN,mirror.previder.nl
+DOMAIN,mirror.primelink.net.id
 DOMAIN,mirror.ps.kz
+DOMAIN,mirror.pyratelan.org
 DOMAIN,mirror.quickhost.uk
 DOMAIN,mirror.raiolanetworks.com
 DOMAIN,mirror.rcg.sfu.ca
@@ -988,6 +998,7 @@ DOMAIN,mirror.us-midwest-1.nexcess.net
 DOMAIN,mirror.us-ny2.kamatera.com
 DOMAIN,mirror.us-sc.kamatera.com
 DOMAIN,mirror.us-tx.kamatera.com
+DOMAIN,mirror.us.cdn-perfprod.com
 DOMAIN,mirror.us.leaseweb.net
 DOMAIN,mirror.us.mirhosting.net
 DOMAIN,mirror.us.oneandone.net
@@ -1005,8 +1016,10 @@ DOMAIN,mirror.vnet.sk
 DOMAIN,mirror.vorboss.net
 DOMAIN,mirror.vpgrp.io
 DOMAIN,mirror.vpsnet.com
+DOMAIN,mirror.wane.kr
 DOMAIN,mirror.webtastix.net
 DOMAIN,mirror.webworld.ie
+DOMAIN,mirror.wonchan.net
 DOMAIN,mirror.wtnet.de
 DOMAIN,mirror.xenyth.net
 DOMAIN,mirror.xeonbd.com
@@ -1034,6 +1047,8 @@ DOMAIN,mirror1.sox.rs
 DOMAIN,mirror1.totbb.net
 DOMAIN,mirror2.evolution-host.com
 DOMAIN,mirror2.infomaniak.com
+DOMAIN,mirror2.keiminem.com
+DOMAIN,mirror2.krfoss.org
 DOMAIN,mirror2.tuxinator.org
 DOMAIN,mirror4.twds.com.tw
 DOMAIN,mirror6.twds.com.tw
@@ -1063,7 +1078,6 @@ DOMAIN,mirrors.concertpass.com
 DOMAIN,mirrors.coreix.net
 DOMAIN,mirrors.datapark.ro
 DOMAIN,mirrors.de.sahilister.net
-DOMAIN,mirrors.edge.kernel.org
 DOMAIN,mirrors.egr.msu.edu
 DOMAIN,mirrors.esto.network
 DOMAIN,mirrors.evoluso.com
@@ -1393,6 +1407,7 @@ DOMAIN,www.gtlib.gatech.edu
 DOMAIN,www.gutscheinrausch.de
 DOMAIN,www2.aomeisoftware.com
 DOMAIN,xenia.sote.hu
+DOMAIN,xsrv.moratelindo.io
 DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,1fichier.com
@@ -1458,6 +1473,7 @@ DOMAIN-SUFFIX,download.mokeedev.com
 DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
+DOMAIN-SUFFIX,edge.kernel.org
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,epicgamescdn.com
 DOMAIN-SUFFIX,fastly.docker.com
@@ -1469,6 +1485,7 @@ DOMAIN-SUFFIX,files.ghostty.org
 DOMAIN-SUFFIX,finkmirrors.net
 DOMAIN-SUFFIX,fnbuilds.services
 DOMAIN-SUFFIX,freemirror.org
+DOMAIN-SUFFIX,fsmg.org.nz
 DOMAIN-SUFFIX,ftp-master.debian.org
 DOMAIN-SUFFIX,ftp.debian.org
 DOMAIN-SUFFIX,ftp2.de.debian.org
@@ -1515,6 +1532,7 @@ DOMAIN-SUFFIX,mirror.gtcomm.net
 DOMAIN-SUFFIX,mirror.guzel.net.tr
 DOMAIN-SUFFIX,mirror.homacloud.ai
 DOMAIN-SUFFIX,mirror.intermax.nl
+DOMAIN-SUFFIX,mirror.ionos.com
 DOMAIN-SUFFIX,mirror.iphh.net
 DOMAIN-SUFFIX,mirror.iweb.ca
 DOMAIN-SUFFIX,mirror.iweb.com
@@ -1544,6 +1562,8 @@ DOMAIN-SUFFIX,mirror.vu.lt
 DOMAIN-SUFFIX,mirror.wearetriple.com
 DOMAIN-SUFFIX,mirror.web4u.cz
 DOMAIN-SUFFIX,mirror.zzunipark.com
+DOMAIN-SUFFIX,mirror1.gnc.am
+DOMAIN-SUFFIX,mirror2.gnc.am
 DOMAIN-SUFFIX,mirrors.blix.com
 DOMAIN-SUFFIX,mirrors.cicku.me
 DOMAIN-SUFFIX,mirrors.clouvider.net

@@ -38,6 +38,7 @@ jobs:
                ["my-china-ACL4SSR.list"]="xg/my-china-ACL4SSR.list https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
                ["my-proxy.list"]="xg/my-proxy.list https://raw.githubusercontent.com/SouthAlley/q/refs/heads/main/Surge/proxy.txt"
                ["my-direct.list"]="xg/my-direct.list https://raw.githubusercontent.com/SouthAlley/q/refs/heads/main/Surge/direct.txt"
+               ["Telegram.list"]="xg/Telegram.list https://rule.kelee.one/Loon/Telegram.lsr"
                )
 
            # 循环处理每个文件

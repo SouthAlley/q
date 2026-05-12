@@ -1,7 +1,8 @@
 name: x
 
 on:
-  workflow_run:
+  workflow_dispatch:
+
 
 jobs:
   Fork-Filter-list:

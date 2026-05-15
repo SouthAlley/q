@@ -1,4 +1,4 @@
-# Main total line 1939 
+# Main total line 1941 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -676,6 +676,7 @@ DOMAIN,mirror.apache-kr.org
 DOMAIN,mirror.apad.pro
 DOMAIN,mirror.applebred.net
 DOMAIN,mirror.aptus.co.tz
+DOMAIN,mirror.archlinux.tw
 DOMAIN,mirror.arizona.edu
 DOMAIN,mirror.arvancloud.ir
 DOMAIN,mirror.as.kamatera.com
@@ -1543,6 +1544,7 @@ DOMAIN-SUFFIX,mirror.lrz.de
 DOMAIN-SUFFIX,mirror.nl
 DOMAIN-SUFFIX,mirror.noc.one
 DOMAIN-SUFFIX,mirror.norbert-ruehl.de
+DOMAIN-SUFFIX,mirror.pkgbuild.com
 DOMAIN-SUFFIX,mirror.rackspace.com
 DOMAIN-SUFFIX,mirror.rafal.ca
 DOMAIN-SUFFIX,mirror.rain.co.za

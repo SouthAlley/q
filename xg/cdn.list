@@ -1,4 +1,4 @@
-# Main total line 4475
+# Main total line 4480
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -72,6 +72,7 @@ DOMAIN,app-cdn.logo.com
 DOMAIN,app-spm.com
 DOMAIN,app-static-prod.posthog.com
 DOMAIN,app-static.eu.posthog.com
+DOMAIN,app-static.sendsafely.com
 DOMAIN,app-static.turtl.co
 DOMAIN,app.1password.com
 DOMAIN,app.backinstock.org
@@ -642,6 +643,7 @@ DOMAIN,cdn.equinix.com
 DOMAIN,cdn.eu.contentful.com
 DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.evbstatic.com
+DOMAIN,cdn.f5.com
 DOMAIN,cdn.faire.com
 DOMAIN,cdn.fastcomments.com
 DOMAIN,cdn.fasterthanli.me
@@ -880,6 +882,7 @@ DOMAIN,cdn.staticswin.com
 DOMAIN,cdn.stellarhosted.com
 DOMAIN,cdn.stonly.com
 DOMAIN,cdn.streamlabs.com
+DOMAIN,cdn.studio.f5.com
 DOMAIN,cdn.substack.com
 DOMAIN,cdn.sunofbeaches.com
 DOMAIN,cdn.super.com
@@ -3423,6 +3426,7 @@ DOMAIN-SUFFIX,cdn.chrome.marketplace.aws.dev
 DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,cdn.cwinfo.net
 DOMAIN-SUFFIX,cdn.discordapp.com
+DOMAIN-SUFFIX,cdn.easyling.com
 DOMAIN-SUFFIX,cdn.getfeedback.com
 DOMAIN-SUFFIX,cdn.greenhouse.io
 DOMAIN-SUFFIX,cdn.icann.org
@@ -4279,6 +4283,7 @@ DOMAIN-SUFFIX,sxccdn.com
 DOMAIN-SUFFIX,szjal.cn
 DOMAIN-SUFFIX,t8cdn.com
 DOMAIN-SUFFIX,tacdn.com
+DOMAIN-SUFFIX,tags.f5.com
 DOMAIN-SUFFIX,tapecontent.net
 DOMAIN-SUFFIX,targetimg1.com
 DOMAIN-SUFFIX,tauri.app

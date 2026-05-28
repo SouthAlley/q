@@ -1,4 +1,4 @@
-# Main total line 7140 
+# Main total line 7141 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1616,6 +1616,7 @@ DOMAIN-SUFFIX,doujincafe.com
 DOMAIN-SUFFIX,doujins.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,downdetector.com
 DOMAIN-SUFFIX,downdetectorapi.com
 DOMAIN-SUFFIX,download.dappcdn.com

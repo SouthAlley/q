@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,youmind.com // Added for: youmind.com:443
 DOMAIN-SUFFIX,gyks.cf // Added for: v3.gyks.cf:443
 DOMAIN-SUFFIX,bybit.com // Added for: www.bybit.com:443
 DOMAIN,69shuba.cx
+DOMAIN-SUFFIX,bgm.tv // Added for: bgm.tv:443

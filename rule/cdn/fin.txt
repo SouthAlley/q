@@ -1,4 +1,4 @@
-# Main total line 4486 
+# Main total line 4487 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -763,6 +763,7 @@ DOMAIN,cdn.music.com
 DOMAIN,cdn.myanimelist.net
 DOMAIN,cdn.myfonts.net
 DOMAIN,cdn.myfutanari.com
+DOMAIN,cdn.myopenpass.com
 DOMAIN,cdn.myportfolio.com
 DOMAIN,cdn.nba.com
 DOMAIN,cdn.ndtv.com

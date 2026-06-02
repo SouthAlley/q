@@ -1,4 +1,4 @@
-# Main total line 1943 
+# Main total line 1944 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -966,6 +966,7 @@ DOMAIN,mirror.team-cymru.com
 DOMAIN,mirror.team-cymru.org
 DOMAIN,mirror.team-host.ru
 DOMAIN,mirror.techlabs.co.kr
+DOMAIN,mirror.tejas101k.workers.dev
 DOMAIN,mirror.telepoint.bg
 DOMAIN,mirror.thunderhosting.cloud
 DOMAIN,mirror.timeweb.ru

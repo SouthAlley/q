@@ -1,4 +1,4 @@
-# Main total line 4488 
+# Main total line 4489 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2205,6 +2205,7 @@ DOMAIN,perf-na1.hsforms.com
 DOMAIN,perf.hsforms.com
 DOMAIN,pg2dhpc3p5ec22g3.jkforum.net
 DOMAIN,pgw.udn.com.tw
+DOMAIN,ph.langfuse.com
 DOMAIN,ph.northflank.com
 DOMAIN,ph.tryprofound.com
 DOMAIN,phishing.army

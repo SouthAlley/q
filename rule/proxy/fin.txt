@@ -1,4 +1,4 @@
-# Main total line 7148 
+# Main total line 7150 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -5537,6 +5537,7 @@ DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,suroot.com
 DOMAIN-SUFFIX,surrenderat20.net
 DOMAIN-SUFFIX,suyangg.com
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,svsfx.com
 DOMAIN-SUFFIX,swagbucks.com
 DOMAIN-SUFFIX,swapspace.co
@@ -6687,6 +6688,7 @@ DOMAIN-SUFFIX,woyaolian.org
 DOMAIN-SUFFIX,wozy.in
 DOMAIN-SUFFIX,wp-themes.com
 DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,wqyd.org

@@ -1,4 +1,4 @@
-# Main total line 1946 
+# Main total line 1947 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -371,6 +371,7 @@ DOMAIN,drmirror.physi.uni-heidelberg.de
 DOMAIN,dw.uptodown.net
 DOMAIN,eclats.crans.org
 DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,edge.zerofs.link
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgeupdates.microsoft.com
 DOMAIN,elmirror.cl

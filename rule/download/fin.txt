@@ -1,4 +1,4 @@
-# Main total line 1947 
+# Main total line 1948 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -53,6 +53,7 @@ DOMAIN,archive.raspberrypi.com
 DOMAIN,archlinux.nic.cz
 DOMAIN,artifacts.electronjs.org
 DOMAIN,assets-production.packagecloud.io
+DOMAIN,assets.dataflare.app
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,aus5.mozilla.org

@@ -1,3 +1,4 @@
+DOMAIN,app.viayoo.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,config.ubnt.com
 DOMAIN,dl.ubnt.com
@@ -9,7 +10,10 @@ DOMAIN,kms.03k.org
 DOMAIN,media.cdn.queniuqe.com
 DOMAIN,ocsp.globalsign.com
 DOMAIN,ocsp2.globalsign.com
+DOMAIN,res.viayoo.com
+DOMAIN,viayoo.com
 DOMAIN,www.layuicdn.com
+DOMAIN,www.viayoo.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,110.com

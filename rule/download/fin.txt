@@ -1,4 +1,4 @@
-# Main total line 1949 
+# Main total line 1951 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -70,6 +70,7 @@ DOMAIN,blzddistkr1-a.akamaihd.net
 DOMAIN,bn.d.miui.com
 DOMAIN,boot.arcboxcdn.com
 DOMAIN,boot.netboot.xyz
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,builds.paranoidandroid.co
 DOMAIN,builds.parsec.app
 DOMAIN,bzip.org
@@ -1383,6 +1384,7 @@ DOMAIN,ubuntutym.u-toyama.ac.jp
 DOMAIN,ucho.ignum.cz
 DOMAIN,ucmirror.canterbury.ac.nz
 DOMAIN,ulises.hostalia.com
+DOMAIN,unleash.codeium.com
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.cyberduck.io
 DOMAIN,update.googleapis.com

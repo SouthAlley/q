@@ -1319,6 +1319,7 @@ DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,cpj.org
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,cpuid.com
+DOMAIN-SUFFIX,cr
 DOMAIN-SUFFIX,crackle.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crates.io
@@ -3350,7 +3351,6 @@ DOMAIN-SUFFIX,karayou.com
 DOMAIN-SUFFIX,karkhung.com
 DOMAIN-SUFFIX,karmapa-teachings.org
 DOMAIN-SUFFIX,karmapa.org
-DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,kathmandupost.com
 DOMAIN-SUFFIX,kawase.com
 DOMAIN-SUFFIX,kba-tx.org

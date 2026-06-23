@@ -1,4 +1,4 @@
-# Main total line 4512
+# Main total line 4518
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -246,6 +246,7 @@ DOMAIN,assets.openshift.net
 DOMAIN,assets.orz.uno
 DOMAIN,assets.peatio.com
 DOMAIN,assets.pingie.com
+DOMAIN,assets.pingone.com
 DOMAIN,assets.pixlee.com
 DOMAIN,assets.play.xbox.com
 DOMAIN,assets.plurk.com
@@ -978,6 +979,7 @@ DOMAIN,cdn1.bigcommerce.com
 DOMAIN,cdn1.dan.com
 DOMAIN,cdn1.edgedatg.com
 DOMAIN,cdn1.epicgames.com
+DOMAIN,cdn1.espn.net
 DOMAIN,cdn1.ettoday.net
 DOMAIN,cdn1.hentaicity.com
 DOMAIN,cdn1.hotmoza.tv
@@ -1240,6 +1242,7 @@ DOMAIN,dev.visualwebsiteoptimizer.com
 DOMAIN,devicons.railway.com
 DOMAIN,devnull.perfops.net
 DOMAIN,dh-site.b-cdn.net
+DOMAIN,digitalhub.fifa.com
 DOMAIN,dims.apnews.com
 DOMAIN,disco-static.productessentials.app
 DOMAIN,disco.headliner.link
@@ -2977,6 +2980,7 @@ DOMAIN,storageapi2.fleek.co
 DOMAIN,store-images.microsoft.com
 DOMAIN,store-images.s-microsoft.com
 DOMAIN,stories.freepiklabs.com
+DOMAIN,stories.usestoryteller.com
 DOMAIN,storybooks.fluentui.dev
 DOMAIN,stream.mux.com
 DOMAIN,streaming.split.io
@@ -3483,6 +3487,7 @@ DOMAIN-SUFFIX,cdn.skk.moe
 DOMAIN-SUFFIX,cdn.survey.medallia.com
 DOMAIN-SUFFIX,cdn.turner.com
 DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN-SUFFIX,cdn.usestoryteller.com
 DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,cdn1122.com
 DOMAIN-SUFFIX,cdn2.hubspot.net
@@ -3553,6 +3558,7 @@ DOMAIN-SUFFIX,csp-reporting.cloudflare.com
 DOMAIN-SUFFIX,csp.withgoogle.com
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,cthd.icu
+DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,customerioforms.com
 DOMAIN-SUFFIX,customeriomail.com
 DOMAIN-SUFFIX,cwwcdn.com

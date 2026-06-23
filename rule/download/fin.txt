@@ -1,4 +1,4 @@
-# Main total line 1951 
+# Main total line 1950 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1384,7 +1384,6 @@ DOMAIN,ubuntutym.u-toyama.ac.jp
 DOMAIN,ucho.ignum.cz
 DOMAIN,ucmirror.canterbury.ac.nz
 DOMAIN,ulises.hostalia.com
-DOMAIN,unleash.codeium.com
 DOMAIN,update.code.visualstudio.com
 DOMAIN,update.cyberduck.io
 DOMAIN,update.googleapis.com

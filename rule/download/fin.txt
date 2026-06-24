@@ -1,4 +1,4 @@
-# Main total line 1951 
+# Main total line 1954 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -42,6 +42,7 @@ DOMAIN,apache.uvigo.es
 DOMAIN,apache.website-solution.net
 DOMAIN,api-updates.orbstack.dev
 DOMAIN,app-updates.agilebits.com
+DOMAIN,apt.izzysoft.de
 DOMAIN,apt.tetaneutral.net
 DOMAIN,apt.xpipe.io
 DOMAIN,archive-4.kali.org
@@ -1195,6 +1196,7 @@ DOMAIN,ota-cache1.googlezip.net
 DOMAIN,ota.googlezip.net
 DOMAIN,packagecloud.io
 DOMAIN,packages-cf.termux.dev
+DOMAIN,packages.codeberg.org
 DOMAIN,packages.hs-regensburg.de
 DOMAIN,packages.httpie.io
 DOMAIN,packages.linuxmint.com
@@ -1304,6 +1306,7 @@ DOMAIN,steam.ru.qtlglb.com
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,steampipe.akamaized.net
+DOMAIN,store.nethunter.com
 DOMAIN,store.setapp.com
 DOMAIN,store1.gofile.io
 DOMAIN,su.virtualbuddy.app

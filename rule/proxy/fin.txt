@@ -1,4 +1,4 @@
-# Main total line 7210 
+# Main total line 7211 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -2348,6 +2348,7 @@ DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,geph.io
 DOMAIN-SUFFIX,gerefoundation.org
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,get.page

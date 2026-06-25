@@ -1,4 +1,4 @@
-# Main total line 1954 
+# Main total line 1956 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -265,6 +265,7 @@ DOMAIN,dl.min.io
 DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.nwjs.io
+DOMAIN,dl.orangefox.download
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
 DOMAIN,dl.tailscale.com
@@ -1475,6 +1476,7 @@ DOMAIN-SUFFIX,dl.dropboxusercontent.com
 DOMAIN-SUFFIX,dl.elementary.io
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,dl.sourceforge.net
+DOMAIN-SUFFIX,dl.twrp.me
 DOMAIN-SUFFIX,dl.wireshark.org
 DOMAIN-SUFFIX,dl2.discordapp.net
 DOMAIN-SUFFIX,download.autodesk.com

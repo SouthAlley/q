@@ -1,4 +1,4 @@
-# Main total line 4546 
+# Main total line 4547 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1496,6 +1496,7 @@ DOMAIN,hhhhhhome86227170.wordpress.com
 DOMAIN,himeko.iwara.tv
 DOMAIN,hips.hearstapps.com
 DOMAIN,hiveplayer-static.bamgrid.com
+DOMAIN,hls-svod.itunes.apple.com
 DOMAIN,hls.hentaicity.com
 DOMAIN,home.integrate.com
 DOMAIN,hp.foxnews.com

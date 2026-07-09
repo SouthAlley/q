@@ -1,6 +1,5 @@
-# Main total line 175 
+# Main total line 174 
 # ------------------------------------------
-DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,gog.salesmanago.com
 DOMAIN,originasserts.akamaized.net
 DOMAIN,steambroadcast.akamaized.net

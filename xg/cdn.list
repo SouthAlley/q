@@ -1,4 +1,4 @@
-# Main total line 4556
+# Main total line 4561
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -2417,6 +2417,9 @@ DOMAIN,rs-cdn.splashtop.com
 DOMAIN,rsi.grafana.com
 DOMAIN,rsms.me
 DOMAIN,rt.rtoaster.jp
+DOMAIN,rt1.maphub.net
+DOMAIN,rt2.maphub.net
+DOMAIN,rt3.maphub.net
 DOMAIN,rtcg-access.bytevcloud.com
 DOMAIN,rts-static-prod.freshworksapi.com
 DOMAIN,rules.ac
@@ -2832,6 +2835,7 @@ DOMAIN,static.linear.app
 DOMAIN,static.lingq.com
 DOMAIN,static.lwn.net
 DOMAIN,static.macupdate.com
+DOMAIN,static.maphub.net
 DOMAIN,static.maxmind.com
 DOMAIN,static.mediafire.com
 DOMAIN,static.meiguo.com
@@ -4390,6 +4394,7 @@ DOMAIN-SUFFIX,tile.thunderforest.com
 DOMAIN-SUFFIX,tiles-api.maps.komoot.net
 DOMAIN-SUFFIX,tiles.freemap.sk
 DOMAIN-SUFFIX,tiles.mapbox.com
+DOMAIN-SUFFIX,tiles.openstreetmap.us
 DOMAIN-SUFFIX,tiles.virtualearth.net
 DOMAIN-SUFFIX,tindiemedia.com
 DOMAIN-SUFFIX,tinifycdn.com

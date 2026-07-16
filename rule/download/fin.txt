@@ -1,4 +1,4 @@
-# Main total line 1973 
+# Main total line 1965 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -87,7 +87,6 @@ DOMAIN,cdn-builds.paw.cloud
 DOMAIN,cdn-fi-1.comaps.app
 DOMAIN,cdn-images.orbstack.dev
 DOMAIN,cdn-nl1.organicmaps.app
-DOMAIN,cdn-ota.azureedge.net
 DOMAIN,cdn-patch.swtor.com
 DOMAIN,cdn-uk1.organicmaps.app
 DOMAIN,cdn-updates.orbstack.dev
@@ -118,7 +117,6 @@ DOMAIN,centos-stream.ip-connect.info
 DOMAIN,centos-stream.koyanet.lv
 DOMAIN,centos.anexia.at
 DOMAIN,centos.is
-DOMAIN,centos.nic.cz
 DOMAIN,cesium.di.uminho.pt
 DOMAIN,charts.verdaccio.org
 DOMAIN,chnroutes2.cdn.skk.moe
@@ -321,7 +319,6 @@ DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
 DOMAIN,download.eassos.com
 DOMAIN,download.edovia.com
-DOMAIN,download.fosshub.com
 DOMAIN,download.fydeos.io
 DOMAIN,download.garmin.com
 DOMAIN,download.geofabrik.de
@@ -503,7 +500,6 @@ DOMAIN,ftp.linux.ro
 DOMAIN,ftp.lip6.fr
 DOMAIN,ftp.litnet.lt
 DOMAIN,ftp.lt.debian.org
-DOMAIN,ftp.ludd.ltu.se
 DOMAIN,ftp.lug.ro
 DOMAIN,ftp.lysator.liu.se
 DOMAIN,ftp.man.poznan.pl
@@ -655,7 +651,6 @@ DOMAIN,linux.purple-cat.net
 DOMAIN,linux.yz.yamagata-u.ac.jp
 DOMAIN,linux2.yz.yamagata-u.ac.jp
 DOMAIN,linuxsoft.cern.ch
-DOMAIN,lug.mines.edu
 DOMAIN,lzip.nongnu.org
 DOMAIN,mac-release-static.stash.ws
 DOMAIN,mapgen-fi-1.comaps.app
@@ -707,7 +702,6 @@ DOMAIN,mirror.aut.ac.nz
 DOMAIN,mirror.azvps.vn
 DOMAIN,mirror.bacloud.com
 DOMAIN,mirror.bahnhof.net
-DOMAIN,mirror.battern.eu
 DOMAIN,mirror.bg.host.ag
 DOMAIN,mirror.bgp.rodeo
 DOMAIN,mirror.bharatdatacenter.com
@@ -846,7 +840,6 @@ DOMAIN,mirror.isoc.org.il
 DOMAIN,mirror.it.ubc.ca
 DOMAIN,mirror.it4i.cz
 DOMAIN,mirror.its-tps.fr
-DOMAIN,mirror.its.dal.ca
 DOMAIN,mirror.its.umich.edu
 DOMAIN,mirror.iway.ch
 DOMAIN,mirror.ixirhost.com
@@ -859,7 +852,6 @@ DOMAIN,mirror.kapteyan.com.tr
 DOMAIN,mirror.karneval.cz
 DOMAIN,mirror.katapult.io
 DOMAIN,mirror.keiminem.com
-DOMAIN,mirror.kernel.ir
 DOMAIN,mirror.keystealth.org
 DOMAIN,mirror.kkg.berlin
 DOMAIN,mirror.kku.ac.th
@@ -1061,7 +1053,7 @@ DOMAIN,mirror.yer.az
 DOMAIN,mirror.yuki.net.uk
 DOMAIN,mirror.za.abantu.cloud
 DOMAIN,mirror.za.web4africa.net
-DOMAIN,mirror1.hs-esslingen.de
+DOMAIN,mirror1.hcgen.de
 DOMAIN,mirror1.infomaniak.com
 DOMAIN,mirror1.ku.ac.th
 DOMAIN,mirror1.sox.rs

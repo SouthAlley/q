@@ -1,4 +1,4 @@
-# Main total line 4552 
+# Main total line 4553 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1232,6 +1232,7 @@ DOMAIN,dassets.shimano.com
 DOMAIN,data.cdn.siemens.com
 DOMAIN,data.jsdelivr.com
 DOMAIN,data.osmand.net
+DOMAIN,data.peer.as
 DOMAIN,data.pendo.io
 DOMAIN,data.schemaapp.com
 DOMAIN,data.web.clickup.com

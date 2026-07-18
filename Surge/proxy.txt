@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,bybit.com // Added for: www.bybit.com:443
 DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,bgm.tv // Added for: bgm.tv:443
 DOMAIN-SUFFIX,shitjournal.org // Added for: shitjournal.org:443
+DOMAIN-SUFFIX,coinbase.com // Added for: static-assets.coinbase.com:443

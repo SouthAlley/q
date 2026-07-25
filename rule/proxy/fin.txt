@@ -1,4 +1,4 @@
-# Main total line 7233 
+# Main total line 7235 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1156,6 +1156,7 @@ DOMAIN-SUFFIX,cilk.com
 DOMAIN-SUFFIX,cilk.net
 DOMAIN-SUFFIX,cineastentreff.de
 DOMAIN-SUFFIX,cipfg.org
+DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,circleci.com
 DOMAIN-SUFFIX,circlethebayfortibet.org
 DOMAIN-SUFFIX,cirosantilli.com
@@ -3359,6 +3360,7 @@ DOMAIN-SUFFIX,kantie.org
 DOMAIN-SUFFIX,kanzhongguo.com
 DOMAIN-SUFFIX,kaotic.com
 DOMAIN-SUFFIX,karayou.com
+DOMAIN-SUFFIX,kards.com
 DOMAIN-SUFFIX,karkhung.com
 DOMAIN-SUFFIX,karmapa-teachings.org
 DOMAIN-SUFFIX,karmapa.org

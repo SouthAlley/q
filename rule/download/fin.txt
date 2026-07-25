@@ -1,4 +1,4 @@
-# Main total line 1965 
+# Main total line 1966 
 # ------------------------------------------
 DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,addins.deepl.com
@@ -1184,6 +1184,7 @@ DOMAIN,npm.jsr.io
 DOMAIN,objects.githubusercontent.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdnmac.microsoft.com
+DOMAIN,omtapp.garmin.com
 DOMAIN,omtmapupdate.garmin.com
 DOMAIN,onepluscommunityserver.com
 DOMAIN,opensource.nchc.org.tw

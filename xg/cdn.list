@@ -1,4 +1,4 @@
-# Main total line 4568
+# Main total line 4571
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -636,6 +636,7 @@ DOMAIN,cdn.deta.space
 DOMAIN,cdn.devdojo.com
 DOMAIN,cdn.devolutions.net
 DOMAIN,cdn.dexscreener.com
+DOMAIN,cdn.dictionary.com
 DOMAIN,cdn.dnsimple.com
 DOMAIN,cdn.docsbot.com
 DOMAIN,cdn.document360.io
@@ -917,6 +918,7 @@ DOMAIN,cdn.techcommunity.microsoft.com
 DOMAIN,cdn.termius.com
 DOMAIN,cdn.theatlantic.com
 DOMAIN,cdn.thenewstack.io
+DOMAIN,cdn.theregister.com
 DOMAIN,cdn.thewirecutter.com
 DOMAIN,cdn.thingiverse.com
 DOMAIN,cdn.tiny.cloud
@@ -1618,6 +1620,7 @@ DOMAIN,image.status.io
 DOMAIN,image.telanganatoday.com
 DOMAIN,image.theblockbeats.info
 DOMAIN,image.thefly.com
+DOMAIN,image.theregister.com
 DOMAIN,image.tmdb.org
 DOMAIN,image.vuukle.com
 DOMAIN,image.worthepenny.com

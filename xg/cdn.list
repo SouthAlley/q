@@ -1,4 +1,4 @@
-# Main total line 4571
+# Main total line 4573
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1172,6 +1172,7 @@ DOMAIN,connect-js.stripe.com
 DOMAIN,connect.facebook.net
 DOMAIN,connect.getflowbox.com
 DOMAIN,connect.nosto.com
+DOMAIN,connectcache20.azureedge.net
 DOMAIN,connectivitycheck.android.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,consent-manager.ft.com
@@ -2026,6 +2027,7 @@ DOMAIN,map.adsbexchange.com
 DOMAIN,map.vesselfinder.net
 DOMAIN,maps.geoapify.com
 DOMAIN,maps.gstatic.com
+DOMAIN,maps.hereapi.com
 DOMAIN,maps.wikimedia.org
 DOMAIN,maps.wplace.live
 DOMAIN,mapserver.mapy.cz

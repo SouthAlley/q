@@ -1,4 +1,4 @@
-# Main total line 7238 
+# Main total line 7239 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -6015,6 +6015,7 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
+DOMAIN-SUFFIX,trainingpeaks.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,travelinkcard.com

@@ -1,4 +1,4 @@
-# Main total line 1966 
+# Main total line 1968 
 # ------------------------------------------
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -275,6 +275,7 @@ DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.nwjs.io
 DOMAIN,dl.orangefox.download
+DOMAIN,dl.pikpak.site
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
 DOMAIN,dl.tailscale.com
@@ -1179,6 +1180,7 @@ DOMAIN,msdl.microsoft.com
 DOMAIN,muug.ca
 DOMAIN,mx-app-blob-prod.maxon.net
 DOMAIN,nobara-images.nobaraproject.org
+DOMAIN,node-registry.bit.cloud
 DOMAIN,npm.im
 DOMAIN,npm.jsr.io
 DOMAIN,objects.githubusercontent.com

@@ -1,4 +1,4 @@
-# Main total line 4585
+# Main total line 4587
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -447,6 +447,7 @@ DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
 DOMAIN,cache.industry.siemens.com
 DOMAIN,cache.ip-api.com
+DOMAIN,cache.mapcomplete.org
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cached.rebuyengine.com
 DOMAIN,cafe.github.com
@@ -3102,7 +3103,6 @@ DOMAIN,tile.poloha.net
 DOMAIN,tile.skybrush.io
 DOMAIN,tile.waymarkedtrails.org
 DOMAIN,tile2.intervals.icu
-DOMAIN,tile2.opencyclemap.org
 DOMAIN,tilecache.rainviewer.com
 DOMAIN,tiledbasemaps.arcgis.com
 DOMAIN,tilemaps.icgc.cat
@@ -4415,6 +4415,8 @@ DOMAIN-SUFFIX,tile.osm.org
 DOMAIN-SUFFIX,tile.osmz.ru
 DOMAIN-SUFFIX,tile.stamen.com
 DOMAIN-SUFFIX,tile.thunderforest.com
+DOMAIN-SUFFIX,tile2.opencyclemap.org
+DOMAIN-SUFFIX,tile3.opencyclemap.org
 DOMAIN-SUFFIX,tiles-api.maps.komoot.net
 DOMAIN-SUFFIX,tiles.freemap.sk
 DOMAIN-SUFFIX,tiles.mapbox.com

@@ -1,4 +1,4 @@
-# Main total line 1054 
+# Main total line 1055 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,app.viayoo.com
@@ -200,6 +200,7 @@ DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,camscanner.com
 DOMAIN-SUFFIX,ccb.com

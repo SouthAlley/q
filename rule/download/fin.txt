@@ -1,4 +1,4 @@
-# Main total line 1970 
+# Main total line 1965 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -339,7 +339,6 @@ DOMAIN,download.mozilla.org
 DOMAIN,download.mxfast.com
 DOMAIN,download.nektony.com
 DOMAIN,download.nodecdn.net
-DOMAIN,download.nus.edu.sg
 DOMAIN,download.nust.na
 DOMAIN,download.onlyoffice.com
 DOMAIN,download.opensuse.org
@@ -386,7 +385,6 @@ DOMAIN,drmirror.physi.uni-heidelberg.de
 DOMAIN,dw.uptodown.net
 DOMAIN,eclats.crans.org
 DOMAIN,edge.steam-dns.top.comcast.net
-DOMAIN,edge.zerofs.link
 DOMAIN,edgedl.me.gvt1.com
 DOMAIN,edgeupdates.microsoft.com
 DOMAIN,elmirror.cl
@@ -814,7 +812,6 @@ DOMAIN,mirror.hostiko.network
 DOMAIN,mirror.hosting90.cz
 DOMAIN,mirror.hostnet.nl
 DOMAIN,mirror.hs-esslingen.de
-DOMAIN,mirror.hyperdedic.ru
 DOMAIN,mirror.i3d.net
 DOMAIN,mirror.ibcp.fr
 DOMAIN,mirror.ietlucknow.ac.in
@@ -1056,7 +1053,6 @@ DOMAIN,mirror.yer.az
 DOMAIN,mirror.yuki.net.uk
 DOMAIN,mirror.za.abantu.cloud
 DOMAIN,mirror.za.web4africa.net
-DOMAIN,mirror1.hcgen.de
 DOMAIN,mirror1.infomaniak.com
 DOMAIN,mirror1.ku.ac.th
 DOMAIN,mirror1.sox.rs
@@ -1162,7 +1158,6 @@ DOMAIN,mirrors.usinternet.com
 DOMAIN,mirrors.vcea.wsu.edu
 DOMAIN,mirrors.webhs.pt
 DOMAIN,mirrors.whoishostingthis.com
-DOMAIN,mirrors.wikimedia.org
 DOMAIN,mirrors.xmission.com
 DOMAIN,mirrors.xmissions.com
 DOMAIN,mirrors.xservers.ro
@@ -1382,7 +1377,6 @@ DOMAIN,ubuntu.repo.cure.edu.uy
 DOMAIN,ubuntu.rootlicense.com
 DOMAIN,ubuntu.securedservers.com
 DOMAIN,ubuntu.servering.info
-DOMAIN,ubuntu.syxpi.fr
 DOMAIN,ubuntu.task.gda.pl
 DOMAIN,ubuntu.tuxuri.com
 DOMAIN,ubuntu.ucr.ac.cr
@@ -1952,6 +1946,7 @@ DOMAIN-SUFFIX,s3.us-gov-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
 DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,s3.yandex.net
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,swupdate.chaos.com

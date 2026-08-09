@@ -1,4 +1,4 @@
-# Main total line 1968 
+# Main total line 1970 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -275,6 +275,7 @@ DOMAIN,dl.motrix.app
 DOMAIN,dl.nssurge.com
 DOMAIN,dl.nwjs.io
 DOMAIN,dl.orangefox.download
+DOMAIN,dl.pikpak.io
 DOMAIN,dl.pikpak.site
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.snipaste.com
@@ -320,6 +321,7 @@ DOMAIN,download.dlsite.com
 DOMAIN,download.docker.com
 DOMAIN,download.eassos.com
 DOMAIN,download.edovia.com
+DOMAIN,download.fcitx-im.org
 DOMAIN,download.fydeos.io
 DOMAIN,download.garmin.com
 DOMAIN,download.geofabrik.de

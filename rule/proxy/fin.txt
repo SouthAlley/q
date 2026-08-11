@@ -1,4 +1,4 @@
-# Main total line 7241 
+# Main total line 7242 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1556,6 +1556,7 @@ DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,distrowatch.com
+DOMAIN-SUFFIX,divdyn.com
 DOMAIN-SUFFIX,diyin.org
 DOMAIN-SUFFIX,dizhidizhi.com
 DOMAIN-SUFFIX,dizhuzhishang.com

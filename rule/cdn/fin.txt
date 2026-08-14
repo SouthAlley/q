@@ -1,4 +1,4 @@
-# Main total line 4629 
+# Main total line 4630 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -4075,6 +4075,7 @@ DOMAIN-SUFFIX,lzzypic.com
 DOMAIN-SUFFIX,macysassets.com
 DOMAIN-SUFFIX,makeuseofimages.com
 DOMAIN-SUFFIX,mangadex.network
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,mapi.4kvm.net
 DOMAIN-SUFFIX,marketing.aws.dev
 DOMAIN-SUFFIX,mcusercontent.com

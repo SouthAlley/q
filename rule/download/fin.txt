@@ -1,4 +1,4 @@
-# Main total line 1965 
+# Main total line 1966 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -96,6 +96,7 @@ DOMAIN,cdn.affonso.io
 DOMAIN,cdn.azul.com
 DOMAIN,cdn.cocoapods.org
 DOMAIN,cdn.cypress.io
+DOMAIN,cdn.dyn.com
 DOMAIN,cdn.electronic.us
 DOMAIN,cdn.evolution-x.org
 DOMAIN,cdn.fwupd.org

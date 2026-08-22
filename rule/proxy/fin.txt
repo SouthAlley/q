@@ -1,4 +1,4 @@
-# Main total line 7243 
+# Main total line 7245 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -842,6 +842,7 @@ DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,breaking911.com
 DOMAIN-SUFFIX,breakingtweets.com
 DOMAIN-SUFFIX,breakwall.net
+DOMAIN-SUFFIX,briarproject.org
 DOMAIN-SUFFIX,briefdream.com
 DOMAIN-SUFFIX,briian.com
 DOMAIN-SUFFIX,brill.com
@@ -1053,6 +1054,7 @@ DOMAIN-SUFFIX,chanworld.org
 DOMAIN-SUFFIX,chaoex.com
 DOMAIN-SUFFIX,chapm25.com
 DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatnook.com
 DOMAIN-SUFFIX,chatpdf.com
 DOMAIN-SUFFIX,chaturbate.com

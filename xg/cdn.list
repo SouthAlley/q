@@ -1,4 +1,4 @@
-# Main total line 4628
+# Main total line 4633
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1217,6 +1217,7 @@ DOMAIN,content.overwolf.com
 DOMAIN,content.powerapps.com
 DOMAIN,content.presspage.com
 DOMAIN,content.wepik.com
+DOMAIN,contentful-asset-proxy.sd.indazn.com
 DOMAIN,contents-thumbnail2.fc2.com
 DOMAIN,conversiongorilla.com
 DOMAIN,cookie-cdn.cookiepro.com
@@ -1264,6 +1265,7 @@ DOMAIN,data.schemaapp.com
 DOMAIN,data.web.clickup.com
 DOMAIN,data3.answerbase.com
 DOMAIN,david-dm.org
+DOMAIN,dazn-content-proxy.sd.indazn.com
 DOMAIN,db.onlinewebfonts.com
 DOMAIN,dc-cdn.cdw.com
 DOMAIN,dd.blackhawknetwork.com
@@ -1623,6 +1625,7 @@ DOMAIN,image.civitai.com
 DOMAIN,image.cnbcfm.com
 DOMAIN,image.comicbz.com
 DOMAIN,image.crisp.chat
+DOMAIN,image.discovery.indazn.com
 DOMAIN,image.dooo.ng
 DOMAIN,image.email.microsoftemail.com
 DOMAIN,image.freepik.com
@@ -2797,6 +2800,7 @@ DOMAIN,static.cracked.ax
 DOMAIN,static.cracked.sh
 DOMAIN,static.crunchyroll.com
 DOMAIN,static.crypto.com
+DOMAIN,static.dazndn.com
 DOMAIN,static.deepl.com
 DOMAIN,static.doujins.com
 DOMAIN,static.driffle.com
@@ -3752,6 +3756,7 @@ DOMAIN-SUFFIX,favicone.com
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fe.indazn.com
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,feedercdn.com
 DOMAIN-SUFFIX,fembeqv2.xyz

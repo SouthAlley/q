@@ -1,4 +1,4 @@
-# Main total line 7249 
+# Main total line 7250 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -416,6 +416,7 @@ DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,api.proxlet.com
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.tv.colnv.com
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apibay.org

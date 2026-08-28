@@ -1,4 +1,4 @@
-# Main total line 7250 
+# Main total line 7251 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -6790,6 +6790,7 @@ DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,wqyd.org
 DOMAIN-SUFFIX,wrchina.org
 DOMAIN-SUFFIX,wretch.cc
+DOMAIN-SUFFIX,write.as
 DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net

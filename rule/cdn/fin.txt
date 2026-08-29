@@ -1,4 +1,4 @@
-# Main total line 4634 
+# Main total line 4636 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1421,6 +1421,7 @@ DOMAIN,file.izanm.org
 DOMAIN,file.zoom.us
 DOMAIN,file1.hkepc.net
 DOMAIN,files.armorgames.com
+DOMAIN,files.blocktempo.ai
 DOMAIN,files.buildwithfern.com
 DOMAIN,files.gempages.net
 DOMAIN,files.iwara.tv
@@ -1622,6 +1623,7 @@ DOMAIN,image-stgus.samsung.com
 DOMAIN,image-us.samsung.com
 DOMAIN,image.acg.lol
 DOMAIN,image.ap-mail.org
+DOMAIN,image.blocktempo.com
 DOMAIN,image.civitai.com
 DOMAIN,image.cnbcfm.com
 DOMAIN,image.comicbz.com

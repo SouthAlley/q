@@ -1,4 +1,4 @@
-# Main total line 1966 
+# Main total line 1967 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -55,6 +55,7 @@ DOMAIN,archlinux.nic.cz
 DOMAIN,artifacts.electronjs.org
 DOMAIN,artifacts.nixos.org
 DOMAIN,assets-production.packagecloud.io
+DOMAIN,assets-tcpviewer.proxyman.com
 DOMAIN,assets.dataflare.app
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com

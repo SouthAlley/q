@@ -1,4 +1,4 @@
-# Main total line 24550 
+# Main total line 24554 
 # ------------------------------------------
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -18155,6 +18155,7 @@ DOMAIN-SUFFIX,roboform.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,robotoffice.com
 DOMAIN-SUFFIX,robustnessiskey.com
+DOMAIN-SUFFIX,roc-taiwan.org
 DOMAIN-SUFFIX,rocket-inc.net
 DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,rocketbbs.com
@@ -18201,6 +18202,7 @@ DOMAIN-SUFFIX,roudao6.buzz
 DOMAIN-SUFFIX,roudaosp.cc
 DOMAIN-SUFFIX,roughebonysex.com
 DOMAIN-SUFFIX,roughman.net
+DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,routerboard.com
 DOMAIN-SUFFIX,routledgehandbooks.com
 DOMAIN-SUFFIX,rowblocks.com
@@ -20198,6 +20200,7 @@ DOMAIN-SUFFIX,taiwanbible.com
 DOMAIN-SUFFIX,taiwancon.com
 DOMAIN-SUFFIX,taiwandaily.net
 DOMAIN-SUFFIX,taiwandc.org
+DOMAIN-SUFFIX,taiwanembassy.org
 DOMAIN-SUFFIX,taiwanhot.net
 DOMAIN-SUFFIX,taiwanjustice.com
 DOMAIN-SUFFIX,taiwanjustice.net
@@ -23097,6 +23100,7 @@ DOMAIN-SUFFIX,wsjplus.com
 DOMAIN-SUFFIX,wsjshop.com
 DOMAIN-SUFFIX,wsjwine.com
 DOMAIN-SUFFIX,wtbn.org
+DOMAIN-SUFFIX,wtfpass.com
 DOMAIN-SUFFIX,wtfpeople.com
 DOMAIN-SUFFIX,wtmobile.com
 DOMAIN-SUFFIX,wto.org

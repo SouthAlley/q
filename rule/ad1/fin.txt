@@ -1,4 +1,4 @@
-# Main total line 4274 
+# Main total line 4277 
 # ------------------------------------------
 AND,((IP-CIDR,101.126.58.201/32,no-resolve),(DEST-PORT,6443))
 AND,((IP-CIDR,110.249.199.75/32,no-resolve),(DEST-PORT,6443))
@@ -9,7 +9,6 @@ AND,((IP-CIDR,220.243.141.0/32,no-resolve),(DEST-PORT,6443))
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
-*-normal.zijieapi.com*
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,a.cpic.com.cn
 DOMAIN,a.wkanx.com
@@ -45,7 +44,6 @@ DOMAIN,adim.pinduoduo.com
 DOMAIN,adimg.vue.weibo.com
 DOMAIN,adlaunch.moji.com
 DOMAIN,adlaunch.qingting.fm
-DOMAIN,adlog.vivo.com.cn
 DOMAIN,adm0.autoimg.cn
 DOMAIN,adm1.autoimg.cn
 DOMAIN,adm2.autoimg.cn
@@ -55,7 +53,6 @@ DOMAIN,admonitor.thepaper.cn
 DOMAIN,admusicpic.music.126.net
 DOMAIN,adnew.wifi8.com
 DOMAIN,adpai.thepaper.cn
-DOMAIN,adreq.vivo.com.cn
 DOMAIN,ads-cloud.rovio.com
 DOMAIN,ads-d.viber.com
 DOMAIN,ads.aplus.pptv.com
@@ -99,7 +96,6 @@ DOMAIN,adx-api.hupu.com
 DOMAIN,adx.hupu.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.yiche.com
-DOMAIN,adxlog.vivo.com.cn
 DOMAIN,afdconf.baidu.com
 DOMAIN,affcpatrk.com
 DOMAIN,amdc.m.youku.com
@@ -703,6 +699,7 @@ DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,adlink-api.huan.tv
 DOMAIN-SUFFIX,adlive.cn
 DOMAIN-SUFFIX,adlocus.com
+DOMAIN-SUFFIX,adlog.vivo.com.cn
 DOMAIN-SUFFIX,adlooxtracking.com
 DOMAIN-SUFFIX,adm.10jqka.com.cn
 DOMAIN-SUFFIX,adm.baidu.cn
@@ -738,6 +735,7 @@ DOMAIN-SUFFIX,adpush.cn
 DOMAIN-SUFFIX,adpushup.com
 DOMAIN-SUFFIX,adquan.com
 DOMAIN-SUFFIX,adreal.cn
+DOMAIN-SUFFIX,adreq.vivo.com.cn
 DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,adrta.com
@@ -896,7 +894,9 @@ DOMAIN-SUFFIX,adx.sogaha.cn
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,adxadserv.com
 DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
+DOMAIN-SUFFIX,adxlog.vivo.com.cn
 DOMAIN-SUFFIX,adxmi.com
+DOMAIN-SUFFIX,adxstatic.vivo.com.cn
 DOMAIN-SUFFIX,adyun.com
 DOMAIN-SUFFIX,adzerk.net
 DOMAIN-SUFFIX,ae.bdstatic.com
@@ -1149,6 +1149,7 @@ DOMAIN-SUFFIX,bootpreload.uve.weibo.com
 DOMAIN-SUFFIX,boxshows.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,brand.sogou.com
+DOMAIN-SUFFIX,brandadsstatic.vivo.com.cn
 DOMAIN-SUFFIX,brandshow.58.com
 DOMAIN-SUFFIX,brightcom.com
 DOMAIN-SUFFIX,bro.flyme.cn
@@ -1438,6 +1439,7 @@ DOMAIN-SUFFIX,dsp-x.jd.com
 DOMAIN-SUFFIX,dsp.fcbox.com
 DOMAIN-SUFFIX,dsp.toutiao.com
 DOMAIN-SUFFIX,dsp.youdao.com
+DOMAIN-SUFFIX,dsplog-adnet.vivo.com.cn
 DOMAIN-SUFFIX,dspmnt.autohome.com.cn
 DOMAIN-SUFFIX,du0pud0sdlmzf.cloudfront.net
 DOMAIN-SUFFIX,dualstack-logs.amap.com
@@ -2943,6 +2945,7 @@ DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.baidu.com
 DOMAIN-SUFFIX,tracker.gitee.com
 DOMAIN-SUFFIX,tracker.yhd.com
+DOMAIN-SUFFIX,tracking-adnet.vivo.com.cn
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.rus.miui.com
 DOMAIN-SUFFIX,trackingio.com

@@ -1,4 +1,4 @@
-# Main total line 1967 
+# Main total line 1968 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -268,6 +268,7 @@ DOMAIN,dl.cloudsmith.io
 DOMAIN,dl.devmate.com
 DOMAIN,dl.flathub.org
 DOMAIN,dl.getaurora.dev
+DOMAIN,dl.gl-inet.com
 DOMAIN,dl.google.com
 DOMAIN,dl.iina.io
 DOMAIN,dl.imobie.com

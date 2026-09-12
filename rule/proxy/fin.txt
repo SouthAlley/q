@@ -1,4 +1,4 @@
-# Main total line 7259 
+# Main total line 7260 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -4865,6 +4865,7 @@ DOMAIN-SUFFIX,qpoe.com
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qtweeter.com
 DOMAIN-SUFFIX,quad9.net
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,quannengshen.org
 DOMAIN-SUFFIX,quantumbooter.net

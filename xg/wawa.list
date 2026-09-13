@@ -126,9 +126,9 @@ DOMAIN-SUFFIX, mall.icbc.com.cn, REJECT
 DOMAIN, pageviewp.icbc.com.cn, REJECT
 
 # 广告联盟
-AND, ((DOMAIN-KEYWORD, -misc-), (DOMAIN-SUFFIX, zijieapi.com)), REJECT
-AND, ((DOMAIN-KEYWORD, adx-), (DOMAIN-SUFFIX, statisticslinks.com)), REJECT
-AND, ((DOMAIN-KEYWORD, mssdk), (DOMAIN-SUFFIX, zijieapi.com)), REJECT
+AND, ((DOMAIN-KEYWORD, -misc-), (DOMAIN-SUFFIX, zijieapi.com))
+AND, ((DOMAIN-KEYWORD, adx-), (DOMAIN-SUFFIX, statisticslinks.com))
+AND, ((DOMAIN-KEYWORD, mssdk), (DOMAIN-SUFFIX, zijieapi.com))
 DOMAIN-KEYWORD, -ad-sign.byteimg.com, REJECT
 DOMAIN-KEYWORD, -ad., REJECT
 DOMAIN-KEYWORD, -ads-, REJECT

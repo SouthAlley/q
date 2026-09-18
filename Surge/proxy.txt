@@ -32,3 +32,10 @@ DOMAIN-SUFFIX,bgm.tv // Added for: bgm.tv:443
 DOMAIN-SUFFIX,shitjournal.org // Added for: shitjournal.org:443
 DOMAIN-SUFFIX,coinbase.com // Added for: static-assets.coinbase.com:443
 DOMAIN-SUFFIX,ikuncode.cc // Added for: api.ikuncode.cc:443
+DOMAIN-SUFFIX,mwmwebapis.com // Added for: prod.ledger.mwm-pay.mwmwebapis.com:443
+DOMAIN-SUFFIX,mwm-bs.com // Added for: event.mwm-bs.com:443
+DOMAIN-SUFFIX,mwmsessions.com // Added for: mwmsessions.com:443
+DOMAIN-SUFFIX,works // Added for: plugins.carsonn.works:443
+DOMAIN-SUFFIX,sidestore.io // Added for: ani.sidestore.io:443
+DOMAIN,zzz.haus // Added for: zzz.haus:443
+DOMAIN-SUFFIX,fieryflames.dev // Added for: decor.fieryflames.dev:443

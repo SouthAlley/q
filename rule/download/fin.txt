@@ -1,4 +1,4 @@
-# Main total line 1968 
+# Main total line 1969 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -1272,6 +1272,7 @@ DOMAIN,repo.powerdns.com
 DOMAIN,repo.sleeping.town
 DOMAIN,repo.ugm.ac.id
 DOMAIN,repo.usk.ac.id
+DOMAIN,repo.xtom.com
 DOMAIN,repo1.maven.org
 DOMAIN,repo2.shinjiru.com
 DOMAIN,repos.del.extreme-ix.org

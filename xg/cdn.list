@@ -1,4 +1,4 @@
-# Main total line 4670
+# Main total line 4673
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
@@ -1631,6 +1631,7 @@ DOMAIN,imag.malavida.com
 DOMAIN,image-cdn.porndig.com
 DOMAIN,image-forwarder.notaku.so
 DOMAIN,image-stgus.samsung.com
+DOMAIN,image-tc.galaxy.tf
 DOMAIN,image-us.samsung.com
 DOMAIN,image.acg.lol
 DOMAIN,image.ap-mail.org
@@ -2311,6 +2312,7 @@ DOMAIN,ph.northflank.com
 DOMAIN,ph.tryprofound.com
 DOMAIN,pha-prx.ops.cloud.nx.app
 DOMAIN,phishing.army
+DOMAIN,photos.flightaware.com
 DOMAIN,photos5.appleinsider.com
 DOMAIN,pic-bstarstatic.akamaized.net
 DOMAIN,pic.7mmtv.me
@@ -3165,6 +3167,7 @@ DOMAIN,tilemaps.icgc.cat
 DOMAIN,tiles-a.koordinates.com
 DOMAIN,tiles-eu.stadiamaps.com
 DOMAIN,tiles.arcgis.com
+DOMAIN,tiles.flightaware.com
 DOMAIN,tiles.gsj.jp
 DOMAIN,tiles.immich.cloud
 DOMAIN,tiles.locationiq.com

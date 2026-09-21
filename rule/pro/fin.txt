@@ -1,4 +1,4 @@
-# Main total line 587 
+# Main total line 588 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,copilot.microsoft.com
@@ -400,6 +400,7 @@ DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me

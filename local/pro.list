@@ -1,5 +1,40 @@
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,swiftgram.app
+DOMAIN-SUFFIX,here.com
+DOMAIN-SUFFIX,here.net
+DOMAIN-SUFFIX,aka.ms
+
+# Microsoft-Azure
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,azureedge.net
+
+# Microsoft-Live
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,sclive.net
+DOMAIN-SUFFIX,livefilestore.com
+
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skype.net
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,skypeforbusiness.com
+
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+
 # 代理域名
 DOMAIN,in.mesl.cloud
 DOMAIN,69shuba.cx
@@ -112,12 +147,6 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
-
-# Copilot
-DOMAIN,api.githubcopilot.com
-DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,copilot.microsoft.com
-DOMAIN,sydney.bing.com
 
 # Claude
 DOMAIN-SUFFIX,claude.com
@@ -308,12 +337,6 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
-
-# Microsoft-Azure
-DOMAIN-SUFFIX,aspnetcdn.com
-DOMAIN-SUFFIX,azure.com
-DOMAIN-SUFFIX,azurefd.net
-DOMAIN-SUFFIX,azureedge.net
 
 # Amazon-AWS
 DOMAIN-SUFFIX,amazonaws.com

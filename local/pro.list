@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
 
 # Microsoft-Azure
 DOMAIN-SUFFIX,aspnetcdn.com

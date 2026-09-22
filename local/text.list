@@ -83,3 +83,24 @@ DOMAIN-KEYWORD, ttcdn-tos.
 DOMAIN-KEYWORD, ttlivecdn.com.
 IP-ASN, 11983, no-resolve
 IP-ASN, 138699, no-resolve
+# TikTok
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+DOMAIN,lf19-pkgcdn.pitaya-clientai.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,ttlstatic.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-KEYWORD,tiktok
+IP-CIDR,71.18.10.224/30,no-resolve
+IP-CIDR,71.18.27.224/30,no-resolve
+IP-CIDR,71.18.40.224/30,no-resolve
+IP-CIDR,71.18.43.224/30,no-resolve

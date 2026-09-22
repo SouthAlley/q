@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workos.imgix.net
 
 # Microsoft-Azure
 DOMAIN-SUFFIX,aspnetcdn.com

@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,here.net
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
 
 # Microsoft-Azure
 DOMAIN-SUFFIX,aspnetcdn.com

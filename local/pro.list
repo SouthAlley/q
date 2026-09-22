@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workos.imgix.net
 DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,intercom.io
 
 # Microsoft-Azure
 DOMAIN-SUFFIX,aspnetcdn.com

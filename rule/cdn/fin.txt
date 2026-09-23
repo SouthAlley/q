@@ -1,4 +1,4 @@
-# Main total line 4675 
+# Main total line 4676 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -145,6 +145,7 @@ DOMAIN,assets.bravenet.com
 DOMAIN,assets.brevo.com
 DOMAIN,assets.buttondown.email
 DOMAIN,assets.bwbx.io
+DOMAIN,assets.byokey.io
 DOMAIN,assets.byteplus.com
 DOMAIN,assets.calendly.com
 DOMAIN,assets.canny.io

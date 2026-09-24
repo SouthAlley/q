@@ -39,3 +39,9 @@ DOMAIN-SUFFIX,works // Added for: plugins.carsonn.works:443
 DOMAIN-SUFFIX,sidestore.io // Added for: ani.sidestore.io:443
 DOMAIN,zzz.haus // Added for: zzz.haus:443
 DOMAIN-SUFFIX,fieryflames.dev // Added for: decor.fieryflames.dev:443
+DOMAIN-SUFFIX,yfamilys.com // Added for: yfamilys.com:443
+DOMAIN-SUFFIX,walletconnect.com // Added for: pulse.walletconnect.com:443
+DOMAIN-SUFFIX,isafepal.com // Added for: wp.isafepal.com:443
+DOMAIN-SUFFIX,onesignal.com // Added for: api.onesignal.com:443
+DOMAIN-SUFFIX,byteplusvod.com // Added for: videocloud-i18n.byteplusvod.com:443
+DOMAIN-SUFFIX,jevusers.com // Added for: jevusers.com:443

@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,gyks.cf
 DOMAIN-SUFFIX,bybit.com
-DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,shitjournal.org
 DOMAIN-SUFFIX,coinbase.com
@@ -45,3 +44,5 @@ DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,byteplusvod.com
 DOMAIN-SUFFIX,jevusers.com
+DOMAIN,69shuba.cx
+DOMAIN-SUFFIX,muse.ai

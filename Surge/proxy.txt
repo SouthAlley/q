@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,youmind.com // Added for: youmind.com:443
 DOMAIN-SUFFIX,gyks.cf // Added for: v3.gyks.cf:443
 DOMAIN-SUFFIX,bybit.com // Added for: www.bybit.com:443
-DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,bgm.tv // Added for: bgm.tv:443
 DOMAIN-SUFFIX,shitjournal.org // Added for: shitjournal.org:443
 DOMAIN-SUFFIX,coinbase.com // Added for: static-assets.coinbase.com:443
@@ -45,3 +44,5 @@ DOMAIN-SUFFIX,isafepal.com // Added for: wp.isafepal.com:443
 DOMAIN-SUFFIX,onesignal.com // Added for: api.onesignal.com:443
 DOMAIN-SUFFIX,byteplusvod.com // Added for: videocloud-i18n.byteplusvod.com:443
 DOMAIN-SUFFIX,jevusers.com // Added for: jevusers.com:443
+DOMAIN,69shuba.cx
+DOMAIN-SUFFIX,muse.ai // Added for: muse.ai:443

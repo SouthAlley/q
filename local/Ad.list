@@ -1,5 +1,43 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+############
+# Google AdMob / Ad Manager (main banner network used by Badoo)
+DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,pubads.g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,securepubads.g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,googleadservices.com,REJECT
+DOMAIN,imasdk.googleapis.com,REJECT
+# Meta Audience Network (ads domain only, Facebook login keeps working)
+DOMAIN,an.facebook.com,REJECT
+# Amazon Publisher Services
+DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
+# AppLovin / MAX (mediation)
+DOMAIN-SUFFIX,applovin.com,REJECT
+DOMAIN-SUFFIX,applvn.com,REJECT
+# ironSource / Unity Ads
+DOMAIN-SUFFIX,supersonicads.com,REJECT
+DOMAIN-SUFFIX,ironsrc.mobi,REJECT
+DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
+# Liftoff / Vungle
+DOMAIN-SUFFIX,vungle.com,REJECT
+# InMobi
+DOMAIN-SUFFIX,inmobi.com,REJECT
+# Mintegral
+DOMAIN-SUFFIX,rayjump.com,REJECT
+DOMAIN-SUFFIX,mintegral.com,REJECT
+# Pangle
+DOMAIN-SUFFIX,pangle.io,REJECT
+# Programmatic exchanges (header bidding)
+DOMAIN-SUFFIX,smaato.net,REJECT
+DOMAIN-SUFFIX,pubmatic.com,REJECT
+DOMAIN-SUFFIX,openx.net,REJECT
+DOMAIN-SUFFIX,adnxs.com,REJECT
+DOMAIN-SUFFIX,rubiconproject.com,REJECT
+DOMAIN-SUFFIX,criteo.com,REJECT
+DOMAIN-SUFFIX,adcolony.com,REJECT
+###############
+
 DOMAIN,mssdk.bytedance.com
 
 DOMAIN,msmp.abchina.com.cn,REJECT

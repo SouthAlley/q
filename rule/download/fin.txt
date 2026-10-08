@@ -1,4 +1,4 @@
-# Main total line 1971 
+# Main total line 1972 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -1250,6 +1250,7 @@ DOMAIN,release-assets.githubusercontent.com
 DOMAIN,release.arcboxcdn.com
 DOMAIN,release.runcloud.io
 DOMAIN,releases.arc.net
+DOMAIN,releases.claude.com
 DOMAIN,releases.grapheneos.org
 DOMAIN,releases.landrop.app
 DOMAIN,releases.obsidian.md

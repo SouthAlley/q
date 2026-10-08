@@ -46,3 +46,11 @@ DOMAIN-SUFFIX,byteplusvod.com // Added for: videocloud-i18n.byteplusvod.com:443
 DOMAIN-SUFFIX,jevusers.com // Added for: jevusers.com:443
 DOMAIN,69shuba.cx
 DOMAIN-SUFFIX,muse.ai // Added for: muse.ai:443
+DOMAIN-SUFFIX,metaaivm.com // Added for: hatch.metaaivm.com:443
+DOMAIN-SUFFIX,byabcde.com // Added for: api3.byabcde.com:443
+DOMAIN-SUFFIX,bynbc.com // Added for: spdtest-teo.bynbc.com:443
+DOMAIN-SUFFIX,bybdc6.com // Added for: api3.bybdc6.com:443
+DOMAIN-SUFFIX,tampermonkey.net // Added for: blacklist.tampermonkey.net:443
+DOMAIN,secure.gravatar.com // Added for: secure.gravatar.com:443
+DOMAIN-SUFFIX,javtrailers.com // Added for: javtrailers.com:443
+DOMAIN,surrit.mrstcdn.store // Added for: surrit.mrstcdn.store:443

@@ -1,4 +1,4 @@
-# Main total line 4688 
+# Main total line 4690 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -858,6 +858,7 @@ DOMAIN,cdn.plu.mx
 DOMAIN,cdn.plus500.com
 DOMAIN,cdn.plyr.io
 DOMAIN,cdn.pricespider.com
+DOMAIN,cdn.priv.center
 DOMAIN,cdn.privacy-mgmt.com
 DOMAIN,cdn.privacy.com
 DOMAIN,cdn.privacy.paramount.com
@@ -1263,6 +1264,7 @@ DOMAIN,css.comicbz.com
 DOMAIN,css.createsend1.com
 DOMAIN,css.yymanhua.com
 DOMAIN,curl.se
+DOMAIN,customer-first-focus.b-cdn.net
 DOMAIN,cw-image-resizer.cwg.tw
 DOMAIN,cwsimages.ingramcontent.com
 DOMAIN,d.newsweek.com

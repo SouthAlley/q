@@ -1,4 +1,4 @@
-# Main total line 4693 
+# Main total line 4696 
 # ------------------------------------------
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1497,6 +1497,7 @@ DOMAIN,frontend-apps.workos.com
 DOMAIN,frontend-assets.supabase.com
 DOMAIN,frontend-cdn.perplexity.ai
 DOMAIN,frontend.floatplane.com
+DOMAIN,frontend2.locally.com
 DOMAIN,fs.mingpao.com
 DOMAIN,fscdn.eppo.cloud
 DOMAIN,fullstackopen.com
@@ -2187,6 +2188,7 @@ DOMAIN,media.themoviedb.org
 DOMAIN,media.theporndude.com
 DOMAIN,media.theresanaiforthat.com
 DOMAIN,media.trakt.tv
+DOMAIN,media.trekbikes.com
 DOMAIN,media.user.com
 DOMAIN,media.wd40.asia
 DOMAIN,media.webtoo.ls
@@ -3310,6 +3312,7 @@ DOMAIN,v2uploads.zopim.io
 DOMAIN,vanilla-extract.style
 DOMAIN,variations.brave.com
 DOMAIN,vbmspic.video.friday.tw
+DOMAIN,vcc-assets.8x8.com
 DOMAIN,vcdn.anysex.com
 DOMAIN,vector.hereapi.com
 DOMAIN,vectorified.com

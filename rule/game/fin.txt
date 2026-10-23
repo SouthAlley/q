@@ -1,10 +1,11 @@
-# Main total line 175 
+# Main total line 193 
 # ------------------------------------------
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,gog.salesmanago.com
 DOMAIN,originasserts.akamaized.net
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steammobile.akamaized.net
 DOMAIN,steampipe.akamaized.net
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
@@ -33,6 +34,7 @@ DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
+DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,eaplay.com
 DOMAIN-SUFFIX,easports.com
@@ -145,9 +147,12 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steam.tv
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
@@ -166,6 +171,7 @@ DOMAIN-SUFFIX,ulol.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,uplay.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,xbox.com
@@ -175,3 +181,15 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-KEYWORD,blz-contentstack
+IP-CIDR,103.10.124.0/23,no-resolve
+IP-CIDR,103.28.54.0/24,no-resolve
+IP-CIDR,146.66.152.0/24,no-resolve
+IP-CIDR,146.66.155.0/24,no-resolve
+IP-CIDR,155.133.224.0/19,no-resolve
+IP-CIDR,162.254.192.0/21,no-resolve
+IP-CIDR,185.25.180.0/22,no-resolve
+IP-CIDR,192.69.96.0/22,no-resolve
+IP-CIDR,205.196.6.0/24,no-resolve
+IP-CIDR,208.64.200.0/22,no-resolve
+IP-CIDR,208.78.164.0/22,no-resolve
+IP-CIDR,45.121.184.0/24,no-resolve

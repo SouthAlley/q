@@ -1,4 +1,4 @@
-# Main total line 7289 
+# Main total line 7295 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -691,6 +691,7 @@ DOMAIN-SUFFIX,biblesforamerica.org
 DOMAIN-SUFFIX,bibliocommons.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,bic2011.org
+DOMAIN-SUFFIX,bidobido.xyz
 DOMAIN-SUFFIX,bidswitch.net
 DOMAIN-SUFFIX,biedian.me
 DOMAIN-SUFFIX,bigbeans.solutions
@@ -703,6 +704,7 @@ DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,bikawebapp.com
 DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliworld.com
@@ -1569,6 +1571,7 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,distrowatch.com
 DOMAIN-SUFFIX,divdyn.com
+DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,diyin.org
 DOMAIN-SUFFIX,dizhidizhi.com
 DOMAIN-SUFFIX,dizhuzhishang.com
@@ -2863,6 +2866,7 @@ DOMAIN-SUFFIX,https443.org
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,hua-yue.net
 DOMAIN-SUFFIX,huaglad.com
+DOMAIN-SUFFIX,huakacomic.com
 DOMAIN-SUFFIX,huanghuagang.org
 DOMAIN-SUFFIX,huangyiyu.com
 DOMAIN-SUFFIX,huaren4us.com
@@ -4615,6 +4619,7 @@ DOMAIN-SUFFIX,phptutorial.net
 DOMAIN-SUFFIX,phuquocservices.com
 DOMAIN-SUFFIX,piaotia.com
 DOMAIN-SUFFIX,piaotian.net
+DOMAIN-SUFFIX,pica-id.com
 DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,picacgy.com
 DOMAIN-SUFFIX,picacn.xyz
@@ -5979,6 +5984,7 @@ DOMAIN-SUFFIX,tinypic.com
 DOMAIN-SUFFIX,tinypng.com
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,tipas.net
+DOMAIN-SUFFIX,tipatipa.xyz
 DOMAIN-SUFFIX,tistory.com
 DOMAIN-SUFFIX,title.sh
 DOMAIN-SUFFIX,tkcs-collins.com

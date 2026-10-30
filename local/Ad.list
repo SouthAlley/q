@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,ruleset.skk.moe
 
+DOMAIN,app-alpha.bytedance.net
 ############
 # Google AdMob / Ad Manager (main banner network used by Badoo)
 DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT

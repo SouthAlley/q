@@ -1,4 +1,4 @@
-# Main total line 7307 
+# Main total line 7308 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1233,6 +1233,7 @@ DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,cloudinsights.com
 DOMAIN-SUFFIX,cloudmagic.com
 DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,club1069.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com

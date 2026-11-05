@@ -54,3 +54,8 @@ DOMAIN-SUFFIX,tampermonkey.net // Added for: blacklist.tampermonkey.net:443
 DOMAIN,secure.gravatar.com // Added for: secure.gravatar.com:443
 DOMAIN-SUFFIX,javtrailers.com // Added for: javtrailers.com:443
 DOMAIN,surrit.mrstcdn.store // Added for: surrit.mrstcdn.store:443
+DOMAIN-SUFFIX,ping0.cc // Added for: ipv6.ping0.cc:443
+DOMAIN-SUFFIX,ipkk.com // Added for: astatics.ipkk.com:443
+DOMAIN-SUFFIX,ippure.com // Added for: ippure.com:443
+DOMAIN,ip.net.coffee // Added for: ip.net.coffee:443
+DOMAIN-SUFFIX,cleanip.io // Added for: stats.cleanip.io:443

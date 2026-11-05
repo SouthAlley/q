@@ -1,4 +1,4 @@
-# Main total line 4289 
+# Main total line 4291 
 # ------------------------------------------
 AND, ((DOMAIN-KEYWORD, -misc-), (DOMAIN-SUFFIX, zijieapi.com))
 AND, ((DOMAIN-KEYWORD, adx-), (DOMAIN-SUFFIX, statisticslinks.com))
@@ -4246,6 +4246,8 @@ IP-CIDR,88.214.50.173/32,no-resolve
 IP-CIDR,88.255.216.16/32,no-resolve
 IP-CIDR,88.85.75.147/32,no-resolve
 IP-CIDR,88.85.77.92/32,no-resolve
+IP-CIDR,89.126.250.172/32,no-resolve
+IP-CIDR,89.127.233.127/32,no-resolve
 IP-CIDR,91.121.67.60/32,no-resolve
 IP-CIDR,91.202.233.143/32,no-resolve
 IP-CIDR,91.204.226.224/32,no-resolve

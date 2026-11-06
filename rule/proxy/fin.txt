@@ -1,4 +1,4 @@
-# Main total line 7308 
+# Main total line 7312 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -434,7 +434,6 @@ DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,aplusvpn.com
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,app.element.io
 DOMAIN-SUFFIX,app.heywire.com
 DOMAIN-SUFFIX,appadvice.com
 DOMAIN-SUFFIX,appbrain.com
@@ -1813,6 +1812,7 @@ DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,elconfidencial.com
 DOMAIN-SUFFIX,electionsmeter.com
 DOMAIN-SUFFIX,electrek.co
+DOMAIN-SUFFIX,element.io
 DOMAIN-SUFFIX,elgoog.im
 DOMAIN-SUFFIX,ellawine.org
 DOMAIN-SUFFIX,eloqua.com
@@ -2537,6 +2537,7 @@ DOMAIN-SUFFIX,gospelherald.com
 DOMAIN-SUFFIX,got-game.org
 DOMAIN-SUFFIX,gotdns.ch
 DOMAIN-SUFFIX,gotgeeks.com
+DOMAIN-SUFFIX,gotinder.com
 DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotrusted.com
 DOMAIN-SUFFIX,gqhongkong.com
@@ -5723,6 +5724,7 @@ DOMAIN-SUFFIX,talkboxapp.com
 DOMAIN-SUFFIX,talkcc.com
 DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,tamiaode.tk
+DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,tanc.org
 DOMAIN-SUFFIX,tangben.com
 DOMAIN-SUFFIX,tanks.gg
@@ -5982,6 +5984,7 @@ DOMAIN-SUFFIX,timsah.com
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,tindersparks.com
 DOMAIN-SUFFIX,tindie.com
 DOMAIN-SUFFIX,tiney.com
 DOMAIN-SUFFIX,tineye.com
@@ -6426,6 +6429,7 @@ DOMAIN-SUFFIX,vbstatic.co
 DOMAIN-SUFFIX,vcf-online.org
 DOMAIN-SUFFIX,vcfbuilder.org
 DOMAIN-SUFFIX,vds.rightster.com
+DOMAIN-SUFFIX,vector.im
 DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,vegasred.com
 DOMAIN-SUFFIX,velkaepocha.sk

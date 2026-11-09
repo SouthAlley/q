@@ -1,4 +1,4 @@
-# Main total line 193 
+# Main total line 194 
 # ------------------------------------------
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,gog.salesmanago.com
@@ -10,6 +10,7 @@ DOMAIN,steampipe.akamaized.net
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kgames.com

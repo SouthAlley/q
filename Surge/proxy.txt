@@ -59,3 +59,4 @@ DOMAIN-SUFFIX,ipkk.com // Added for: astatics.ipkk.com:443
 DOMAIN-SUFFIX,ippure.com // Added for: ippure.com:443
 DOMAIN,ip.net.coffee // Added for: ip.net.coffee:443
 DOMAIN-SUFFIX,cleanip.io // Added for: stats.cleanip.io:443
+DOMAIN-SUFFIX,bandwagonhost.com // Added for: bandwagonhost.com:443

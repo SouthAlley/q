@@ -3,22 +3,26 @@
 ## 原文参阅 https:
 ## 电报群组 https:
 ## Repo: https:
-## Adblock4limbo: 572 Domains/IP/Others From https:
+## Adblock4limbo: 575 Domains/IP/Others From https:
 ## EasyList/EasylistChina/EasyPrivacy 隐私追踪器/去广告分流规则请在Github仓库 Adblock4limbo -> rule 文件夹下查找，按需添加...
 ## 仓库地址：https:
 ## Peter Lowe’s Ad and tracking server list: 3563 Domains/IP/Others From https:
-## EasyList: 43427 Domains/IP/Others From https:
-## EasyPrivacy: 43348 Domains/IP/Others From https:
-## EasyList China: 5716 Domains/IP/Others From https:
+## EasyList: 43571 Domains/IP/Others From https:
+## EasyPrivacy: 43428 Domains/IP/Others From https:
+## EasyList China: 5827 Domains/IP/Others From https:
 ## ACL4SSR BadAD: 588 Domains/IP/Others From https:
-## 以上共计: 97214 Domains/IP/Others (非去重统计)
-## Last updated at  3/11月/2026/10:03
+## 以上共计: 97552 Domains/IP/Others (非去重统计)
+## Last updated at 13/11月/2026/11:45
 ## */
 
 
 #### 毒奶去广告计划
 ## 如需完整配置，参阅请原文 https:
 
+#### kanav.ad
+DOMAIN-SUFFIX,a.pemsrv.com
+DOMAIN-SUFFIX,a.magsrv.com
+DOMAIN-SUFFIX,jitrivppyz.in
 
 ##### rou.video
 DOMAIN-SUFFIX,go.mnaspm.com

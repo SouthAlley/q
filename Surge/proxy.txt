@@ -60,3 +60,5 @@ DOMAIN-SUFFIX,ippure.com // Added for: ippure.com:443
 DOMAIN,ip.net.coffee // Added for: ip.net.coffee:443
 DOMAIN-SUFFIX,cleanip.io // Added for: stats.cleanip.io:443
 DOMAIN-SUFFIX,bandwagonhost.com // Added for: bandwagonhost.com:443
+DOMAIN-SUFFIX,yang-1989.xyz // Added for: iptv.yang-1989.xyz:443
+DOMAIN-SUFFIX,uptodown.com // Added for: dw.uptodown.com:443

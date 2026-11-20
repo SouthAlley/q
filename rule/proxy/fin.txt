@@ -1,4 +1,4 @@
-# Main total line 7313 
+# Main total line 7329 
 # ------------------------------------------
 AND,((OR,((IP-ASN,31898,no-resolve), (IP-ASN,20473,no-resolve), (IP-ASN,14061,no-resolve))), (OR,((DEST-PORT,3478), (DEST-PORT,7881))))
 DOMAIN,api.waqi.info
@@ -1687,6 +1687,7 @@ DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,dtwang.org
 DOMAIN-SUFFIX,duanzhihu.com
 DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,duck.co
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,duckdns.org
@@ -2566,6 +2567,7 @@ DOMAIN-SUFFIX,greatfirewallofchina.net
 DOMAIN-SUFFIX,greatfirewallofchina.org
 DOMAIN-SUFFIX,greatroc.org
 DOMAIN-SUFFIX,greatzhonghua.org
+DOMAIN-SUFFIX,greenbean.media
 DOMAIN-SUFFIX,greenhouse.io
 DOMAIN-SUFFIX,greenpeace.org
 DOMAIN-SUFFIX,greenreadings.com
@@ -2764,9 +2766,11 @@ DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkchronicles.com
 DOMAIN-SUFFIX,hkchurch.org
 DOMAIN-SUFFIX,hkcircleapp.com
+DOMAIN-SUFFIX,hkcitycreation.com
 DOMAIN-SUFFIX,hkcmi.edu
 DOMAIN-SUFFIX,hkcnews.com
 DOMAIN-SUFFIX,hkcoc.com
+DOMAIN-SUFFIX,hkcourtnews.com
 DOMAIN-SUFFIX,hkcsl.com
 DOMAIN-SUFFIX,hkday.net
 DOMAIN-SUFFIX,hkdf.org
@@ -2774,6 +2778,7 @@ DOMAIN-SUFFIX,hkej.com
 DOMAIN-SUFFIX,hkepc.com
 DOMAIN-SUFFIX,hket.com
 DOMAIN-SUFFIX,hkfaa.com
+DOMAIN-SUFFIX,hkfeature.com
 DOMAIN-SUFFIX,hkfreezone.com
 DOMAIN-SUFFIX,hkfront.org
 DOMAIN-SUFFIX,hkgalden.com
@@ -3566,6 +3571,7 @@ DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lidecheng.com
 DOMAIN-SUFFIX,lifemiles.com
+DOMAIN-SUFFIX,lifesitenews.com
 DOMAIN-SUFFIX,lightboxcdn.com
 DOMAIN-SUFFIX,lighti.me
 DOMAIN-SUFFIX,lightyearvpn.com
@@ -3762,6 +3768,7 @@ DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,mash.to
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,maskedip.com
+DOMAIN-SUFFIX,master-insight.com
 DOMAIN-SUFFIX,mastodon.cloud
 DOMAIN-SUFFIX,mastodon.host
 DOMAIN-SUFFIX,mastodon.online
@@ -4210,6 +4217,7 @@ DOMAIN-SUFFIX,newthuhole.com
 DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,newyorktimes.com
 DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nextapple.com
 DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,nextgenerationcenter.com
 DOMAIN-SUFFIX,nextjs.org
@@ -4855,6 +4863,7 @@ DOMAIN-SUFFIX,puffstore.com
 DOMAIN-SUFFIX,pugpig.com
 DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pullfolio.com
+DOMAIN-SUFFIX,pulsehknews.com
 DOMAIN-SUFFIX,punyu.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pureapk.com
@@ -5262,6 +5271,7 @@ DOMAIN-SUFFIX,shahit.biz
 DOMAIN-SUFFIX,shambalapost.com
 DOMAIN-SUFFIX,shambhalasun.com
 DOMAIN-SUFFIX,shangfang.org
+DOMAIN-SUFFIX,shanghainationalparty.com
 DOMAIN-SUFFIX,shapeservices.com
 DOMAIN-SUFFIX,share-videos.se
 DOMAIN-SUFFIX,sharebee.com
@@ -5476,6 +5486,7 @@ DOMAIN-SUFFIX,sou-tong.org
 DOMAIN-SUFFIX,soubory.com
 DOMAIN-SUFFIX,soul-plus.net
 DOMAIN-SUFFIX,soulcaliburhentai.net
+DOMAIN-SUFFIX,soulogic.com
 DOMAIN-SUFFIX,soumo.info
 DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,soundon.fm
@@ -5824,6 +5835,7 @@ DOMAIN-SUFFIX,thebodyshop-usa.com
 DOMAIN-SUFFIX,thechinabeat.org
 DOMAIN-SUFFIX,thechinacollection.org
 DOMAIN-SUFFIX,thechinastory.org
+DOMAIN-SUFFIX,thecollectivehk.com
 DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,thedalailamamovie.com
 DOMAIN-SUFFIX,thediplomat.com
@@ -5844,6 +5856,7 @@ DOMAIN-SUFFIX,theintercept.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thenewslens.com
 DOMAIN-SUFFIX,thenewstack.io
+DOMAIN-SUFFIX,theonlinecitizen.com
 DOMAIN-SUFFIX,thepiratebay.ee
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,theporndude.com
@@ -5855,6 +5868,7 @@ DOMAIN-SUFFIX,thesaurus.com
 DOMAIN-SUFFIX,thesffblog.com
 DOMAIN-SUFFIX,thespeeder.com
 DOMAIN-SUFFIX,thestandnews.com
+DOMAIN-SUFFIX,thestar.com
 DOMAIN-SUFFIX,thetatoken.org
 DOMAIN-SUFFIX,thetibetcenter.org
 DOMAIN-SUFFIX,thetibetconnection.org
@@ -5868,6 +5882,7 @@ DOMAIN-SUFFIX,thevivekspot.com
 DOMAIN-SUFFIX,theweek.com
 DOMAIN-SUFFIX,thewgo.org
 DOMAIN-SUFFIX,thewirechina.com
+DOMAIN-SUFFIX,thewitnesshk.com
 DOMAIN-SUFFIX,theync.com
 DOMAIN-SUFFIX,thingiverse.com
 DOMAIN-SUFFIX,thinkboxsoftware.com
@@ -6807,6 +6822,7 @@ DOMAIN-SUFFIX,wo.tc
 DOMAIN-SUFFIX,woeser.com
 DOMAIN-SUFFIX,wokar.org
 DOMAIN-SUFFIX,wolfax.com
+DOMAIN-SUFFIX,womany.net
 DOMAIN-SUFFIX,wombo.ai
 DOMAIN-SUFFIX,woolyss.com
 DOMAIN-SUFFIX,woopie.tv

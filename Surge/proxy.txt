@@ -62,3 +62,8 @@ DOMAIN-SUFFIX,cleanip.io // Added for: stats.cleanip.io:443
 DOMAIN-SUFFIX,bandwagonhost.com // Added for: bandwagonhost.com:443
 DOMAIN-SUFFIX,yang-1989.xyz // Added for: iptv.yang-1989.xyz:443
 DOMAIN-SUFFIX,uptodown.com // Added for: dw.uptodown.com:443
+DOMAIN,rdap.arin.net // Added for: rdap.arin.net:443
+DOMAIN,iptv.445569.xyz // Added for: iptv.445569.xyz:443
+DOMAIN,live.fanmingming.com // Added for: live.fanmingming.com:443
+DOMAIN-SUFFIX,hostloc.com // Added for: hostloc.com:443
+DOMAIN-SUFFIX,hostloc.net // Added for: www.hostloc.net:443

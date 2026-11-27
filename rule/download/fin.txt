@@ -1,4 +1,4 @@
-# Main total line 1970 
+# Main total line 1965 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -146,7 +146,6 @@ DOMAIN,cpan.ip-connect.vn.ua
 DOMAIN,cpan.lagoon.nc
 DOMAIN,cpan.lnx.sk
 DOMAIN,cpan.metacpan.org
-DOMAIN,cpan.mines-albi.fr
 DOMAIN,cpan.mmgdesigns.com.ar
 DOMAIN,cpan.pair.com
 DOMAIN,cpan.pesat.net.id
@@ -496,7 +495,6 @@ DOMAIN,ftp.kddilabs.jp
 DOMAIN,ftp.kddlabs.co.jp
 DOMAIN,ftp.klid.dk
 DOMAIN,ftp.kr.freebsd.org
-DOMAIN,ftp.ktug.org
 DOMAIN,ftp.lanet.kr
 DOMAIN,ftp.leg.uct.ac.za
 DOMAIN,ftp.linux.cz
@@ -870,7 +868,6 @@ DOMAIN,mirror.lc
 DOMAIN,mirror.lchost.net
 DOMAIN,mirror.leitecastro.com
 DOMAIN,mirror.level66.network
-DOMAIN,mirror.library.ucy.ac.cy
 DOMAIN,mirror.limda.net
 DOMAIN,mirror.linkdata.com
 DOMAIN,mirror.linux-ia64.org
@@ -901,7 +898,6 @@ DOMAIN,mirror.nbtelecom.com.br
 DOMAIN,mirror.neftm.ru
 DOMAIN,mirror.neolabs.kz
 DOMAIN,mirror.netcologne.de
-DOMAIN,mirror.netcologne.de.org
 DOMAIN,mirror.netone.nl
 DOMAIN,mirror.netsite.dk
 DOMAIN,mirror.netspace.net.au
@@ -982,7 +978,6 @@ DOMAIN,mirror.team-host.ru
 DOMAIN,mirror.techlabs.co.kr
 DOMAIN,mirror.tejas101k.workers.dev
 DOMAIN,mirror.telepoint.bg
-DOMAIN,mirror.thunderhosting.cloud
 DOMAIN,mirror.timeweb.ru
 DOMAIN,mirror.tngnet.com
 DOMAIN,mirror.tochlab.net

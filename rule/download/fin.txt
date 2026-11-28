@@ -1,4 +1,4 @@
-# Main total line 1965 
+# Main total line 1969 
 # ------------------------------------------
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,addins.deepl.com
@@ -42,6 +42,7 @@ DOMAIN,apache.uvigo.es
 DOMAIN,apache.website-solution.net
 DOMAIN,api-updates.orbstack.dev
 DOMAIN,app-updates.agilebits.com
+DOMAIN,apt.armbian.com
 DOMAIN,apt.izzysoft.de
 DOMAIN,apt.tetaneutral.net
 DOMAIN,apt.xpipe.io
@@ -63,6 +64,7 @@ DOMAIN,aus5.mozilla.org
 DOMAIN,autoupdate.termius.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,b2.mcarchive.net
+DOMAIN,beta.armbian.com
 DOMAIN,bigfiles.virustotal.com
 DOMAIN,binaries.prisma.sh
 DOMAIN,blizzard.gcdn.cloudn.co.kr
@@ -605,6 +607,7 @@ DOMAIN,gimp.astra.in.ua
 DOMAIN,gimp.ca
 DOMAIN,gimp.ip-connect.info
 DOMAIN,gimp.ip-connect.vn.ua
+DOMAIN,github.armbian.com
 DOMAIN,glua.ua.pt
 DOMAIN,gnu.askapache.com
 DOMAIN,gnu.c3sl.ufpr.br
@@ -1947,6 +1950,7 @@ DOMAIN-SUFFIX,s3.us-west-002.backblazeb2.com
 DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3.yandex.net
+DOMAIN-SUFFIX,sbcmirror.org
 DOMAIN-SUFFIX,software-download.microsoft.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,swupdate.chaos.com

@@ -1,6 +1,7 @@
-# Main total line 380 
+# Main total line 382 
 # ------------------------------------------
 DOMAIN,enrichgw.10010.com
+DOMAIN,gstore.val.manlaxy.com
 DOMAIN,nishub1.10010.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,126.com
@@ -151,6 +152,7 @@ DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,fqnovel.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,fqnovelstatic.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,ghxi.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,go2map.com

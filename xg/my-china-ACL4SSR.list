@@ -348,9 +348,11 @@ DOMAIN-SUFFIX,v-56.com
 # Sony
 
 # SteamCN
+DOMAIN,gstore.val.manlaxy.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
